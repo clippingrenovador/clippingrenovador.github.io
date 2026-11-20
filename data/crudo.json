@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-20T00:55-03:00",
- "total": 119,
- "nuevas_ultima_corrida": 10,
+ "generado": "2026-11-20T01:03-03:00",
+ "total": 120,
+ "nuevas_ultima_corrida": 1,
  "errores": [],
  "notas": [
   {
@@ -14,7 +14,8 @@
    "busquedas": [
     "\"Cecilia Moreau\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "b559f17df80d",
@@ -26,7 +27,8 @@
    "busquedas": [
     "\"Cecilia Moreau\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "c03b6a5adcc9",
@@ -38,7 +40,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://patagonia24.com.ar/contenido/22499/rumbo-al-2027-el-frente-renovador-confirmo-su-alianza-con-el-mpf",
+   "revisada": true
   },
   {
    "id": "74ee92c0d097",
@@ -50,7 +54,23 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.lanacion.com.ar/opinion/paso-del-oficialismo-hacia-lo-desconocido-nid20112026/",
+   "revisada": true
+  },
+  {
+   "id": "f0b73d3c8fb9",
+   "titulo": "“Massa fue, es y será el candidato de la Embajada”",
+   "medio": "Diario Hoy En la noticia",
+   "medio_url": "https://diariohoy.net",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTBKMlM3ZWNvMnZuVGV6VDFuZVJ2enZFV2pFTDJTLUJOM2RFaUZ3ZWN1OGtSdmVpYW4yVGlUanVQYmlyaXNSb29zblpOaVlMZnYxTmxnMmRpUmdkMWluTHlkR1pNdGEtY2FhMXNySWhJTm44ckJYdWZGblpVbHZMaE5WYklmZnlwOU1JWEU4ei1jazjSAZMBQVVfeXFMT1UwSjJTN2VjbzJ2blRlelQxbmVSdnp2RVdqRUwyUy1CTjNkRWlGd2VjdThrUnZlaWFuMlRpVGp1UGJpcmlzUm9vc25aTmlZTGZ2MU5sZzJkaVJnZDFpbkx5ZEdaTXRhLWNhYTFzckloSU5uOHJCWHVmRm5aVWx2TGhOVmJJZmZ5cDlNSVhFOHotY2s4?oc=5",
+   "fecha": "2026-11-20T00:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T01:00-03:00",
+   "url_original": "https://diariohoy.net/politica/massa-fue-es-y-sera-el-candidato-de-la-embajada-290398/amp",
+   "revisada": true
   },
   {
    "id": "7ccd5be83dc0",
@@ -63,7 +83,9 @@
     "\"Sergio Massa\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/opinion/revistanoticias/malena-galmarini-cruzo-a-luis-toto-caputo-por-mofarse-de-la-juntada-massista/",
+   "revisada": true
   },
   {
    "id": "1742bcade09a",
@@ -74,9 +96,11 @@
    "fecha": "2026-11-19T22:52-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Malena Galmarini\""
+    "\"Malena Galmarini\"",
+    "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "revisada": true
   },
   {
    "id": "230e2e477d38",
@@ -88,7 +112,8 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "a5b79f219a10",
@@ -101,7 +126,8 @@
     "\"Guillermo Michel\"",
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "0851b0e47330",
@@ -113,7 +139,8 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "80740ad6b0cb",
@@ -125,7 +152,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/milei-y-macri-el-triunfo-de-las-debilidades-nid19112026/",
+   "revisada": true
   },
   {
    "id": "75f49283ed7b",
@@ -137,7 +166,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://portal.ejes.com/noticias/agenda/panorama-noche-19911",
+   "revisada": true
   },
   {
    "id": "16401c58d818",
@@ -149,7 +180,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.lapoliticaonline.com/amp/362495-bullrich-acordo-con-el-peronismo-para-mandar-dos-senadores-de-cristina-a-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "ac5a556b9c95",
@@ -162,7 +195,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://nuevodiariodesalta.com.ar/despues-de-san-fernando-el-peronismo-se-ordena-en-dos-caminos-massa-por-un-lado-kicillof-por-el-otro/",
+   "revisada": true
   },
   {
    "id": "57b9c93e7d6e",
@@ -174,7 +209,8 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "ab00192983fb",
@@ -186,7 +222,8 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "57fbd70d76f7",
@@ -198,7 +235,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://norteonline.com.ar/congreso-pj-bonaerense-sabado-tension-san-fernando/?amp=1",
+   "revisada": true
   },
   {
    "id": "d02c92e0b112",
@@ -211,7 +250,9 @@
     "\"Sergio Massa\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://norteonline.com.ar/galmarini-cruzo-a-caputo-por-el-acto-de-massa-no-te-alteres-que-te-sube-el-riesgo-pais/",
+   "revisada": true
   },
   {
    "id": "4de08fa663d6",
@@ -223,7 +264,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/carlos-bianco-trabajo-todos-los-dias-que-axel-kicillof-sea-candidato-presidente-n5428373/amp",
+   "revisada": true
   },
   {
    "id": "5d32b3e83621",
@@ -235,7 +278,8 @@
    "busquedas": [
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "d83d308972c0",
@@ -247,7 +291,8 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "2ed80ad43c6c",
@@ -259,7 +304,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://periodicotribuna.com.ar/cristina-kirchner-sera-el-arbitro-de-la-contienda-del-peronismo/",
+   "revisada": true
   },
   {
    "id": "76cb6ca6dd60",
@@ -271,7 +318,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://noticiasargentinas.com/politica/consejo-de-la-magistratura--pese-al--deadline--de-la-justicia--diputados-sigue-sin-poder-definir-al-cuarto-consejero_a6aff500d09bc92d20f37c4cc",
+   "revisada": true
   },
   {
    "id": "78ef112c5d60",
@@ -283,7 +332,8 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "revisada": true
   },
   {
    "id": "c6c639cd0636",
@@ -295,7 +345,9 @@
    "busquedas": [
     "\"Javier Gastón\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.elcronista.ar/chascomus-sede-del-iii-congreso-de-salud-mental-comunitaria-dos-jornadas-de-intercambio-entre-especialistas-de-todo-el-pais",
+   "revisada": true
   },
   {
    "id": "1ac9f31da0dd",
@@ -307,7 +359,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://urgente24.com/dinero/axel-kicillof-prepara-un-ajuste-impositivo-el-ano-electoral-n637129/amp",
+   "revisada": true
   },
   {
    "id": "6fe25892c876",
@@ -319,7 +373,9 @@
    "busquedas": [
     "\"Javier Gastón\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://elfuertediario.com.ar/comenzo-en-chascomus-el-congreso-de-salud-mental-comunitaria/",
+   "revisada": true
   },
   {
    "id": "98ca3c093d87",
@@ -331,7 +387,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.quepensaschacabuco.com/entrada/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco-38113/",
+   "revisada": true
   },
   {
    "id": "7e06c1ec4970",
@@ -343,7 +401,9 @@
    "busquedas": [
     "\"Pablo Garate\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://cambio2000.com.ar/site/dirigentes-de-la-sexta-reclaman-por-el-destino-del-impuesto-a-los-combustibles-liquidos/",
+   "revisada": true
   },
   {
    "id": "4b4d052744e4",
@@ -355,7 +415,9 @@
    "busquedas": [
     "\"Javier Gastón\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://elfuertediario.com.ar/inauguraran-un-mural-dedicado-a-los-excombatientes-de-malvinas/",
+   "revisada": true
   },
   {
    "id": "241fa68afcbb",
@@ -367,7 +429,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://www.somosjujuy.com.ar/politica/milei-quedo-cuarto-una-encuesta-quienes-votaron-libertad-avanza-2023-n127461/amp",
+   "revisada": true
   },
   {
    "id": "e794e0132aab",
@@ -379,7 +443,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.chacabuquero.com.ar/2026/11/causo-buena-impresion-la-sede-de-la.html",
+   "revisada": true
   },
   {
    "id": "025f0dfa381f",
@@ -393,7 +459,9 @@
     "\"Frente Renovador\"",
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/luciano-di-napoli-busca-apoyos-buenos-aires-ser-candidato-la-pampa-n5428354",
+   "revisada": true
   },
   {
    "id": "1f383501fd31",
@@ -408,7 +476,8 @@
     "massismo",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "19f55830f26c",
@@ -422,7 +491,9 @@
     "\"Frente Renovador\"",
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.cfin.com.ar/politica/diego-giuliano-criticas-pullaro-deuda-santa-fe/",
+   "revisada": true
   },
   {
    "id": "47607e29b920",
@@ -435,7 +506,9 @@
     "\"Sergio Massa\"",
     "massismo"
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?n=2026_11_19&id=92738&id_tiponota=1",
+   "revisada": true
   },
   {
    "id": "c2e05bb62aa1",
@@ -447,7 +520,9 @@
    "busquedas": [
     "\"Pablo Garate\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603560/garate-el-municipio-pone-primero-la-seguridad-de-los-vecinos",
+   "revisada": true
   },
   {
    "id": "7ea11925cc60",
@@ -459,7 +534,9 @@
    "busquedas": [
     "\"Javier Gastón\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.diariodelaltoaragon.es/noticias/huesca/2026/11/19/los-candidatos-congreso-por-huesca-se-enfrentan-este-viernes-un-debate-electoral-aragon-tv-2070158.html",
+   "revisada": true
   },
   {
    "id": "ecd1fe780e1e",
@@ -471,7 +548,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52207",
+   "revisada": true
   },
   {
    "id": "51f87f25a27b",
@@ -483,7 +562,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://notiar.com.ar/index.php/politica/143675-la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa-por-pablo-de-leon",
+   "revisada": true
   },
   {
    "id": "db7b39a19726",
@@ -495,7 +576,9 @@
    "busquedas": [
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://provincianoticias.com.ar/nota/22951/malena-galmarini-cruzo-a-caputo-tras-burlarse-del-acto-peronista-el-miedo-no-es-zonzo/",
+   "revisada": true
   },
   {
    "id": "6172ab569f40",
@@ -508,7 +591,9 @@
     "\"Frente Renovador\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://diarioelnorte.com.ar/malena-galmarini-cruzo-luis-caputo-riesgo-pais/",
+   "revisada": true
   },
   {
    "id": "fb701d13b4d3",
@@ -520,7 +605,9 @@
    "busquedas": [
     "\"Katia Blanc\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://chacodiapordia.com/reconocimiento-legislativo-a-mujeres-emprendedoras-talento-creatividad-y-esfuerzo-que-construye-desarrollo/",
+   "revisada": true
   },
   {
    "id": "7ba5fb2f28af",
@@ -532,7 +619,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603561/mayra-mendoza-contra-caputo-un-martin-fierro-a-las-peores-declaraciones-deberian",
+   "revisada": true
   },
   {
    "id": "1bf0c3d95ee5",
@@ -546,7 +635,8 @@
     "\"Malena Galmarini\"",
     "\"Sebastián Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
   },
   {
    "id": "d1e551eac8d2",
@@ -558,7 +648,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://infomiba.com.ar/nota/59727/bianco-busco-desactivar-la-polemica-por-el-acto-de-massa-no-fue-contra-kicillof/",
+   "revisada": true
   },
   {
    "id": "90acf2c89934",
@@ -571,7 +663,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.eldiarioweb.com/2026/11/arcioni-fortalece-su-proyeccion-politica-de-cara-a-2027-con-un-frente-renovador-activo-en-chubut/",
+   "revisada": true
   },
   {
    "id": "a7bc7ab7b90a",
@@ -583,7 +677,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.noticiasurbanas.com.ar/los-limites-politicos-de-una-foto-y-por-que-ello-no-garantiza-una-mayoria-en-2027",
+   "revisada": true
   },
   {
    "id": "1b5d328e4d79",
@@ -596,7 +692,9 @@
     "\"Sergio Massa\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://informedigital.com.ar/malena-galmarini-cruzo-a-caputo-por-el-acto-de-massa-y-defendio-la-unidad-del-peronismo/",
+   "revisada": true
   },
   {
    "id": "0de036aa42ef",
@@ -608,7 +706,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.iprofesional.com/politica/469561-malena-galmarini-respondio-a-caputo-y-defendio-la-unidad-del-peronismo.amp",
+   "revisada": true
   },
   {
    "id": "9e96188b4be7",
@@ -620,7 +720,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://bvcnoticias.com.ar/2026/11/kicillof-responde-al-acto-del-pj-federal-con-otra-visita-a-una-provincia-no-peronista/",
+   "revisada": true
   },
   {
    "id": "6fa570147f48",
@@ -632,7 +734,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://provincianoticias.com.ar/nota/22946/sin-paso-se-ordena-la-interna-detras-de-massa-y-cristina-y-se-frenan-las-aspiraciones-de-kicillof/",
+   "revisada": true
   },
   {
    "id": "71bb29029c0c",
@@ -644,7 +748,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.perfil.com/modo-fontevecchia/el-vicegobernador-de-rio-negro-explica-su-participacion-en-el-encuentro-del-peronismo-en-san-fernando-aA30K0B0YujE",
+   "revisada": true
   },
   {
    "id": "20a4f915836b",
@@ -656,7 +762,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://www.ambito.com/politica/los-tres-escenarios-del-peronismo-paso-acuerdo-interna-abierta-o-listas-separadas-n6347070",
+   "revisada": true
   },
   {
    "id": "05ce83971ee0",
@@ -668,7 +776,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://informedigital.com.ar/contrarreloj-el-nuevo-consejo-de-la-magistratura-debe-empezar-a-funcionar-y-no-logra-completarse-hay-seis-bancas-en-disputa/",
+   "revisada": true
   },
   {
    "id": "a6795d3275c8",
@@ -681,7 +791,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/que-tiene-la-cabeza-natalia-la-sota-n5428349/amp",
+   "revisada": true
   },
   {
    "id": "e6b57d26f392",
@@ -693,7 +805,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://www.lasintesis.com.ar/2026/11/19/el-peronismo-se-organiza-y-crece-la-competencia-interna",
+   "revisada": true
   },
   {
    "id": "364ba983e672",
@@ -706,7 +820,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://infocronos.com.ar/nota/58947/junto-a-massa-la-liga-de-intendentes-participo-del-encuentro-en-san-fernando-y-pidio-construir-una-alternativa-federal/",
+   "revisada": true
   },
   {
    "id": "5f92bd89c305",
@@ -720,7 +836,9 @@
     "\"Frente Renovador\"",
     "\"Katia Blanc\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.diarionorte.com/336912-leiva-con-o-sin-primarias-vamos-a-volver-a-ser-gobierno",
+   "revisada": true
   },
   {
    "id": "3ceff38551ef",
@@ -732,7 +850,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://informatesalta.com.ar/politica/urtubey-llamo-a-construir-un-frente-nacional-opositor-para-enfrentar-a-milei-en-las-proximas-elecciones_a6aff0ab4cd25aee288387498?output=amp",
+   "revisada": true
   },
   {
    "id": "443d51637e4a",
@@ -745,7 +865,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.surenio.com.ar/alejandro-deanes-asumio-la-presidencia-del-frente-renovador/",
+   "revisada": true
   },
   {
    "id": "8599456433b1",
@@ -759,7 +881,9 @@
     "\"Frente Renovador\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://diputadosbsas.com.ar/galmarini-cruza-caputo-cumbre-pj-massa/",
+   "revisada": true
   },
   {
    "id": "f06ee6af5f83",
@@ -771,7 +895,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.junindigital.com/regionales/2026-11-19-7-21-0-golia-firmo-los-contratos-para-iniciar-la-construccion-de-30-viviendas-en-chacabuco",
+   "revisada": true
   },
   {
    "id": "2162f84905d4",
@@ -784,7 +910,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.rionegro.com.ar/politica/elecciones-2027-cerca-de-axel-kicillof-creen-que-sergio-massa-y-cristina-kirchner-lo-quieren-condicionado-4804560/",
+   "revisada": true
   },
   {
    "id": "a75ad649d7ba",
@@ -796,7 +924,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/el-peronismo-bonaerense-se-encamina-a-sostener-la-paso-aunque-se-suspendan-a-nivel-nacional/",
+   "revisada": true
   },
   {
    "id": "4ca389c9fc3e",
@@ -808,7 +938,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.infobae.com/politica/2026/11/19/jorge-asis-es-una-verguenza-que-el-gobierno-que-viene-contra-la-casta-necesite-cancelar-las-paso-para-subsistir/?outputType=amp-type",
+   "revisada": true
   },
   {
    "id": "4adc7dd9c47e",
@@ -820,7 +952,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.agencianova.com/nota.asp?n=2026_11_19&id=175497&id_tiponota=30",
+   "revisada": true
   },
   {
    "id": "aa6f518c22da",
@@ -833,7 +967,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://criticasur.com.ar/nota/58089/massa_reorganiza_su_frente_renovador_alejandro_deanes_asume_en_tierra_del_fuego/",
+   "revisada": true
   },
   {
    "id": "58a829765e79",
@@ -845,7 +981,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.hoymercedes.com.ar/principal/2026/11/19/dirigentes-mercedinos-del-frente-renovador-y-el-pj-participaron-de-un-encuentro-en-san-fernando/",
+   "revisada": true
   },
   {
    "id": "58a9b1a6e736",
@@ -858,7 +996,9 @@
     "\"Sergio Massa\"",
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/galmarini-cruzo-a-caputo-por-su-reaccion-al-evento-del-peronismo-organizado-por-massa-esta-bien-que-nid19112026/",
+   "revisada": true
   },
   {
    "id": "f5d2173ae289",
@@ -871,7 +1011,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/salta-juan-manuel-urtubey-se-anota-volver-la-gobernacion-la-mano-del-peronismo-n5428342/amp",
+   "revisada": true
   },
   {
    "id": "b1edde7c885b",
@@ -883,7 +1025,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://infocronos.com.ar/nota/58944/el-peronismo-la-ucr-y-sectores-del-pro-buscan-mantener-las-paso-en-la-provincia-buenos-aires/",
+   "revisada": true
   },
   {
    "id": "0b6e832d0f56",
@@ -895,7 +1039,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/streaming/lnmas/massa-lidero-una-cumbre-peronista-sin-la-presencia-de-kicillof-posible-candidato-en-2027/",
+   "revisada": true
   },
   {
    "id": "54de0857f2e0",
@@ -907,7 +1053,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/streaming/lnmas/cual-es-el-plan-del-peronismo-de-cara-a-las-elecciones-la-interna-massa-kicillof/",
+   "revisada": true
   },
   {
    "id": "00f950d162fa",
@@ -919,7 +1067,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603543/bugallo-contra-toty-flores-por-su-respaldo-a-espinoza-siento-asco-y-una-profunda",
+   "revisada": true
   },
   {
    "id": "a8313974ea8c",
@@ -931,7 +1081,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://chacabucoenred.com/chacabuco-realizo-una-jornada-de-capacitacion-sobre-discapacidad-derechos-y-normativa-vigente/",
+   "revisada": true
   },
   {
    "id": "93e659b2b125",
@@ -943,7 +1095,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:54-03:00"
+   "visto": "2026-11-20T00:54-03:00",
+   "url_original": "https://www.elobservador.com/perfil/924-edgar-mainhard",
+   "revisada": true
   },
   {
    "id": "fe7a121aac59",
@@ -955,7 +1109,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.nexofin.com/notas/1302795-las-relaciones-peligrosas-del-elegido-de-cristina-para-controlar-jueces-n-/",
+   "revisada": true
   },
   {
    "id": "77040d312431",
@@ -967,7 +1123,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "http://www.sietepuntasdigital.com/site/detail/20586-milei-reconocio-que-un-sector-de-la-poblacion-no-llega-a-fin-de-mes",
+   "revisada": true
   },
   {
    "id": "a3ac62e99032",
@@ -979,7 +1137,9 @@
    "busquedas": [
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T00:50-03:00"
+   "visto": "2026-11-20T00:50-03:00",
+   "url_original": "https://www.unosantafe.com.ar/politica/diego-giuliano-entrego-800-diplomas-la-escuela-oficios-mas-mil-personas-santa-fe-n10292623.html",
+   "revisada": true
   },
   {
    "id": "cf99573e6b81",

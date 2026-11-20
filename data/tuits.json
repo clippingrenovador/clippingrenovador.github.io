@@ -1,0 +1,107 @@
+{
+ "generado": "2026-11-20T01:01-03:00",
+ "total": 7,
+ "tuits": [
+  {
+   "id": "2123392418686828999",
+   "usuario": "MalenaGalmarini",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
+   "citado_en": [
+    {
+     "medio": "NorteOnline",
+     "titulo": "Galmarini cruzó a Caputo por el acto de Massa: “No te alteres que te sube el riesgo país”",
+     "nota_id": "d02c92e0b112"
+    },
+    {
+     "medio": "Provincia Noticias",
+     "titulo": "Malena Galmarini cruzó a Caputo tras burlarse del acto peronista: “El miedo no es zonzo”",
+     "nota_id": "db7b39a19726"
+    },
+    {
+     "medio": "Diputados Bonaerenses",
+     "titulo": "Galmarini cruzó a Caputo por su reacción a la cumbre del PJ: “El miedo no es zonzo”",
+     "nota_id": "8599456433b1"
+    }
+   ]
+  },
+  {
+   "id": "2122870221241217513",
+   "usuario": "sebalacunza",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/sebalacunza/status/2122870221241217513",
+   "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "Entró la balubi: Kicillof intenta disimular la herida que le causó el acto del massismo en territorio bonaerense",
+     "nota_id": "47607e29b920"
+    }
+   ]
+  },
+  {
+   "id": "2122841558051700967",
+   "usuario": "NoCiruNo",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/NoCiruNo/status/2122841558051700967",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "Los límites políticos de una foto, y por qué ello no garantiza una mayoría en 2027",
+     "nota_id": "a7bc7ab7b90a"
+    }
+   ]
+  },
+  {
+   "id": "2122861243283239200",
+   "usuario": "FedericoAchaval",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/FedericoAchaval/status/2122861243283239200",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
+     "nota_id": "364ba983e672"
+    }
+   ]
+  },
+  {
+   "id": "2122877894007333282",
+   "usuario": "fotermin",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/fotermin/status/2122877894007333282",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
+     "nota_id": "364ba983e672"
+    }
+   ]
+  },
+  {
+   "id": "2122860757658591600",
+   "usuario": "marielfmoreno1",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/marielfmoreno1/status/2122860757658591600",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
+     "nota_id": "364ba983e672"
+    }
+   ]
+  },
+  {
+   "id": "2122855707460730904",
+   "usuario": "nico_mantegazza",
+   "visto": "2026-11-20T01:01-03:00",
+   "url": "https://twitter.com/nico_mantegazza/status/2122855707460730904",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
+     "nota_id": "364ba983e672"
+    }
+   ]
+  }
+ ]
+}
