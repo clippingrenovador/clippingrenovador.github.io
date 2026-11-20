@@ -1,0 +1,47 @@
+{
+ "syndication_profile": {
+  "error": "HTTP Error 429: Too Many Requests"
+ },
+ "syndication_profile_cdn": {
+  "estado": 200,
+  "largo": 0,
+  "ids": [],
+  "muestra": ""
+ },
+ "nitter_net": {
+  "error": "HTTP Error 410: Gone"
+ },
+ "xcancel": {
+  "error": "HTTP Error 451: "
+ },
+ "nitter_poast": {
+  "error": "<urlopen error [Errno -5] No address associated with hostname>"
+ },
+ "nitter_privacyredirect": {
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "nitter_tiekoetter": {
+  "estado": 200,
+  "largo": 7678,
+  "ids": [],
+  "muestra": "<!doctype html><html lang=\"es\"><head><title>¡Asegurándonos de que no eres un robot!</title><link rel=\"stylesheet\" href=\"/.within.website/x/xess/xess.min.css?cachebuster=v1.28.3-0.20261106031446-f197f9a6235d\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta name=\"robots\" co"
+ },
+ "rsshub": {
+  "error": "HTTP Error 404: Not Found"
+ },
+ "twstalker": {
+  "error": "HTTP Error 403: Forbidden"
+ },
+ "bing_news": {
+  "estado": 200,
+  "largo": 1136,
+  "ids": [],
+  "muestra": "<?xml version=\"1.0\" encoding=\"utf-8\" ?><rss version=\"2.0\" xmlns:News=\"https://www.bing.com/news/search?q=%22SergioMassa%2Fstatus%22&amp;format=rss\"><channel><title>&quot;SergioMassa/status&quot; - BingNoticias</title><link>https://www.bing.com/news/search?q=%22SergioMassa%2Fstatus%22&amp;format=rss<"
+ },
+ "ddg": {
+  "estado": 202,
+  "largo": 15210,
+  "ids": [],
+  "muestra": "<!-- <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> -->\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <link rel=\"canonical\" href=\"https://duckduckgo.com/\">\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n    <meta name=\"v"
+ }
+}
