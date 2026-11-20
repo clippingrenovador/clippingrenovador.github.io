@@ -236,6 +236,7 @@ body[data-modo=semanal] .solo-diario{display:none}
 .copiar em{font-style:normal;font-size:13px;font-weight:700;color:#fff;background:var(--azul);border-radius:20px;padding:4px 10px;white-space:nowrap}
 .copiar.ok em{background:#1E8E5E}
 .copiar:hover{border-color:var(--azul)}
+.sigue{font-size:12px;font-weight:700;color:var(--tinta-2);border:1px solid var(--linea);border-radius:20px;padding:1px 8px}
 </style>
 </head>
 <body>
@@ -392,6 +393,10 @@ function pintarFiltros(){
   [].forEach.call($("filtros").querySelectorAll("button"),function(b){b.onclick=function(){filtroPersona=b.dataset.p||null;pintarFiltros();pintarTemas();};});
 }
 
+function sigue(t){
+  if(!t.desde_hora||!t.vigente_desde||!ED.generado||t.vigente_desde.slice(0,16)>=ED.generado.slice(0,16))return"";
+  return'<span class="sigue">De la edición de las '+esc(t.desde_hora)+' h</span>';
+}
 function pintarTemas(){
   var lista=(ED.temas||[]).filter(function(t){return!filtroPersona||(t.dirigentes||[]).indexOf(filtroPersona)>=0;});
   if(!lista.length){$("temas").innerHTML='<p class="vacio">No hay temas para este filtro en la edición.</p>';return;}
@@ -402,7 +407,7 @@ function pintarTemas(){
     var otrasHtml=otras.length?'<details class="otras"><summary>También lo publicaron '+otras.length+' medios más</summary><ul>'+otras.map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+logo(n.dominio)+esc(n.medio)+'</a></li>';}).join("")+'</ul></details>':"";
     var share="*"+t.titulo+"*\n"+(t.resumen||"")+"\n\n"+((t.principales||[])[0]?(t.principales[0].medio+": "+t.principales[0].url+"\n\n"):"")+"Clipping Renovador: "+SITIO;
     return'<article class="tema'+(i===0&&!filtroPersona?" destacado":"")+'" data-tono="'+esc(t.tono||"neutro")+'">'+
-      '<div class="tema-cabeza">'+rostros(t.dirigentes)+'<div class="tema-meta"><span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span></div></div>'+
+      '<div class="tema-cabeza">'+rostros(t.dirigentes)+'<div class="tema-meta">'+sigue(t)+'<span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span></div></div>'+
       '<h3>'+esc(t.titulo)+'</h3><p class="resumen">'+resaltar(t.resumen,t.dirigentes)+'</p>'+
       coberturaHtml(t,otras,max)+
 

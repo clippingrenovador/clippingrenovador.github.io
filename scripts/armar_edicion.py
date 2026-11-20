@@ -9,6 +9,7 @@ Uso: python3 scripts/armar_edicion.py            (edicion diaria)
      python3 scripts/armar_edicion.py --semanal  (Clipping Semanal: lee data/semanal/curaduria.json)
 """
 import json
+import re
 import sys
 import urllib.parse
 from datetime import datetime, timedelta, timezone
@@ -39,6 +40,56 @@ def segundos(duracion):
         return 0
 
 
+VIGENCIA_HORAS = 24
+TOPES = {"temas": 12, "redes": 12, "entrevistas": 8}
+
+
+def _clave(seccion, x):
+    if seccion == "temas":
+        return x.get("id") or " ".join(re.sub(r"[^a-z0-9 ]", " ", x.get("titulo", "").lower()).split())[:60]
+    return x.get("url") or x.get("youtube") or ""
+
+
+def edicion_anterior(nuevo_id):
+    """La ultima edicion publicada con otro id (si se rearma la misma edicion, se compara con la previa)."""
+    ix = DATOS / "ediciones" / "indice.json"
+    if not ix.exists():
+        return None
+    for e in json.loads(ix.read_text(encoding="utf-8")).get("ediciones", []):
+        if e["id"] != nuevo_id:
+            f = DATOS / "ediciones" / f"{e['id']}.json"
+            if f.exists():
+                return json.loads(f.read_text(encoding="utf-8"))
+    return None
+
+
+def continuidad(nuevo, anterior, ahora, retirar=()):
+    """Lo que el curador incluye queda vigente 24 h desde ahora. Lo de la edicion anterior que no se
+    repitio sigue publicado hasta cumplir 24 h desde la ultima vez que se sumo o actualizo."""
+    for seccion in ("temas", "redes", "entrevistas"):
+        previos = {_clave(seccion, x): x for x in (anterior or {}).get(seccion, [])}
+        urls_nuevas = set()
+        for x in nuevo[seccion]:
+            x["vigente_desde"] = ahora.isoformat(timespec="minutes")
+            x["desde_hora"] = nuevo.get("hora", "")
+            previo = previos.get(_clave(seccion, x))
+            x["sumado"] = (previo or {}).get("sumado") or x["vigente_desde"]
+            urls_nuevas.update(n["url"] for n in x.get("principales", []))
+        claves_nuevas = {_clave(seccion, x) for x in nuevo[seccion]}
+        arrastre = []
+        for k, x in previos.items():
+            if k in claves_nuevas or k in retirar or x.get("titulo") in retirar:
+                continue
+            if seccion == "temas" and urls_nuevas & {n["url"] for n in x.get("principales", [])}:
+                continue  # el mismo tema, reescrito con otro titulo
+            desde = datetime.fromisoformat(x.get("vigente_desde") or (anterior or {}).get("generado"))
+            if ahora - desde < timedelta(hours=VIGENCIA_HORAS):
+                x.pop("destacado", None)
+                arrastre.append(x)
+        arrastre.sort(key=lambda x: x.get("vigente_desde", ""), reverse=True)
+        nuevo[seccion] = (nuevo[seccion] + arrastre)[:TOPES[seccion]]
+
+
 def main():
     semanal = "--semanal" in sys.argv
     origen = DATOS / "semanal" / "curaduria.json" if semanal else DATOS / "curaduria.json"
@@ -64,7 +115,7 @@ def main():
         otras = [x for x in (nota(i) for i in t.get("otras", [])) if x]
         if not princ:
             continue
-        temas.append({"titulo": t["titulo"], "resumen": t.get("resumen", ""), "tono": t.get("tono", "neutro"),
+        temas.append({"id": t.get("id", ""), "titulo": t["titulo"], "resumen": t.get("resumen", ""), "tono": t.get("tono", "neutro"),
                       "dirigentes": t.get("dirigentes", []), "principales": princ,
                       "otras": [{"medio": o["medio"], "url": o["url"], "dominio": o["dominio"]} for o in otras],
                       "cantidad_notas": len(princ) + len(otras)})
@@ -111,6 +162,9 @@ def main():
         "entrevistas": entrevistas,
         "metricas": {"notas_analizadas": en_24h, "medios": len(medios), "temas": len(temas)},
     }
+    continuidad(edicion, edicion_anterior(edicion["id"]), ahora, set(cur.get("retirar", [])))
+    temas, redes, entrevistas = edicion["temas"], edicion["redes"], edicion["entrevistas"]
+    edicion["metricas"]["temas"] = len(temas)
     (DATOS / "ediciones").mkdir(exist_ok=True)
     texto = json.dumps(edicion, ensure_ascii=False, indent=1)
     (DATOS / "edicion.json").write_text(texto, encoding="utf-8")

@@ -20,6 +20,7 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 1. Tomar las notas de las **últimas 24 horas** (no solo las publicadas desde la edición anterior): cada edición tiene que poder leerse sola, como un diario completo del día. Lo nuevo desde la edición anterior va primero y actualiza los resúmenes; los temas importantes que siguen vigentes se mantienen. Sumar notas más viejas solo si el tema sigue vivo.
    - **Piso de contenido:** una edición nunca puede quedar más flaca que la anterior por falta de material nuevo. Mínimo 6 temas, 6 tuits y todas las entrevistas válidas de las últimas 48 h (si existen). Si a la madrugada hay poco nuevo, mantener los temas, tuits y entrevistas de la edición anterior que sigan vigentes, actualizando lo que haya cambiado.
    - Antes de guardar, comparar con `data/edicion.json` (la edición anterior): si la nueva tiene menos temas, tuits o entrevistas, revisar y completar.
+   - **Continuidad automática (24 h):** `scripts/armar_edicion.py` mantiene publicado todo tema, tuit o entrevista de la edición anterior hasta 24 h después de la última vez que se sumó o actualizó, aunque no lo repitas. Por eso: en `curaduria.json` poné solo lo nuevo y lo que se actualiza. Para actualizar un tema que sigue, repetilo con el mismo `"id"` que tiene en `data/edicion.json` (y resumen y notas al día); eso le renueva las 24 h. Si algo quedó desactualizado o fue desmentido, ponelo en `"retirar": ["<id del tema, título o url>"]` y sale antes.
 2. Descartar lo que no es sobre Massa, el Frente Renovador o sus dirigentes: notas que los nombran de pasada, homónimos, notas de otros países, necrológicas, portadas genéricas.
 3. Agrupar por tema. Si hay muchas notas de lo mismo, elegir 2 o 3 `principales`: el medio más reconocido o la nota con más información propia. El resto va en `otras` (solo se muestra el nombre del medio).
 4. Ordenar los temas de mayor a menor relevancia para la dirigencia. Entre 5 y 10 temas. Incluir también la cobertura crítica (tono `negativo`): el equipo necesita verla.
@@ -41,8 +42,9 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 {
   "hora": "14",
   "claves": ["...", "..."],
+  "retirar": [],
   "temas": [
-    {"titulo": "...", "resumen": "...", "tono": "positivo", "dirigentes": ["Sergio Massa"],
+    {"id": "<id-corto-del-tema, ej. san-fernando>", "titulo": "...", "resumen": "...", "tono": "positivo", "dirigentes": ["Sergio Massa"],
      "principales": ["<id nota>", "<id nota>"], "otras": ["<id nota>"]}
   ],
   "redes": [{"tuit_id": "<id>", "nota": "..."}],

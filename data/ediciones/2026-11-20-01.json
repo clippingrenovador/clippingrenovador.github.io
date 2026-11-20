@@ -1,6 +1,6 @@
 {
  "id": "2026-11-20-01",
- "generado": "2026-11-20T04:49-03:00",
+ "generado": "2026-11-20T04:58-03:00",
  "hora": "01",
  "claves": [
   "El encuentro de San Fernando ubicó a Sergio Massa en el centro de la reorganización del peronismo. El gobernador Kicillof respondió con una convocatoria a sus intendentes en La Plata.",
@@ -10,6 +10,7 @@
  ],
  "temas": [
   {
+   "id": "san-fernando-reordena-el",
    "titulo": "San Fernando reordena el peronismo: Massa toma la iniciativa y Kicillof responde",
    "resumen": "El encuentro que encabezó Massa por el Día de la Militancia sigue marcando la agenda. Los medios lo leen como una demostración de fuerza y el arranque de un armado propio rumbo a 2027. Desde La Plata, Kicillof convocó a sus intendentes y Carlos Bianco aclaró que el acto no fue en su contra.",
    "tono": "positivo",
@@ -146,9 +147,13 @@
      "dominio": "periodicotribuna.com.ar"
     }
    ],
-   "cantidad_notas": 24
+   "cantidad_notas": 24,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "malena-galmarini-le-respondio",
    "titulo": "Malena Galmarini le respondió a Caputo: “No te alteres que te sube el riesgo país”",
    "resumen": "Caputo se burló en redes del encuentro peronista de San Fernando y Malena Galmarini le contestó con su gestión económica como blanco. En la respuesta también defendió la unidad del peronismo para enfrentar a Milei.",
    "tono": "positivo",
@@ -220,9 +225,13 @@
      "dominio": "diputadosbsas.com.ar"
     }
    ],
-   "cantidad_notas": 11
+   "cantidad_notas": 11,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "sin-paso-la-interna",
    "titulo": "Sin PASO, la interna se ordenaría detrás de Massa y Cristina",
    "resumen": "Si el Gobierno suspende las primarias nacionales, varios análisis creen que el peronismo definiría su candidatura con Massa y Cristina Kirchner como árbitros, lo que frenaría las aspiraciones de Kicillof. En paralelo, el peronismo, la UCR y parte del PRO empujan para mantener las PASO en la provincia de Buenos Aires.",
    "tono": "mixto",
@@ -294,9 +303,13 @@
      "dominio": "diarionorte.com"
     }
    ],
-   "cantidad_notas": 11
+   "cantidad_notas": 11,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "el-frente-renovador-arma",
    "titulo": "El Frente Renovador arma estructura en las provincias",
    "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego, el FR quedó habilitado para competir en Chubut en 2027 y se anunció una alianza en la Patagonia. En Córdoba, Massa respalda a Natalia de la Sota y presiona a Llaryora para que negocie con el PJ.",
    "tono": "positivo",
@@ -354,9 +367,13 @@
      "dominio": "letrap.com.ar"
     }
    ],
-   "cantidad_notas": 8
+   "cantidad_notas": 8,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "guillermo-michel-se-suma",
    "titulo": "Guillermo Michel se suma al Consejo de la Magistratura",
    "resumen": "El acuerdo entre Cristina Kirchner y Sergio Massa ubicó a Guillermo Michel en uno de los lugares que corresponden a la Cámara de Diputados en el nuevo Consejo de la Magistratura. El organismo todavía no logra completarse por las diferencias entre bloques.",
    "tono": "positivo",
@@ -396,9 +413,13 @@
      "dominio": "lavoz.com.ar"
     }
    ],
-   "cantidad_notas": 5
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "gestion-universidad-en-san",
    "titulo": "Gestión: universidad en San Fernando, viviendas en Chacabuco y oficios en Santa Fe",
    "resumen": "Juan Andreotti recorrió el inicio de la obra de la Universidad Nacional del Delta. Darío Golía firmó los contratos para construir 30 viviendas en Chacabuco. Diego Giuliano entregó 800 diplomas de la escuela de oficios y cuestionó el endeudamiento del gobierno santafesino.",
    "tono": "positivo",
@@ -463,9 +484,13 @@
      "dominio": "cfin.com.ar"
     }
    ],
-   "cantidad_notas": 9
+   "cantidad_notas": 9,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "la-cgt-entre-la",
    "titulo": "La CGT, entre la foto con Massa y la búsqueda de otro candidato",
    "resumen": "Hay dos lecturas sobre la central obrera: la foto del Día de la Militancia con Massa y La Cámpora, sin Kicillof, y la versión de que parte de la cúpula sindical retacea su apoyo a Massa y busca otro nombre para 2027.",
    "tono": "mixto",
@@ -500,9 +525,13 @@
      "dominio": "agenciacomunas.com.ar"
     }
    ],
-   "cantidad_notas": 4
+   "cantidad_notas": 4,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "las-criticas-del-dia",
    "titulo": "Las críticas del día",
    "resumen": "Dos notas de opinión cuestionan a Massa: una lo presenta como el candidato de la Embajada y otra habla de viejas recetas en su regreso junto a Urtubey.",
    "tono": "negativo",
@@ -526,9 +555,13 @@
     }
    ],
    "otras": [],
-   "cantidad_notas": 2
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
+   "id": "cecilia-moreau-va-a",
    "titulo": "Cecilia Moreau: “Va a haber mecanismos democráticos para definir el candidato”",
    "resumen": "La diputada sostuvo que el peronismo tendrá reglas claras para elegir a su candidato presidencial y habló del tema también en C5N.",
    "tono": "neutro",
@@ -545,59 +578,92 @@
     }
    ],
    "otras": [],
-   "cantidad_notas": 1
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   }
  ],
  "redes": [
   {
    "url": "https://x.com/SergioMassa/status/2123517703826612429",
    "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
    "autor": "@MalenaGalmarini",
-   "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."
+   "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
    "autor": "@ceciliamoreauok",
-   "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido."
+   "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
    "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO."
+   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/FrenteRenovador/status/2123099256861151520",
    "autor": "@FrenteRenovador",
-   "nota": ""
+   "nota": "",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/MichelGuilleOK/status/2122866262552269236",
    "autor": "@MichelGuilleOK",
-   "nota": ""
+   "nota": "",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/SebasGalmarini/status/2123041725526528298",
    "autor": "@SebasGalmarini",
-   "nota": "El encuentro de San Fernando por el Día de la Militancia."
+   "nota": "El encuentro de San Fernando por el Día de la Militancia.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/felipemromeroo/status/2123593380718330190",
    "autor": "@felipemromeroo",
-   "nota": ""
+   "nota": "",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://x.com/DiegoGiuliano/status/2123234459994783780",
    "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano respondió al ministro de Economía por la marcha peronista."
+   "nota": "Diego Giuliano respondió al ministro de Economía por la marcha peronista.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "url": "https://twitter.com/FedericoAchaval/status/2122861243283239200",
    "autor": "@FedericoAchaval",
-   "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias."
+   "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   }
  ],
  "entrevistas": [
@@ -607,7 +673,10 @@
    "canal": "C5N",
    "fecha_txt": "hace 3 h",
    "duracion": "11:58",
-   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8"
+   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "youtube": "Qex8w_pmieE",
@@ -615,7 +684,10 @@
    "canal": "Eduardo Battaglia",
    "fecha_txt": "hace 17 h",
    "duracion": "9:08",
-   "url": "https://www.youtube.com/watch?v=Qex8w_pmieE"
+   "url": "https://www.youtube.com/watch?v=Qex8w_pmieE",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "youtube": "n4F54sw9GJU",
@@ -623,7 +695,10 @@
    "canal": "Huarpe TV",
    "fecha_txt": "Transmitido hace 13 h",
    "duracion": "1:00:07",
-   "url": "https://www.youtube.com/watch?v=n4F54sw9GJU"
+   "url": "https://www.youtube.com/watch?v=n4F54sw9GJU",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
   }
  ],
  "metricas": {
