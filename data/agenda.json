@@ -1,16 +1,18 @@
 {
- "actualizado": "2026-11-20T02:10-03:00",
+ "actualizado": "2026-11-20T02:52-03:00",
  "eventos": [
   {
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-25",
    "hora": "",
-   "titulo": "Congreso del PJ bonaerense",
-   "detalle": "El partido reúne a su Congreso tras el encuentro de San Fernando.",
-   "lugar": "Provincia de Buenos Aires",
-   "dirigentes": [],
+   "titulo": "Sergio Massa visita Misiones",
+   "detalle": "Reunión con el gobernador Hugo Passalacqua y encuentro con sectores productivos de la provincia.",
+   "lugar": "Misiones",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
    "fuente": {
-    "medio": "NorteOnline",
-    "url": "https://norteonline.com.ar/congreso-pj-bonaerense-sabado-tension-san-fernando/?amp=1"
+    "medio": "Enfoque Misiones",
+    "url": "https://enfoquemisiones.com/sergio-massa-llegara-a-misiones-el-25-de-noviembre-y-se-reunira-con-passalacqua-y-sectores-productivos/"
    }
   }
  ]

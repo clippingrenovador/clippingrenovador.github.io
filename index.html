@@ -268,7 +268,7 @@ body[data-modo=semanal] .franja{background:linear-gradient(90deg,var(--celeste),
       <div class="encuestas" id="encuestas"></div>
     </section>
     <section class="panel" id="p-agenda" role="tabpanel" aria-labelledby="b-agenda" hidden>
-      <p class="aviso">Actos, sesiones, congresos y entrevistas anunciados para los próximos días.</p>
+      <p class="aviso">Actividades del Frente Renovador y sus dirigentes anunciadas para los próximos días.</p>
       <ol class="agenda" id="agenda"></ol>
     </section>
     <section class="panel" id="p-cable" role="tabpanel" aria-labelledby="b-cable" hidden>
@@ -439,7 +439,7 @@ function pintarEncuestas(data){
 function pintarAgenda(data){
   var hoy=new Date();hoy.setHours(0,0,0,0);
   var l=(data.eventos||[]).filter(function(e){return new Date(e.fecha+"T23:59:00")>=hoy;}).sort(function(a,b){return a.fecha>b.fecha?1:-1;});
-  if(!l.length){$("agenda").innerHTML='<li class="vacio" style="display:block">No hay actividades anunciadas por ahora.</li>';return;}
+  if(!l.length){$("agenda").innerHTML='<li class="vacio" style="display:block">No hay actividades del Frente Renovador anunciadas por ahora.</li>';return;}
   var CORTOS=["dom","lun","mar","mié","jue","vie","sáb"];
   $("agenda").innerHTML=l.map(function(e){var d=new Date(e.fecha+"T12:00:00");
     return'<li><div class="dia"><span>'+CORTOS[d.getDay()]+'</span><b>'+d.getDate()+'</b><span>'+MESES[d.getMonth()].slice(0,3)+'</span></div><div>'+
