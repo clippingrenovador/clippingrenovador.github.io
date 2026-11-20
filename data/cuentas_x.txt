@@ -1,0 +1,8 @@
+# Cuentas de X que se revisan antes de cada edición (una por línea, sin @).
+# Para sumar una cuenta, agregala acá.
+SergioMassa
+FrenteRenovador
+MalenaGalmarini
+CeciliaMoreau
+DiegoGiuliano
+andreottijuan
