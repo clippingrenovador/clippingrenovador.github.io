@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-20T09:15-03:00",
- "total": 37,
+ "generado": "2026-11-20T10:37-03:00",
+ "total": 39,
  "tuits": [
+  {
+   "id": "2122845649448149356",
+   "usuario": "AlexisGuerrera",
+   "visto": "2026-11-20T10:37-03:00",
+   "url": "https://twitter.com/AlexisGuerrera/status/2122845649448149356",
+   "citado_en": [
+    {
+     "medio": "Todo Provincial",
+     "titulo": "Cecilia Moreau llamó a la unidad del peronismo rumbo a 2027 y cuestionó el proyecto de Presupuesto",
+     "nota_id": "efa31e7b432b"
+    }
+   ]
+  },
+  {
+   "id": "2123414392616161456",
+   "usuario": "0223comar",
+   "visto": "2026-11-20T10:37-03:00",
+   "url": "https://twitter.com/0223comar/status/2123414392616161456",
+   "citado_en": [
+    {
+     "medio": "0223.com.ar",
+     "titulo": "Cecilia Moreau descartó la interna: \"Con Paso o sin Paso el peronismo va a ir unido\"",
+     "nota_id": "6fb3218f269c"
+    }
+   ]
+  },
   {
    "id": "2111541061491347645",
    "usuario": "vtolosapaz",

@@ -1,11 +1,143 @@
 {
- "generado": "2026-11-20T09:17-03:00",
- "total": 440,
- "nuevas_ultima_corrida": 21,
+ "generado": "2026-11-20T10:38-03:00",
+ "total": 451,
+ "nuevas_ultima_corrida": 20,
  "errores": [
-  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+  "\"Feli Romero\": HTTP Error 429: Too Many Requests"
  ],
  "notas": [
+  {
+   "id": "c06fdffe801d",
+   "titulo": "Sofía Vannelli: “La economía tiene que estar al servicio de la gente y no al revés”",
+   "medio": "Alternativa en Papel",
+   "medio_url": "https://alternativaenpapel.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzE3Qkx3bXU2TTczcW9hTXRJT2VRSnlGNEJvZ1JVSk4tREhzWFBKclhQX3AzemxQcDdEb0o3RC1NY3QyYkU1S2NKamtYejI3aVo1Y3RDQnR2eVJKSjJieFlJdkI0UVl1anZMUWNKa25YcjQ4b0JNZmJnTDhUdnVFandwQmZuaFNVeG9DeTlQTUY4LVBJeVQxcjBacU5ZUTB3WHdSWENZcGVQdTEycklVbzVlQUJ3dGFkYktvZFdrWlV4aUxr?oc=5",
+   "fecha": "2026-11-20T10:22-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://alternativaenpapel.com.ar/2026/11/20/sofia-vannelli-la-economia-tiene-que-estar-al-servicio-de-la-gente-y-no-al-reves/",
+   "revisada": true
+  },
+  {
+   "id": "efa31e7b432b",
+   "titulo": "Cecilia Moreau llamó a la unidad del peronismo rumbo a 2027 y cuestionó el proyecto de Presupuesto",
+   "medio": "Todo Provincial",
+   "medio_url": "https://www.todoprovincial.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWg4Z0ZLcmNaUW94MVozbGdQZHZ5NkpVcjFxSUt4d09HX0FwdEJRd2NibVFyUlZ5MnJPeXJrRzZobFZfUjYzR2p3R3Jnamh2N2g3Z3ZhVjNBc0pfTGZXSjNhN1djNFFDTHN2WldlYkUzS0hPNjhNd3hLTzBhT0RybjlYUV9rd0thWTBfb0p5NzhyRGNNMDdyQnFtTDFYNTBpQ2xWbFBlQkpDS1pDMkF4cGpuRUpqenlCZ3pCQ3ZuVGdDbElpRnFUeGhB?oc=5",
+   "fecha": "2026-11-20T10:12-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://www.todoprovincial.com/cecilia-moreau-llamo-a-la-unidad-del-peronismo-rumbo-a-2027-y-cuestiono-el-proyecto-de-presupuesto/",
+   "revisada": true
+  },
+  {
+   "id": "6fb3218f269c",
+   "titulo": "Cecilia Moreau descartó la interna: \"Con Paso o sin Paso el peronismo va a ir unido\"",
+   "medio": "0223.com.ar",
+   "medio_url": "http://www.0223.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbExNWHpTQXdCeTlINksxQzlFZzlHMmRDRUFsd3VXbVBaU0hheVZ0U0ZiWElDR0tscjB5eGdLd0JMbVA3ZkYwT0htZGtuamFXQ3FXZFdYMjc1M0diVXBMdmpkRVpBZlNscmVwczRUWmZUS0puSDgtM1BMaFVzbThaTGZGZHpMTXhLVmFIOWtpalBuZGtUVG5rdnlsRndJeG84d2ltOVowNDE3djlDdEpONmJONHpLeFB2bzVyVGRZOVV6Zk90SHc?oc=5",
+   "fecha": "2026-11-20T10:07-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "http://www.0223.com.ar/nota/2026-11-20-10-7-0-cecilia-moreau-descarto-la-interna-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido",
+   "revisada": true
+  },
+  {
+   "id": "0e7033f6fb55",
+   "titulo": "Cecilia Moreau: el peronismo irá unido para frenar a Milei",
+   "medio": "Diario El Norte - San Nicolás",
+   "medio_url": "https://diarioelnorte.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUlWeVhhc2kxcW9xeWxhSl9pQndROTNIYUlzaGotWkFYM1gzanNZUU1vSmxCOWxLdGhrVElSa0dWeS1qcmVMTHlIQ2Fwbk82MUFrdVpaUTBwYUQwaWQycHc3TUYzQ1o0YXB3WktYNUlpZmJBc01PNUNoQ0dxMWdKY19FdXljM2hBU1V1OE55aGY?oc=5",
+   "fecha": "2026-11-20T10:04-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://diarioelnorte.com.ar/cecilia-moreau-el-peronismo-ira-unido-para-frenar-a-milei/",
+   "revisada": true
+  },
+  {
+   "id": "6608001b7e5c",
+   "titulo": "Encuesta: Milei tiene 62 por ciento de imagen negativa y 31 de positiva",
+   "medio": "Revista Noticias",
+   "medio_url": "https://noticias.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0NYemRHR2YtbDhWNHNpWkhBU3BtcjM2MjVWbUxtZlVjT0NWSFBtVG51MnNkY3NJMmgwbmdlQVdMNHd5X3c4MWJwa2RRVmZtRGVuYlhWdjNZNjlTRk4yaWRfOHh2YzJyOFBCQzJFQk5xT0k5M0dBUlU3NVlySUVXQmlyWlBybEttOVpmMjR4TWRyRVg0X2Nia2dWeFZNSFlITGJSMTJJZW8zRUptU0tBcV9yT3M4WWppS2owaUZPY9IBxAFBVV95cUxQYmR4b1hOX1ROOUFJZUFRYWtFZEE5cEc0S0VvdGVqbERYNkt2RWxCNk9YdjluWkJzamRmbDVVM3ZIV3M5OC1GYmtyTkNXOFY2MGRQQTd6c1NRSTNCRlZLMUJacmFzUDNIa2l1cEdCMnRMSWNtNXBIN2VGcy1kUUI4WkJ6REJyZndZYldhalJDbTE2UDRtM2pYQVIxVFBoRW9IbWNoSENjRjFwbzZJYWxEZW5OTm15SXNuSHQzcWMzRk54VWZ1?oc=5",
+   "fecha": "2026-11-20T09:49-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T10:37-03:00",
+   "url_original": "https://noticias.perfil.com/noticias/politica/encuesta-milei-tiene-62-por-ciento-de-imagen-negativa-y-31-de-positiva.phtml",
+   "revisada": true
+  },
+  {
+   "id": "d60945912240",
+   "titulo": "Urio visitó a Guerrera para diagramar un plan de gestión municipal del FR en General Arenales",
+   "medio": "Cuarto Político",
+   "medio_url": "https://www.cuartopolitico.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEN5R043aU1hNDIxTXN2V2pTUVp2R0lnTFZxem5xbHphazlzRnBPQzFYeC1xdVlwNUdMcV91T1RiNnE4NHd1SDJsTXMxeDN0RFEwUmRXVHNlbG5YTHZsclpGTlg1WDRuVW5leG45T3paaU1Ga01zZWctMWtjcVN0SEJPZmlwU01jUk5mREp1d2pvSHp1X0NrUUVzUUVZNFhHajFLZUt0N2pSa2EyT3k1Yk1wZXNQOTIwVWJ5Zy1VTUxsd2Y4VlhWUHNzbndxOTlpdEd6RDVTVlE3R19hSG9FSg?oc=5",
+   "fecha": "2026-11-20T09:32-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://www.cuartopolitico.com/nota/2026-11-20-9-27-0-urio-visito-a-guerrera-para-diagramar-un-plan-de-gestion-municipal-del-fr-en-general-arenales",
+   "revisada": true
+  },
+  {
+   "id": "ced4bbfd43aa",
+   "titulo": "Tras el acto de Massa, Guerrera hizo un guiño a Kicillof",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IaThNc1IzcDZzN0V3Uk50djdocHF3WG1FeFFyanlyaHBrSW1YaWN3bmVYTE5kYjQtai1lOG5CaUpsNXNQeHZpNUg0czVfUExGUWZKb2dIcVVyVXMzdmkzbEFXaW1ybFJabVk5c2NrYkNibVBZekJ4V2t3?oc=5",
+   "fecha": "2026-11-20T09:18-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://diputadosbsas.com.ar/guerrera-intendentes-massa-acto-kicillof/",
+   "revisada": true
+  },
+  {
+   "id": "c0d46adcdf12",
+   "titulo": "Cecilia Moreau: \"Con PASO o sin PASO, el peronismo va a ir unido a la elección\"",
+   "medio": "Agencia Noticias Argentinas",
+   "medio_url": "https://noticiasargentinas.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0c3N0JxcjNNUENjYmdvWFZZOFZ0NVRDM2FyRE1RR1hoLWw2cnQxbVZDOEh3eElVVFMtSWZsRm9ha25teFNoek81a1Z0Ykl5QkYxcVd5SFI0SE1oSWRWVnZTVWs1aS1uT1huSmZLQ0o1NnVheEJSOGNzb2FlbERnTy1GS3NIY3NDakN0MWQzcXRwUlhoeXB2WkJOcU05bHVqenFNUkVROWlsdG4zRFR4WlVhMmlfalJ5bV90R3JHTzg4Q2hmbVpaLXdoblo3QzZ3ZUJmZVNzUWVxck5Lb3fSAewBQVVfeXFMTVdsNHo3QXV2VmNjWXpTdGdJMndzaFljZWtSS0wwWVhtY1BINGVoTDlxN1VhV1NXMGoxV2VQeHlOSUdncm90VmZoX3BxZUtyZ0RkREw4dXI5aXd3c2Vrb3VpRFUyXzIwdUhiY3FGWUFqaXpRVFVhdDFoNjJ6cGhxNTd2YS1Wbms4LWNUWl9QdkVyR3JBUkdyNEhyVVk5MGlhYmZSNkYxM2xvbWlsSnA0TmFrMDZJeTJDZ29FRXN1SURBU3FQRVFOOGdWU184VjlUWlNTcEtKbmgtdFZPelFQdVgyRHBFSW5EeHVWT2Q?oc=5",
+   "fecha": "2026-11-20T09:18-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\"",
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://noticiasargentinas.com/politica/cecilia-moreau---con-paso-o-sin-paso--el-peronismo-va-a-ir-unido-a-la-eleccion-_a6b003a42f48d6d3ab47af810",
+   "revisada": true
+  },
+  {
+   "id": "e1feda9da338",
+   "titulo": "\"Con PASO o sin PASO, el peronismo va a ir unido\": Cecilia Moreau llamó a construir un frente contra Milei",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeER5YnlTYVRiemtaVGVTbXNDNzVmd2lnNm5sSHgzMUx4NFBWaGlpaVNfcUVlbXlsUVJRRU1BWnpDUC1KYm1KOVh4V1ZVMFM0bGNRWUE3eUR1MzAwUGlha2NGaWhmVk50eWlaX1ZCOFVYNkxPcUpFaGFlUEt4MG9ER0dOa2huNE9jWEd2eHQ1cmR5Ti00Y1ZpWTh5a2lDMUcyNWlhcklhOWItNVFaTmdYQVZ6c0NJa19keDJJb1dSN0hHbHp2UC1OVFAtOUkxWmZoTUs4?oc=5",
+   "fecha": "2026-11-20T09:16-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/con-paso-o-sin-paso-el-peronismo-va-a-ir-unido-cecilia-moreau-llamo-a-construir-un-frente-contra-milei",
+   "revisada": true
+  },
   {
    "id": "0e072cb13b4f",
    "titulo": "Kicillof convoca a intendentes tras el acto de Massa",
@@ -18,6 +150,20 @@
    ],
    "visto": "2026-11-20T09:15-03:00",
    "url_original": "https://impactocastex.com.ar/politica/19375/kicillof-convoca-a-intendentes-tras-el-acto-de-massa",
+   "revisada": true
+  },
+  {
+   "id": "1f667aa40337",
+   "titulo": "PASO, ¡afuera!: el peronismo y el plan B de cara a las definiciones electorales",
+   "medio": "La Tecla",
+   "medio_url": "https://www.latecla.info",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYi1LQjgxNGVtNlVjbUJYVXo0ZEREU3Z4Y2ZIWHpFSGl5d0J0UmZYdTdHNGVvQnRxOUZod2NiYTlSWTQyTm8yOW5haHB6UGxIQkdPeDc3UjhncDBFS2U3cjNCdTBBREdnY2tLTnpURXJxYktRNE5qbWh6cDNmd0loYnM0dkFueGJaNWZCNk13WFVBb2pqeG8xX3FGWFh3ZzBVclJPWkQ4eFc2bEE?oc=5",
+   "fecha": "2026-11-20T08:54-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://www.latecla.info/171315-paso-afuera-el-peronismo-y-el-plan-b-de-cara-a-las-definiciones-electorales",
    "revisada": true
   },
   {
@@ -1229,6 +1375,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://diputadosbsas.com.ar/galmarini-cruza-caputo-cumbre-pj-massa/",
+   "revisada": true
+  },
+  {
+   "id": "5239fbdfc80a",
+   "titulo": "Bill Gates llegó a Ushuaia para pescar en una estancia cerca de Río Grande",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajB1ZzhRZEtpT3ZMYm9QdEstRGdUdVFUXzJ1TFJVY3RJcld1MjhEdGxxd3FBcVAtaG5XTkJHODFYeVIwYjdsbTNkMlZ3TUJJZFRrWXJLSEhHY1A2VW9xNlhrdmlhNmZBNmtYdXZBclIxb1JIaVRvR3Y4Y3htd1F1Z21RSy15X21ibDV0N09UVFJySEhISTkwSG5kYWRoTGVjSTRJd1gxVFNhckFiWjhjcFU3SEJodDNwWXNF?oc=5",
+   "fecha": "2026-11-19T11:30-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-20T10:36-03:00",
+   "url_original": "https://www.perfil.com/sociedad/bill-gates-llego-a-ushuaia-para-pescar-en-una-estancia-cerca-de-rio-grande-azJVC7M7khEm",
    "revisada": true
   },
   {
