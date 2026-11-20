@@ -229,6 +229,13 @@ body[data-modo=semanal] .solo-diario{display:none}
 @keyframes abre{to{transform:scaleX(1)}}
 @keyframes gira{from{transform:rotate(-180deg)}to{transform:rotate(0)}}
 @media (prefers-reduced-motion:reduce){#intro{display:none}.afiche .sol,.tema,.tarjeta{transition:none}}
+
+.copiar{display:inline-flex;align-items:center;gap:10px;margin-top:10px;border:1.5px solid var(--linea);background:var(--hoja);color:var(--tinta);border-radius:30px;padding:8px 8px 8px 14px;font:600 15px var(--sans);cursor:pointer;max-width:100%}
+.copiar svg{width:20px;height:20px;color:var(--azul);flex:none}
+.copiar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.copiar em{font-style:normal;font-size:13px;font-weight:700;color:#fff;background:var(--azul);border-radius:20px;padding:4px 10px;white-space:nowrap}
+.copiar.ok em{background:#1E8E5E}
+.copiar:hover{border-color:var(--azul)}
 </style>
 </head>
 <body>
@@ -311,6 +318,7 @@ body[data-modo=semanal] .solo-diario{display:none}
 <footer class="pie">
   <div class="envoltura">
         <p id="pie-act"></p>
+        <button type="button" class="copiar" id="copiar"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="M10 13.5a4.5 4.5 0 0 0 6.4.4l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2M14 10.5a4.5 4.5 0 0 0-6.4-.4l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span>clippingrenovador.github.io</span><em id="copiado">Copiar link</em></button>
   </div>
 </footer>
 
@@ -526,6 +534,20 @@ setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(
 })();
 /* En el celular, tocar el encabezado hace girar los soles */
 document.querySelector(".cabecera").addEventListener("click",function(e){if(e.target.closest("a"))return;var m=document.getElementById("marca");m.classList.add("girar");setTimeout(function(){m.classList.remove("girar");},1300);});
+
+/* Copiar el link del clipping */
+(function(){
+  var b=document.getElementById("copiar");if(!b)return;
+  var url=location.origin+"/"+(document.body.dataset.modo==="semanal"?"semanal.html":"");
+  b.querySelector("span").textContent=url.replace(/^https?:\/\//,"").replace(/\/$/,"");
+  function listo(){b.classList.add("ok");document.getElementById("copiado").textContent="¡Copiado!";
+    setTimeout(function(){b.classList.remove("ok");document.getElementById("copiado").textContent="Copiar link";},2200);}
+  b.addEventListener("click",function(){
+    if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(url).then(listo,viejo);}else{viejo();}
+    function viejo(){var t=document.createElement("textarea");t.value=url;t.setAttribute("readonly","");t.style.position="fixed";t.style.opacity="0";
+      document.body.appendChild(t);t.select();try{document.execCommand("copy");listo();}catch(e){}t.remove();}
+  });
+})();
 </script>
 </body>
 </html>
