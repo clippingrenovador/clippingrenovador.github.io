@@ -28,7 +28,7 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 10. **Encuestas** (`data/encuestas.json`): si en el material hay una encuesta nueva que mida a Massa, al FR o a sus dirigentes, agregarla. Para los números sí hay que abrir la nota (es la excepción a la regla de austeridad) y cargar solo cifras que figuren textualmente. Formato de cada entrada: `{"fecha": "AAAA-MM-DD", "consultora": "...", "alcance": "Nacional" o "Provincia de Buenos Aires", "titulo": "...", "datos": [{"etiqueta": "Imagen positiva de Sergio Massa", "valor": 25.9, "unidad": "%"}], "fuente": {"medio": "...", "url": "...", "dominio": "..."}}`. No duplicar encuestas ya cargadas.
 11. **Agenda** (`data/agenda.json`): agregar actividades futuras anunciadas en el material (actos, congresos, sesiones, entrevistas programadas) con `fecha`, `hora` (si se sabe), `titulo`, `detalle`, `lugar`, `dirigentes` y `fuente`. Borrar las que ya pasaron hace más de un día.
 12. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
-13. Guardar: `git add data && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
+13. Guardar: `git add data semanal.html && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
 
 ## Formato de data/curaduria.json
 
