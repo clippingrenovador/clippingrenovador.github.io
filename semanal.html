@@ -210,6 +210,25 @@ body[data-modo=semanal] .solo-diario{display:none}
   .bajada{font-size:13px}
   .claves{padding:20px 16px 4px}
 }
+
+/* Movimiento: soles que giran, tarjetas que responden y bienvenida del día */
+.afiche .sol{transform-box:fill-box;transform-origin:center;transition:transform 1.2s cubic-bezier(.2,.7,.2,1)}
+.cabecera:hover .afiche .sol,.afiche.girar .sol{transform:rotate(180deg)}
+.tema,.tarjeta,.encuesta,.resultado,.archivo a{transition:transform .25s ease,box-shadow .25s ease}
+@media (hover:hover){.tema:hover,.tarjeta:hover,.encuesta:hover,.resultado:hover,.archivo a:hover{transform:translateY(-3px);box-shadow:0 16px 30px -22px rgba(14,18,26,.6)}}
+#intro{position:fixed;inset:0;z-index:60;background:#0E121A url(cabecera.jpg) center/cover;display:grid;place-items:center;cursor:pointer;transition:transform .75s cubic-bezier(.75,0,.2,1)}
+#intro.fuera{transform:translateY(-102%)}
+#intro .caja{width:min(86vw,760px);font-size:0}
+#intro .hola{display:block;font:italic 400 clamp(20px,3.4vw,30px)/1.2 var(--serif);color:var(--crema);text-align:center;margin-bottom:clamp(14px,3vw,24px);opacity:0;transform:translateY(10px);animation:sube .5s .1s forwards}
+#intro .filete{transform:scaleX(0);animation:abre .55s .35s cubic-bezier(.2,.8,.2,1) forwards}
+#intro .filete:last-child{animation-delay:.45s}
+#intro svg{opacity:0;transform:translateY(14px);animation:sube .55s .6s forwards}
+#intro .sol{animation:gira 1.6s .6s cubic-bezier(.2,.7,.2,1) both}
+#intro .saltar{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:13px;color:rgba(244,240,228,.75);opacity:0;animation:sube .4s 1s forwards}
+@keyframes sube{to{opacity:1;transform:none}}
+@keyframes abre{to{transform:scaleX(1)}}
+@keyframes gira{from{transform:rotate(-180deg)}to{transform:rotate(0)}}
+@media (prefers-reduced-motion:reduce){#intro{display:none}.afiche .sol,.tema,.tarjeta{transition:none}}
 </style>
 </head>
 <body data-modo="semanal">
@@ -223,8 +242,8 @@ body[data-modo=semanal] .solo-diario{display:none}
       <span class="filete" aria-hidden="true"></span>
       <svg viewBox="0 0 1000 236" aria-hidden="true">
         <defs><g id="sol"><path d="M0.450 0.110L1.000 0.000L0.450 -0.110ZM0.406 0.223L0.753 0.202L0.463 0.010ZM0.335 0.320L0.866 0.500L0.445 0.130ZM0.240 0.396L0.552 0.552L0.396 0.240ZM0.130 0.445L0.500 0.866L0.320 0.335ZM0.010 0.463L0.202 0.753L0.223 0.406ZM-0.110 0.450L0.000 1.000L0.110 0.450ZM-0.223 0.406L-0.202 0.753L-0.010 0.463ZM-0.320 0.335L-0.500 0.866L-0.130 0.445ZM-0.396 0.240L-0.552 0.552L-0.240 0.396ZM-0.445 0.130L-0.866 0.500L-0.335 0.320ZM-0.463 0.010L-0.753 0.202L-0.406 0.223ZM-0.450 -0.110L-1.000 0.000L-0.450 0.110ZM-0.406 -0.223L-0.753 -0.202L-0.463 -0.010ZM-0.335 -0.320L-0.866 -0.500L-0.445 -0.130ZM-0.240 -0.396L-0.552 -0.552L-0.396 -0.240ZM-0.130 -0.445L-0.500 -0.866L-0.320 -0.335ZM-0.010 -0.463L-0.202 -0.753L-0.223 -0.406ZM0.110 -0.450L-0.000 -1.000L-0.110 -0.450ZM0.223 -0.406L0.202 -0.753L0.010 -0.463ZM0.320 -0.335L0.500 -0.866L0.130 -0.445ZM0.396 -0.240L0.552 -0.552L0.240 -0.396ZM0.445 -0.130L0.866 -0.500L0.335 -0.320ZM0.463 -0.010L0.753 -0.202L0.406 -0.223Z"/><circle r=".52"/></g></defs>
-        <use href="#sol" class="sol" transform="translate(46 58) scale(44)"/>
-        <use href="#sol" class="sol" transform="translate(954 58) scale(44)"/>
+        <g transform="translate(46 58) scale(44)"><use href="#sol" class="sol"/></g>
+        <g transform="translate(954 58) scale(44)"><use href="#sol" class="sol"/></g>
         <text id="linea1" x="500" y="102" text-anchor="middle" font-size="118">CLIPPING</text>
         <text x="0" y="230" font-size="118" textLength="1000" lengthAdjust="spacingAndGlyphs">RENOVADOR</text>
       </svg>
@@ -482,6 +501,31 @@ if(MODO==="semanal"){$("t-claves").textContent="Lo más importante de la semana"
 var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
 setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
 })();
+
+/* Bienvenida: una vez por día, se saltea con un toque */
+(function(){
+  if(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)return;
+  var hoy=new Date().toDateString(),visto=null;
+  try{visto=localStorage.getItem("cr-intro");}catch(e){}
+  if(visto===hoy)return;
+  try{localStorage.setItem("cr-intro",hoy);}catch(e){}
+  var marca=document.getElementById("marca");if(!marca)return;
+  var intro=document.createElement("div");intro.id="intro";intro.setAttribute("aria-hidden","true");
+  var semanal=document.body.dataset.modo==="semanal";
+  intro.innerHTML='<div class="caja"><span class="hola">'+(semanal?"Bienvenidos al resumen de la semana":"Bienvenidos")+'</span></div><span class="saltar">Tocá para entrar</span>';
+  var copia=marca.cloneNode(true);copia.removeAttribute("id");
+  copia.querySelectorAll("[id]").forEach(function(n){n.removeAttribute("id");});
+  intro.firstChild.appendChild(copia);
+  document.body.appendChild(intro);
+  var cerrado=false;
+  function cerrar(){if(cerrado)return;cerrado=true;intro.classList.add("fuera");setTimeout(function(){intro.remove();},800);
+    marca.classList.add("girar");setTimeout(function(){marca.classList.remove("girar");},1300);}
+  intro.addEventListener("click",cerrar);intro.addEventListener("touchstart",cerrar,{passive:true});
+  document.addEventListener("keydown",cerrar,{once:true});
+  setTimeout(cerrar,2300);
+})();
+/* En el celular, tocar el encabezado hace girar los soles */
+document.querySelector(".cabecera").addEventListener("click",function(e){if(e.target.closest("a"))return;var m=document.getElementById("marca");m.classList.add("girar");setTimeout(function(){m.classList.remove("girar");},1300);});
 </script>
 </body>
 </html>
