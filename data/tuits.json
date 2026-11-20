@@ -1,7 +1,51 @@
 {
- "generado": "2026-11-20T05:34-03:00",
- "total": 28,
+ "generado": "2026-11-20T07:26-03:00",
+ "total": 31,
  "tuits": [
+  {
+   "id": "2115080755277672710",
+   "usuario": "somoscorta",
+   "visto": "2026-11-20T07:26-03:00",
+   "url": "https://twitter.com/somoscorta/status/2115080755277672710",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Quién es Guillermo Michel: Cristina Kirchner lo elige para el Consejo de la Magistratura",
+     "nota_id": "c8d75fd4a6e6"
+    }
+   ]
+  },
+  {
+   "id": "2122045372134768989",
+   "usuario": "Letra_P",
+   "visto": "2026-11-20T07:26-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122045372134768989",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Consejo de la Magistratura: CFK apadrina a Guillermo Michel y pone a una camporista de suplente",
+     "nota_id": "d3c793e04355"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Consejo de la Magistratura: CFK apadrina a Guillermo Michel y pone a Lucía Cámpora de suplente",
+     "nota_id": "b972fead8965"
+    }
+   ]
+  },
+  {
+   "id": "2122286955886989706",
+   "usuario": "SebasGalmarini",
+   "visto": "2026-11-20T07:26-03:00",
+   "url": "https://twitter.com/SebasGalmarini/status/2122286955886989706",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Colectoras y eliminación de las PASO: Galmarini rechazó la estrategia electoral de Milei y anticipó que no va a ganar en 2027",
+     "nota_id": "31a499fab503"
+    }
+   ]
+  },
   {
    "id": "2122680845538312658",
    "usuario": "infobaenvivo",
