@@ -1,11 +1,125 @@
 {
- "generado": "2026-11-20T10:38-03:00",
- "total": 451,
- "nuevas_ultima_corrida": 20,
- "errores": [
-  "\"Feli Romero\": HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-20T12:18-03:00",
+ "total": 463,
+ "nuevas_ultima_corrida": 22,
+ "errores": [],
  "notas": [
+  {
+   "id": "86a4b9e9ae7b",
+   "titulo": "“Javier Milei”, “Sergio Massa”, “Axel Kicillof”y “Mauricio Macri” entonaron en el Pase la canción para las PASO: “Ya fuiste”",
+   "medio": "Radio Mitre",
+   "medio_url": "https://radiomitre.cienradios.com",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeG5ucl9JRHVGTWR4NU00VXpRRktyTHBBWUx4MTF3dnpyM25CaXpkM2FURXJ5azNfREFXZGNpMHdOLWY5bHd5LTBUOVp0MndmQk43M3VrTkpJaXJyUlY4a09ickl3TlgzTHg1OUdGOXZMMWsxQjBIUlhVUG53UThRcnJrRHhZYy1Ba3dXRk93MzFsRkE3a2gyYUJXR3FiX3lGb1hTZ3NDWHZuV3hhb1ZFaE9zNHg4UTR4RTNSM3htZEFsQlk1RDhOM25IUFAxZm01dl9Jc1R3QW15M0h2VzBWazZ3WG9EYWwx?oc=5",
+   "fecha": "2026-11-20T11:41-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://radiomitre.cienradios.com/videos/javier-milei-sergio-massa-axel-kicillofy-mauricio-macri-entonaron-en-el-pase-la-cancion-para-las-paso-ya-fuiste/",
+   "revisada": true
+  },
+  {
+   "id": "9a83780c4716",
+   "titulo": "Arnaldo \"Pepo\" Díaz en Urbana BA: \"Me alejé de La Libertad Avanza porque perdió el espíritu de cuando la fundamos\"",
+   "medio": "La Noticia Web",
+   "medio_url": "https://www.lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ2V2U3dvZ250aWZjT2ZvS0l3aXNoVVcyaGM3M1BneHJZTHJNd3VwaE9yRDNqbldDb2dXREpQV1plbXN4R3AzZXM0RGJfVGZ5dkM3MVFla3BTaHQyWXpqdnJXRWNRcXZCaV94Nk5PeTJPeWR4S3h0dXpKX1ZUdWo2elJtY3BJMUtDTkhyd2lkYTZaai1SOER2Sm15eWczaE1WT0NSSmEtVERjUmNKYkdSbjJXdlBWZDFweXZnbHU5R3BHTWJBNm1YUXcza0QwbGZ1RjVNV2tFUGI5UQ?oc=5",
+   "fecha": "2026-11-20T11:27-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/arnaldo-pepo-diaz-en-urbana-ba-me-aleje-de-la-libertad-avanza-porque-perdio-el-espiritu-de-cuando-la-fundamos/",
+   "revisada": true
+  },
+  {
+   "id": "7627192ce85c",
+   "titulo": "Arnaldo Pepo Díaz se alejó de La Libertad Avanza por perder su espíritu fundacional",
+   "medio": "elconurbano.com.ar",
+   "medio_url": "https://elconurbano.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNXI4V2t6TEVRejhzZVFMRGZFVHJvYkY3MmlCLW1yZDVJTlNuS0RyY0NYMHVGZjRCUTNPZU5XQlQ5cVE1OWNMNjhRSEhya09SalVFZE0xYlNYaENneWxzM0pyTWtvSmVIVURweWNTZVAwZmY3THlBQjhDcVRQaXlKQ1lnT0sxOUFjblFCbC0zOThHTHBkTUlDNFBJRW9RNU44ZkFEY3VyeXRYZk5kbklLczNfNmpxUWxHajZ5bC0yWEZqcjNkUEtwb3pka2tDZnZZY3ZFM2JCLWpnRFk?oc=5",
+   "fecha": "2026-11-20T11:25-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://elconurbano.com.ar/arnaldo-pepo-diaz-en-urbana-ba-me-aleje-de-la-libertad-avanza-porque-perdio-el-espiritu-de-cuando-la-fundamos/84581/",
+   "revisada": true
+  },
+  {
+   "id": "7f73794a5d6b",
+   "titulo": "Frente Renovador prevé un acuerdo de unidad dentro del peronismo sin señales de retroceso",
+   "medio": "Info Arenales",
+   "medio_url": "https://infoarenales.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RSSlhURUtBcDNsbmNSN3p1THNEOXo0UWl0NWhxSEFMamdzTFlqakRZclM5d3RqTXBlVmc1NUhMdmh2SVNwa2ZwZTdoaGs0RHN0dUFUVTBDT3pUT0l6M1ItYV9LY04wdUxxeF9rNVRRdWdKRHRfeFZEUE1mb0NKWUxVZ0pmWlU1S0paQ2N3WFpDaFR4clVVOWR3XzhDTXp6RUhTdXg4MFV0elhGazNYT0FmdTVmakExU3c?oc=5",
+   "fecha": "2026-11-20T11:11-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "massismo"
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://infoarenales.com/2026/11/20/sin-paso-a-la-vistael-frente-renovador-anticipa-acuerdo-de-unidad-en-el-peronismo/",
+   "revisada": true
+  },
+  {
+   "id": "f70bdcb8775b",
+   "titulo": "Perón volvió por IA, pero el proyecto de un peronismo de liberación sigue esperando que lo llamen",
+   "medio": "Flipr.news",
+   "medio_url": "https://flipr.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS09MSDY4aWJzUkJ6QlV4RlBXazJkYm1TLVFpdmRoWVF6cnYtSE80UG1RZm9CZnVzZGF4c09IYXZSWnlxSHBlWmxjYjVOdjlhSDhLMWhYS0ctcnB3ZFMzd0lQM3NWbmZ6VWFpbkR0Vk1nM3dRc0lZWS0zMXBsT2N2cnpzeklzMnVHTGx3LS1HXzBfdUM1QkJjbUJxVW5jU2NhdGo3OGZfN2kwVHBkTFRlemcxOGtWX3I3akxpVWlNMTF3b0h0RUxLWFpscEZVQ0N1SS1n?oc=5",
+   "fecha": "2026-11-20T11:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/info135/peron-volvio-por-ia-pero-el-proyecto-de-un-peronismo-de-liberacion-sigue-esperando-que-lo-llamen/",
+   "revisada": true
+  },
+  {
+   "id": "a1632ef81952",
+   "titulo": "Sin PASO a la vista, el Frente Renovador anticipa acuerdo de unidad en el peronismo",
+   "medio": "Ambito",
+   "medio_url": "https://www.ambito.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFlQVkM3a1J1YS1UU0ZwZE0tOHZZVEJTT0JuMUYxODM4TVZfRnF6LVBad21lUXFNOFRadldwYkZaTHczV2ZiNzM1WENLdXlMV3J0ZkJxSllqSi16NFJqVjFkVjlha1BzNGNKQ2ZjMXRoLVVTZGxfZ09yU2dhRHd4REZkM1pnWmFDbTZLQVZuVHR4czZmTjFKLWxudjhONERGMkNqTTJGN0VKUXdCUXdZb2VmZDZrcEphekdaTmV2U0dyalI20gHEAUFVX3lxTE9oWVBWQzdrUnVhLVRTRnBkTS04dllUQlNPQm4xRjE4MzhNVl9GcXotUFp3bWVRcU04VFp2V3BiRlpMdzNXZmI3MzVYQ0t1eUxXcnRmQnFKWWpKLXo0UmpWMWRWOWFrUHM0Y0pDZmMxdGgtVVNkbF9nT3JTZ2FEd3hERmQzWmdaYUNtNktBVm5UdHhzNmZOMUotbG52OE40REYyQ2pNMkY3RUpRd0JRd1lvZWZkNmtwSmF6R1pOZXZTR3JqUjY?oc=5",
+   "fecha": "2026-11-20T10:57-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://www.ambito.com/ambito-nacional/sin-paso-la-vista-el-frente-renovador-anticipa-acuerdo-unidad-el-peronismo-n6347483/amp",
+   "revisada": true
+  },
+  {
+   "id": "bb2eca780306",
+   "titulo": "Encuesta de Giacobbe: Milei tiene 56,8% de imagen negativa y casi la mitad rechaza las ideas y las formas de los liberales",
+   "medio": "Agrositio",
+   "medio_url": "https://www.agrositio.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaklKanVyajFFSlNGREFwSy1pd1p5cnpTRm9oRVJ1S0QwbVZ5V2hjU1NqMV9WX2xKSURmRmFPYkVNRHhJVVpBYXZ5UmN3Zm9wRXhOSmY2akoxMTZGTUVmVFZvTUQzU1Q4aUlnV0xMdzNxZkhpSzRBeFdNYV9pbzNsM3F3Q1RaQUxsMGZ1S2ZKQ0lXZy1NTkQ3RG5Vb1gxSjhTck5IbGhoNXJrZUdBSUViZTFWZFJweHJyWjBqTmhEUW1qTXZMZGFfT1htS21YWnJzQUxoNjlZZHVheDhhdUdsUkdPZDJyYXpPYjJrdWs1OUlXYzY3aXphRS1sUjQ?oc=5",
+   "fecha": "2026-11-20T10:40-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://www.agrositio.com.ar/noticia/249434-encuesta-de-giacobbe-milei-tiene-568-de-imagen-negativa-y-casi-la-mitad-rechaza-las-ideas-y-las-formas-de-los-liberales.html",
+   "revisada": true
+  },
+  {
+   "id": "1fac97724d02",
+   "titulo": "Cecilia Moreau aseguró que “con PASO o sin PASO, el peronismo va a ir unido”",
+   "medio": "QZ | Noticias",
+   "medio_url": "https://www.qznoticias.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFVwTFBSSW5xdnVjWUsyZEVEa0YwdXBIR0pFdGQ4SVpDN3JpYXBrSTdsRGdjN096eUQ1WTVqNlAxUmI0N2h2cUZtd2xmdkk1QmhYZVNuWWJIRTVzRU9Hc0NDbENYNTRaaUxiM2VIRlF6NHFJUVJXMEhJY2hiOXh5emhlVnA2WGRwTkpNdjdxNVdqdjJaYkRENmppcE9xdU5XeTdrOWREZTBKa1hz?oc=5",
+   "fecha": "2026-11-20T10:24-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://www.qznoticias.com/el-pais/cecilia-moreau-aseguro-que-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido",
+   "revisada": true
+  },
   {
    "id": "c06fdffe801d",
    "titulo": "Sofía Vannelli: “La economía tiene que estar al servicio de la gente y no al revés”",
@@ -61,6 +175,49 @@
    ],
    "visto": "2026-11-20T10:36-03:00",
    "url_original": "https://diarioelnorte.com.ar/cecilia-moreau-el-peronismo-ira-unido-para-frenar-a-milei/",
+   "revisada": true
+  },
+  {
+   "id": "92fcfd32e28f",
+   "titulo": "Cecilia Moreau apuesta a la unidad del peronismo para enfrentar a Milei",
+   "medio": "Diario El Norte - San Nicolás",
+   "medio_url": "https://diarioelnorte.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUlWeVhhc2kxcW9xeWxhSl9pQndROTNIYUlzaGotWkFYM1gzanNZUU1vSmxCOWxLdGhrVElSa0dWeS1qcmVMTHlIQ2Fwbk82MUFrdVpaUTBwYUQwaWQycHc3TUYzQ1o0YXB3WktYNUlpZmJBc01PNUNoQ0dxMWdKY19FdXljM2hBU1V1OE55aGY?oc=5",
+   "fecha": "2026-11-20T10:04-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://diarioelnorte.com.ar/cecilia-moreau-el-peronismo-ira-unido-para-frenar-a-milei/",
+   "revisada": true
+  },
+  {
+   "id": "dc2fadb3fb26",
+   "titulo": "Encuesta nacional: Milei y Kicillof, mejor posicionados que Bullrich",
+   "medio": "Impacto Castex",
+   "medio_url": "https://impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmVrX2FCNGZoSjgzREhKcThTOG90TG1kQUtXN0ZkZTYzd3JJcXpwZExCR0xlY2JKVXZ6Zmcyd093bnFPejhJZXltWjhoMmlvRkc4dGNjdko0NU1PSHVzaU92Yl95d3ZWVDYyUjFCY09ZYXhmeVlwUFZ0N0s2UjhCblRrTTlyX09LZVdUSWgyT2pvb2J6cERjTjNDUTJmSmxrc0lldTdqUXMxRXRWZE93?oc=5",
+   "fecha": "2026-11-20T10:00-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://impactocastex.com.ar/politica/19384/encuesta-nacional-milei-y-kicillof-mejor-posicionados-que-bullrich",
+   "revisada": true
+  },
+  {
+   "id": "83e757e9d989",
+   "titulo": "Martín Llaryora negocia con Mauricio Macri y le ofrece una silla al PRO en el Consejo de la Magistratura",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcEMwcGNpUHRIYjNrQXpsQWxCMVNZcW5NcTJYRFM1bWQzNm1yU1c4MFdUV20wajhiZGIxWEhYTHVBam9Ld28tT1dGcXFEMjJFVVN4ZEt4OFVvVHVVeUtUYTVJTG9rMTJkSUNpVVBUZHNvU2pWZkJxdWRZM1l6X1lsZDZvb1FkWE82bVBsZHl2ckhvWGhjNlNPSFZRYkxiMkM3cElFSW5ZWHVGdk1Ua0hUMXBOSjVlanFuSXlWeDdOVjJ4N05xLWNjVjJ4NjFEcEZOd3RYQWlfVHpBd9IB2gFBVV95cUxQcEMwcGNpUHRIYjNrQXpsQWxCMVNZcW5NcTJYRFM1bWQzNm1yU1c4MFdUV20wajhiZGIxWEhYTHVBam9Ld28tT1dGcXFEMjJFVVN4ZEt4OFVvVHVVeUtUYTVJTG9rMTJkSUNpVVBUZHNvU2pWZkJxdWRZM1l6X1lsZDZvb1FkWE82bVBsZHl2ckhvWGhjNlNPSFZRYkxiMkM3cElFSW5ZWHVGdk1Ua0hUMXBOSjVlanFuSXlWeDdOVjJ4N05xLWNjVjJ4NjFEcEZOd3RYQWlfVHpBdw?oc=5",
+   "fecha": "2026-11-20T09:58-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/martin-llaryora-negocia-mauricio-macri-y-le-ofrece-una-silla-al-pro-el-consejo-la-magistratura-n5428381/amp",
    "revisada": true
   },
   {
@@ -897,6 +1054,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.chacabuquero.com.ar/2026/11/causo-buena-impresion-la-sede-de-la.html",
+   "revisada": true
+  },
+  {
+   "id": "e373b0837c7d",
+   "titulo": "Jorge Asís: \\",
+   "medio": "Fm Cordillerana Junin",
+   "medio_url": "https://fmcordilleranajunin.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtZGJla2V2aFpQc2ZCTWhaVTY3TFpWMjBabHhhdlFSTng1SWRUamtmU1JJR25zSS1ZMDJlSTBST1R1RjdIVnlpdGR6cU9NMUhuUUZ5Vk5mYzV2bnNobWFJT0FNYURmU05rSWl3?oc=5",
+   "fecha": "2026-11-19T16:23-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T12:17-03:00",
+   "url_original": "https://fmcordilleranajunin.com.ar/a-nota/233048/jorge-asis",
    "revisada": true
   },
   {
@@ -5293,7 +5464,8 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdTBreTNHUGhCekY4dG9aNHlSTFN2SGFwLVB6aDV0NlVsM2k2VFlVeTYyZUszam5LR2lINTVHdEtBN19HWFVueXJfMnB6NTRBbFo3Mlg2VFJ2U3J3OGJ6RFNlUmxNQXNuX3FCUTN3c0NKaU9sQnZ5c0RyaklQRXVGcmFOTTNLajdXaHBpWFk2RGF6SGJOZ1FLSTYtYjUwenVZWExsdjA3M3ZrV3hNcjRIWFRPU1VCMENZMFMzcDVBMldGcjZJU09wcUZmT3d3V0p3bUk5MjdSZnBacGM?oc=5",
    "fecha": "2026-11-16T21:13-03:00",
    "busquedas": [
-    "\"Guillermo Michel\""
+    "\"Guillermo Michel\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://diariolapluma.com.ar/cristina-kirchner-eligio-a-guillermo-michel-para-la-representacion-del-peronismo-en-el-consejo-de-la-magistratura/",
