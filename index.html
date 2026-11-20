@@ -204,7 +204,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
       <button role="tab" aria-selected="true" aria-controls="p-temas" id="b-temas">En los medios <b id="n-temas">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-redes" id="b-redes">En redes <b id="n-redes">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-videos" id="b-videos">Entrevistas <b id="n-videos">0</b></button>
-      <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable">Al minuto</button>
+      <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable">Última hora</button>
       <button role="tab" aria-selected="false" aria-controls="p-archivo" id="b-archivo">Ediciones anteriores</button>
     </div>
   </nav>
@@ -221,7 +221,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
       <div class="grilla" id="videos"></div>
     </section>
     <section class="panel" id="p-cable" role="tabpanel" aria-labelledby="b-cable" hidden>
-      <p class="aviso">Todo lo que publicaron los medios en las últimas horas, sin filtrar, apenas sale. Se renueva cada hora.</p>
+      <p class="aviso">Todo lo que publicaron los medios en las últimas horas, sin filtrar. Se renueva cada hora; las marcadas como nuevas salieron después de la edición que estás viendo.</p>
       <ul class="cable" id="cable"></ul>
     </section>
     <section class="panel" id="p-archivo" role="tabpanel" aria-labelledby="b-archivo" hidden>
@@ -343,7 +343,7 @@ function pintarVideos(){
   var v=ED.entrevistas||[];
   $("videos").innerHTML=v.length?v.map(function(x){
     var cuerpo=x.youtube?'<button class="video" data-id="'+esc(x.youtube)+'" aria-label="Reproducir: '+esc(x.titulo)+'"><img loading="lazy" alt="" src="https://i.ytimg.com/vi/'+esc(x.youtube)+'/hqdefault.jpg"><span class="play"><i></i></span></button>':"";
-    return'<div class="tarjeta">'+cuerpo+'<h3>'+(x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.titulo)+'</a>':esc(x.titulo))+'</h3><div class="de">'+esc([x.canal,x.fecha_txt].filter(Boolean).join(", "))+'</div></div>';
+    return'<div class="tarjeta">'+cuerpo+'<h3>'+(x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.titulo)+'</a>':esc(x.titulo))+'</h3><div class="de">'+esc([x.canal,x.duracion?x.duracion+" min":"",x.fecha_txt].filter(Boolean).join(", "))+'</div></div>';
   }).join(""):'<p class="vacio">No hay entrevistas destacadas en esta edición.</p>';
   [].forEach.call($("videos").querySelectorAll(".video"),function(b){b.onclick=function(){b.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(b.dataset.id)+'?autoplay=1" title="Video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>';};});
 }
@@ -353,7 +353,7 @@ function pintarCable(cr){
   var notas=(cr.notas||[]).slice(0,60);
   $("cable").innerHTML=notas.map(function(n){var d=new Date(n.fecha);
     return'<li><time datetime="'+esc(n.fecha)+'">'+(d.toDateString()===new Date().toDateString()?hm(d):d.getDate()+"/"+(d.getMonth()+1))+'</time><div><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.titulo)+'</a>'+(corte&&new Date(n.visto||n.fecha)>corte?'<span class="nuevo">nuevo</span>':"")+'<span class="de">'+esc(n.medio)+'</span></div></li>';}).join("");
-  var g=new Date(cr.generado); $("vivo").lastChild.innerHTML='<span class="largo">Al minuto: </span>'+esc(hace(g));
+  var g=new Date(cr.generado); $("vivo").lastChild.innerHTML='<span class="largo">Última hora: </span>'+esc(hace(g));
   $("pie-act").textContent="Último rastrillaje de medios: "+fechaLarga(g)+", "+hm(g)+" h.";
 }
 

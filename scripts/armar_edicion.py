@@ -25,6 +25,19 @@ def cargar(nombre, clave):
     return json.loads(p.read_text(encoding="utf-8")).get(clave, []) if p.exists() else []
 
 
+MIN_SEGUNDOS_ENTREVISTA = 5 * 60
+
+
+def segundos(duracion):
+    try:
+        total = 0
+        for parte in (duracion or "").split(":"):
+            total = total * 60 + int(parte)
+        return total
+    except ValueError:
+        return 0
+
+
 def main():
     cur = json.loads((DATOS / "curaduria.json").read_text(encoding="utf-8"))
     notas = {n["id"]: n for n in cargar("crudo.json", "notas")}
@@ -69,8 +82,12 @@ def main():
             faltan.append(e.get("video_id"))
             continue
         v = v or {}
+        if v and segundos(v.get("duracion")) < MIN_SEGUNDOS_ENTREVISTA:
+            print("Descartado por corto:", v.get("titulo", "")[:70], v.get("duracion"))
+            continue
         entrevistas.append({"youtube": e.get("video_id"), "titulo": e.get("titulo") or v.get("titulo", ""),
                             "canal": e.get("canal") or v.get("canal", ""), "fecha_txt": v.get("publicado", ""),
+                            "duracion": v.get("duracion", ""),
                             "url": v.get("url") or f"https://www.youtube.com/watch?v={e.get('video_id')}"})
 
     ahora = datetime.now(ART)

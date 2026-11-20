@@ -21,9 +21,9 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 3. Agrupar por tema. Si hay muchas notas de lo mismo, elegir 2 o 3 `principales`: el medio más reconocido o la nota con más información propia. El resto va en `otras` (solo se muestra el nombre del medio).
 4. Ordenar los temas de mayor a menor relevancia para la dirigencia. Entre 5 y 10 temas. Incluir también la cobertura crítica (tono `negativo`): el equipo necesita verla.
 5. Escribir para cada tema: `titulo` (propio, claro, sin clickbait), `resumen` (2 o 3 oraciones con palabras propias, solo lo que dicen los títulos y bajadas; no inventar datos ni citas), `tono` (`positivo`, `negativo`, `neutro` o `mixto`, desde el punto de vista del FR) y `dirigentes` (nombres completos de dirigentes del FR que aparecen).
-6. `claves`: 3 o 4 oraciones con lo más importante de la edición, para leer en 30 segundos.
+6. `claves`: 3 o 4 puntos con lo más importante de la edición. Las leen dirigentes: registro formal y sobrio, tercera persona, sin coloquialismos, adjetivos ni expresiones como "cruzó", "chicaneó" o "le pegó". Cada punto, una o dos oraciones cortas. Nombrar cargos cuando corresponda (el gobernador, el ministro de Economía).
 7. `redes`: hasta 6 tuits, priorizando cuentas de dirigentes del FR y solo publicaciones políticamente serias (`tuit_id` del archivo, o `url` si viene de `data/tuits_extra.txt`). `nota` opcional de una línea.
-8. `entrevistas`: hasta 8 videos con dirigentes del FR o análisis centrales sobre Massa y el FR (`video_id`).
+8. `entrevistas`: solo entrevistas reales, en las que un dirigente del FR (o un referente hablando del FR) responde preguntas en un programa, radio, canal o streaming. No van: informes o notas de un medio sobre un hecho, paneles de análisis sin entrevistado, clips, recortes ni shorts. Duración mínima: 5 minutos (el armador descarta las más cortas). Mejor tres entrevistas buenas que ocho de relleno (`video_id`).
 9. `hora`: "06", "14" o "22" según la edición.
 10. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
 11. Guardar: `git add data && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
