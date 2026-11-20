@@ -1,88 +1,89 @@
 {
- "hora": "06",
- "claves": [
-  "El gobernador Axel Kicillof busca sostener las PASO en la provincia de Buenos Aires como herramienta de negociación nacional con Sergio Massa y Cristina Kirchner.",
-  "La diputada Cecilia Moreau sostuvo que, con o sin primarias, el peronismo irá unido a las elecciones de 2027. Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO.",
-  "El dirigente de la CGT Cristian Jerónimo tomó distancia de Massa y reclamó una interna para definir el liderazgo del peronismo.",
-  "El diputado Diego Giuliano advirtió que modificar las reglas electorales cerca del cronograma afecta la competencia y que la agenda de la Cámara no atiende los problemas de la gente."
- ],
- "retirar": [],
- "temas": [
-  {
-   "id": "sin-paso-la-interna",
-   "titulo": "PASO: Kicillof busca sostenerlas en Buenos Aires para negociar con Massa y Cristina",
-   "resumen": "Según Infobae, el gobernador pretende mantener las primarias en la provincia como carta de negociación frente a Sergio Massa y Cristina Kirchner. Desde el Frente Renovador, Cecilia Moreau y Sebastián Galmarini cuestionaron el proyecto oficial de suspender las PASO y sostuvieron que el peronismo llegará unido a 2027.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa",
-    "Cecilia Moreau",
-    "Sebastián Galmarini"
-   ],
-   "principales": [
-    "f1e3ab8cc762",
-    "6fa570147f48",
-    "20a4f915836b"
-   ],
-   "otras": [
-    "cc8d60e0cf53",
-    "51f87f25a27b",
-    "7ee5c8ed6a59",
-    "a75ad649d7ba",
-    "907187335199",
-    "b1edde7c885b",
-    "57b9c93e7d6e",
-    "4ca389c9fc3e",
-    "5f92bd89c305"
-   ]
-  },
-  {
-   "id": "la-cgt-entre-la",
-   "titulo": "CGT: Cristian Jerónimo toma distancia de Massa y pide una interna",
-   "resumen": "El dirigente de la central obrera reclamó una competencia interna para definir el liderazgo del peronismo y se diferenció de Sergio Massa, en línea con la versión de que parte de la cúpula sindical busca otro nombre para 2027. Otro sector de la CGT estuvo en la foto del Día de la Militancia en San Fernando.",
-   "tono": "negativo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "04d25096a0c7",
-    "455cddb9e0f0",
-    "928dd2b6cb20"
-   ],
-   "otras": [
-    "cf99573e6b81",
-    "33fb89dbdcf5"
-   ]
-  }
- ],
- "redes": [
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123577503197368395",
-   "autor": "@ceciliamoreauok",
-   "nota": "Cecilia Moreau celebró la sanción de la ley de Discapacidad."
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2123551493420978306",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, sobre la ley de seguridad aprobada en Santa Fe."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123063386649035246",
-   "autor": "@ceciliamoreauok",
-   "nota": ""
-  }
- ],
- "entrevistas": [
-  {
-   "video_id": "e57KCvZktrE"
-  },
-  {
-   "video_id": "emLIIIp8hDU"
-  },
-  {
-   "video_id": "LccxmZvOYlM"
-  },
-  {
-   "video_id": "DkA71yjaY3k"
-  }
- ]
+  "hora": "14",
+  "claves": [
+    "El Frente Renovador anticipa un acuerdo de unidad en el peronismo con o sin PASO. La diputada Cecilia Moreau sostuvo que el peronismo irá unido a la elección de 2027 y cuestionó el proyecto de Presupuesto.",
+    "El gobernador Axel Kicillof define qué hacer con las PASO bonaerenses, mientras Sergio Massa y Máximo Kirchner reclaman un frente de unidad. Tras el encuentro de San Fernando, el gobernador convocó a los intendentes a un acto de gestión.",
+    "El ex libertario Arnaldo \"Pepo\" Díaz explicó su salida de La Libertad Avanza. Alexis Guerrera recibió a dirigentes de General Arenales para planificar la gestión municipal del Frente Renovador.",
+    "El diputado Diego Giuliano cuestionó el endeudamiento del gobierno santafesino y la eliminación de las PASO, y advirtió sobre un eventual pago diferido del aguinaldo."
+  ],
+  "retirar": [],
+  "temas": [
+    {"id": "cecilia-moreau-va-a",
+     "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
+     "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias, y llamó a construir un frente contra el Gobierno de Javier Milei. También cuestionó el proyecto de Presupuesto. Varios medios leyeron sus declaraciones como una señal del Frente Renovador para bajar el tono de la interna.",
+     "tono": "positivo",
+     "dirigentes": ["Cecilia Moreau"],
+     "principales": ["a1632ef81952", "b0345b304894", "c0d46adcdf12"],
+     "otras": ["99e9d9cbf2b8", "efa31e7b432b", "6fb3218f269c", "1fac97724d02", "e1feda9da338", "0e7033f6fb55", "92fcfd32e28f", "7ebd72f9444d", "7f73794a5d6b", "b559f17df80d"]},
+    {"id": "sin-paso-la-interna",
+     "titulo": "PASO: Kicillof define qué hacer en Buenos Aires mientras Massa y Máximo Kirchner piden unidad",
+     "resumen": "El gobernador Axel Kicillof evalúa sostener las PASO bonaerenses como herramienta de negociación nacional, mientras Sergio Massa y Máximo Kirchner reclaman un frente de unidad contra Milei. Distintos análisis señalan que, sin primarias, la definición de candidaturas quedaría en manos de Cristina Kirchner y Massa.",
+     "tono": "mixto",
+     "dirigentes": ["Sergio Massa"],
+     "principales": ["c5e431352ace", "f1e3ab8cc762", "1f667aa40337"],
+     "otras": ["6fa570147f48", "b198d814ecfa", "51f87f25a27b", "57b9c93e7d6e", "74ee92c0d097", "2ed80ad43c6c"]},
+    {"id": "san-fernando-reordena-el",
+     "titulo": "Después de San Fernando: Kicillof convoca a los intendentes y Guerrera tiende puentes",
+     "resumen": "Tras el encuentro que encabezó Sergio Massa en San Fernando, el gobernador Kicillof convocó a los intendentes a un acto de gestión y su ministro Carlos Bianco aseguró que la reunión no fue contra él. Alexis Guerrera hizo un gesto de acercamiento al gobernador. Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
+     "tono": "mixto",
+     "dirigentes": ["Sergio Massa", "Alexis Guerrera", "Natalia de la Sota"],
+     "principales": ["ab00192983fb", "ced4bbfd43aa", "798fa27100f2"],
+     "otras": ["0e072cb13b4f", "d1e551eac8d2", "4de08fa663d6", "47607e29b920", "ac5a556b9c95", "78ef112c5d60", "6924eb102826", "4c59c5e66fae", "57fbd70d76f7"]},
+    {"id": "pepo-diaz-urbana",
+     "titulo": "Arnaldo “Pepo” Díaz explicó por qué dejó La Libertad Avanza",
+     "resumen": "El dirigente de Avellaneda Arnaldo \"Pepo\" Díaz, que se incorporó al Frente Renovador, sostuvo en Urbana BA que se alejó de La Libertad Avanza porque el partido perdió el espíritu con el que fue fundado.",
+     "tono": "positivo",
+     "dirigentes": ["Arnaldo Díaz"],
+     "principales": ["9a83780c4716", "7627192ce85c"],
+     "otras": []},
+    {"id": "el-frente-renovador-arma",
+     "titulo": "El Frente Renovador arma estructura en las provincias y municipios",
+     "resumen": "Alexis Guerrera recibió a dirigentes de General Arenales para diagramar un plan de gestión municipal del Frente Renovador. En Chubut, Mariano Arcioni proyecta un FR activo hacia 2027, y en San Juan Franco Aranda pidió unidad al PJ frente a la disputa entre José Luis Gioja y Sergio Uñac.",
+     "tono": "positivo",
+     "dirigentes": ["Alexis Guerrera", "Mariano Arcioni", "Franco Aranda"],
+     "principales": ["d60945912240", "90acf2c89934", "c399b84a3175"],
+     "otras": ["c03b6a5adcc9"]},
+    {"id": "giuliano-santa-fe",
+     "titulo": "Diego Giuliano: endeudamiento en Santa Fe, PASO y aguinaldo",
+     "resumen": "El diputado Diego Giuliano sostuvo que \"la Santa Fe invencible hoy es la Santa Fe endeudada\" y que la provincia necesita un gobernador que defienda sus recursos frente a Milei. En entrevistas radiales criticó la eliminación de las PASO y advirtió sobre un eventual pago diferido del aguinaldo.",
+     "tono": "positivo",
+     "dirigentes": ["Diego Giuliano"],
+     "principales": ["19f55830f26c"],
+     "otras": []},
+    {"id": "gestion-universidad-en-san",
+     "titulo": "Gestión: Universidad del Delta en San Fernando y fiscalía en Chacabuco",
+     "resumen": "Comenzó en San Fernando la obra de la nueva sede de la Universidad Nacional del Delta, con la presencia del intendente Juan Andreotti. En Chacabuco se inauguró la Fiscalía Descentralizada, y en Tres Arroyos Pablo Garate destacó que el municipio prioriza la seguridad de los vecinos.",
+     "tono": "positivo",
+     "dirigentes": ["Juan Andreotti", "Darío Golía", "Pablo Garate"],
+     "principales": ["d6e4b8d0a755", "0851b0e47330", "9eb26b1d72d4"],
+     "otras": ["940e800aadbe", "e794e0132aab", "c2e05bb62aa1"]},
+    {"id": "guillermo-michel-se-suma",
+     "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
+     "resumen": "Cristina Kirchner impulsa a Guillermo Michel para el Consejo de la Magistratura, en medio de las negociaciones del Congreso por los lugares del organismo.",
+     "tono": "positivo",
+     "dirigentes": ["Guillermo Michel"],
+     "principales": ["d127915e1bfa", "a5b79f219a10"],
+     "otras": ["16401c58d818"]},
+    {"id": "las-criticas-del-dia",
+     "titulo": "Las críticas del día",
+     "resumen": "Tribuna de Periodistas volvió sobre el caso de las SIRAS y su impacto sobre Massa. Otras columnas lo presentan como \"candidato de la Embajada\" o cuestionan que el peronismo vuelva con viejas recetas, y Diario Junio relativizó el alcance del acto de San Fernando.",
+     "tono": "negativo",
+     "dirigentes": ["Sergio Massa"],
+     "principales": ["2d5914b520e5", "f0b73d3c8fb9"],
+     "otras": ["230e2e477d38", "dfa840f39c59"]}
+  ],
+  "redes": [
+    {"url": "https://x.com/DiegoGiuliano/status/2123807802850242958", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano, sobre un eventual aguinaldo diferido."},
+    {"url": "https://x.com/FrenteRenovador/status/2123779565629690036", "autor": "@FrenteRenovador", "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."},
+    {"url": "https://x.com/FrenteRenovador/status/2123757344173531358", "autor": "@FrenteRenovador", "nota": "Día de la Soberanía Nacional."},
+    {"url": "https://x.com/ceciliamoreauok/status/2123532174339031167", "autor": "@ceciliamoreauok", "nota": "Cecilia Moreau, sobre el lawfare en la región."},
+    {"url": "https://x.com/DiegoGiuliano/status/2123499788473938297", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano: Santa Fe necesita un gobernador que defienda sus recursos."},
+    {"url": "https://x.com/DiegoGiuliano/status/2123519696582713801", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano, sobre el discurso de Juan Andreotti."}
+  ],
+  "entrevistas": [
+    {"video_id": "G7pC6FGk1Yc"},
+    {"video_id": "PZ4kI9wtH2Y"},
+    {"video_id": "qofuxHUlGjY"},
+    {"video_id": "PTddpjDCTcU"}
+  ]
 }
