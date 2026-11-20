@@ -56,7 +56,7 @@ BUSQUEDAS = [
     'encuesta "Frente Renovador"',
 ]
 
-UA = "Mozilla/5.0 (compatible; ClippingRenovador/1.0; +https://github.com/renzocanch2003-ops/clipping-renovador)"
+UA = "Mozilla/5.0 (compatible; ClippingRenovador/1.0; +https://github.com/clippingrenovador/clippingrenovador.github.io)"
 
 
 def normaliza(texto):

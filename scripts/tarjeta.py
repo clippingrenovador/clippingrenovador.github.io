@@ -104,7 +104,7 @@ def main():
     d.rectangle((0, H - 194, W, H - 190), fill=ORO)
     d.text((72, H - 150), "Leé el clipping completo en", font=fuente("Archivo.ttf", 36, 500), fill=TINTA2)
     sitio = (RAIZ / "CNAME").read_text().strip() if (RAIZ / "CNAME").exists() else \
-        "renzocanch2003-ops.github.io/clipping-renovador"
+        "clippingrenovador.github.io"
     tam = 40
     while tam > 22 and d.textlength(sitio, font=fuente("Archivo.ttf", tam, 700)) > W - 144:
         tam -= 2
