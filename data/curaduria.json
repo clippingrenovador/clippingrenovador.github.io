@@ -1,0 +1,98 @@
+{
+ "claves": [
+  "Massa quedó en el centro del peronismo después del encuentro de San Fernando. Kicillof respondió convocando a sus intendentes a un acto en La Plata.",
+  "Malena Galmarini le contestó a Caputo por burlarse de la cumbre. El cruce lo levantaron más de diez medios, de La Nación a diarios del interior.",
+  "Con la posible suspensión de las PASO, varios análisis ven a Massa y Cristina ordenando la interna. En la Provincia crece la idea de mantener las primarias.",
+  "El Frente Renovador suma estructura en Tierra del Fuego, Chubut y Córdoba, y el massista Guillermo Michel entra al Consejo de la Magistratura."
+ ],
+ "temas": [
+  {
+   "titulo": "San Fernando reordena el peronismo: Massa toma la iniciativa y Kicillof responde",
+   "resumen": "El encuentro que encabezó Massa por el Día de la Militancia sigue marcando la agenda. Los medios lo leen como una demostración de fuerza y el arranque de un armado propio rumbo a 2027. Desde La Plata, Kicillof convocó a sus intendentes y Carlos Bianco aclaró que el acto no fue en su contra.",
+   "tono": "positivo",
+   "dirigentes": ["Sergio Massa"],
+   "principales": ["ab00192983fb", "2162f84905d4", "78ef112c5d60"],
+   "otras": ["47607e29b920", "ac5a556b9c95", "d1e551eac8d2", "b5546ec89454", "a3bb488ff844", "fbe829163833", "be8c3e569a74", "71d55925b3c9", "2fa7694d95b6", "dd8f7ddb6a9c", "17efc4fc6f40", "364ba983e672", "71bb29029c0c", "58a829765e79", "a7bc7ab7b90a", "e6b57d26f392", "0b6e832d0f56", "54de0857f2e0", "57fbd70d76f7", "9e96188b4be7", "ea889db7a7d8", "2ed80ad43c6c"]
+  },
+  {
+   "titulo": "Malena Galmarini le respondió a Caputo: “No te alteres que te sube el riesgo país”",
+   "resumen": "Caputo se burló en redes del encuentro peronista de San Fernando y Malena Galmarini le contestó con su gestión económica como blanco. En la respuesta también defendió la unidad del peronismo para enfrentar a Milei.",
+   "tono": "positivo",
+   "dirigentes": ["Malena Galmarini"],
+   "principales": ["58a9b1a6e736", "0de036aa42ef", "1f383501fd31"],
+   "otras": ["7ccd5be83dc0", "1742bcade09a", "d02c92e0b112", "db7b39a19726", "6172ab569f40", "1bf0c3d95ee5", "1b5d328e4d79", "8599456433b1"]
+  },
+  {
+   "titulo": "Sin PASO, la interna se ordenaría detrás de Massa y Cristina",
+   "resumen": "Si el Gobierno suspende las primarias nacionales, varios análisis creen que el peronismo definiría su candidatura con Massa y Cristina Kirchner como árbitros, lo que frenaría las aspiraciones de Kicillof. En paralelo, el peronismo, la UCR y parte del PRO empujan para mantener las PASO en la provincia de Buenos Aires.",
+   "tono": "mixto",
+   "dirigentes": ["Sergio Massa"],
+   "principales": ["6fa570147f48", "20a4f915836b", "cc8d60e0cf53"],
+   "otras": ["51f87f25a27b", "7ee5c8ed6a59", "a75ad649d7ba", "907187335199", "b1edde7c885b", "57b9c93e7d6e", "4ca389c9fc3e", "5f92bd89c305"]
+  },
+  {
+   "titulo": "El Frente Renovador arma estructura en las provincias",
+   "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego, el FR quedó habilitado para competir en Chubut en 2027 y se anunció una alianza en la Patagonia. En Córdoba, Massa respalda a Natalia de la Sota y presiona a Llaryora para que negocie con el PJ.",
+   "tono": "positivo",
+   "dirigentes": ["Natalia de la Sota", "Alejandro Deanes"],
+   "principales": ["aa6f518c22da", "01f465c92687", "559f2f44115f"],
+   "otras": ["443d51637e4a", "90acf2c89934", "e236c3d1cad9", "c03b6a5adcc9", "a6795d3275c8"]
+  },
+  {
+   "titulo": "Guillermo Michel, la banca massista en el Consejo de la Magistratura",
+   "resumen": "El acuerdo entre Cristina Kirchner y Massa dejó al massista Guillermo Michel en uno de los lugares de Diputados en el nuevo Consejo de la Magistratura. El organismo todavía no logra completarse por las peleas entre bloques.",
+   "tono": "positivo",
+   "dirigentes": ["Guillermo Michel"],
+   "principales": ["a5b79f219a10", "16401c58d818"],
+   "otras": ["76cb6ca6dd60", "05ce83971ee0", "d83d308972c0"]
+  },
+  {
+   "titulo": "Gestión: universidad en San Fernando, viviendas en Chacabuco y oficios en Santa Fe",
+   "resumen": "Juan Andreotti recorrió el inicio de la obra de la Universidad Nacional del Delta. Darío Golía firmó los contratos para construir 30 viviendas en Chacabuco. Diego Giuliano entregó 800 diplomas de la escuela de oficios y cuestionó el endeudamiento del gobierno santafesino.",
+   "tono": "positivo",
+   "dirigentes": ["Juan Andreotti", "Darío Golía", "Diego Giuliano", "Pablo Garate"],
+   "principales": ["0851b0e47330", "f06ee6af5f83", "a3ac62e99032"],
+   "otras": ["8f9f8bd21f69", "f37aaaf7fa2b", "d27e7e4e2525", "761eb357cb34", "8c8b115b032a", "c2e05bb62aa1", "19f55830f26c"]
+  },
+  {
+   "titulo": "La CGT, entre la foto con Massa y la búsqueda de otro candidato",
+   "resumen": "Hay dos lecturas sobre la central obrera: la foto del Día de la Militancia con Massa y La Cámpora, sin Kicillof, y la versión de que parte de la cúpula sindical retacea su apoyo a Massa y busca otro nombre para 2027.",
+   "tono": "mixto",
+   "dirigentes": ["Sergio Massa"],
+   "principales": ["455cddb9e0f0", "928dd2b6cb20"],
+   "otras": ["cf99573e6b81", "33fb89dbdcf5"]
+  },
+  {
+   "titulo": "Las críticas del día",
+   "resumen": "Dos notas de opinión cuestionan a Massa: una lo presenta como el candidato de la Embajada y otra habla de viejas recetas en su regreso junto a Urtubey.",
+   "tono": "negativo",
+   "dirigentes": ["Sergio Massa"],
+   "principales": ["f0b73d3c8fb9", "230e2e477d38"],
+   "otras": []
+  },
+  {
+   "titulo": "Cecilia Moreau: “Va a haber mecanismos democráticos para definir el candidato”",
+   "resumen": "La diputada sostuvo que el peronismo tendrá reglas claras para elegir a su candidato presidencial y habló del tema también en C5N.",
+   "tono": "neutro",
+   "dirigentes": ["Cecilia Moreau"],
+   "principales": ["b559f17df80d"],
+   "otras": []
+  }
+ ],
+ "redes": [
+  {"tuit_id": "2123392418686828999", "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."},
+  {"tuit_id": "2122861243283239200", "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias."},
+  {"tuit_id": "2122855707460730904", "nota": ""},
+  {"tuit_id": "2122860757658591600", "nota": ""}
+ ],
+ "entrevistas": [
+  {"video_id": "HbpWLzHNpN8"},
+  {"video_id": "SUaIKV6v0kE"},
+  {"video_id": "iswVsO-nyrE"},
+  {"video_id": "Qex8w_pmieE"},
+  {"video_id": "vAO9y3knRxs"},
+  {"video_id": "n4F54sw9GJU"},
+  {"video_id": "4inhoEjnaFw"},
+  {"video_id": "QQrU_dbVElQ"}
+ ]
+}
