@@ -13,7 +13,7 @@ Se publica tres veces por día: 6, 14 y 22 h (hora argentina). El rastrillo (Git
 
 ## Dirigentes a seguir con prioridad
 
-Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe Romero**, secretario de Juventud de Jóvenes FR CABA (también figura como "Feli Romero"). Cuando aparezca en notas, videos o tuits, incluirlo de forma natural en la sección que corresponda, como a cualquier otro dirigente: sin secciones ni etiquetas especiales. En redes, sumar solo sus publicaciones políticas serias (no chistes, temas personales ni discusiones menores). Cuidado con homónimos: confirmar que se trata de él por el contexto (FR, juventud, CABA).
+Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe Romero**, secretario de Juventud de Jóvenes FR CABA (también figura como "Feli Romero"). Cuando aparezca en notas, videos o tuits, incluirlo de forma natural en la sección que corresponda, como a cualquier otro dirigente: sin secciones ni etiquetas especiales. En redes (su cuenta es @felipemromeroo), sumar solo sus publicaciones más institucionales o vinculadas a la política nacional que hayan tenido buena repercusión; es un dirigente joven y no todo su perfil es político, así que nada de chistes, temas personales ni discusiones menores. Cuidado con homónimos: confirmar que se trata de él por el contexto (FR, juventud, CABA).
 
 ## Pasos
 
