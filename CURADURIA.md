@@ -8,6 +8,11 @@ Se publica tres veces por día: 6, 14 y 22 h (hora argentina). El rastrillo (Git
 - `data/videos.json` — videos de YouTube subidos en el día. Campos: `id`, `titulo`, `canal`, `publicado`, `busqueda`. Trae falsos positivos (otro Giuliano, fútbol, inmobiliarias): descartarlos.
 - `data/tuits.json` — tuits que los medios citaron en sus notas. Campos: `id`, `usuario`, `citado_en`.
 - `data/edicion.json` — la edición anterior (para no repetir y dar continuidad).
+- `data/tuits_extra.txt` — links de tuits que el equipo quiere sumar (uno por línea). Si hay alguno nuevo, agregarlo en `redes` con `"url"` en lugar de `tuit_id`.
+
+## Dirigentes a seguir con prioridad
+
+Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe Romero**, secretario de Juventud de Jóvenes FR CABA (también figura como "Feli Romero"). Cuando aparezca en notas, videos o tuits, incluirlo de forma natural en la sección que corresponda, como a cualquier otro dirigente: sin secciones ni etiquetas especiales. En redes, sumar solo sus publicaciones políticas serias (no chistes, temas personales ni discusiones menores). Cuidado con homónimos: confirmar que se trata de él por el contexto (FR, juventud, CABA).
 
 ## Pasos
 
@@ -17,7 +22,7 @@ Se publica tres veces por día: 6, 14 y 22 h (hora argentina). El rastrillo (Git
 4. Ordenar los temas de mayor a menor relevancia para la dirigencia. Entre 5 y 10 temas. Incluir también la cobertura crítica (tono `negativo`): el equipo necesita verla.
 5. Escribir para cada tema: `titulo` (propio, claro, sin clickbait), `resumen` (2 o 3 oraciones con palabras propias, solo lo que dicen los títulos y bajadas; no inventar datos ni citas), `tono` (`positivo`, `negativo`, `neutro` o `mixto`, desde el punto de vista del FR) y `dirigentes` (nombres completos de dirigentes del FR que aparecen).
 6. `claves`: 3 o 4 oraciones con lo más importante de la edición, para leer en 30 segundos.
-7. `redes`: hasta 6 tuits, priorizando cuentas de dirigentes del FR (`tuit_id` del archivo). `nota` opcional de una línea.
+7. `redes`: hasta 6 tuits, priorizando cuentas de dirigentes del FR y solo publicaciones políticamente serias (`tuit_id` del archivo, o `url` si viene de `data/tuits_extra.txt`). `nota` opcional de una línea.
 8. `entrevistas`: hasta 8 videos con dirigentes del FR o análisis centrales sobre Massa y el FR (`video_id`).
 9. `hora`: "06", "14" o "22" según la edición.
 10. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.

@@ -13,7 +13,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:url" content="https://renzocanch2003-ops.github.io/clipping-renovador/">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#14306E">
+<meta name="theme-color" content="#74ACDF">
 <link rel="icon" type="image/png" href="icon.png">
 <link rel="apple-touch-icon" href="icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,7 +21,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --cobalto:#14306E; --cobalto-2:#1E4AA8; --celeste:#7CC4E8; --sol:#F2B705;
+  --cobalto:#14306E; --cobalto-2:#1F6FB2; --celeste:#74ACDF; --celeste-osc:#3F86C6; --sol:#E2B230; --oro:#C8961E;
   --papel:#F5F7FA; --hoja:#FFFFFF; --tinta:#131B2E; --tinta-2:#46516A; --linea:#DCE2EC;
   --pos:#1E8E5E; --neg:#C8402F; --neu:#7D879B; --mix:#B7791F;
   --sans:"Archivo",system-ui,sans-serif; --serif:"Newsreader",Georgia,serif;
@@ -36,29 +36,30 @@ a{color:inherit}
 :focus-visible{outline:3px solid var(--sol);outline-offset:2px;border-radius:4px}
 .envoltura{max-width:1080px;margin:0 auto;padding:0 18px}
 
-/* Cabecera: el sello de la edición es la pieza memorable */
-.cabecera{background:var(--cobalto);color:#fff;padding:22px 0 26px;position:relative;overflow:hidden}
-.cabecera::after{content:"";position:absolute;right:-120px;top:-120px;width:360px;height:360px;border-radius:50%;
-  background:radial-gradient(circle,rgba(242,183,5,.28),rgba(242,183,5,0) 65%);pointer-events:none}
-.marca{display:flex;align-items:center;justify-content:space-between;gap:12px}
-.marca h1{margin:0;font-weight:800;font-stretch:118%;font-size:clamp(20px,4.2vw,26px);letter-spacing:-.01em}
-.marca h1 span{color:var(--celeste);font-weight:500;font-stretch:100%}
-.vivo{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:#C9D8F3}
-.vivo i{width:8px;height:8px;border-radius:50%;background:var(--sol);box-shadow:0 0 0 0 rgba(242,183,5,.7);animation:latido 2.4s infinite}
-@keyframes latido{70%{box-shadow:0 0 0 9px rgba(242,183,5,0)}100%{box-shadow:0 0 0 0 rgba(242,183,5,0)}}
-.sello{display:grid;grid-template-columns:auto 1fr;gap:18px 22px;align-items:end;margin-top:26px}
-.hora{font-weight:900;font-stretch:62%;font-size:clamp(84px,19vw,150px);line-height:.8;letter-spacing:-.03em;color:#fff}
-.hora small{font-size:.32em;font-stretch:100%;font-weight:700;color:var(--sol);margin-left:4px;letter-spacing:0}
+/* Cabecera: blanco, celeste y dorado. El sello de la hora es la pieza memorable */
+.cabecera{background:#fff;color:#12395E;position:relative;overflow:hidden;border-bottom:3px solid var(--oro)}
+.cabecera::after{content:"";position:absolute;right:-90px;top:-90px;width:300px;height:300px;border-radius:50%;
+  background:radial-gradient(circle,rgba(226,178,48,.55) 0 34%,rgba(226,178,48,.18) 35% 52%,rgba(226,178,48,0) 70%);pointer-events:none}
+.franja{background:var(--celeste);color:#fff;padding:14px 0}
+.marca{display:flex;align-items:center;justify-content:space-between;gap:12px;position:relative;z-index:1}
+.marca h1{margin:0;font-weight:800;font-stretch:118%;font-size:clamp(20px,4.2vw,26px);letter-spacing:-.01em;color:#fff}
+.marca h1 span{color:#fff;font-weight:500;font-stretch:100%;opacity:.92}
+.vivo{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:#fff;font-weight:600}
+.vivo i{width:8px;height:8px;border-radius:50%;background:var(--sol);box-shadow:0 0 0 0 rgba(226,178,48,.8);animation:latido 2.4s infinite}
+@keyframes latido{70%{box-shadow:0 0 0 9px rgba(226,178,48,0)}100%{box-shadow:0 0 0 0 rgba(226,178,48,0)}}
+.sello{display:grid;grid-template-columns:auto 1fr;gap:18px 22px;align-items:end;padding:22px 0 26px;position:relative;z-index:1}
+.hora{font-weight:900;font-stretch:62%;font-size:clamp(84px,19vw,150px);line-height:.8;letter-spacing:-.03em;color:var(--celeste-osc)}
+.hora small{font-size:.32em;font-stretch:100%;font-weight:800;color:var(--oro);margin-left:4px;letter-spacing:0}
 .sello-texto{padding-bottom:6px}
-.sello-texto .fecha{font-weight:600;font-size:clamp(17px,3.6vw,22px)}
-.sello-texto p{margin:4px 0 0;color:#C9D8F3;font-size:14px;max-width:44ch}
+.sello-texto .fecha{font-weight:700;font-size:clamp(17px,3.6vw,22px);color:#12395E}
+.sello-texto p{margin:4px 0 0;color:#4A6680;font-size:14px;max-width:44ch}
 
 /* Lo que tenés que saber */
-.claves{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);margin:-14px 0 0;padding:22px 22px 8px;position:relative;z-index:1;box-shadow:0 12px 30px -18px rgba(20,48,110,.45)}
-.claves h2{margin:0 0 10px;font-size:15px;font-weight:700;color:var(--cobalto-2)}
+.claves{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);margin:20px 0 0;padding:22px 22px 8px;position:relative;z-index:1;box-shadow:0 12px 30px -20px rgba(63,134,198,.5)}
+.claves h2{margin:0 0 10px;font-size:15px;font-weight:700;color:var(--celeste-osc)}
 .claves ol{margin:0;padding:0;list-style:none;counter-reset:k}
 .claves li{font-family:var(--serif);font-size:clamp(18px,2.6vw,21px);line-height:1.42;padding:0 0 14px 34px;position:relative;max-width:68ch}
-.claves li::before{counter-increment:k;content:counter(k);position:absolute;left:0;top:2px;font:800 15px/1 var(--sans);color:var(--cobalto);background:var(--sol);width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
+.claves li::before{counter-increment:k;content:counter(k);position:absolute;left:0;top:2px;font:800 15px/1 var(--sans);color:#fff;background:var(--celeste-osc);width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
 
 /* Pestañas */
 .pestanas{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--papel) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--linea);margin-top:22px}
@@ -84,6 +85,7 @@ a{color:inherit}
 .tema[data-tono=positivo] .tono{color:var(--pos)} .tema[data-tono=negativo] .tono{color:var(--neg)} .tema[data-tono=mixto] .tono{color:var(--mix)}
 .tema h3{margin:0 0 8px;font-size:clamp(20px,2.8vw,24px);line-height:1.18;font-weight:750;font-stretch:96%}
 .tema.destacado h3{font-size:clamp(23px,3.4vw,30px)}
+.tema .resumen strong,.claves li strong{font-weight:600;color:var(--tinta);box-shadow:inset 0 -.42em 0 rgba(116,172,223,.35)}
 .tema .resumen{font-family:var(--serif);font-size:17.5px;line-height:1.55;margin:0 0 14px;color:var(--tinta);max-width:70ch}
 .personas{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px}
 .personas span{font-size:13px;background:color-mix(in srgb,var(--celeste) 22%,transparent);color:var(--tinta);border-radius:6px;padding:2px 8px}
@@ -106,7 +108,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .tema-cabeza{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
 .rostros{display:flex;align-items:center}
 .rostro{position:relative;width:46px;height:46px;border-radius:50%;margin-right:-10px;border:3px solid var(--hoja);
-  background:linear-gradient(140deg,var(--cobalto-2),var(--cobalto));color:#fff;display:grid;place-items:center;
+  background:linear-gradient(140deg,var(--celeste),var(--celeste-osc));color:#fff;display:grid;place-items:center;
   font:800 15px/1 var(--sans);font-stretch:90%;overflow:hidden;flex:none}
 .rostro img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.05);mix-blend-mode:luminosity}
 .rostro::after{content:"";position:absolute;inset:0;background:linear-gradient(140deg,rgba(124,196,232,.25),rgba(20,48,110,.45))}
@@ -160,6 +162,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .marca h1{white-space:nowrap}
 @media(max-width:520px){
   .marca h1{font-size:19px}
+  .cabecera::after{width:200px;height:200px;right:-70px;top:-70px}
   .vivo{font-size:12px;white-space:nowrap}
   .vivo .largo{display:none}
   .sello{gap:10px 16px;margin-top:20px}
@@ -170,11 +173,13 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 </head>
 <body>
 <header class="cabecera">
-  <div class="envoltura">
+  <div class="franja"><div class="envoltura">
     <div class="marca">
       <h1>Clipping <span>Renovador</span></h1>
       <span class="vivo" id="vivo"><i></i><span>Actualizando</span></span>
     </div>
+  </div></div>
+  <div class="envoltura">
     <div class="sello">
       <div class="hora" id="hora" aria-label="Hora de la edición">--<small>h</small></div>
       <div class="sello-texto">
@@ -253,6 +258,15 @@ function slug(n){return n.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowe
 function iniciales(n){var p=n.split(/\s+/).filter(Boolean);return((p[0]||"")[0]+((p[p.length-1]||"")[0]||"")).toUpperCase();}
 function rostros(lista){if(!lista||!lista.length)return"";var v=lista.slice(0,4);
   return'<div class="rostros" aria-label="'+esc(lista.join(", "))+'">'+v.map(function(n){return'<span class="rostro" title="'+esc(n)+'">'+esc(iniciales(n))+'<img alt="" loading="lazy" src="fotos/'+slug(n)+'.jpg" onerror="this.remove()"></span>';}).join("")+'<span class="rostros-mas">'+esc(lista.slice(0,3).join(", "))+(lista.length>3?" y "+(lista.length-3)+" más":"")+'</span></div>';}
+
+var TERMINOS_FR=["Frente Renovador","Jóvenes FR","massismo","massistas","massista","FR"];
+function resaltar(texto,personas){
+  var t=[];(personas||[]).forEach(function(n){t.push(n);var p=n.split(/\s+/);var ap=p[p.length-1];if(ap&&ap.length>3)t.push(ap);});
+  t=t.concat(TERMINOS_FR).filter(function(x,i,a){return x&&a.indexOf(x)===i;}).sort(function(a,b){return b.length-a.length;});
+  var out=esc(texto);if(!t.length)return out;
+  var re=new RegExp("(^|[^\\p{L}])("+t.map(function(x){return esc(x).replace(/[.*+?^${}()|[\]\\]/g,"\\$&");}).join("|")+")(?![\\p{L}])","gu");
+  return out.replace(re,"$1<strong>$2</strong>");
+}
 function wa(texto){return "https://wa.me/?text="+encodeURIComponent(texto);}
 function json(u){return fetch(u+(u.indexOf("?")<0?"?":"&")+"v="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
 
@@ -270,7 +284,8 @@ function pintarEdicion(ed){
   $("fecha").textContent="Edición del "+fechaLarga(d);
   var m=ed.metricas||{};
   $("metricas").textContent=m.notas_analizadas?("Revisamos "+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
-  $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+esc(c)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
+  var todos=[];(ed.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){if(todos.indexOf(p)<0)todos.push(p);});});
+  $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+resaltar(c,todos)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
   var txt="*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n"+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
   $("wa-edicion").href=wa(txt); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
   $("n-temas").textContent=(ed.temas||[]).length; $("n-redes").textContent=(ed.redes||[]).length; $("n-videos").textContent=(ed.entrevistas||[]).length;
@@ -296,7 +311,7 @@ function pintarTemas(){
     var share="*"+t.titulo+"*\n"+(t.resumen||"")+"\n\n"+((t.principales||[])[0]?(t.principales[0].medio+": "+t.principales[0].url+"\n\n"):"")+"Clipping Renovador: "+SITIO;
     return'<article class="tema'+(i===0&&!filtroPersona?" destacado":"")+'" data-tono="'+esc(t.tono||"neutro")+'">'+
       '<div class="tema-cabeza">'+rostros(t.dirigentes)+'<div class="tema-meta"><span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span></div></div>'+
-      '<h3>'+esc(t.titulo)+'</h3><p class="resumen">'+esc(t.resumen)+'</p>'+
+      '<h3>'+esc(t.titulo)+'</h3><p class="resumen">'+resaltar(t.resumen,t.dirigentes)+'</p>'+
       coberturaHtml(t,otras,max)+
 
       '<ul class="fuentes">'+princ+'</ul>'+otrasHtml+

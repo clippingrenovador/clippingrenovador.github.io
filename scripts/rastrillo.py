@@ -44,6 +44,11 @@ BUSQUEDAS = [
     '"Pablo Garate"',
     '"Darío Golía"',
     'Eslaiman diputado',
+    '"Felipe Romero" Frente Renovador',
+    '"Felipe Romero" juventud',
+    '"Feli Romero"',
+    '"Jóvenes FR"',
+    '"Juventud del Frente Renovador"',
 ]
 
 UA = "Mozilla/5.0 (compatible; ClippingRenovador/1.0; +https://github.com/renzocanch2003-ops/clipping-renovador)"
@@ -94,6 +99,7 @@ BUSQUEDAS_YT = [
     "Sergio Massa", "Frente Renovador", "Malena Galmarini", "Sebastián Galmarini",
     "Cecilia Moreau", "Diego Giuliano", "Juan Andreotti", "Natalia de la Sota",
     "Marina Salzmann", "Katia Blanc", "Rubén Eslaiman", "Micaela Morán",
+    "Felipe Romero", "Feli Romero", "Jóvenes FR",
 ]
 
 
