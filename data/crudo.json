@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-20T18:12-03:00",
- "total": 500,
- "nuevas_ultima_corrida": 23,
+ "generado": "2026-11-20T19:10-03:00",
+ "total": 508,
+ "nuevas_ultima_corrida": 21,
  "errores": [],
  "notas": [
+  {
+   "id": "2d701ef7614c",
+   "titulo": "Natalia de la Sota: \"Hoy no hay diálogo con la Provincia; primero hace falta voluntad\"",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPekFpLWM4bFZtSkZIRUJyQjU0NGZRS19CYVVxbzF0ZUZlREhVQllPb0Z1dXpXYU5ZUjZFZDNRVU8tb1NMcFBBRURNMVAtVzBab3E2MVZmVDBNMXEtalV1LUxGN2p2MDg4OHN1RXJjSkJBcnF3ZEo4TmUzVld2MHFSalNpQVpBZUFLNTNnb1ZfenU1a1VwZlpIa0NXMDhGOWZJVzJuRXFzWFV3cnVERWNGeUVkVXQzLUVwQjJ5TjZEWUhmb2pE?oc=5",
+   "fecha": "2026-11-20T18:45-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T19:08-03:00",
+   "url_original": "https://www.perfil.com/cordoba/natalia-de-la-sota-hoy-no-hay-dialogo-con-la-provincia-primero-hace-falta-voluntad-aFXD44x4LHcL",
+   "revisada": true
+  },
+  {
+   "id": "7f26dc382791",
+   "titulo": "Tigre realizó una nueva entrega de kits lúdicos para jardines de infantes en Rincón de Milberg",
+   "medio": "Zona Norte Diario Online",
+   "medio_url": "https://www.zonanortediario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHdFVGZiRG9uZkVlN1lrSHY2NDFwdzdoVDA2THBsam1NSUVHVlNQa25CR0xMdTh1clVTY3lpMjlxVGNRVnFlaW55WG9odDBoZEdPZEJGRTk4dk5qdE9wZ0FmMlVfdUV5UjN3VFpNWVphWEFUMVFBZTNsZWpUbTRhbjZtenlfM0U4TzFWRURGTHVlaXJzaHJtM25OSHJYdEtkLXJQZ0lzd2k4eWdTdDJzT0VpamQyaFpiTW9OcEU1YTdTWlMzRGxyamhqZjlkUV9NUmcwb3pKZWE?oc=5",
+   "fecha": "2026-11-20T18:32-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-20T19:09-03:00",
+   "url_original": "https://www.zonanortediario.com.ar/20/11/2026/tigre-realizo-una-nueva-entrega-de-kits-ludicos-para-jardines-de-infantes-en-rincon-de-milberg/",
+   "revisada": true
+  },
   {
    "id": "bf021e29b6f3",
    "titulo": "Sebastián Galmarini se reunió con vecinos del predio ex Cheeky en Martínez y recibió un petitorio por las obras de Black Martínez",
@@ -69,7 +98,8 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGEtTFNNeVk1S29BRnVkZVhSYTFHTE1FX0NoWF9YX0FtbWhqVENNUHRWZ2RmMXhNU1hrSVQxS0xnT3Z6MFNyZGFHZFBBQ0lCYTRtR2l5R1A0RXA4QXQ0MlcxWHNhSjFXdExhcXlaZVdqRmN3NVlhdFN4U1RLbVVZcXM2cHp3MzVOeFRWbmJ1NFFIcHFuV1IxanZ2LXV4eEN4OUE?oc=5",
    "fecha": "2026-11-20T16:36-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-20T18:10-03:00",
    "url_original": "https://avellanedahoy.com.ar/nota/24752/luca-bertolotto-el-liderazgo-de-sergio-massa-es-indiscutido/",
@@ -174,6 +204,20 @@
    ],
    "visto": "2026-11-20T16:26-03:00",
    "url_original": "https://elintransigente.com/2026/11/20/jorge-asis-dio-preferencias-2027-alternativa-mas-viable/",
+   "revisada": true
+  },
+  {
+   "id": "705636a8f4e9",
+   "titulo": "La imagen negativa de los políticos: Máximo Kirchner y Macri, cabeza a cabeza",
+   "medio": "Revista Noticias",
+   "medio_url": "https://noticias.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0llX19fSXdzcWFYcXdFbHYza3FqczZyZmo3Z3UwbkE5bi1yMDdaRHRBejFIWmY1SFgyeGtkUWQ5QWc4cEFCRV9qS3ZjMkNSbGVweExVLW1jTjdvZklMWXpBcXhWaVpfUS1YVmxWZUdpNEMtUHBuMnh4X2t3SUFzMUc2TUwwMWl3MTFQRGRDVWtUUUhFMXdMZHV3UUp3N2dtTGxYSV8xSXVuRFdEVy13UzdzbFA3WVpiX3Vta0R3UGRiS3c2eGfSAcsBQVVfeXFMUEtkNWwtZ3NueFBRN2I0bmdqbHU3MFVOcmJXRFZyTjlrRFZ6WEhnLVlLZ1JvNWw2UzZocWNONGxQQ2ZMSXBsR3d5TU0zNF80ekhWc2dvcGNhY1NLM1d5LVVOVGlJVWxEZVJjaUtsV2lpeFQtZTVUMGZ4YWthVzFjaDhPYld1U2pkQU5XdGpqRTByeVF0cXhRaU9lTV9LS3poMlEwQ29hVGxrRlRDTjN1M0FJZV9pNU5oeVVBRm5CcFgwMVBJMVFhZ1NRR1U?oc=5",
+   "fecha": "2026-11-20T15:41-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T19:09-03:00",
+   "url_original": "https://noticias.perfil.com/noticias/politica/la-imagen-negativa-de-los-politicos-maximo-kirchner-y-macri-cabeza-a-cabeza.phtml",
    "revisada": true
   },
   {
@@ -481,6 +525,20 @@
    "revisada": true
   },
   {
+   "id": "323c78ef8e9c",
+   "titulo": "Encuesta Universidad de San Andrés: 7 de cada 10 personas están insatisfechas con la marcha del país",
+   "medio": "San Fernando Nuestro",
+   "medio_url": "https://sanfernandonuestro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWHVveE5YRkZSZUhUTDgydzVTVTJOdkN0M29Jdl82NVBENF9iMzdCRFpidnhiU2ZqUWpWUEJXV3YzdU1xZlAxZ2RmaDBoM0JsNjRxeWc5ZzdublhpWFRoWVRXSlNMM0pWb2VuTG9UX0I4ZnBJMEFBWG1WdUFyTGY3QnZNQ3VENU05aTNYa0NTVEVSSGJCUlBTQl8xU2pDdVh3MS1YYm1jWTBERGVTSGdpZEw4ek5Ud19vdC1fSWlMMm53R3dTckJLbzhoanh4WTQ?oc=5",
+   "fecha": "2026-11-20T12:46-03:00",
+   "busquedas": [
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T19:09-03:00",
+   "url_original": "https://sanfernandonuestro.com.ar/encuesta-universidad-de-san-andres-7-de-cada-10-personas-estan-insatisfechas-con-la-marcha-del-pais/",
+   "revisada": true
+  },
+  {
    "id": "daa84175af8d",
    "titulo": "La pesadilla de las harineras de pescado y el mal olor: proponen relocalizar las plantas",
    "medio": "0223.com.ar",
@@ -508,6 +566,36 @@
    ],
    "visto": "2026-11-20T14:16-03:00",
    "url_original": "https://urgente24.com/actualidad/politica/con-o-paso-el-peronismo-le-avisa-milei-que-ira-unido-sacarlo-del-poder-2027-n637198",
+   "revisada": true
+  },
+  {
+   "id": "885060004cce",
+   "titulo": "Massa manda a sus intendentes al acto de Kicillof en La Plata y llamó a dejar de lado las internas",
+   "medio": "Cronos noticias",
+   "medio_url": "https://infocronos.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG4zbkdPblc4WGRWc3FJM05fUWFRSWxtNm9ZdEsxdEpQU1RreWNnSnJDVzdMV25KY3ZxUFk0TF9yNDI1YnhLS1lCWmxnTXN3LS1vdlRXZWdWelJfVFZZZE9fZzVSaXJXVS00VG5GZllWbnlKSHY4WlBSRHMtMVdwQmVyaGxyNDA4bHlsenpYeGZmX0EwdVdRNkJLM3dnY1cyTm5PNzF3Smx3X0lzczNmNjBQN0xXUTB3Y09HR19PelFKYWt1Y2phZHJQdDdsSTc1UUE?oc=5",
+   "fecha": "2026-11-20T12:26-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T19:08-03:00",
+   "url_original": "https://infocronos.com.ar/nota/58974/massa-manda-a-sus-intendentes-al-acto-de-kicillof-en-la-plata-y-llamo-a-dejar-de-lado-las-internas/",
+   "revisada": true
+  },
+  {
+   "id": "7b36eebe428f",
+   "titulo": "Rumbo a 2027: Cecilia Moreau aseguró que “con PASO o sin PASO, el peronismo va a ir unido a la elección”",
+   "medio": "0343 Noticias",
+   "medio_url": "https://0343.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1EyWXRwTTBlSk9iOW5rTUVSRmphQVU2X2RTYXQtemxYVzg5eXFoVXl6N1FnMUJjdW5EZFBBNTZiZlBGX3pPMVBPbEYySVB6SFFWZDVUV1JrYnlucFY0UEdhRUNiOWs1OXVHSTRoNjkzVmVaSGFzOWR0QkRUQ1o2WDNjSlMyWlhpWmZ5NnZVVU1tV0w3WHVENWNsdHBaMm1wbFBCWG83U3lZUTVMMDhDeGtsYm53UFlUbzJEc2tLMGpiNU85TDhSeDAwNnNJNnp3OUpCbExvRHJ3dw?oc=5",
+   "fecha": "2026-11-20T12:22-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T19:08-03:00",
+   "url_original": "https://0343.com.ar/nacionales/rumbo-a-2027-cecilia-moreau-aseguro-que-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido-a-la-eleccion_1795188120",
    "revisada": true
   },
   {
@@ -668,6 +756,20 @@
    ],
    "visto": "2026-11-20T12:17-03:00",
    "url_original": "https://www.ambito.com/ambito-nacional/sin-paso-la-vista-el-frente-renovador-anticipa-acuerdo-unidad-el-peronismo-n6347483/amp",
+   "revisada": true
+  },
+  {
+   "id": "3132c9097a64",
+   "titulo": "VIDEO | Cañuelas: desbarataron una banda que desguazaba autos robados y arrojaba las numeraciones al río Matanza",
+   "medio": "NOVA Bonaerense",
+   "medio_url": "https://www.novabonaerense.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGVfV2I3bV9zcWVURUZUbDRvZXVDOGFLWVRyLVNtMF9vZFpyX1FONTlZTGdLbndPTjdkWHpTbUc2RlpkeS02b21pSGdQUWdyVGxXaHI3Z3VEOHljVTRyNUJRalhUTEZ0WkNWcUNmV2t0YTl6SURsNmxNX3lpNWdVbw?oc=5",
+   "fecha": "2026-11-20T10:47-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-20T19:08-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?n=2026_11_20&id=92744&id_tiponota=1",
    "revisada": true
   },
   {
@@ -1447,6 +1549,20 @@
    ],
    "visto": "2026-11-20T03:26-03:00",
    "url_original": "https://chacabuco.gob.ar/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco/",
+   "revisada": true
+  },
+  {
+   "id": "1e730899f158",
+   "titulo": "De la Torre dijo que Milei puede perder con la suspensión de las PASO",
+   "medio": "Informe Digital",
+   "medio_url": "https://informedigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWtkMzcwaXZ6VG1UYUtwU3FHVXB6SHhMWmVxc1RaRFpaOFcwdjlGR3FNc25OOFhwQ05YRVlqdFNsbXlaamViX2xfZndJSXNfbGZQaDlIQm9xcHVhQlJlclJ2dkZWUUxWNXU3RU5tdWRaNUV2bFhXc1RraVdZZDNDT00wVGo0MWVKUXJfUzhTZS1ISlA4SURFZ0RCZktPOEYtRlE?oc=5",
+   "fecha": "2026-11-19T20:51-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T19:08-03:00",
+   "url_original": "https://informedigital.com.ar/de-la-torre-dijo-que-milei-puede-perder-con-la-suspension-de-las-paso/",
    "revisada": true
   },
   {
