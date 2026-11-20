@@ -101,44 +101,76 @@ def texto_centrado(d, y, texto, f, color, borde=0, color_borde=BLANCO, espaciado
         x += a + espaciado
 
 
-def main():
-    # Fondo: degradado azul a celeste, con semitono blanco que crece hacia las esquinas
-    img = Image.new("RGB", (W, H))
-    px = img.load()
-    a, b = (40, 96, 160), CELESTE
-    for y in range(H):
-        for x in range(0, W):
-            t = (x / W) * 0.6 + (y / H) * 0.4
-            px[x, y] = tuple(int(a[k] + (b[k] - a[k]) * t) for k in range(3))
-    d = ImageDraw.Draw(img)
-    paso = 22 * E
-    for fila, y in enumerate(range(-paso, H + paso, paso)):
-        desplaza = (paso // 2) if fila % 2 else 0
-        for x in range(-paso + desplaza, W + paso, paso):
-            # distancia al centro, normalizada: los puntos crecen hacia los bordes
-            # semitono que nace en la mitad inferior y llega a blanco abajo
-            fuerza = min(1.0, max(0.0, (y / H - 0.60) / 0.40)) + max(0.0, 0.18 - y / H) * 1.2
-            r = paso * 0.64 * fuerza ** 1.1
-            if r > 0.6 * E:
-                d.ellipse([x - r, y - r, x + r, y + r], fill=BLANCO)
+AZUL = (24, 140, 232)
+NEGRO = (14, 18, 26)
+CREMA = (244, 240, 228)
 
-    # Titulo en blanco con sombra suave
-    f = fuente(132 * E, 900, 100)
-    sombra = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ds = ImageDraw.Draw(sombra)
-    for texto, y in (("CLIPPING", H * 0.16), ("RENOVADOR", H * 0.40)):
-        anchos = [ds.textlength(c, font=f) for c in texto]
-        total = sum(anchos) + 6 * E * (len(texto) - 1)
-        x = (W - total) / 2
-        for c, w in zip(texto, anchos):
-            ds.text((x + 4 * E, y + 6 * E), c, font=f, fill=(20, 50, 95, 110))
-            x += w + 6 * E
-    from PIL import ImageFilter
-    sombra = sombra.filter(ImageFilter.GaussianBlur(8 * E))
-    img.paste(sombra, (0, 0), sombra)
+
+def sol_chico(d, cx, cy, r, color):
+    for k in range(16):
+        a = math.radians(k * 22.5)
+        d.polygon(rayo_recto(cx, cy, k * 22.5, r * 0.5, r, r * 0.16), fill=color)
+    d.ellipse([cx - r * 0.55, cy - r * 0.55, cx + r * 0.55, cy + r * 0.55], fill=color)
+
+
+def main():
+    import numpy as np
+    rng = np.random.default_rng(1945)
+    # Campo de tono: manchas suaves tipo foto de archivo + viñeta oscura en los bordes
+    manchas = Image.fromarray((rng.random((5, 9)) * 255).astype("uint8")).resize((W, H), Image.BICUBIC)
+    m = np.asarray(manchas, dtype=float) / 255
+    yy, xx = np.mgrid[0:H, 0:W]
+    vin = np.hypot((xx - W / 2) / (W / 2), (yy - H / 2) / (H / 2)) / 1.41
+    tono = np.clip(0.02 + 0.42 * m ** 1.4 + 0.75 * vin ** 2.4, 0, 1)
+
+    # Semitono negro sobre azul, trama a 45 grados
+    img = Image.new("RGB", (W, H), AZUL)
     d = ImageDraw.Draw(img)
-    texto_centrado(d, H * 0.16, "CLIPPING", f, BLANCO, espaciado=6 * E)
-    texto_centrado(d, H * 0.40, "RENOVADOR", f, BLANCO, espaciado=6 * E)
+    paso = 12 * E
+    c, s_ = math.cos(math.radians(45)), math.sin(math.radians(45))
+    rango = int(math.hypot(W, H) / paso) + 2
+    for i in range(-rango, rango):
+        for k in range(-rango, rango):
+            x = W / 2 + (i * c - k * s_) * paso
+            y = H / 2 + (i * s_ + k * c) * paso
+            if -paso < x < W + paso and -paso < y < H + paso:
+                t = tono[min(H - 1, max(0, int(y))), min(W - 1, max(0, int(x)))]
+                r = paso * 0.78 * t ** 0.85
+                if r > 0.4 * E:
+                    d.ellipse([x - r, y - r, x + r, y + r], fill=NEGRO)
+
+    # Grano de impresion
+    arr = np.asarray(img, dtype=float)
+    arr += rng.normal(0, 9, (H, W, 1))
+    img = Image.fromarray(np.clip(arr, 0, 255).astype("uint8"))
+    d = ImageDraw.Draw(img)
+
+    # Titulo crema entre filetes, como las piezas de Jovenes FR
+    margen = 70 * E
+    tam = 150
+    while True:
+        f = fuente(tam * E, 900, 125)
+        if d.textlength("RENOVADOR", font=f) + 16 * E <= W - 2 * margen - 60 * E or tam <= 80:
+            break
+        tam -= 4
+    grosor = 7 * E
+    y1, y2 = H * 0.19, H * 0.44
+    texto_centrado(d, y1, "CLIPPING", f, CREMA, espaciado=2 * E)
+    bbox = d.textbbox((0, y1), "CLIPPING", font=f)
+    alto = bbox[3] - bbox[1]
+    sep = (y2 - y1 - alto)
+    filete_sup = bbox[1] - 32 * E
+    filete_medio = bbox[3] + sep / 2
+    texto_centrado(d, y2, "RENOVADOR", f, CREMA, espaciado=2 * E)
+    b2 = d.textbbox((0, y2), "RENOVADOR", font=f)
+    filete_inf = b2[3] + 32 * E
+    d.rectangle([margen, filete_sup - grosor, W - margen, filete_sup], fill=CREMA)
+    d.rectangle([margen, filete_inf, W - margen, filete_inf + grosor], fill=CREMA)
+    for x in (margen - 2 * E, W - margen + 2 * E):
+        pass
+    for yf in (filete_sup - grosor / 2, filete_inf + grosor / 2):
+        sol_chico(d, margen - 26 * E, yf, 15 * E, CREMA)
+        sol_chico(d, W - margen + 26 * E, yf, 15 * E, CREMA)
 
     img = img.resize((W // E, H // E), Image.LANCZOS)
     img.save(RAIZ / "og.png", optimize=True)
