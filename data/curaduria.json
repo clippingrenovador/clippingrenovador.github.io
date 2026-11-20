@@ -1,86 +1,30 @@
 {
+ "hora": "06",
  "claves": [
-  "El encuentro de San Fernando ubicó a Sergio Massa en el centro de la reorganización del peronismo. El gobernador Kicillof respondió con una convocatoria a sus intendentes en La Plata.",
-  "Malena Galmarini respondió públicamente al ministro Caputo por sus comentarios sobre el encuentro. La respuesta tuvo amplia repercusión en medios nacionales y provinciales.",
-  "Ante una eventual suspensión de las PASO, distintos análisis anticipan que la definición de candidaturas quedaría en manos de Massa y Cristina Kirchner. En la provincia de Buenos Aires se evalúa sostener las primarias.",
-  "El Frente Renovador amplía su estructura en Tierra del Fuego, Chubut y Córdoba. Guillermo Michel integrará el Consejo de la Magistratura en representación de la Cámara de Diputados."
+  "El gobernador Axel Kicillof busca sostener las PASO en la provincia de Buenos Aires como herramienta de negociación nacional con Sergio Massa y Cristina Kirchner.",
+  "La diputada Cecilia Moreau sostuvo que, con o sin primarias, el peronismo irá unido a las elecciones de 2027. Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO.",
+  "El dirigente de la CGT Cristian Jerónimo tomó distancia de Massa y reclamó una interna para definir el liderazgo del peronismo.",
+  "El diputado Diego Giuliano advirtió que modificar las reglas electorales cerca del cronograma afecta la competencia y que la agenda de la Cámara no atiende los problemas de la gente."
  ],
+ "retirar": [],
  "temas": [
   {
-   "titulo": "San Fernando reordena el peronismo: Massa toma la iniciativa y Kicillof responde",
-   "resumen": "El encuentro que encabezó Massa por el Día de la Militancia sigue marcando la agenda. Los medios lo leen como una demostración de fuerza y el arranque de un armado propio rumbo a 2027. Desde La Plata, Kicillof convocó a sus intendentes y Carlos Bianco aclaró que el acto no fue en su contra.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "ab00192983fb",
-    "2162f84905d4",
-    "78ef112c5d60"
-   ],
-   "otras": [
-    "47607e29b920",
-    "ac5a556b9c95",
-    "d1e551eac8d2",
-    "b5546ec89454",
-    "a3bb488ff844",
-    "fbe829163833",
-    "be8c3e569a74",
-    "71d55925b3c9",
-    "2fa7694d95b6",
-    "dd8f7ddb6a9c",
-    "17efc4fc6f40",
-    "364ba983e672",
-    "71bb29029c0c",
-    "58a829765e79",
-    "a7bc7ab7b90a",
-    "e6b57d26f392",
-    "0b6e832d0f56",
-    "54de0857f2e0",
-    "57fbd70d76f7",
-    "9e96188b4be7",
-    "ea889db7a7d8",
-    "2ed80ad43c6c"
-   ],
-   "id": "san-fernando-reordena-el"
-  },
-  {
-   "titulo": "Malena Galmarini le respondió a Caputo: “No te alteres que te sube el riesgo país”",
-   "resumen": "Caputo se burló en redes del encuentro peronista de San Fernando y Malena Galmarini le contestó con su gestión económica como blanco. En la respuesta también defendió la unidad del peronismo para enfrentar a Milei.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Malena Galmarini"
-   ],
-   "principales": [
-    "58a9b1a6e736",
-    "0de036aa42ef",
-    "1f383501fd31"
-   ],
-   "otras": [
-    "7ccd5be83dc0",
-    "1742bcade09a",
-    "d02c92e0b112",
-    "db7b39a19726",
-    "6172ab569f40",
-    "1bf0c3d95ee5",
-    "1b5d328e4d79",
-    "8599456433b1"
-   ],
-   "id": "malena-galmarini-le-respondio"
-  },
-  {
-   "titulo": "Sin PASO, la interna se ordenaría detrás de Massa y Cristina",
-   "resumen": "Si el Gobierno suspende las primarias nacionales, varios análisis creen que el peronismo definiría su candidatura con Massa y Cristina Kirchner como árbitros, lo que frenaría las aspiraciones de Kicillof. En paralelo, el peronismo, la UCR y parte del PRO empujan para mantener las PASO en la provincia de Buenos Aires.",
+   "id": "sin-paso-la-interna",
+   "titulo": "PASO: Kicillof busca sostenerlas en Buenos Aires para negociar con Massa y Cristina",
+   "resumen": "Según Infobae, el gobernador pretende mantener las primarias en la provincia como carta de negociación frente a Sergio Massa y Cristina Kirchner. Desde el Frente Renovador, Cecilia Moreau y Sebastián Galmarini cuestionaron el proyecto oficial de suspender las PASO y sostuvieron que el peronismo llegará unido a 2027.",
    "tono": "mixto",
    "dirigentes": [
-    "Sergio Massa"
+    "Sergio Massa",
+    "Cecilia Moreau",
+    "Sebastián Galmarini"
    ],
    "principales": [
+    "f1e3ab8cc762",
     "6fa570147f48",
-    "20a4f915836b",
-    "cc8d60e0cf53"
+    "20a4f915836b"
    ],
    "otras": [
+    "cc8d60e0cf53",
     "51f87f25a27b",
     "7ee5c8ed6a59",
     "a75ad649d7ba",
@@ -89,180 +33,56 @@
     "57b9c93e7d6e",
     "4ca389c9fc3e",
     "5f92bd89c305"
-   ],
-   "id": "sin-paso-la-interna"
+   ]
   },
   {
-   "titulo": "El Frente Renovador arma estructura en las provincias",
-   "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego, el FR quedó habilitado para competir en Chubut en 2027 y se anunció una alianza en la Patagonia. En Córdoba, Massa respalda a Natalia de la Sota y presiona a Llaryora para que negocie con el PJ.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Natalia de la Sota",
-    "Alejandro Deanes"
-   ],
-   "principales": [
-    "aa6f518c22da",
-    "01f465c92687",
-    "559f2f44115f"
-   ],
-   "otras": [
-    "443d51637e4a",
-    "90acf2c89934",
-    "e236c3d1cad9",
-    "c03b6a5adcc9",
-    "a6795d3275c8"
-   ],
-   "id": "el-frente-renovador-arma"
-  },
-  {
-   "titulo": "Guillermo Michel se suma al Consejo de la Magistratura",
-   "resumen": "El acuerdo entre Cristina Kirchner y Sergio Massa ubicó a Guillermo Michel en uno de los lugares que corresponden a la Cámara de Diputados en el nuevo Consejo de la Magistratura. El organismo todavía no logra completarse por las diferencias entre bloques.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
-   "principales": [
-    "a5b79f219a10",
-    "16401c58d818"
-   ],
-   "otras": [
-    "76cb6ca6dd60",
-    "05ce83971ee0",
-    "d83d308972c0"
-   ],
-   "id": "guillermo-michel-se-suma"
-  },
-  {
-   "titulo": "Gestión: universidad en San Fernando, viviendas en Chacabuco y oficios en Santa Fe",
-   "resumen": "Juan Andreotti recorrió el inicio de la obra de la Universidad Nacional del Delta. Darío Golía firmó los contratos para construir 30 viviendas en Chacabuco. Diego Giuliano entregó 800 diplomas de la escuela de oficios y cuestionó el endeudamiento del gobierno santafesino.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti",
-    "Darío Golía",
-    "Diego Giuliano",
-    "Pablo Garate"
-   ],
-   "principales": [
-    "0851b0e47330",
-    "f06ee6af5f83",
-    "a3ac62e99032"
-   ],
-   "otras": [
-    "8f9f8bd21f69",
-    "f37aaaf7fa2b",
-    "d27e7e4e2525",
-    "761eb357cb34",
-    "8c8b115b032a",
-    "c2e05bb62aa1",
-    "19f55830f26c"
-   ],
-   "id": "gestion-universidad-en-san"
-  },
-  {
-   "titulo": "La CGT, entre la foto con Massa y la búsqueda de otro candidato",
-   "resumen": "Hay dos lecturas sobre la central obrera: la foto del Día de la Militancia con Massa y La Cámpora, sin Kicillof, y la versión de que parte de la cúpula sindical retacea su apoyo a Massa y busca otro nombre para 2027.",
-   "tono": "mixto",
+   "id": "la-cgt-entre-la",
+   "titulo": "CGT: Cristian Jerónimo toma distancia de Massa y pide una interna",
+   "resumen": "El dirigente de la central obrera reclamó una competencia interna para definir el liderazgo del peronismo y se diferenció de Sergio Massa, en línea con la versión de que parte de la cúpula sindical busca otro nombre para 2027. Otro sector de la CGT estuvo en la foto del Día de la Militancia en San Fernando.",
+   "tono": "negativo",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
+    "04d25096a0c7",
     "455cddb9e0f0",
     "928dd2b6cb20"
    ],
    "otras": [
     "cf99573e6b81",
     "33fb89dbdcf5"
-   ],
-   "id": "la-cgt-entre-la"
-  },
-  {
-   "titulo": "Las críticas del día",
-   "resumen": "Dos notas de opinión cuestionan a Massa: una lo presenta como el candidato de la Embajada y otra habla de viejas recetas en su regreso junto a Urtubey.",
-   "tono": "negativo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "f0b73d3c8fb9",
-    "230e2e477d38"
-   ],
-   "otras": [],
-   "id": "las-criticas-del-dia"
-  },
-  {
-   "titulo": "Cecilia Moreau: “Va a haber mecanismos democráticos para definir el candidato”",
-   "resumen": "La diputada sostuvo que el peronismo tendrá reglas claras para elegir a su candidato presidencial y habló del tema también en C5N.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    "b559f17df80d"
-   ],
-   "otras": [],
-   "id": "cecilia-moreau-va-a"
+   ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
-  },
-  {
-   "tuit_id": "2123392418686828999",
-   "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "url": "https://x.com/ceciliamoreauok/status/2123577503197368395",
    "autor": "@ceciliamoreauok",
-   "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido."
+   "nota": "Cecilia Moreau celebró la sanción de la ley de Discapacidad."
   },
   {
-   "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO."
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2123099256861151520",
-   "autor": "@FrenteRenovador",
-   "nota": ""
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2122866262552269236",
-   "autor": "@MichelGuilleOK",
-   "nota": ""
-  },
-  {
-   "url": "https://x.com/SebasGalmarini/status/2123041725526528298",
-   "autor": "@SebasGalmarini",
-   "nota": "El encuentro de San Fernando por el Día de la Militancia."
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2123593380718330190",
-   "autor": "@felipemromeroo",
-   "nota": ""
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2123234459994783780",
+   "url": "https://x.com/DiegoGiuliano/status/2123551493420978306",
    "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano respondió al ministro de Economía por la marcha peronista."
+   "nota": "Diego Giuliano, sobre la ley de seguridad aprobada en Santa Fe."
   },
   {
-   "tuit_id": "2122861243283239200",
-   "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias."
+   "url": "https://x.com/ceciliamoreauok/status/2123063386649035246",
+   "autor": "@ceciliamoreauok",
+   "nota": ""
   }
  ],
  "entrevistas": [
   {
-   "video_id": "HbpWLzHNpN8"
+   "video_id": "e57KCvZktrE"
   },
   {
-   "video_id": "Qex8w_pmieE"
+   "video_id": "emLIIIp8hDU"
   },
   {
-   "video_id": "n4F54sw9GJU"
+   "video_id": "LccxmZvOYlM"
+  },
+  {
+   "video_id": "DkA71yjaY3k"
   }
- ],
- "hora": "01"
+ ]
 }

@@ -1,14 +1,147 @@
 {
- "id": "2026-11-20-01",
- "generado": "2026-11-20T04:58-03:00",
- "hora": "01",
+ "id": "2026-11-20-06",
+ "generado": "2026-11-20T06:21-03:00",
+ "hora": "06",
  "claves": [
-  "El encuentro de San Fernando ubicó a Sergio Massa en el centro de la reorganización del peronismo. El gobernador Kicillof respondió con una convocatoria a sus intendentes en La Plata.",
-  "Malena Galmarini respondió públicamente al ministro Caputo por sus comentarios sobre el encuentro. La respuesta tuvo amplia repercusión en medios nacionales y provinciales.",
-  "Ante una eventual suspensión de las PASO, distintos análisis anticipan que la definición de candidaturas quedaría en manos de Massa y Cristina Kirchner. En la provincia de Buenos Aires se evalúa sostener las primarias.",
-  "El Frente Renovador amplía su estructura en Tierra del Fuego, Chubut y Córdoba. Guillermo Michel integrará el Consejo de la Magistratura en representación de la Cámara de Diputados."
+  "El gobernador Axel Kicillof busca sostener las PASO en la provincia de Buenos Aires como herramienta de negociación nacional con Sergio Massa y Cristina Kirchner.",
+  "La diputada Cecilia Moreau sostuvo que, con o sin primarias, el peronismo irá unido a las elecciones de 2027. Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO.",
+  "El dirigente de la CGT Cristian Jerónimo tomó distancia de Massa y reclamó una interna para definir el liderazgo del peronismo.",
+  "El diputado Diego Giuliano advirtió que modificar las reglas electorales cerca del cronograma afecta la competencia y que la agenda de la Cámara no atiende los problemas de la gente."
  ],
  "temas": [
+  {
+   "id": "sin-paso-la-interna",
+   "titulo": "PASO: Kicillof busca sostenerlas en Buenos Aires para negociar con Massa y Cristina",
+   "resumen": "Según Infobae, el gobernador pretende mantener las primarias en la provincia como carta de negociación frente a Sergio Massa y Cristina Kirchner. Desde el Frente Renovador, Cecilia Moreau y Sebastián Galmarini cuestionaron el proyecto oficial de suspender las PASO y sostuvieron que el peronismo llegará unido a 2027.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa",
+    "Cecilia Moreau",
+    "Sebastián Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "Infobae",
+     "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
+     "url": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/",
+     "fecha": "2026-11-20T01:40-03:00",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "Provincia Noticias",
+     "titulo": "Sin PASO se ordena la interna detrás de Massa y Cristina y se frenan las aspiraciones de Kicillof",
+     "url": "https://provincianoticias.com.ar/nota/22946/sin-paso-se-ordena-la-interna-detras-de-massa-y-cristina-y-se-frenan-las-aspiraciones-de-kicillof/",
+     "fecha": "2026-11-19T13:18-03:00",
+     "dominio": "provincianoticias.com.ar"
+    },
+    {
+     "medio": "Ambito",
+     "titulo": "Los tres escenarios del peronismo sin PASO: acuerdo, interna abierta o listas separadas",
+     "url": "https://www.ambito.com/politica/los-tres-escenarios-del-peronismo-paso-acuerdo-interna-abierta-o-listas-separadas-n6347070",
+     "fecha": "2026-11-19T12:33-03:00",
+     "dominio": "ambito.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "NotiAR",
+     "url": "https://notiar.com.ar/index.php/politica/143675-la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa-por-pablo-de-leon",
+     "dominio": "notiar.com.ar"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/nacionales/politica/clarin/la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-bonaerense-se-encamina-a-sostener-la-paso-aunque-se-suspendan-a-nivel-nacional/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "InfoPlatense",
+     "url": "https://www.infoplatense.com.ar/paso-bonaerenses-provincia-mantendria-primarias-2027-milei-suspension/",
+     "dominio": "infoplatense.com.ar"
+    },
+    {
+     "medio": "Cronos noticias",
+     "url": "https://infocronos.com.ar/nota/58944/el-peronismo-la-ucr-y-sectores-del-pro-buscan-mantener-las-paso-en-la-provincia-buenos-aires/",
+     "dominio": "infocronos.com.ar"
+    },
+    {
+     "medio": "Infobae",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdldyTlViRkgxa1E1Qk9nU3ZmaURtS29IZ0kyR3dYSXpZbXAzeEpHLVdDRFIzVUktN3V2YTdwbllsWmhhWUtXekRwNTBVT0xwcW16RjJ5YVFBeGlyNDZIcFpDSnJVOXhVR2hXU2dKZWpLSDQ4TlppY2ZUeEEtWFpONzlUdDlaVkFVWHBtS0h5d2lKUEM5MmRPYTlMZG1KQTExSnZOYTdLTkp0N01UUmxaUlg5NlNZTzk1eDZ2ckhHOE9kc2Q1TGFMOUlhMjkyV2tpNjZpbFZuTk9yYkdOeEFxUEoxckxISlBDaXfSAYQCQVVfeXFMUDNackF1eVdRMlRMZk1nb044M3NrNERRZkhmSlA5a0tMN2toZTFrSzlOcDNPaV8yNE9FVWtEbmlpR05xejU2MXNJRTRpZVhSSzQtandzRzE0cTJ3WDd5TFJnanFFY1ExS2M4TDZqdUJSeURSTWFxdUdWaGJPVy1wMkVQdWJjSWRUVGhocFdwN3YzYU14XzkzalNxUFd1allpb2hwQ0RrVUxhdmhJc2lxajVKMm1rYnE5MXBfak12QWR2THl5N1ZMQXZJV2F0bFZoZmdfNV9Ib2FvVDFFX080M2RwT19UdWl1V2xHVFdITEt4WDhEUG1BZ3FJUU41OWFyN0l4N00?oc=5",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/19/jorge-asis-es-una-verguenza-que-el-gobierno-que-viene-contra-la-casta-necesite-cancelar-las-paso-para-subsistir/?outputType=amp-type",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "Diario Norte",
+     "url": "https://www.diarionorte.com/336912-leiva-con-o-sin-primarias-vamos-a-volver-a-ser-gobierno",
+     "dominio": "diarionorte.com"
+    }
+   ],
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "la-cgt-entre-la",
+   "titulo": "CGT: Cristian Jerónimo toma distancia de Massa y pide una interna",
+   "resumen": "El dirigente de la central obrera reclamó una competencia interna para definir el liderazgo del peronismo y se diferenció de Sergio Massa, en línea con la versión de que parte de la cúpula sindical busca otro nombre para 2027. Otro sector de la CGT estuvo en la foto del Día de la Militancia en San Fernando.",
+   "tono": "negativo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Enfoque Sindical |",
+     "titulo": "Cristian Jerónimo tomó distancia de Massa y reclamó una interna para definir el liderazgo del peronismo",
+     "url": "https://enfoquesindical.org/articulo/noticias/cristian-jeronimo-tomo-distancia-de-massa-y-reclamo-una-interna-para-definir-el",
+     "fecha": "2026-11-20T01:29-03:00",
+     "dominio": "enfoquesindical.org"
+    },
+    {
+     "medio": "El Destape",
+     "titulo": "El poder real de CGT retacea apoyo a Massa y busca candidato",
+     "url": "https://www.eldestapeweb.com/politica/poder-real-cgt-retacea-apoyo-massa-busca-candidato-202611199028",
+     "fecha": "2026-11-19T09:02-03:00",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "Mundo Gremial",
+     "titulo": "La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
+     "url": "https://mundogremial.com/la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
+     "fecha": "2026-11-19T02:17-03:00",
+     "dominio": "mundogremial.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/19251/cgt-la-cupula-sindical-retacea-apoyo-a-massa-y-busca-candidato",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Agencia Comunas",
+     "url": "https://agenciacomunas.com.ar/dia-de-la-militancia-la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
+     "dominio": "agenciacomunas.com.ar"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
   {
    "id": "san-fernando-reordena-el",
    "titulo": "San Fernando reordena el peronismo: Massa toma la iniciativa y Kicillof responde",
@@ -231,84 +364,6 @@
    "sumado": "2026-11-20T04:58-03:00"
   },
   {
-   "id": "sin-paso-la-interna",
-   "titulo": "Sin PASO, la interna se ordenaría detrás de Massa y Cristina",
-   "resumen": "Si el Gobierno suspende las primarias nacionales, varios análisis creen que el peronismo definiría su candidatura con Massa y Cristina Kirchner como árbitros, lo que frenaría las aspiraciones de Kicillof. En paralelo, el peronismo, la UCR y parte del PRO empujan para mantener las PASO en la provincia de Buenos Aires.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "Provincia Noticias",
-     "titulo": "Sin PASO se ordena la interna detrás de Massa y Cristina y se frenan las aspiraciones de Kicillof",
-     "url": "https://provincianoticias.com.ar/nota/22946/sin-paso-se-ordena-la-interna-detras-de-massa-y-cristina-y-se-frenan-las-aspiraciones-de-kicillof/",
-     "fecha": "2026-11-19T13:18-03:00",
-     "dominio": "provincianoticias.com.ar"
-    },
-    {
-     "medio": "Ambito",
-     "titulo": "Los tres escenarios del peronismo sin PASO: acuerdo, interna abierta o listas separadas",
-     "url": "https://www.ambito.com/politica/los-tres-escenarios-del-peronismo-paso-acuerdo-interna-abierta-o-listas-separadas-n6347070",
-     "fecha": "2026-11-19T12:33-03:00",
-     "dominio": "ambito.com"
-    },
-    {
-     "medio": "El Destape",
-     "titulo": "Sin PASO nacionales, las bonaerenses podrían mantenerse y complicar al Gobierno",
-     "url": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058",
-     "fecha": "2026-11-19T03:55-03:00",
-     "dominio": "eldestapeweb.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "NotiAR",
-     "url": "https://notiar.com.ar/index.php/politica/143675-la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa-por-pablo-de-leon",
-     "dominio": "notiar.com.ar"
-    },
-    {
-     "medio": "Flipr.news",
-     "url": "https://flipr.com.ar/nacionales/politica/clarin/la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa/",
-     "dominio": "flipr.com.ar"
-    },
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-bonaerense-se-encamina-a-sostener-la-paso-aunque-se-suspendan-a-nivel-nacional/",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "InfoPlatense",
-     "url": "https://www.infoplatense.com.ar/paso-bonaerenses-provincia-mantendria-primarias-2027-milei-suspension/",
-     "dominio": "infoplatense.com.ar"
-    },
-    {
-     "medio": "Cronos noticias",
-     "url": "https://infocronos.com.ar/nota/58944/el-peronismo-la-ucr-y-sectores-del-pro-buscan-mantener-las-paso-en-la-provincia-buenos-aires/",
-     "dominio": "infocronos.com.ar"
-    },
-    {
-     "medio": "Infobae",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdldyTlViRkgxa1E1Qk9nU3ZmaURtS29IZ0kyR3dYSXpZbXAzeEpHLVdDRFIzVUktN3V2YTdwbllsWmhhWUtXekRwNTBVT0xwcW16RjJ5YVFBeGlyNDZIcFpDSnJVOXhVR2hXU2dKZWpLSDQ4TlppY2ZUeEEtWFpONzlUdDlaVkFVWHBtS0h5d2lKUEM5MmRPYTlMZG1KQTExSnZOYTdLTkp0N01UUmxaUlg5NlNZTzk1eDZ2ckhHOE9kc2Q1TGFMOUlhMjkyV2tpNjZpbFZuTk9yYkdOeEFxUEoxckxISlBDaXfSAYQCQVVfeXFMUDNackF1eVdRMlRMZk1nb044M3NrNERRZkhmSlA5a0tMN2toZTFrSzlOcDNPaV8yNE9FVWtEbmlpR05xejU2MXNJRTRpZVhSSzQtandzRzE0cTJ3WDd5TFJnanFFY1ExS2M4TDZqdUJSeURSTWFxdUdWaGJPVy1wMkVQdWJjSWRUVGhocFdwN3YzYU14XzkzalNxUFd1allpb2hwQ0RrVUxhdmhJc2lxajVKMm1rYnE5MXBfak12QWR2THl5N1ZMQXZJV2F0bFZoZmdfNV9Ib2FvVDFFX080M2RwT19UdWl1V2xHVFdITEt4WDhEUG1BZ3FJUU41OWFyN0l4N00?oc=5",
-     "dominio": "infobae.com"
-    },
-    {
-     "medio": "Infobae",
-     "url": "https://www.infobae.com/politica/2026/11/19/jorge-asis-es-una-verguenza-que-el-gobierno-que-viene-contra-la-casta-necesite-cancelar-las-paso-para-subsistir/?outputType=amp-type",
-     "dominio": "infobae.com"
-    },
-    {
-     "medio": "Diario Norte",
-     "url": "https://www.diarionorte.com/336912-leiva-con-o-sin-primarias-vamos-a-volver-a-ser-gobierno",
-     "dominio": "diarionorte.com"
-    }
-   ],
-   "cantidad_notas": 11,
-   "vigente_desde": "2026-11-20T04:58-03:00",
-   "desde_hora": "01",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
    "id": "el-frente-renovador-arma",
    "titulo": "El Frente Renovador arma estructura en las provincias",
    "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego, el FR quedó habilitado para competir en Chubut en 2027 y se anunció una alianza en la Patagonia. En Córdoba, Massa respalda a Natalia de la Sota y presiona a Llaryora para que negocie con el PJ.",
@@ -490,47 +545,6 @@
    "sumado": "2026-11-20T04:58-03:00"
   },
   {
-   "id": "la-cgt-entre-la",
-   "titulo": "La CGT, entre la foto con Massa y la búsqueda de otro candidato",
-   "resumen": "Hay dos lecturas sobre la central obrera: la foto del Día de la Militancia con Massa y La Cámpora, sin Kicillof, y la versión de que parte de la cúpula sindical retacea su apoyo a Massa y busca otro nombre para 2027.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "El Destape",
-     "titulo": "El poder real de CGT retacea apoyo a Massa y busca candidato",
-     "url": "https://www.eldestapeweb.com/politica/poder-real-cgt-retacea-apoyo-massa-busca-candidato-202611199028",
-     "fecha": "2026-11-19T09:02-03:00",
-     "dominio": "eldestapeweb.com"
-    },
-    {
-     "medio": "Mundo Gremial",
-     "titulo": "La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
-     "url": "https://mundogremial.com/la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
-     "fecha": "2026-11-19T02:17-03:00",
-     "dominio": "mundogremial.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Impacto Castex",
-     "url": "https://impactocastex.com.ar/politica/19251/cgt-la-cupula-sindical-retacea-apoyo-a-massa-y-busca-candidato",
-     "dominio": "impactocastex.com.ar"
-    },
-    {
-     "medio": "Agencia Comunas",
-     "url": "https://agenciacomunas.com.ar/dia-de-la-militancia-la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
-     "dominio": "agenciacomunas.com.ar"
-    }
-   ],
-   "cantidad_notas": 4,
-   "vigente_desde": "2026-11-20T04:58-03:00",
-   "desde_hora": "01",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
    "id": "las-criticas-del-dia",
    "titulo": "Las críticas del día",
    "resumen": "Dos notas de opinión cuestionan a Massa: una lo presenta como el candidato de la Embajada y otra habla de viejas recetas en su regreso junto a Urtubey.",
@@ -585,6 +599,30 @@
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123577503197368395",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau celebró la sanción de la ley de Discapacidad.",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123551493420978306",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, sobre la ley de seguridad aprobada en Santa Fe.",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123063386649035246",
+   "autor": "@ceciliamoreauok",
+   "nota": "",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
   {
    "url": "https://x.com/SergioMassa/status/2123517703826612429",
    "autor": "@SergioMassa",
@@ -656,17 +694,53 @@
    "vigente_desde": "2026-11-20T04:58-03:00",
    "desde_hora": "01",
    "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "url": "https://twitter.com/FedericoAchaval/status/2122861243283239200",
-   "autor": "@FedericoAchaval",
-   "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias.",
-   "vigente_desde": "2026-11-20T04:58-03:00",
-   "desde_hora": "01",
-   "sumado": "2026-11-20T04:58-03:00"
   }
  ],
  "entrevistas": [
+  {
+   "youtube": "e57KCvZktrE",
+   "titulo": "\"Suspender las PASO no generaría nada, difícilmente reelija\" Sebastián Galmarini a Nancy Pazos",
+   "canal": "Radio10",
+   "fecha_txt": "hace 2 días",
+   "duracion": "13:07",
+   "url": "https://www.youtube.com/watch?v=e57KCvZktrE",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "youtube": "emLIIIp8hDU",
+   "titulo": "“No tengo dudas de que, con o sin PASO, el peronismo va a ir unido” Cecilia Moreau a Pablo Duggan",
+   "canal": "Radio10",
+   "fecha_txt": "hace 1 día",
+   "duracion": "8:45",
+   "url": "https://www.youtube.com/watch?v=emLIIIp8hDU",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "youtube": "LccxmZvOYlM",
+   "titulo": "\"SI MASSA DECIDE LANZAR SU CANDIDATURA NO NECESITA NADA SUBREPTICIO\" Diego Giuliano con Fontevecchia",
+   "canal": "Perfil",
+   "fecha_txt": "hace 1 día",
+   "duracion": "10:35",
+   "url": "https://www.youtube.com/watch?v=LccxmZvOYlM",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "youtube": "DkA71yjaY3k",
+   "titulo": "“Ningún problema real de la gente está en la agenda de Diputados” Diego Giuliano a Juan Amorín",
+   "canal": "Radio10",
+   "fecha_txt": "hace 1 día",
+   "duracion": "8:11",
+   "url": "https://www.youtube.com/watch?v=DkA71yjaY3k",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
   {
    "youtube": "HbpWLzHNpN8",
    "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
@@ -702,8 +776,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 107,
-  "medios": 77,
+  "notas_analizadas": 110,
+  "medios": 80,
   "temas": 9
  }
 }
