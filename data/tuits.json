@@ -1,7 +1,238 @@
 {
- "generado": "2026-11-20T02:23-03:00",
- "total": 7,
+ "generado": "2026-11-20T02:29-03:00",
+ "total": 24,
  "tuits": [
+  {
+   "id": "2122830541561217178",
+   "usuario": "Letra_P",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122830541561217178",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "El PJ de Entre Ríos se subió al frente anti-Milei que presentaron Massa y el peronismo federal",
+     "nota_id": "47c5ce64adeb"
+    }
+   ]
+  },
+  {
+   "id": "2122806980720890207",
+   "usuario": "Letra_P",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122806980720890207",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Encuesta: seis de cada diez personas \"jamás votarían\" a Javier Milei",
+     "nota_id": "1ab8752911fb"
+    }
+   ]
+  },
+  {
+   "id": "2122995189371523428",
+   "usuario": "LuisCaputoAR",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/LuisCaputoAR/status/2122995189371523428",
+   "citado_en": [
+    {
+     "medio": "https://literal.ar/",
+     "titulo": "Pesatti se muestra con Massa y alimenta especulaciones sobre una candidatura en 2027",
+     "nota_id": "5468358f8dd5"
+    },
+    {
+     "medio": "Clarin.com",
+     "titulo": "El irónico mensaje de Luis Caputo por el acto del PJ que encabezó Sergio Massa",
+     "nota_id": "b08097338781"
+    },
+    {
+     "medio": "El Economista - Últimas noticias económicas y financieras",
+     "titulo": "MASSA REUNIÓ A SU TROPA PARA 2027: el faltazo de Kicillof y la burla de Caputo que sacudió al PJ",
+     "nota_id": "fc7c06a5aaa7"
+    }
+   ]
+  },
+  {
+   "id": "2122857450315329981",
+   "usuario": "somoscorta",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/somoscorta/status/2122857450315329981",
+   "citado_en": [
+    {
+     "medio": "Cronos noticias",
+     "titulo": "Massa posicionó a tres figuras del peronismo como posibles candidatos a presidente para 2027",
+     "nota_id": "70a0df99b561"
+    }
+   ]
+  },
+  {
+   "id": "2123030022634021127",
+   "usuario": "Cadena3_Rosario",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/Cadena3_Rosario/status/2123030022634021127",
+   "citado_en": [
+    {
+     "medio": "Cadena 3 Argentina",
+     "titulo": "Giuliano respaldó a Massa y planteó una alternativa para Santa Fe: \"Hay que cambiar el rumbo\"",
+     "nota_id": "251a4cc992d5"
+    }
+   ]
+  },
+  {
+   "id": "2123076196758069735",
+   "usuario": "filonewsOK",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/filonewsOK/status/2123076196758069735",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2122847550457761870",
+   "usuario": "PatoBullrich",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/PatoBullrich/status/2122847550457761870",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2123038112649760815",
+   "usuario": "filonewsOK",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/filonewsOK/status/2123038112649760815",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2122417228624855287",
+   "usuario": "somoslacasaok",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/somoslacasaok/status/2122417228624855287",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2122756267131203998",
+   "usuario": "EUatUN",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/EUatUN/status/2122756267131203998",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2122378385120792861",
+   "usuario": "ElChinoVallejos",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/ElChinoVallejos/status/2122378385120792861",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "El peronismo mostró una foto de unidad y prometió: \"El año que viene va a haber un nuevo gobierno\"",
+     "nota_id": "c2393a210752"
+    }
+   ]
+  },
+  {
+   "id": "2123099256861151520",
+   "usuario": "FrenteRenovador",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/FrenteRenovador/status/2123099256861151520",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "San Fernando fue escenario de una fuerte señal de unidad del peronismo",
+     "nota_id": "60042e585eb4"
+    }
+   ]
+  },
+  {
+   "id": "2122890379242484004",
+   "usuario": "GZamoraSDE",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/GZamoraSDE/status/2122890379242484004",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "San Fernando fue escenario de una fuerte señal de unidad del peronismo",
+     "nota_id": "60042e585eb4"
+    }
+   ]
+  },
+  {
+   "id": "2122851663790604589",
+   "usuario": "JMOlmosOK",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/JMOlmosOK/status/2122851663790604589",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "San Fernando fue escenario de una fuerte señal de unidad del peronismo",
+     "nota_id": "60042e585eb4"
+    }
+   ]
+  },
+  {
+   "id": "2122859676849045581",
+   "usuario": "C5N",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/C5N/status/2122859676849045581",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "El peronismo celebra el Día de la Militancia y vuelve a dividirse: un ausente central",
+     "nota_id": "81b9b8d63271"
+    }
+   ]
+  },
+  {
+   "id": "2122867016281248189",
+   "usuario": "jereragusa",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/jereragusa/status/2122867016281248189",
+   "citado_en": [
+    {
+     "medio": "Diario Jornada",
+     "titulo": "Arcioni y Luque acompañaron a Massa en el acto del Día de la Militancia",
+     "nota_id": "29a3974e2710"
+    }
+   ]
+  },
+  {
+   "id": "2122974542603674107",
+   "usuario": "ElEconomista_",
+   "visto": "2026-11-20T02:29-03:00",
+   "url": "https://twitter.com/ElEconomista_/status/2122974542603674107",
+   "citado_en": [
+    {
+     "medio": "El Economista - Últimas noticias económicas y financieras",
+     "titulo": "MASSA REUNIÓ A SU TROPA PARA 2027: el faltazo de Kicillof y la burla de Caputo que sacudió al PJ",
+     "nota_id": "fc7c06a5aaa7"
+    }
+   ]
+  },
   {
    "id": "2123392418686828999",
    "usuario": "MalenaGalmarini",
@@ -61,6 +292,11 @@
      "medio": "Cronos noticias",
      "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
      "nota_id": "364ba983e672"
+    },
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "San Fernando fue escenario de una fuerte señal de unidad del peronismo",
+     "nota_id": "60042e585eb4"
     }
    ]
   },

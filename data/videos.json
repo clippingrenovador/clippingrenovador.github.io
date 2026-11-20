@@ -1,8 +1,488 @@
 {
- "generado": "2026-11-20T02:22-03:00",
- "total": 26,
+ "generado": "2026-11-20T02:27-03:00",
+ "total": 74,
  "errores": [],
  "videos": [
+  {
+   "id": "h7mK0oxx_lU",
+   "titulo": "SERGIO MASSA, mano a mano con C5N | Los tres posibles CANDIDATOS a presidente del PERONISMO",
+   "canal": "C5N",
+   "publicado": "hace 2 días",
+   "duracion": "2:11",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=h7mK0oxx_lU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "eRPGQDXTShU",
+   "titulo": "MASSA 2027: ¿Candidato o armador? | TUGO con Nico Guthmann",
+   "canal": "GELATINA y Nico Guthmann",
+   "publicado": "Transmitido hace 1 día",
+   "duracion": "1:54:06",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=eRPGQDXTShU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "693Sxr2KZbE",
+   "titulo": "\"Hoy es Massa vs Axel, pero van a llegar en UNIDAD\" | Jorge Asís SIN FILTRO sobre la interna del PJ",
+   "canal": "La Voz",
+   "publicado": "hace 1 día",
+   "duracion": "18:25",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=693Sxr2KZbE",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "pXxSyXAqTQo",
+   "titulo": "BOMBAZO: Massa rompe el silencio y deja un tremenda definición: \"El año que viene..\"",
+   "canal": "Revolución Popular Noticias",
+   "publicado": "hace 2 días",
+   "duracion": "7:32",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=pXxSyXAqTQo",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "ZriYOTs1qAY",
+   "titulo": "TARICO FAKE NEWS: \"SERGIO MASSA\" en “Sólo una vuelta más\"",
+   "canal": "Todo Noticias",
+   "publicado": "hace 1 día",
+   "duracion": "10:44",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=ZriYOTs1qAY",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "XaD3pKTAsiQ",
+   "titulo": "¡FIJAP ESTALLÓ CONTRA MASSA TRAS ASEGURAR QUE LE GANARÁ A MILEI EN 2027!",
+   "canal": "Franco Antunes y 3 más",
+   "publicado": "hace 2 días",
+   "duracion": "9:38",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=XaD3pKTAsiQ",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "8qIFdRca2CU",
+   "titulo": "LA CONJURA DE LOS FELINOS: Milei, Massa y Macri contra las PASO | Jorge Fontevecchia",
+   "canal": "Perfil",
+   "publicado": "hace 1 día",
+   "duracion": "14:48",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=8qIFdRca2CU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "yWEK5BRH9ho",
+   "titulo": "¿QUIEN DEBE ENFRENTAR A MILEI? ¿MASSA O KICILLOF?",
+   "canal": "LA ROSCA Y LA PELOTA",
+   "publicado": "hace 1 día",
+   "duracion": "1:06",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=yWEK5BRH9ho",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "9jYfN_dPm0c",
+   "titulo": "SERGIO MASSA REUNIÓ AL PERONISMO, PERO SIN KICILLOF",
+   "canal": "Bardeo News",
+   "publicado": "hace 1 día",
+   "duracion": "1:26",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=9jYfN_dPm0c",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "lRZyp-hwF90",
+   "titulo": "PERONISMO EN “PERMANENTE DEBATE”: ASÍ LO EXPLICA MASSA",
+   "canal": "Gelatina.clipss",
+   "publicado": "hace 4 días",
+   "duracion": "0:33",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=lRZyp-hwF90",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "Qz9UQpfaAQ8",
+   "titulo": "¡REAPARECE SERGIO MASSA! ¿QUIERE COMPETIR CONTRA MILEI EN 2027?",
+   "canal": "Franco Antunes y 5 más",
+   "publicado": "hace 5 días",
+   "duracion": "13:26",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=Qz9UQpfaAQ8",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "3mDG1W1goSk",
+   "titulo": "¿Massa detrás de la causa Cositorto? La declaración al aire",
+   "canal": "despierta latam",
+   "publicado": "hace 6 días",
+   "duracion": "1:00",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=3mDG1W1goSk",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "tx5fMvYLOkI",
+   "titulo": "¿Sergio Massa otra vez como candidato? 🤔",
+   "canal": "Neura Media",
+   "publicado": "hace 1 día",
+   "duracion": "1:50",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=tx5fMvYLOkI",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "LHwNcOK9beA",
+   "titulo": "Apareció Sergio Massa listo para ser presidente en el 2027.",
+   "canal": "Daniel Mario Azzara",
+   "publicado": "hace 5 días",
+   "duracion": "0:42",
+   "busqueda": "Sergio Massa",
+   "url": "https://www.youtube.com/watch?v=LHwNcOK9beA",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "qofuxHUlGjY",
+   "titulo": "Diego Giuliano - Dip. Nac. Frente Renovador - Candidatura a Gobernador de Santa Fe - ATP 16 11 26",
+   "canal": "ATP Santa Fe",
+   "publicado": "hace 2 días",
+   "duracion": "24:21",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=qofuxHUlGjY",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "o1Eg935uabk",
+   "titulo": "Sergio Massa reúne al peronismo el Frente Renovador busca recuperar protagonismo",
+   "canal": "El Propagador Noticias",
+   "publicado": "hace 2 días",
+   "duracion": "3:12",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=o1Eg935uabk",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "XrOP_kg9Tg0",
+   "titulo": "Renovador de Neumáticos y Molduras Meguiar's Ultimate Insane Shine Tire & Trim Gel",
+   "canal": "Meguiar’s España",
+   "publicado": "hace 2 días",
+   "duracion": "0:14",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=XrOP_kg9Tg0",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "goxYMpzODTU",
+   "titulo": "CONCEJAL FRENTE RENOVADOR",
+   "canal": "Noticias EPS",
+   "publicado": "hace 3 días",
+   "duracion": "19:51",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=goxYMpzODTU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "VgmFRoZ2pI4",
+   "titulo": "# #podcast #política Oscar Ferrero concejal Frente Renovador",
+   "canal": "Ramón Alegre R.A. ",
+   "publicado": "hace 1 día",
+   "duracion": "0:53",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=VgmFRoZ2pI4",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "Vx1Wu1L_uSY",
+   "titulo": "Entrevista a Martín Gainza, dirigente Frente Renovador - 11/11/2026 - 99 LATERAL TV",
+   "canal": "99 Lateral",
+   "publicado": "hace 3 días",
+   "duracion": "19:40",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=Vx1Wu1L_uSY",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "e57KCvZktrE",
+   "titulo": "\"Suspender las PASO no generaría nada, difícilmente reelija\" Sebastián Galmarini a Nancy Pazos",
+   "canal": "Radio10",
+   "publicado": "hace 2 días",
+   "duracion": "13:07",
+   "busqueda": "Sebastián Galmarini",
+   "url": "https://www.youtube.com/watch?v=e57KCvZktrE",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "emLIIIp8hDU",
+   "titulo": "“No tengo dudas de que, con o sin PASO, el peronismo va a ir unido” Cecilia Moreau a Pablo Duggan",
+   "canal": "Radio10",
+   "publicado": "hace 1 día",
+   "duracion": "8:45",
+   "busqueda": "Cecilia Moreau",
+   "url": "https://www.youtube.com/watch?v=emLIIIp8hDU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "2hT5eNnbwhQ",
+   "titulo": "Cecilia Moreau delirio total: Peron hablo de militar contra la proscripcion de Cristina",
+   "canal": "La burbuja kirchnerista ",
+   "publicado": "hace 1 día",
+   "duracion": "0:42",
+   "busqueda": "Cecilia Moreau",
+   "url": "https://www.youtube.com/watch?v=2hT5eNnbwhQ",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "DkA71yjaY3k",
+   "titulo": "“Ningún problema real de la gente está en la agenda de Diputados” Diego Giuliano a Juan Amorín",
+   "canal": "Radio10",
+   "publicado": "hace 1 día",
+   "duracion": "8:11",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=DkA71yjaY3k",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "PTddpjDCTcU",
+   "titulo": "Diego Giuliano: \"Sacando las paso tocan las reglas del juego muy cerca de cronograma electoral\"",
+   "canal": "Splendid AM 990",
+   "publicado": "hace 2 días",
+   "duracion": "7:51",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=PTddpjDCTcU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "LccxmZvOYlM",
+   "titulo": "\"SI MASSA DECIDE LANZAR SU CANDIDATURA NO NECESITA NADA SUBREPTICIO\" Diego Giuliano con Fontevecchia",
+   "canal": "Perfil",
+   "publicado": "hace 1 día",
+   "duracion": "10:35",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=LccxmZvOYlM",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "g3rk6_xC_c0",
+   "titulo": "Este gol de Giuliano Simeone demuestra que la defensa del Barça es realmente débil. #soccer ",
+   "canal": "DidiGol",
+   "publicado": "hace 7 días",
+   "duracion": "1:11",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=g3rk6_xC_c0",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "sqXfplcXIDc",
+   "titulo": "DIEGO GIULIANO EN SAN GENARO",
+   "canal": "ciudadtvsangenaro",
+   "publicado": "hace 5 días",
+   "duracion": "17:11",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=sqXfplcXIDc",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "jBYNAL4LyBU",
+   "titulo": "VOX POPULI | ENTREVISTA A DIEGO GIULiANO | 06 11 26",
+   "canal": "Vox Populi Oficial",
+   "publicado": "hace 6 días",
+   "duracion": "13:56",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=jBYNAL4LyBU",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "haG26FJCqbA",
+   "titulo": "Quiero",
+   "canal": "Leo Giuliano",
+   "publicado": "",
+   "duracion": "2:29",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=haG26FJCqbA",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "D_YzYB-lNc4",
+   "titulo": "DIP NAC DIEGO GIULIANO EN SAN GENARO",
+   "canal": "PERIODISMO EN ACCION TV",
+   "publicado": "hace 1 día",
+   "duracion": "16:38",
+   "busqueda": "Diego Giuliano",
+   "url": "https://www.youtube.com/watch?v=D_YzYB-lNc4",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "LyUXXEnv3JE",
+   "titulo": "💬Marcelo en 60 segundos ¿El peronismo está preparado para enfrentar a Natalia de la Sota?",
+   "canal": "Córdoba Con Rodio",
+   "publicado": "hace 5 días",
+   "duracion": "1:13",
+   "busqueda": "Natalia de la Sota",
+   "url": "https://www.youtube.com/watch?v=LyUXXEnv3JE",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "5H1P7_bjioo",
+   "titulo": "Massa, Natalia de la Sota y Chiqui Tapia: lo que pasa puertas adentro | El Búnker #1",
+   "canal": "El Bunker Media",
+   "publicado": "hace 1 día",
+   "duracion": "14:26",
+   "busqueda": "Natalia de la Sota",
+   "url": "https://www.youtube.com/watch?v=5H1P7_bjioo",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "XkXgjcA6OC0",
+   "titulo": "JUAN SCHIARETTI - NATALIA  DE LA SOTA - INTENDENTES",
+   "canal": "AIV TV - SAMPACHO",
+   "publicado": "hace 6 días",
+   "duracion": "6:07",
+   "busqueda": "Natalia de la Sota",
+   "url": "https://www.youtube.com/watch?v=XkXgjcA6OC0",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "fOgIsHDiJW4",
+   "titulo": "Natalia Barbu, 15 ani de căsnicie cu milionarul Sota. Cum au sărbătorit? | Spynews TV | Antena Stars",
+   "canal": "AntenaStars",
+   "publicado": "hace 6 días",
+   "duracion": "15:10",
+   "busqueda": "Natalia de la Sota",
+   "url": "https://www.youtube.com/watch?v=fOgIsHDiJW4",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "tuO-lxQMBxE",
+   "titulo": "Соболь, Арно и раскол российской группы в ПАСЕ",
+   "canal": "SOTA",
+   "publicado": "hace 3 días",
+   "duracion": "20:25",
+   "busqueda": "Natalia de la Sota",
+   "url": "https://www.youtube.com/watch?v=tuO-lxQMBxE",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "kNmaesBZ8xo",
+   "titulo": "Tirando la pelota de un lado a otro (Katia Blanc - Diputada provincial FR)",
+   "canal": "Atlantis FM 94.5 Radio - Resistencia Chaco",
+   "publicado": "hace 7 días",
+   "duracion": "15:16",
+   "busqueda": "Katia Blanc",
+   "url": "https://www.youtube.com/watch?v=kNmaesBZ8xo",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "VBhrrWJoPUc",
+   "titulo": "Entrevista a profesor de mma para trabajo de antropología",
+   "canal": "Felipe Romero",
+   "publicado": "hace 5 días",
+   "duracion": "15:15",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=VBhrrWJoPUc",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "ckg3X1ZLZms",
+   "titulo": "video de ingles",
+   "canal": "Felipe Romero",
+   "publicado": "hace 4 días",
+   "duracion": "3:21",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=ckg3X1ZLZms",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "JApirE0R_I4",
+   "titulo": "November 14, 2026",
+   "canal": "Felipe Romero love DINOSAUR ",
+   "publicado": "hace 5 días",
+   "duracion": "16:39",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=JApirE0R_I4",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "p9TWW43_Zs4",
+   "titulo": "Sustentación ejercicio 2   Arquitectura",
+   "canal": "Felipe Romero Ortiz",
+   "publicado": "hace 6 días",
+   "duracion": "1:56",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=p9TWW43_Zs4",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "DeLa30ia6wc",
+   "titulo": "\"Ya nadie le cree a Milei y a Caputo\" | Data Diario con El Profe Romero",
+   "canal": "Data Diario",
+   "publicado": "Transmitido hace 2 días",
+   "duracion": "1:53:38",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=DeLa30ia6wc",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "HiBQ73J71OI",
+   "titulo": "14 de noviembre de 2026",
+   "canal": "Luis felipe Romero zapata",
+   "publicado": "hace 5 días",
+   "duracion": "0:15",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=HiBQ73J71OI",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "NZ-KUI2CDvs",
+   "titulo": "Carmen Romero cumple 80 años y reaparece en actos del PSOE",
+   "canal": "NewsDrop ES",
+   "publicado": "hace 5 días",
+   "duracion": "0:58",
+   "busqueda": "Felipe Romero",
+   "url": "https://www.youtube.com/watch?v=NZ-KUI2CDvs",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "mZeUPXrkTRo",
+   "titulo": "Felix Romero - Atrévete (Audio oficial)",
+   "canal": "Félix Romero",
+   "publicado": "hace 7 días",
+   "duracion": "3:49",
+   "busqueda": "Feli Romero",
+   "url": "https://www.youtube.com/watch?v=mZeUPXrkTRo",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "wsGmWjgGAmI",
+   "titulo": "LA HISTORIA DETRÁS DE TOTOCAPS, LA CANCIÓN QUE LE CAMBIÓ LA VIDA || Eley Romero",
+   "canal": "El Compa Ozz",
+   "publicado": "hace 2 días",
+   "duracion": "1:00:33",
+   "busqueda": "Feli Romero",
+   "url": "https://www.youtube.com/watch?v=wsGmWjgGAmI",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "rsQSCKDIG6Q",
+   "titulo": "08 Noviembre 2026",
+   "canal": "Carlos Romero",
+   "publicado": "hace 7 días",
+   "duracion": "0:23",
+   "busqueda": "Feli Romero",
+   "url": "https://www.youtube.com/watch?v=rsQSCKDIG6Q",
+   "visto": "2026-11-20T02:27-03:00"
+  },
+  {
+   "id": "f1y-24sS8_g",
+   "titulo": "08 Noviembre 2026",
+   "canal": "Carlos Romero",
+   "publicado": "hace 7 días",
+   "duracion": "0:21",
+   "busqueda": "Feli Romero",
+   "url": "https://www.youtube.com/watch?v=f1y-24sS8_g",
+   "visto": "2026-11-20T02:27-03:00"
+  },
   {
    "id": "vwsfr81p9es",
    "titulo": "Massa, Kicillof y Zamora: ¿Son peronistas?",
