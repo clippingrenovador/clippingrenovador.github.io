@@ -154,7 +154,12 @@ def main():
             break
         tam -= 4
     grosor = 7 * E
-    y1, y2 = H * 0.19, H * 0.44
+    caja = d.textbbox((0, 0), "RENOVADOR", font=f)
+    alto_l = caja[3] - caja[1]
+    gap = alto_l * 0.42
+    arriba = (H - (2 * alto_l + gap)) / 2
+    y1 = arriba - caja[1]
+    y2 = y1 + alto_l + gap
     texto_centrado(d, y1, "CLIPPING", f, CREMA, espaciado=2 * E)
     bbox = d.textbbox((0, y1), "CLIPPING", font=f)
     alto = bbox[3] - bbox[1]
