@@ -3,7 +3,7 @@ name: Tarjeta diaria
 on:
   push:
     branches: [main]
-    paths: ["data/edicion.json", "scripts/og.py"]
+    paths: ["data/edicion.json", "scripts/og.py", "scripts/tarjeta.py"]
   workflow_dispatch:
 
 permissions:
@@ -27,15 +27,16 @@ jobs:
           mkdir -p fuentes
           curl -sSfL -o fuentes/Archivo.ttf "https://github.com/google/fonts/raw/main/ofl/archivo/Archivo%5Bwdth,wght%5D.ttf" || true
           curl -sSfL -o fuentes/Newsreader.ttf "https://github.com/google/fonts/raw/main/ofl/newsreader/Newsreader%5Bopsz,wght%5D.ttf" || true
+          curl -sSfL -o fuentes/Newsreader-Italic.ttf "https://github.com/google/fonts/raw/main/ofl/newsreader/Newsreader-Italic%5Bopsz,wght%5D.ttf" || true
       - name: Generar tarjeta
         run: |
-          python3 scripts/tarjeta.py
+          cd scripts && python3 tarjeta.py && cd ..
           python3 scripts/og.py
       - name: Guardar
         run: |
           git config user.name "tarjeta-bot"
           git config user.email "tarjeta-bot@users.noreply.github.com"
-          git add tarjeta.png og.jpg cabecera.jpg
+          git add -A -- tarjeta.jpg og.jpg cabecera.jpg
           git diff --cached --quiet && exit 0
           git commit -m "Tarjeta diaria"
           for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done

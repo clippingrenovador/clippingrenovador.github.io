@@ -240,7 +240,7 @@ body[data-modo=semanal] .solo-diario{display:none}
     <section class="claves" aria-labelledby="t-claves">
       <h2 id="t-claves">Lo que tenés que saber</h2>
       <ol id="claves"><li class="cargando">Cargando…</li></ol>
-      <div class="acciones botones-claves"><a class="wa secundario" id="tarjeta" href="tarjeta.png" download="clipping-renovador.png">Tarjeta para estados</a><a class="wa" id="wa-edicion" href="#" target="_blank" rel="noopener"></a></div>
+      <div class="acciones botones-claves"><a class="wa secundario" id="tarjeta" href="tarjeta.jpg" download="clipping-renovador.jpg">Tarjeta para estados</a><a class="wa" id="wa-edicion" href="#" target="_blank" rel="noopener"></a></div>
     </section>
   </div>
 
@@ -352,7 +352,7 @@ function pintarEdicion(ed){
   var todos=[];(ed.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){if(todos.indexOf(p)<0)todos.push(p);});});
   $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+resaltar(c,todos)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
   var txt=(MODO==="semanal"?"*CLIPPING SEMANAL RENOVADOR · "+(ed.titulo_semana||"")+"*\n\n":"*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n")+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
-  $("wa-edicion").href=wa(txt); $("tarjeta").href="tarjeta.png?v="+encodeURIComponent(ed.generado); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
+  $("wa-edicion").href=wa(txt); $("tarjeta").href="tarjeta.jpg?v="+encodeURIComponent(ed.generado); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
   $("n-temas").textContent=(ed.temas||[]).length; $("n-redes").textContent=(ed.redes||[]).length; $("n-videos").textContent=(ed.entrevistas||[]).length;
   pintarFiltros(); pintarTemas(); pintarRedes(); pintarVideos();
 }
