@@ -113,6 +113,14 @@ def sol_chico(d, cx, cy, r, color):
     d.ellipse([cx - r * 0.55, cy - r * 0.55, cx + r * 0.55, cy + r * 0.55], fill=color)
 
 
+def sol_grande(d, cx, cy, r, color):
+    """Sol de 24 rayos alternados largos y cortos."""
+    for k in range(24):
+        largo = r if k % 2 == 0 else r * 0.78
+        d.polygon(rayo_recto(cx, cy, k * 15, r * 0.45, largo, r * 0.11), fill=color)
+    d.ellipse([cx - r * 0.5, cy - r * 0.5, cx + r * 0.5, cy + r * 0.5], fill=color)
+
+
 def main():
     import numpy as np
     rng = np.random.default_rng(1945)
@@ -145,37 +153,66 @@ def main():
     img = Image.fromarray(np.clip(arr, 0, 255).astype("uint8"))
     d = ImageDraw.Draw(img)
 
-    # Titulo crema entre filetes, como las piezas de Jovenes FR
+    # Titulo crema entre filetes dobles, como las piezas de Jovenes FR
     margen = 70 * E
-    tam = 150
-    while True:
+    ancho_util = W - 2 * margen
+
+    def tinta(texto, f, esp):
+        """Ancho real de tinta y desplazamiento izquierdo del texto con espaciado esp."""
+        x, izq, der = 0, None, 0
+        for k, c in enumerate(texto):
+            b = d.textbbox((x, 0), c, font=f)
+            if izq is None:
+                izq = b[0]
+            der = b[2]
+            x += d.textlength(c, font=f) + esp
+        return der - izq, izq
+
+    def dibujar(texto, f, esp, x_ini, y):
+        _, izq = tinta(texto, f, esp)
+        x = x_ini - izq
+        for c in texto:
+            d.text((x, y), c, font=f, fill=CREMA)
+            x += d.textlength(c, font=f) + esp
+
+    # Tamaño: RENOVADOR ocupa exactamente el ancho de los filetes
+    tam = 200
+    while tam > 60:
         f = fuente(tam * E, 900, 125)
-        if d.textlength("RENOVADOR", font=f) + 16 * E <= W - 2 * margen - 60 * E or tam <= 80:
+        if tinta("RENOVADOR", f, 2 * E)[0] <= ancho_util:
             break
-        tam -= 4
-    grosor = 7 * E
+        tam -= 2
+    w_ren, _ = tinta("RENOVADOR", f, 0)
+    esp_ren = (ancho_util - w_ren) / 8
+    esp_cli = 2 * E
+    w_cli, _ = tinta("CLIPPING", f, esp_cli)
+
     caja = d.textbbox((0, 0), "RENOVADOR", font=f)
     alto_l = caja[3] - caja[1]
-    gap = alto_l * 0.42
-    arriba = (H - (2 * alto_l + gap)) / 2
-    y1 = arriba - caja[1]
-    y2 = y1 + alto_l + gap
-    texto_centrado(d, y1, "CLIPPING", f, CREMA, espaciado=2 * E)
-    bbox = d.textbbox((0, y1), "CLIPPING", font=f)
-    alto = bbox[3] - bbox[1]
-    sep = (y2 - y1 - alto)
-    filete_sup = bbox[1] - 32 * E
-    filete_medio = bbox[3] + sep / 2
-    texto_centrado(d, y2, "RENOVADOR", f, CREMA, espaciado=2 * E)
-    b2 = d.textbbox((0, y2), "RENOVADOR", font=f)
-    filete_inf = b2[3] + 32 * E
-    d.rectangle([margen, filete_sup - grosor, W - margen, filete_sup], fill=CREMA)
-    d.rectangle([margen, filete_inf, W - margen, filete_inf + grosor], fill=CREMA)
-    for x in (margen - 2 * E, W - margen + 2 * E):
-        pass
-    for yf in (filete_sup - grosor / 2, filete_inf + grosor / 2):
-        sol_chico(d, margen - 26 * E, yf, 15 * E, CREMA)
-        sol_chico(d, W - margen + 26 * E, yf, 15 * E, CREMA)
+    grosor = 11 * E
+    entre_filetes = 9 * E
+    aire = alto_l * 0.38
+    gap = alto_l * 0.36
+    bloque_filetes = 2 * grosor + entre_filetes
+    total = 2 * bloque_filetes + 2 * aire + 2 * alto_l + gap
+    y = (H - total) / 2
+
+    def filetes(y0):
+        d.rectangle([margen, y0, W - margen, y0 + grosor], fill=CREMA)
+        d.rectangle([margen, y0 + grosor + entre_filetes, W - margen, y0 + 2 * grosor + entre_filetes], fill=CREMA)
+
+    filetes(y)
+    y_cli = y + bloque_filetes + aire
+    y_ren = y_cli + alto_l + gap
+    dibujar("CLIPPING", f, esp_cli, (W - w_cli) / 2, y_cli - caja[1])
+    dibujar("RENOVADOR", f, esp_ren, margen, y_ren - caja[1])
+    filetes(y_ren + alto_l + aire)
+
+    # Soles a los costados de CLIPPING, alineados con el inicio y el fin de los filetes
+    r_sol = min(alto_l * 0.46, (ancho_util - w_cli) / 2 * 0.36)
+    cy = y_cli + alto_l / 2
+    sol_grande(d, margen + r_sol, cy, r_sol, CREMA)
+    sol_grande(d, W - margen - r_sol, cy, r_sol, CREMA)
 
     img = img.resize((W // E, H // E), Image.LANCZOS)
     img.save(RAIZ / "og.png", optimize=True)
