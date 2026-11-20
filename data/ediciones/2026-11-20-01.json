@@ -1,6 +1,6 @@
 {
  "id": "2026-11-20-01",
- "generado": "2026-11-20T03:35-03:00",
+ "generado": "2026-11-20T03:41-03:00",
  "hora": "01",
  "claves": [
   "El encuentro de San Fernando ubicó a Sergio Massa en el centro de la reorganización del peronismo. El gobernador Kicillof respondió con una convocatoria a sus intendentes en La Plata.",
@@ -560,6 +560,11 @@
  ],
  "redes": [
   {
+   "url": "https://x.com/SergioMassa/status/2123517703826612429",
+   "autor": "@SergioMassa",
+   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+  },
+  {
    "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
    "autor": "@MalenaGalmarini",
    "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."
@@ -607,8 +612,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 139,
-  "medios": 100,
+  "notas_analizadas": 138,
+  "medios": 99,
   "temas": 9
  }
 }

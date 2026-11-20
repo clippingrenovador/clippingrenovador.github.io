@@ -18,6 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q playwright && python3 -m playwright install --with-deps chromium
       - run: python3 scripts/prueba_x.py
       - run: |
           git config user.name "prueba-bot"
