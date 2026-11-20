@@ -89,7 +89,94 @@ def leer_feed(consulta):
         }
 
 
+VIDEOS = RAIZ / "data" / "videos.json"
+BUSQUEDAS_YT = [
+    "Sergio Massa", "Frente Renovador", "Malena Galmarini", "Sebastián Galmarini",
+    "Cecilia Moreau", "Diego Giuliano", "Juan Andreotti", "Natalia de la Sota",
+    "Marina Salzmann", "Katia Blanc", "Rubén Eslaiman", "Micaela Morán",
+]
+
+
+def _texto(nodo):
+    if not nodo:
+        return ""
+    if "simpleText" in nodo:
+        return nodo["simpleText"]
+    return "".join(r.get("text", "") for r in nodo.get("runs", []))
+
+
+def _buscar_videos(dato, salida):
+    if isinstance(dato, dict):
+        if "videoRenderer" in dato:
+            salida.append(dato["videoRenderer"])
+        for v in dato.values():
+            _buscar_videos(v, salida)
+    elif isinstance(dato, list):
+        for v in dato:
+            _buscar_videos(v, salida)
+
+
+def leer_youtube(consulta):
+    # Filtro "subidos hoy" de la busqueda de YouTube.
+    url = ("https://www.youtube.com/results?search_query="
+           + urllib.parse.quote(consulta) + "&sp=EgIIAg%253D%253D&hl=es-419&gl=AR")
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "es-AR,es;q=0.9"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        html = r.read().decode("utf-8", "replace")
+    m = re.search(r"var ytInitialData = (\{.*?\});</script>", html, re.S)
+    if not m:
+        return []
+    encontrados = []
+    _buscar_videos(json.loads(m.group(1)), encontrados)
+    salida = []
+    for v in encontrados:
+        titulo = _texto(v.get("title"))
+        canal = _texto(v.get("ownerText")) or _texto(v.get("longBylineText"))
+        # Solo videos que nombran a la persona o al espacio buscado.
+        if not set(normaliza(consulta)[-1:]) & set(normaliza(titulo + " " + canal)):
+            continue
+        salida.append({
+            "id": v.get("videoId"),
+            "titulo": titulo,
+            "canal": canal,
+            "publicado": _texto(v.get("publishedTimeText")),
+            "duracion": _texto(v.get("lengthText")),
+            "busqueda": consulta,
+            "url": "https://www.youtube.com/watch?v=" + v.get("videoId", ""),
+        })
+    return salida
+
+
+def rastrillar_videos():
+    previos = []
+    if VIDEOS.exists():
+        previos = json.loads(VIDEOS.read_text(encoding="utf-8")).get("videos", [])
+    por_id = {v["id"]: v for v in previos}
+    errores, nuevos = [], 0
+    ahora = datetime.now(ART).isoformat(timespec="minutes")
+    for consulta in BUSQUEDAS_YT:
+        try:
+            for v in leer_youtube(consulta):
+                if v["id"] and v["id"] not in por_id:
+                    v["visto"] = ahora
+                    por_id[v["id"]] = v
+                    nuevos += 1
+        except Exception as e:
+            errores.append(f"YouTube {consulta}: {e}")
+        time.sleep(2)
+    limite = (datetime.now(ART) - timedelta(days=DIAS_GUARDADOS)).isoformat()
+    videos = sorted((v for v in por_id.values() if v.get("visto", "") >= limite[:16]),
+                    key=lambda v: v.get("visto", ""), reverse=True)
+    VIDEOS.write_text(json.dumps({"generado": ahora, "total": len(videos), "errores": errores,
+                                  "videos": videos}, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"YouTube: {nuevos} videos nuevos, {len(videos)} en total, {len(errores)} errores")
+
+
 def main():
+    try:
+        rastrillar_videos()
+    except Exception as e:
+        print("YouTube fallo:", e)
     previas = []
     if CRUDO.exists():
         previas = json.loads(CRUDO.read_text(encoding="utf-8")).get("notas", [])
