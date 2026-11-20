@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
       - name: Preparar
         run: |
-          pip install -q pillow
+          pip install -q pillow numpy
           mkdir -p fuentes
           curl -sSfL -o fuentes/Archivo.ttf "https://github.com/google/fonts/raw/main/ofl/archivo/Archivo%5Bwdth,wght%5D.ttf" || true
           curl -sSfL -o fuentes/Newsreader.ttf "https://github.com/google/fonts/raw/main/ofl/newsreader/Newsreader%5Bopsz,wght%5D.ttf" || true
