@@ -219,12 +219,12 @@ body[data-modo=semanal] .solo-diario{display:none}
 #intro{position:fixed;inset:0;z-index:60;background:#0E121A url(cabecera.jpg) center/cover;display:grid;place-items:center;cursor:pointer;transition:transform .75s cubic-bezier(.75,0,.2,1)}
 #intro.fuera{transform:translateY(-102%)}
 #intro .caja{width:min(86vw,760px);font-size:0}
-#intro .hola{display:block;font:italic 400 clamp(20px,3.4vw,30px)/1.2 var(--serif);color:var(--crema);text-align:center;margin-bottom:clamp(14px,3vw,24px);opacity:0;transform:translateY(10px);animation:sube .5s .1s forwards}
+#intro .hola{display:block;font:italic 400 clamp(28px,5.2vw,44px)/1.2 var(--serif);color:var(--crema);text-align:center;margin-bottom:clamp(14px,3vw,24px);opacity:0;transform:translateY(10px);animation:sube .5s .1s forwards}
 #intro .filete{transform:scaleX(0);animation:abre .55s .35s cubic-bezier(.2,.8,.2,1) forwards}
 #intro .filete:last-child{animation-delay:.45s}
 #intro svg{opacity:0;transform:translateY(14px);animation:sube .55s .6s forwards}
 #intro .sol{animation:gira 1.6s .6s cubic-bezier(.2,.7,.2,1) both}
-#intro .saltar{position:absolute;bottom:22px;left:0;right:0;text-align:center;font-size:13px;color:rgba(244,240,228,.75);opacity:0;animation:sube .4s 1s forwards}
+#intro .saltar{position:absolute;bottom:26px;left:0;right:0;text-align:center;font-size:14px;font-weight:600;color:rgba(244,240,228,.75);opacity:0;animation:sube .4s 1s forwards}
 @keyframes sube{to{opacity:1;transform:none}}
 @keyframes abre{to{transform:scaleX(1)}}
 @keyframes gira{from{transform:rotate(-180deg)}to{transform:rotate(0)}}
