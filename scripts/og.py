@@ -121,6 +121,42 @@ def sol_grande(d, cx, cy, r, color):
     d.ellipse([cx - r * 0.5, cy - r * 0.5, cx + r * 0.5, cy + r * 0.5], fill=color)
 
 
+def fondo_semitono(W, H, semilla=1945, paso_px=12):
+    """Fondo azul y negro con trama de semitono y grano, como las piezas de Jovenes FR."""
+    import numpy as np
+    rng = np.random.default_rng(semilla)
+    manchas = Image.fromarray((rng.random((5, 9)) * 255).astype("uint8")).resize((W, H), Image.BICUBIC)
+    m = np.asarray(manchas, dtype=float) / 255
+    yy, xx = np.mgrid[0:H, 0:W]
+    vin = np.hypot((xx - W / 2) / (W / 2), (yy - H / 2) / (H / 2)) / 1.41
+    tono = np.clip(0.02 + 0.42 * m ** 1.4 + 0.75 * vin ** 2.4, 0, 1)
+    img = Image.new("RGB", (W, H), AZUL)
+    d = ImageDraw.Draw(img)
+    paso = paso_px * E
+    c, s_ = math.cos(math.radians(45)), math.sin(math.radians(45))
+    rango = int(math.hypot(W, H) / paso) + 2
+    for i in range(-rango, rango):
+        for k in range(-rango, rango):
+            x = W / 2 + (i * c - k * s_) * paso
+            y = H / 2 + (i * s_ + k * c) * paso
+            if -paso < x < W + paso and -paso < y < H + paso:
+                t = tono[min(H - 1, max(0, int(y))), min(W - 1, max(0, int(x)))]
+                r = paso * 0.78 * t ** 0.85
+                if r > 0.4 * E:
+                    d.ellipse([x - r, y - r, x + r, y + r], fill=NEGRO)
+    arr = np.asarray(img, dtype=float)
+    arr += rng.normal(0, 9, (H, W, 1))
+    return Image.fromarray(np.clip(arr, 0, 255).astype("uint8"))
+
+
+def cabecera():
+    """Textura para la cabecera del sitio (sin texto)."""
+    img = fondo_semitono(1280 * E, 600 * E, semilla=1972, paso_px=10)
+    img = img.resize((1280, 600), Image.LANCZOS)
+    img.save(RAIZ / "cabecera.jpg", quality=60, optimize=True, progressive=True)
+    print("cabecera.jpg listo", (RAIZ / "cabecera.jpg").stat().st_size // 1024, "KB")
+
+
 def main():
     import numpy as np
     rng = np.random.default_rng(1945)
@@ -221,4 +257,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    cabecera()
 

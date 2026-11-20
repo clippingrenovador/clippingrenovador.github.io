@@ -12,7 +12,7 @@
 <meta property="og:image:height" content="630">
 <meta property="og:url" content="https://clippingrenovador.github.io/">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#74ACDF">
+<meta name="theme-color" content="#0E121A">
 <link rel="icon" type="image/png" href="icon.png">
 <link rel="apple-touch-icon" href="icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,14 +20,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --cobalto:#14306E; --cobalto-2:#1F6FB2; --celeste:#74ACDF; --celeste-osc:#3F86C6; --sol:#E2B230; --oro:#C8961E;
-  --papel:#F5F7FA; --hoja:#FFFFFF; --tinta:#131B2E; --tinta-2:#46516A; --linea:#DCE2EC;
+  --azul:#188CE8; --azul-osc:#0F5FA8; --noche:#0E121A; --crema:#F4F0E4;
+  --cobalto:#14306E; --cobalto-2:#0F5FA8; --celeste:#74ACDF; --celeste-osc:#188CE8; --sol:#F4F0E4; --oro:#188CE8;
+  --papel:#F3EFE5; --hoja:#FFFFFF; --tinta:#131B2E; --tinta-2:#4A5163; --linea:#E0DBCE;
   --pos:#1E8E5E; --neg:#C8402F; --neu:#7D879B; --mix:#B7791F;
   --sans:"Archivo",system-ui,sans-serif; --serif:"Newsreader",Georgia,serif;
   --r:14px;
 }
 @media (prefers-color-scheme:dark){:root{
-  --papel:#0C1426; --hoja:#121D35; --tinta:#E8EEF8; --tinta-2:#A5B1C8; --linea:#24324F; --cobalto-2:#7CC4E8;
+  --papel:#0B0F17; --hoja:#141B28; --tinta:#ECE8DC; --tinta-2:#A8AFBF; --linea:#263042; --cobalto-2:#6DB7F2; --celeste-osc:#4FA6EE;
 }}
 *{box-sizing:border-box} html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--papel);color:var(--tinta);font:16px/1.5 var(--sans)}
@@ -35,36 +36,41 @@ a{color:inherit}
 :focus-visible{outline:3px solid var(--sol);outline-offset:2px;border-radius:4px}
 .envoltura{max-width:1080px;margin:0 auto;padding:0 18px}
 
-/* Cabecera: blanco, celeste y dorado. El sello de la hora es la pieza memorable */
-.cabecera{background:#fff;color:#12395E;position:relative;overflow:hidden;border-bottom:3px solid var(--oro)}
-.cabecera::after{content:"";position:absolute;right:-90px;top:-90px;width:300px;height:300px;border-radius:50%;
-  background:radial-gradient(circle,rgba(226,178,48,.55) 0 34%,rgba(226,178,48,.18) 35% 52%,rgba(226,178,48,0) 70%);pointer-events:none}
-.franja{background:var(--celeste);color:#fff;padding:14px 0;position:relative;z-index:2}
-.marca{display:flex;align-items:center;justify-content:space-between;gap:12px;position:relative;z-index:1}
-.marca h1{margin:0;font-weight:800;font-stretch:118%;font-size:clamp(20px,4.2vw,26px);letter-spacing:-.01em;color:#fff}
-.marca h1 span{color:#fff;font-weight:500;font-stretch:100%;opacity:.92}
-.vivo{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:#fff;font-weight:600}
-.vivo i{width:8px;height:8px;border-radius:50%;background:var(--sol);box-shadow:0 0 0 0 rgba(226,178,48,.8);animation:latido 2.4s infinite}
-@keyframes latido{70%{box-shadow:0 0 0 9px rgba(226,178,48,0)}100%{box-shadow:0 0 0 0 rgba(226,178,48,0)}}
-.sello{display:grid;grid-template-columns:auto 1fr;gap:18px 22px;align-items:end;padding:22px 0 26px;position:relative;z-index:1}
-.hora{font-weight:900;font-stretch:62%;font-size:clamp(84px,19vw,150px);line-height:.8;letter-spacing:-.03em;color:var(--celeste-osc)}
-.hora small{font-size:.32em;font-stretch:100%;font-weight:800;color:var(--oro);margin-left:4px;letter-spacing:0}
-.sello-texto{padding-bottom:6px}
-.sello-texto .fecha{font-weight:700;font-size:clamp(17px,3.6vw,22px);color:#12395E}
-.sello-texto p{margin:4px 0 0;color:#4A6680;font-size:14px;max-width:44ch}
+/* Cabecera: afiche en azul y negro con semitono, letra crema y filetes dobles (estética Jóvenes FR) */
+.cabecera{background:#0E121A url(cabecera.jpg) center/cover;color:var(--crema);position:relative;padding:14px 0 26px}
+.cabecera::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,18,26,.10),rgba(14,18,26,0) 40%,rgba(14,18,26,.25));pointer-events:none}
+.cabecera .envoltura{position:relative}
+.barra-sup{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:13px;font-weight:600}
+.vivo{display:inline-flex;align-items:center;gap:8px;color:var(--crema);white-space:nowrap}
+.vivo i{width:8px;height:8px;border-radius:50%;background:var(--crema);box-shadow:0 0 0 0 rgba(244,240,228,.8);animation:latido 2.4s infinite}
+@keyframes latido{70%{box-shadow:0 0 0 9px rgba(244,240,228,0)}100%{box-shadow:0 0 0 0 rgba(244,240,228,0)}}
+.ir-semanal{color:var(--crema);font-weight:700;font-size:13px;text-decoration:none;border:1.5px solid rgba(244,240,228,.8);border-radius:30px;padding:4px 13px;font-stretch:110%}
+.ir-semanal:hover{background:rgba(244,240,228,.14)}
+.afiche{margin:20px auto 0;max-width:820px;font-size:0}
+.filete{display:block;height:var(--g);border-top:var(--g) solid var(--crema);border-bottom:var(--g) solid var(--crema);box-sizing:content-box;padding:0;margin:0}
+.filete{--g:clamp(4px,.9vw,7px);height:clamp(3px,.7vw,5px)}
+.afiche svg{display:block;width:100%;height:auto;margin:clamp(12px,2.6vw,22px) 0;overflow:visible}
+.afiche text{font-family:"Archivo",system-ui,sans-serif;font-weight:900;font-variation-settings:"wdth" 125;fill:var(--crema)}
+.afiche .sol{fill:var(--crema)}
+.fecha-linea{display:flex;align-items:center;gap:14px;max-width:820px;margin:16px auto 0;color:var(--crema)}
+.fecha-linea em{font-family:var(--serif);font-style:italic;font-weight:400;font-size:clamp(17px,2.6vw,22px);white-space:nowrap}
+.fecha-linea i{flex:1;height:1.5px;background:var(--crema);opacity:.85;min-width:20px}
+.fecha-linea b{font-weight:900;font-variation-settings:"wdth" 125;font-size:clamp(20px,3.2vw,28px);letter-spacing:.01em;white-space:nowrap}
+.fecha-linea b small{font-size:.62em;margin-left:3px}
+.bajada{max-width:820px;margin:8px auto 0;font-size:14px;color:rgba(244,240,228,.86)}
 
 /* Lo que tenés que saber */
-.claves{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);margin:20px 0 0;padding:22px 22px 8px;position:relative;z-index:1;box-shadow:0 12px 30px -20px rgba(63,134,198,.5)}
-.claves h2{margin:0 0 10px;font-size:15px;font-weight:700;color:var(--celeste-osc)}
+.claves{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);margin:-14px 0 0;padding:24px 24px 8px;position:relative;z-index:1;box-shadow:0 18px 40px -26px rgba(14,18,26,.55)}
+.claves h2,.titulo-seccion{margin:0 0 16px;font-weight:900;font-variation-settings:"wdth" 125;font-size:clamp(17px,2.4vw,21px);letter-spacing:.01em;text-transform:uppercase;color:var(--tinta);padding-bottom:9px;border-bottom:3px double var(--azul);display:inline-block}
 .claves ol{margin:0;padding:0;list-style:none;counter-reset:k}
 .claves li{font-family:var(--serif);font-size:clamp(18px,2.6vw,21px);line-height:1.42;padding:0 0 14px 34px;position:relative;max-width:68ch}
-.claves li::before{counter-increment:k;content:counter(k);position:absolute;left:0;top:2px;font:800 15px/1 var(--sans);color:#fff;background:var(--celeste-osc);width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
+.claves li::before{counter-increment:k;content:counter(k);position:absolute;left:0;top:2px;font:900 14px/1 var(--sans);font-variation-settings:'wdth' 110;color:#fff;background:var(--azul);width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
 
 /* Pestañas */
 .pestanas{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--papel) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--linea);margin-top:22px}
 .pestanas .envoltura{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
 .pestanas button{border:0;background:none;font:600 15px var(--sans);color:var(--tinta-2);padding:14px 12px 12px;border-bottom:3px solid transparent;white-space:nowrap;cursor:pointer}
-.pestanas button[aria-selected=true]{color:var(--tinta);border-bottom-color:var(--sol)}
+.pestanas button[aria-selected=true]{color:var(--tinta);border-bottom-color:var(--azul);font-weight:800}
 .pestanas button b{font-weight:600;font-size:12px;background:var(--linea);color:var(--tinta-2);border-radius:20px;padding:1px 7px;margin-left:5px}
 .panel{padding:22px 0 60px}
 .panel[hidden]{display:none}
@@ -84,7 +90,7 @@ a{color:inherit}
 .tema[data-tono=positivo] .tono{color:var(--pos)} .tema[data-tono=negativo] .tono{color:var(--neg)} .tema[data-tono=mixto] .tono{color:var(--mix)}
 .tema h3{margin:0 0 8px;font-size:clamp(20px,2.8vw,24px);line-height:1.18;font-weight:750;font-stretch:96%}
 .tema.destacado h3{font-size:clamp(23px,3.4vw,30px)}
-.tema .resumen strong,.claves li strong{font-weight:600;color:var(--tinta);box-shadow:inset 0 -.42em 0 rgba(116,172,223,.35)}
+.tema .resumen strong,.claves li strong{font-weight:600;color:var(--tinta);box-shadow:inset 0 -.42em 0 rgba(24,140,232,.22)}
 .tema .resumen{font-family:var(--serif);font-size:17.5px;line-height:1.55;margin:0 0 14px;color:var(--tinta);max-width:70ch}
 .personas{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px}
 .personas span{font-size:13px;background:color-mix(in srgb,var(--celeste) 22%,transparent);color:var(--tinta);border-radius:6px;padding:2px 8px}
@@ -127,12 +133,9 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 
 
 /* Encuestas, agenda, buscador y semanal */
-.marca-der{display:flex;align-items:center;gap:16px}
-.ir-semanal{color:#fff;font-weight:700;font-size:14px;text-decoration:none;border:1.5px solid rgba(255,255,255,.75);border-radius:30px;padding:4px 12px}
-.ir-semanal:hover{background:rgba(255,255,255,.18)}
 .encuestas{display:grid;gap:16px}
 @media(min-width:760px){.encuestas{grid-template-columns:1fr 1fr}}
-.encuesta{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:18px 20px;border-left:5px solid var(--sol)}
+.encuesta{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:18px 20px;border-left:5px solid var(--azul)}
 .encuesta .quien{font-size:13px;color:var(--tinta-2);margin-bottom:6px}
 .encuesta h3{margin:0 0 12px;font-size:18px;line-height:1.3}
 .dato{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;margin:0 0 10px}
@@ -143,7 +146,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .encuesta a{font-size:14px;color:var(--celeste-osc)}
 .agenda{list-style:none;margin:0;padding:0;max-width:760px}
 .agenda li{display:grid;grid-template-columns:78px 1fr;gap:16px;padding:16px 0;border-bottom:1px solid var(--linea)}
-.dia{background:var(--celeste);color:#fff;border-radius:12px;text-align:center;padding:8px 4px;line-height:1.1;align-self:start}
+.dia{background:var(--noche) url(cabecera.jpg) center/cover;color:var(--crema);border-radius:12px;text-align:center;padding:8px 4px;line-height:1.1;align-self:start}
 .dia b{display:block;font-weight:900;font-stretch:70%;font-size:34px}
 .dia span{font-size:13px;font-weight:600}
 .agenda h3{margin:0 0 4px;font-size:18px}
@@ -159,10 +162,10 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .resultado h3{margin:4px 0 6px;font-size:17px}
 .resultado h3 a{text-decoration:none}
 .resultado p{margin:0;font-family:var(--serif);font-size:15.5px}
-.resultado mark{background:rgba(226,178,48,.35);color:inherit;border-radius:2px}
+.resultado mark{background:rgba(24,140,232,.22);color:inherit;border-radius:2px}
 .sub{font-size:16px;margin:8px 0 12px}
 body[data-modo=semanal] .solo-diario{display:none}
-body[data-modo=semanal] .franja{background:linear-gradient(90deg,var(--celeste),#8EBFE8)}
+
 
 /* Redes y entrevistas */
 .grilla{display:grid;gap:16px}
@@ -186,7 +189,7 @@ body[data-modo=semanal] .franja{background:linear-gradient(90deg,var(--celeste),
 .cable a{text-decoration:none;font-size:16px;line-height:1.35}
 .cable a:hover{text-decoration:underline}
 .cable .de{display:block;font-size:13px;color:var(--tinta-2);margin-top:2px}
-.nuevo{font-size:12px;font-weight:700;color:#3d2a00;background:var(--sol);border-radius:4px;padding:0 5px;margin-left:6px}
+.nuevo{font-size:12px;font-weight:700;color:#fff;background:var(--azul);border-radius:4px;padding:0 5px;margin-left:6px}
 .aviso{color:var(--tinta-2);font-size:14px;max-width:62ch;margin:0 0 16px}
 
 /* Archivo */
@@ -194,39 +197,41 @@ body[data-modo=semanal] .franja{background:linear-gradient(90deg,var(--celeste),
 .archivo a{display:flex;justify-content:space-between;gap:12px;background:var(--hoja);border:1px solid var(--linea);border-radius:10px;padding:12px 14px;text-decoration:none}
 .archivo a span{color:var(--tinta-2);font-size:14px}
 
-.pie{border-top:1px solid var(--linea);padding:24px 0 40px;color:var(--tinta-2);font-size:14px}
+.pie{border-top:3px double var(--linea);padding:24px 0 40px;color:var(--tinta-2);font-size:14px}
 .pie p{margin:0 0 6px;max-width:70ch}
 .vacio{padding:30px 0;color:var(--tinta-2)}
 .cargando{opacity:.5}
 @media (prefers-reduced-motion:reduce){.vivo i{animation:none}}
-.marca h1{white-space:nowrap}
 @media(max-width:520px){
-  .marca h1{font-size:19px}
-  .cabecera::after{width:200px;height:200px;right:-70px;top:-70px}
-  .vivo{font-size:12px;white-space:nowrap}
+  .vivo{font-size:12px}
   .vivo .largo{display:none}
-  .sello{gap:10px 16px;margin-top:20px}
-  .sello-texto p{font-size:13px}
-  .claves{padding:18px 16px 4px}
+  .afiche{margin-top:16px}
+  .fecha-linea{gap:10px}
+  .bajada{font-size:13px}
+  .claves{padding:20px 16px 4px}
 }
 </style>
 </head>
 <body data-modo="semanal">
 <header class="cabecera">
-  <div class="franja"><div class="envoltura">
-    <div class="marca">
-      <h1 id="marca">Clipping <span>Renovador</span></h1>
-      <div class="marca-der"><a class="ir-semanal" id="ir-semanal" href="semanal.html">Semanal</a><span class="vivo" id="vivo"><i></i><span>Actualizando</span></span></div>
-    </div>
-  </div></div>
   <div class="envoltura">
-    <div class="sello">
-      <div class="hora" id="hora" aria-label="Hora de la edición">--<small>h</small></div>
-      <div class="sello-texto">
-        <div class="fecha" id="fecha">Cargando edición</div>
-        <p id="metricas">Noticias, tuits y entrevistas sobre Sergio Massa y el Frente Renovador, elegidos y resumidos a las 6, 14 y 22 h.</p>
-      </div>
+    <div class="barra-sup">
+      <a class="ir-semanal" id="ir-semanal" href="semanal.html">Semanal</a>
+      <span class="vivo" id="vivo"><i></i><span>Actualizando</span></span>
     </div>
+    <h1 class="afiche" id="marca" aria-label="Clipping Renovador">
+      <span class="filete" aria-hidden="true"></span>
+      <svg viewBox="0 0 1000 236" aria-hidden="true">
+        <defs><path id="sol" d="M0.450 0.110L1.000 0.000L0.450 -0.110ZM0.406 0.223L0.753 0.202L0.463 0.010ZM0.335 0.320L0.866 0.500L0.445 0.130ZM0.240 0.396L0.552 0.552L0.396 0.240ZM0.130 0.445L0.500 0.866L0.320 0.335ZM0.010 0.463L0.202 0.753L0.223 0.406ZM-0.110 0.450L0.000 1.000L0.110 0.450ZM-0.223 0.406L-0.202 0.753L-0.010 0.463ZM-0.320 0.335L-0.500 0.866L-0.130 0.445ZM-0.396 0.240L-0.552 0.552L-0.240 0.396ZM-0.445 0.130L-0.866 0.500L-0.335 0.320ZM-0.463 0.010L-0.753 0.202L-0.406 0.223ZM-0.450 -0.110L-1.000 0.000L-0.450 0.110ZM-0.406 -0.223L-0.753 -0.202L-0.463 -0.010ZM-0.335 -0.320L-0.866 -0.500L-0.445 -0.130ZM-0.240 -0.396L-0.552 -0.552L-0.396 -0.240ZM-0.130 -0.445L-0.500 -0.866L-0.320 -0.335ZM-0.010 -0.463L-0.202 -0.753L-0.223 -0.406ZM0.110 -0.450L-0.000 -1.000L-0.110 -0.450ZM0.223 -0.406L0.202 -0.753L0.010 -0.463ZM0.320 -0.335L0.500 -0.866L0.130 -0.445ZM0.396 -0.240L0.552 -0.552L0.240 -0.396ZM0.445 -0.130L0.866 -0.500L0.335 -0.320ZM0.463 -0.010L0.753 -0.202L0.406 -0.223Z"/></defs>
+        <use href="#sol" class="sol" transform="translate(44 60) scale(40)"/>
+        <use href="#sol" class="sol" transform="translate(956 60) scale(40)"/>
+        <text id="linea1" x="500" y="102" text-anchor="middle" font-size="118">CLIPPING</text>
+        <text x="0" y="230" font-size="118" textLength="1000" lengthAdjust="spacingAndGlyphs">RENOVADOR</text>
+      </svg>
+      <span class="filete" aria-hidden="true"></span>
+    </h1>
+    <div class="fecha-linea"><em id="fecha">Cargando edición</em><i aria-hidden="true"></i><b id="hora" aria-label="Hora de la edición">--<small>h</small></b></div>
+    <p class="bajada" id="metricas"></p>
   </div>
 </header>
 
@@ -339,7 +344,7 @@ function pintarEdicion(ed){
     $("fecha").textContent=ed.titulo_semana||"Resumen de la semana";
   }else{
     $("hora").innerHTML=esc(ed.hora||String(d.getHours()).padStart(2,"0"))+"<small>h</small>";
-    $("fecha").textContent="Edición del "+fechaLarga(d);
+    $("fecha").textContent=fechaLarga(d);
   }
   var m=ed.metricas||{};
   $("metricas").textContent=m.notas_analizadas?((MODO==="semanal"?"En la semana revisamos ":"Revisamos ")+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
@@ -473,7 +478,7 @@ json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO===
 json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
 json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
 if(MODO!=="semanal")json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
-if(MODO==="semanal"){$("t-claves").textContent="Lo más importante de la semana";$("marca").innerHTML="Clipping Semanal <span>Renovador</span>";$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
+if(MODO==="semanal"){$("t-claves").textContent="Lo más importante de la semana";var l1=$("linea1");l1.textContent="CLIPPING SEMANAL";l1.setAttribute("x","104");l1.setAttribute("text-anchor","start");l1.setAttribute("textLength","792");l1.setAttribute("lengthAdjust","spacingAndGlyphs");$("marca").setAttribute("aria-label","Clipping Semanal Renovador");$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
 var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
 setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
 })();
