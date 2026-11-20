@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-20T01:54-03:00",
- "total": 128,
- "nuevas_ultima_corrida": 8,
+ "generado": "2026-11-20T02:23-03:00",
+ "total": 140,
+ "nuevas_ultima_corrida": 12,
  "errores": [],
  "notas": [
   {
@@ -173,6 +173,20 @@
    "revisada": true
   },
   {
+   "id": "a19d1c97ee2a",
+   "titulo": "Encuesta exclusiva: los números de la emocionalidad del voto y la imagen de los dirigentes rumbo a 2027",
+   "medio": "Minutouno",
+   "medio_url": "https://www.minutouno.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6c9IB1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6cw?oc=5",
+   "fecha": "2026-11-19T21:45-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.minutouno.com/politica/encuesta-exclusiva-los-numeros-la-emocionalidad-del-voto-y-la-imagen-los-dirigentes-rumbo-2027-n6347388",
+   "revisada": true
+  },
+  {
    "id": "58d4b5489886",
    "titulo": "Kicillof manda 250 pliegos judiciales al Senado y en marzo podrían ir los de la Suprema Corte",
    "medio": "La Política Online",
@@ -327,6 +341,20 @@
    "revisada": true
   },
   {
+   "id": "a155326accd0",
+   "titulo": "Se filtró otra encuesta con números en rojo para Javier Milei y LLA",
+   "medio": "Diario Mendoza Today",
+   "medio_url": "https://mendozatoday.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamk5MW5oeGpCYVNJREtjd2hwMUZjSVlBWDVGdG9kUjRzOHkxb1QzeVk1OWlhaFpyNWtyUzY2aVZQS2ZFSHM5c0NTWU0zTTBHZ1l1SThWdlhrV1dBTEpoMTdZM2o0aUhad2RvVldFS2djN3hBT3FadVBZYlZBcXU2WG1GMEJqVXBkNXotQ2M5ajktRXlOSF9CajdydEZLS1o5bmVr0gGaAUFVX3lxTFBDamwtVElCMFprbWRvR2lJeUJFZlU3RF9WNmVidFV3dU80MHl1cTBzSWhqVVo3bTRxb0lnaDNQdXZ6REFacllwNks4alhYdzNZWllrMkgzaWRZc2xONEhrckdWY2xjd1NrWVZjUHZsc0pMU09jMW5lZmpVNmdhSFVjWHBrbVNJdVN6dzR5ay15TGhaN0F6cVdVcVE?oc=5",
+   "fecha": "2026-11-19T18:41-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://mendozatoday.com.ar/nacionales/se-filtro-otra-encuesta-con-numeros-en-rojo-para-javier-milei/",
+   "revisada": true
+  },
+  {
    "id": "d83d308972c0",
    "titulo": "Consejo de la Magistratura. Menem no validó a Brügge y escala la pelea de Provincias Unidas con los libertarios",
    "medio": "La Voz del Interior",
@@ -337,6 +365,20 @@
     "\"Guillermo Michel\""
    ],
    "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
+  },
+  {
+   "id": "f33939d74332",
+   "titulo": "Una encuesta midió la desaprobación al Gobierno de Milei y cuánto crece el malestar por la economía",
+   "medio": "Diario La Opinión de Rafaela",
+   "medio_url": "https://diariolaopinion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnR5UmpGZzF2UGstM2dib05mbW5mXzdVOXF0M05GcHI2UmFKTjdvNHNXWmRublNUakVwTVZuZVJXYVlsNVNuM293elpqMUZhWlh0YmJGY1pMeGV1LXpFNHlPb0JhaWhVeVVKSF9QemdvcGNLZUNXNFowZ1ZMX2NoNllEcnBvTXlEUVVwcHBlRG0wWXBmYnZrcGtBck9pQjdsVEhfSHFmSzNZbDdkdWRuWVdCOUthWHVfV2RWcjgyWVNFQWl5S2JURlJMMmVrcXRtYmdkcdIB1AFBVV95cUxOTnR5UmpGZzF2UGstM2dib05mbW5mXzdVOXF0M05GcHI2UmFKTjdvNHNXWmRublNUakVwTVZuZVJXYVlsNVNuM293elpqMUZhWlh0YmJGY1pMeGV1LXpFNHlPb0JhaWhVeVVKSF9QemdvcGNLZUNXNFowZ1ZMX2NoNllEcnBvTXlEUVVwcHBlRG0wWXBmYnZrcGtBck9pQjdsVEhfSHFmSzNZbDdkdWRuWVdCOUthWHVfV2RWcjgyWVNFQWl5S2JURlJMMmVrcXRtYmdkcQ?oc=5",
+   "fecha": "2026-11-19T18:31-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://diariolaopinion.com.ar/amp/una-encuesta-midio-la-desaprobacion-al-gobierno-de-milei-y-cuanto-crece-el-malestar-por-la-economia.htm",
    "revisada": true
   },
   {
@@ -379,6 +421,20 @@
     "\"Frente Renovador\""
    ],
    "visto": "2026-11-20T00:54-03:00",
+   "revisada": true
+  },
+  {
+   "id": "ef4f569bb08c",
+   "titulo": "En un mano a mano con Axel Kicillof, Milei pierde un tercio de los votos que consiguió en el balotaje de 2023",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmxiNGdLRW1TYm80bk5kN3libTRvZGFXMmlrWDhJaEZHLWxCNTFZYm5IZWt5RXAtOUs1OUw5cEN1UkQ5YkF1bGxNX1IwQzA0YkR4UmgtX0VtWC01OXJsVE5hbHNDQlUzTGw3T1IzN05CZVZ6TkYtU3F4MHJTLWtuUDVCMHpkOXkwS2VGa09lU1ptOG9uY0NQZHlzMUJCS1lhdTN5WHpXV1hXNHEwQmp0cm5ITV9FUGlqZXVfc1BhZXJ0bjVmUlVWX2t6aWkwQUJsMkFGM3NTQk_SAdgBQVVfeXFMTkJsYjRnS0VtU2JvNG5OZDd5Ym00b2RhVzJpa1g4SWhGRy1sQjUxWWJuSGVreUVwLTlLNTlMOXBDdVJEOWJBdWxsTV9SMEMwNGJEeFJoLV9FbVgtNTlybFROYWxzQ0JVM0xsN09SMzdOQmVWek5GLVNxeDByUy1rblA1QjB6ZDl5MEtlRmtPZVNabThvbmNDUGR5czFCQktZYXUzeVh6V1dYVzRxMEJqdHJuSE1fRVBpamV1X3NQYWVydG41ZlJVVl9remlpMEFCbDJBRjNzU0JP?oc=5",
+   "fecha": "2026-11-19T18:20-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/en-un-mano-mano-axel-kicillof-milei-pierde-un-tercio-los-votos-que-consiguio-el-balotaje-2023-n5428356/amp",
    "revisada": true
   },
   {
@@ -487,10 +543,25 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnlaaElYOXBTWVZJcnFVcjZSWm5IZVRMTF9GN1o1UWNSTGktSmt2b3FsUTdOb2xidmNJMk9xR09uem1fSHMtZGptdi1xRzRpamdIa1g0TGNwUXR1TTF3YU5FS1RZVkVXcVItTFl4YklYSUVLdDY5YlBlOHVYNnVsTTdzMFRla0FZV2hteTJnRlZnMTc4QTNoT2dFemRuQlMtQ0xDZ1B2c0Z2ZWpYXzVMdndLVWN5UHhvZUJB0gG7AUFVX3lxTE0yeVpoSVg5cFNZVklycVVyNlJabkhlVExMX0Y3WjVRY1JMaS1Ka3ZvcWxRN05vbGJ2Y0kyT3FHT256bV9Icy1kam12LXFHNGlqZ0hrWDRMY3BRdHVNMXdhTkVLVFlWRVdxUi1MWXhiSVhJRUt0NjliUGU4dVg2dWxNN3MwVGVrQVlXaG15MmdGVmcxNzhBM2hPZ0V6ZG5CUy1DTENnUHZzRnZlalhfNUx2d0tVY3lQeG9lQkE?oc=5",
    "fecha": "2026-11-19T16:53-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "encuesta Massa"
    ],
    "visto": "2026-11-20T00:54-03:00",
    "url_original": "https://www.somosjujuy.com.ar/politica/milei-quedo-cuarto-una-encuesta-quienes-votaron-libertad-avanza-2023-n127461/amp",
+   "revisada": true
+  },
+  {
+   "id": "6d1d46e370da",
+   "titulo": "En el espejo de Mauricio Macri: Una nueva encuesta llena de urgencias y enciende alertas en el Gobierno",
+   "medio": "Gente de Salta",
+   "medio_url": "https://www.gentedesalta.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3ZuZEVsY0ZablRqZUVpbHlDY2JMSDZkNlc5LTh3X1ZiYWZGTjE3b2VONmdBS09pVjVTU05EM1hvUm44YU50NjQ5aGo3cmpwTEV3T20zTFhzSVI4aEsxMm1vM0NQaTBFSGJZYWRHSmRjY21ialJLSlh0Z1NacUl5SlBFejdDRnBMUlJJTmhTODkxTVFLdG5XRkhUVjRMWWxaUm1jdG1KSHhSTExPYW5fclFiazI1Q0N0TjZKeWtEWmx3RGxDS0h4VlZ30gHPAUFVX3lxTFBEdm01ejZLRnd2UUNUa2h1c2w3Yjh5aXQ2MTZpWWVSSVZtUGQxQ1l1Y0NiNzdKV3UzQ0pmbk9CdHhBOGZ0Yy1DaXVQRWI3TmY3eTBRaGZObmNGTFIwQmRna2liUHhtN1dHNmdndnpzT0tGZXZ5a2FZbFB0ZHZVVjcwOHpnOEdXV2tPaHZBcG51MW5GSXNsWGhHR0tPQThvY05vZjRVWklJRlV1YzZnYTFrUFFydUpSM01SSVhNODBadjAxNWJmeldVVkw1c2NIRQ?oc=5",
+   "fecha": "2026-11-19T16:38-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.gentedesalta.com/politica/en-espejo-mauricio-macri-una-nueva-encuesta-llena-urgencias-enciende-alertas-gobierno-n14115",
    "revisada": true
   },
   {
@@ -779,7 +850,8 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUJobmdWaDVyeWhVckZycmRjajRoY0ZRUVZzb3ZCNXhNNkVyanI3YlNLQUZPelNwRDFMLVdxWEwxeFNtbUxwdUxxcG9KNXoycTZHZlB3U3A0ci16TWZibWg3YjROWXNBRldjU19XZVpyT21WMHVZQThhTWpLWDdsTDcxUUVmZ3RZd002UG0xaGEwOEVxWV9BbC1MSS1YN2w5OGk3UHZYSUtQbF8tMmZiUG5qRkZfZUNRYUMw0gG7AUFVX3lxTE9ZQmhuZ1ZoNXJ5aFVyRnJyZGNqNGhjRlFRVnNvdkI1eE02RXJqcjdiU0tBRk96U3BEMUwtV3FYTDF4U21tTHB1THFwb0o1ejJxNkdmUHdTcDRyLXpNZmJtaDdiNE5Zc0FGV2NTX1dlWnJPbVYwdVlBOGFNaktYN2xMNzFRRWZndFl3TTZQbTFoYTA4RXFZX0FsLUxJLVg3bDk4aTdQdlhJS1BsXy0yZmJQbmpGRl9lQ1FhQzA?oc=5",
    "fecha": "2026-11-19T13:30-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "massismo"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.iprofesional.com/politica/469561-malena-galmarini-respondio-a-caputo-y-defendio-la-unidad-del-peronismo.amp",
@@ -960,6 +1032,20 @@
    "revisada": true
   },
   {
+   "id": "20a652dc6eeb",
+   "titulo": "La UBA midió a Milei y Kicillof y encontró un eventual empate: el dato sobre los votantes que sorprende a todos",
+   "medio": "El Cronista",
+   "medio_url": "https://www.cronista.com",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdEM1OFMyMFB3U0ZKSWIzUmxZSHNMbGhZTHphdk5WSDUtdXZLdUtKd1JnQkJRTzRVQ0NsamRwam5OTWl5ak9CWXd2dWVUVG0wNjd5NU5udmpzM2ZqemlBbloyTTRxRHpHLTBWQ2I2S1JNa0Z6X0hTbS1WZlduUVd3SmdrbERFdExWM3BvY2dVV1I4dlN5RHhRWDRnQXhfaE1HNkpJOXAtMDBpdXAtS3R1SjI3ZDhkeHdoYlhBTHZXRWVuWTBCamNWcjlmZ0pKZzhyR192NEYzbGl4dV9oNVRDLVRQSWVYcGtGdjR2UXp1dFRqTjZFOGlWeC1NQTFERzl6V0RiUNIBhAJBVV95cUxOdEM1OFMyMFB3U0ZKSWIzUmxZSHNMbGhZTHphdk5WSDUtdXZLdUtKd1JnQkJRTzRVQ0NsamRwam5OTWl5ak9CWXd2dWVUVG0wNjd5NU5udmpzM2ZqemlBbloyTTRxRHpHLTBWQ2I2S1JNa0Z6X0hTbS1WZlduUVd3SmdrbERFdExWM3BvY2dVV1I4dlN5RHhRWDRnQXhfaE1HNkpJOXAtMDBpdXAtS3R1SjI3ZDhkeHdoYlhBTHZXRWVuWTBCamNWcjlmZ0pKZzhyR192NEYzbGl4dV9oNVRDLVRQSWVYcGtGdjR2UXp1dFRqTjZFOGlWeC1NQTFERzl6V0RiUA?oc=5",
+   "fecha": "2026-11-19T11:49-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.cronista.com/economia-politica/la-uba-midio-a-milei-y-kicillof-y-encontro-un-eventual-empate-el-dato-sobre-los-votantes-que-sorprende-a-todos/?outputType=amp-type",
+   "revisada": true
+  },
+  {
    "id": "8599456433b1",
    "titulo": "Galmarini cruzó a Caputo por su reacción a la cumbre del PJ: “El miedo no es zonzo”",
    "medio": "Diputados Bonaerenses",
@@ -1002,6 +1088,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.rionegro.com.ar/politica/elecciones-2027-cerca-de-axel-kicillof-creen-que-sergio-massa-y-cristina-kirchner-lo-quieren-condicionado-4804560/",
+   "revisada": true
+  },
+  {
+   "id": "8635a370579f",
+   "titulo": "Encuesta de la UBA: el 57 por ciento reclama una mayor presencia del Estado",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEN6QjYzSXR4VkE5aTRyRklCM0MxSl9GMG9NMlVldXktZXVjcWhzU1Z3WmlwS1hKN2RqZnJzaTBkdVRQejRDM1VSUzNkbVlOSWhhZ1V2QjhiWVRrTy13YmxVS0cyRjNpWUM3eWV4UTdBYjNnOVpoSHNxQjRxMUdKeVgwMEUtZjg2MS1nZVRhVTBja2d2T2dNRFlmb3NfbHNFbnpBdVZxakY3S2x1T0dmNGpjRnREUzd4a1BB?oc=5",
+   "fecha": "2026-11-19T11:21-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.perfil.com/sociedad/encuesta-de-la-uba-el-57-por-ciento-reclama-una-mayor-presencia-del-estado-aFoMg3O17ZCh",
    "revisada": true
   },
   {
@@ -1059,6 +1159,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://criticasur.com.ar/nota/58089/massa_reorganiza_su_frente_renovador_alejandro_deanes_asume_en_tierra_del_fuego/",
+   "revisada": true
+  },
+  {
+   "id": "4b7003ae107a",
+   "titulo": "Una encuesta reveló qué preocupa más que la inflación",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZdIBmAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZQ?oc=5",
+   "fecha": "2026-11-19T10:45-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603556/encuesta-inflacion-empleo-reactivacion-economia-milei",
    "revisada": true
   },
   {
@@ -1405,6 +1519,20 @@
    "revisada": true
   },
   {
+   "id": "48cef878d1f1",
+   "titulo": "Encuesta: ¿Patricia Bullrich se está llevando a los votantes 'desencantados de Milei'?",
+   "medio": "Urgente24",
+   "medio_url": "https://urgente24.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTlaM0FBWkRVNldkS2lJR1dOT3dTaGkwWjI2YWZzYzU0VUx1UDduQ1VnTnAxelZ5a19JVlNhZnR3ekNsS3ZqbDF3RmUzM09CYlZLeENPZk9WVkFpeWJ6UXhFU0xmZy02UkQ2T1ktc3FRcElPbGgza0diczVmZEVqOFZTS283NWx3LTFRNU1peVBsSHhuT183ZUw2RlNlWkVaRDdCeXRvdzJGdTJHQ01QSlJNNklTVWNB0gG-AUFVX3lxTE9vVnc1VURWNE1MX2YyaTlIdW1PQ203dXpPWnBJUkd2S0o2SXNUWXo1M3U0amRlRGNia0NRckZqbEpfb0dtQ1Q5TGppV0loWFE5VGpZUnZHTm56VWVhVDl6d0M2R2ZrNzB4TEstREw0cmJ2UFc2a2YyZ3puV2oxNzJLdWZ0VFBHNzhXX1U1MlJDcFFEa1I0R1drUXZjVEoyQVFsSVF3NnlyN0V1Y3pKWU1tLTdBSzlJOFBKWkFzRnc?oc=5",
+   "fecha": "2026-11-19T08:56-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://urgente24.com/actualidad/encuesta-patricia-bullrich-se-esta-llevando-los-votantes-desencantados-milei-n637072",
+   "revisada": true
+  },
+  {
    "id": "cc898162c78a",
    "titulo": "La advertencia de Lula da Silva al peronismo: después de ganar, hay que gobernar",
    "medio": "Letra P",
@@ -1458,6 +1586,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://dechivilcoy.com.ar/se-realizo-en-chacabuco-una-jornada-de-capacitacion-sobre-derechos-y-normativa-en-discapacidad-con-la-presencia-de-dario-corrao/",
+   "revisada": true
+  },
+  {
+   "id": "aca4138dc2f3",
+   "titulo": "Nueva encuesta electoral: polarización light y notable diferencia en el voto de hombres y mujeres",
+   "medio": "Clarin.com",
+   "medio_url": "https://www.clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGxndGNkWjlBQ1lfdWhNS1JXLTdPVmdMZGdVTkxhQUFhdzNZcDBweUZoUUhKbWotQ1dqcmpIRjFNcFpXczVERGNxME1DSExrNF85XzgxRHFIZmZmX3BlNU5Jb0VmUkZNWGhqc293ZmhneWpSZ1k2b0JnSTcwb1dqczkxLUJGZHRiQWFINGN2UUYyMHZvVmRLY0w3VzlFUUZoQUtJeUJGRVRKNFh0UFdLV1lFSHFxektXZU9BYkprREZUX2lmOUV0NnFWT2IyZw?oc=5",
+   "fecha": "2026-11-19T08:32-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.clarin.com/politica/nueva-encuesta-electoral-polarizacion-light-notable-diferencia-voto-hombres-mujeres_0_jHTqC5h12S.html",
    "revisada": true
   },
   {
@@ -1660,6 +1802,20 @@
    "revisada": true
   },
   {
+   "id": "aacc156dbd78",
+   "titulo": "Alerta para el Gobierno: hicieron una encuesta entre votantes libertarios y Milei quedó cuarto",
+   "medio": "qpasó",
+   "medio_url": "https://qpaso.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVB6WTNlc1FSbjZGSnJxMXBTdlhwV1otZWlLLUxIRlF4RGs1NENiajZNWmhQZlR4Q0N3bDZWbzRfVThuODFYd2JDTGVxcS14ZFZsQ1NpV1JYVW5pcnc4aUJxM210b2VtekJVQVp2Z1lJeXpoejFqQ0QtRHU0RmRqcF9UTFpqUi1CN0wtd2YxeEdEdTk5MnA3LWNEQkxPQUdiVjFNNXhiSGF4XzQ2UnlxOGZ2RFVScnBjT2RZOThSTGtBYldVVzZla2xweHV0Zw?oc=5",
+   "fecha": "2026-11-19T07:02-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://qpaso.ar/noticias/clarin/politica/alerta-gobierno-hicieron-encuesta-votantes-libertarios-milei-quedo-cuarto_0_KKgOtDH0tA.html",
+   "revisada": true
+  },
+  {
    "id": "be8c3e569a74",
    "titulo": "Quiénes son los dirigentes entrerrianos del PJ que se mostraron en un acto con Sergio Massa y sin Kicillof",
    "medio": "Elentrerios",
@@ -1760,6 +1916,21 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058",
+   "revisada": true
+  },
+  {
+   "id": "c8ddb6d74406",
+   "titulo": "Casi 57% de argentinos ve negativamente al presidente, dice sondeo",
+   "medio": "Prensa Latina",
+   "medio_url": "https://www.prensa-latina.cu",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1luam1SWkNJRnp3SHRva0R5c0dyS0Y4OUhnM0VNd0hGRmF6aURBQXhGUWxvd0lWYkwyT0U1THVydURIb0JVYkIzUE1uSkxNT0NEWVNBTDJBVGFMdlctNEhCSGdhRjBTTnNBbW9YNGN0cl9tcDYwdEtVZGRiUEN5bGFSeGRKbEZ4SFJQc01jYlV4MGVPdGZRWTNfSEF5aS15ZXg2RW10d08?oc=5",
+   "fecha": "2026-11-19T03:39-03:00",
+   "busquedas": [
+    "encuesta Massa",
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T02:23-03:00",
+   "url_original": "https://www.prensa-latina.cu/2026/11/19/casi-57-de-argentinos-ve-negativamente-al-presidente-dice-sondeo/",
    "revisada": true
   },
   {
