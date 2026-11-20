@@ -136,6 +136,15 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .vacio{padding:30px 0;color:var(--tinta-2)}
 .cargando{opacity:.5}
 @media (prefers-reduced-motion:reduce){.vivo i{animation:none}}
+.marca h1{white-space:nowrap}
+@media(max-width:520px){
+  .marca h1{font-size:19px}
+  .vivo{font-size:12px;white-space:nowrap}
+  .vivo .largo{display:none}
+  .sello{gap:10px 16px;margin-top:20px}
+  .sello-texto p{font-size:13px}
+  .claves{padding:18px 16px 4px}
+}
 </style>
 </head>
 <body>
@@ -293,7 +302,7 @@ function pintarCable(cr){
   var notas=(cr.notas||[]).slice(0,60);
   $("cable").innerHTML=notas.map(function(n){var d=new Date(n.fecha);
     return'<li><time datetime="'+esc(n.fecha)+'">'+(d.toDateString()===new Date().toDateString()?hm(d):d.getDate()+"/"+(d.getMonth()+1))+'</time><div><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.titulo)+'</a>'+(corte&&new Date(n.visto||n.fecha)>corte?'<span class="nuevo">nuevo</span>':"")+'<span class="de">'+esc(n.medio)+'</span></div></li>';}).join("");
-  var g=new Date(cr.generado); $("vivo").lastChild.textContent="Al minuto: "+hace(g);
+  var g=new Date(cr.generado); $("vivo").lastChild.innerHTML='<span class="largo">Al minuto: </span>'+esc(hace(g));
   $("pie-act").textContent="Último rastrillaje de medios: "+fechaLarga(g)+", "+hm(g)+" h.";
 }
 
