@@ -55,7 +55,9 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 
 ## Clipping Semanal (sábados)
 
-1. Leer las ediciones de la semana en `data/ediciones/` (domingo a sábado) y lo que quede en `data/crudo.json`, `data/videos.json` y `data/tuits.json`.
+1. La semana son SIEMPRE los 7 días completos hacia atrás: de domingo a sábado (`desde` = sábado − 6 días, `hasta` = el sábado de la corrida). Nunca armar el semanal solo con lo del último día.
+   - Leer todas las ediciones de esos 7 días en `data/ediciones/` y todo lo que haya en `data/crudo.json`, `data/videos.json` y `data/tuits.json` (guardan 7 días).
+   - Si faltan días (por ejemplo, la primera semana), completar con búsquedas web de esos días (Google Noticias, YouTube) antes de elegir. El resumen tiene que cubrir la semana entera.
 2. Escribir `data/semanal/curaduria.json` con el mismo formato que la diaria más `"desde": "AAAA-MM-DD"` y `"hasta": "AAAA-MM-DD"`.
    - `claves`: 4 o 5 puntos que resuman la semana, en el mismo registro formal y sobrio.
    - `temas`: los 6 a 10 temas más importantes de la semana, cada uno con resumen de la semana completa (no del último día) y sus 2 o 3 mejores notas.

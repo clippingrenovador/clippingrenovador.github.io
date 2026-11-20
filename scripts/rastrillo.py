@@ -21,6 +21,9 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 CRUDO = RAIZ / "data" / "crudo.json"
 DIAS_GUARDADOS = 7
+# Si existe este archivo, la corrida busca los ultimos 7 dias (relleno de semana) y lo borra.
+RELLENO = Path(__file__).resolve().parent.parent / "data" / "rellenar_semana"
+VENTANA = "7d" if RELLENO.exists() else "1d"
 ART = timezone(timedelta(hours=-3))
 
 # Cada busqueda es una consulta a Google Noticias Argentina (ultimas 24 h).
@@ -67,7 +70,7 @@ def clave_titulo(titulo):
 
 
 def leer_feed(consulta):
-    q = urllib.parse.quote(consulta + " when:1d")
+    q = urllib.parse.quote(consulta + " when:" + VENTANA)
     url = f"https://news.google.com/rss/search?q={q}&hl=es-419&gl=AR&ceid=AR:es-419"
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
@@ -127,7 +130,7 @@ def _buscar_videos(dato, salida):
 def leer_youtube(consulta):
     # Filtro "subidos hoy" de la busqueda de YouTube.
     url = ("https://www.youtube.com/results?search_query="
-           + urllib.parse.quote(consulta) + "&sp=EgIIAg%253D%253D&hl=es-419&gl=AR")
+           + urllib.parse.quote(consulta) + ("&sp=EgIIAw%253D%253D" if VENTANA == "7d" else "&sp=EgIIAg%253D%253D") + "&hl=es-419&gl=AR")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "es-AR,es;q=0.9"})
     with urllib.request.urlopen(req, timeout=30) as r:
         html = r.read().decode("utf-8", "replace")
@@ -297,7 +300,9 @@ def main():
         "errores": errores,
         "notas": notas,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{nuevas} notas nuevas, {len(notas)} en total, {len(errores)} errores")
+    if RELLENO.exists():
+        RELLENO.unlink()
+    print(f"{nuevas} notas nuevas, {len(notas)} en total, {len(errores)} errores (ventana {VENTANA})")
     if errores and nuevas == 0 and not previas:
         sys.exit(1)
 
