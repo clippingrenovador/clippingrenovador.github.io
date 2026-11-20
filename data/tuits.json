@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-20T13:17-03:00",
- "total": 39,
+ "generado": "2026-11-20T14:17-03:00",
+ "total": 40,
  "tuits": [
+  {
+   "id": "2123786022630600823",
+   "usuario": "peronconwifi",
+   "visto": "2026-11-20T14:17-03:00",
+   "url": "https://twitter.com/peronconwifi/status/2123786022630600823",
+   "citado_en": [
+    {
+     "medio": "Urgente24",
+     "titulo": "Con o sin PASO: El peronismo le avisa a Milei que irá unido para sacarlo del poder en 2027",
+     "nota_id": "392565a641e6"
+    }
+   ]
+  },
   {
    "id": "2122845649448149356",
    "usuario": "AlexisGuerrera",
