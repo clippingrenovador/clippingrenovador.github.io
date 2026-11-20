@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-20T03:28-03:00",
- "total": 417,
- "nuevas_ultima_corrida": 3,
+ "generado": "2026-11-20T05:36-03:00",
+ "total": 424,
+ "nuevas_ultima_corrida": 20,
  "errores": [],
  "notas": [
   {
@@ -154,7 +154,8 @@
    "fecha": "2026-11-19T22:16-03:00",
    "busquedas": [
     "\"Guillermo Michel\"",
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "revisada": true
@@ -167,9 +168,24 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakpKaGVSRmsza1pSSkhMNmNTN29OWmhxUmpzQnJGeF80Nk1mWnRPYW1EQ0VVcXUtbERQSjRNTlljekhraWZWZFFReGdnZ0ZOdTZ1NTZ5elYxV29FczRDamlSSWNtbjBXSGlpNWdMeDRXTW9maEdnUEJ2d1J3ZXhhY3BHX19RbzR6N2V5WnRVSS1XZkx6LTRHMlo3TXMtQlM4V19rc252T3JKRjND?oc=5",
    "fecha": "2026-11-19T22:03-03:00",
    "busquedas": [
-    "\"Juan Andreotti\""
+    "\"Juan Andreotti\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
+   "revisada": true
+  },
+  {
+   "id": "a19d1c97ee2a",
+   "titulo": "Encuesta exclusiva: los números de la emocionalidad del voto y la imagen de los dirigentes rumbo a 2027",
+   "medio": "Minutouno",
+   "medio_url": "https://www.minutouno.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6c9IB1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6cw?oc=5",
+   "fecha": "2026-11-19T21:45-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://www.minutouno.com/politica/encuesta-exclusiva-los-numeros-la-emocionalidad-del-voto-y-la-imagen-los-dirigentes-rumbo-2027-n6347388",
    "revisada": true
   },
   {
@@ -222,7 +238,8 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHV0a3BpMXlnRlV4Wk5TZUhvQkZKRGxBcWNSVUs4cExGWkNNQmMtMkszWFpRWDBaODFYUjI5REEtTGFMLW5iMktZdko2akpPSzNGSTR3bEtnMlVjUEFQSEpaakh4Z3BRWjUwTll2dUJSZDgzamYzeXpTSEg2U1ZvN1QwRzZFck1Eem9aSzN2VVgwWU5DLWNWN3Vqc1BRUQ?oc=5",
    "fecha": "2026-11-19T20:51-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T03:26-03:00",
    "url_original": "https://chacabuco.gob.ar/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco/",
@@ -390,7 +407,8 @@
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1zOGFqSk11dkVTYkVzUlFqN0QzRW9OWTF3UmNTRUJDUTh3RTljQ2RYay1xVlFVS2NiU1BHQ1p5b2g2WUxRdTVsVmRmRjBjUlh2YWFOcEVwM3V0VTdPbEFkSk13ZzdKUW9QYUllek5HOXdSc1M4WW1HTTExdFRybzVtRlM4b1RFLVc4V3VrU1owNGJwRWFpbDRxS04zVjBrOEVzNFhpdDRuWnZXdnQzQnBPTndOVGJzNHJuSG1DM0lVMml4MWFLUjF0MlptaFpwRmI3U0I2d1VfeVdWOHNUampjVQ?oc=5",
    "fecha": "2026-11-19T18:13-03:00",
    "busquedas": [
-    "\"Javier Gastón\""
+    "\"Javier Gastón\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.elcronista.ar/chascomus-sede-del-iii-congreso-de-salud-mental-comunitaria-dos-jornadas-de-intercambio-entre-especialistas-de-todo-el-pais",
@@ -404,7 +422,8 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeFhFLTRFUGtOZzNQQVI5YlRuT0lWTE02UzRESEQ1cDkta0tQRXhVMlZiQy1vQ1A3ZklmV0lyVmo4TDdVU1JZVnhPVWZONlduNUliaXJhRFNvS2VNQTU4YnEtY3BpcVp4T0piRDVEaHN5cVQ2NlRyMXBYTmhKRjNBNXpjZ29qbUY2QmNjd3pTaWN5YXhaWnB1Q0sweVJPSUdwRVhkcGVfbEx6SUcwNkNjNjkzdUNFNEI1dDFkVnN1WlpRdzllLVZ4UFZSUFZYd2lvd1hLMUV3?oc=5",
    "fecha": "2026-11-19T18:07-03:00",
    "busquedas": [
-    "\"Javier Gastón\""
+    "\"Javier Gastón\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T01:52-03:00",
    "url_original": "https://www.elcronista.ar/orgullo-local-13-estudiantes-de-la-ciudad-representan-a-chascomus-en-la-final-de-los-juegos-escolares-bonaerenses",
@@ -418,7 +437,8 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzB4YjNjUEYyWFU5REwwN0gweklrSjViWE5Yc2NkSFdrd3VWUWFLdDI4NVJwTjNhZktJUktOYTB6Z3hnUFN3VXY2dzFKS1U0RUd3Q2V3VWdXX1NaRGxhdFdpSmF6NF83bFJYRWNhekF0VjE3YWQxM05hWjEtT21MWGZvYzJSUm1GVGw3RC1yNmZ2bXZDcFE?oc=5",
    "fecha": "2026-11-19T17:27-03:00",
    "busquedas": [
-    "\"Javier Gastón\""
+    "\"Javier Gastón\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://elfuertediario.com.ar/comenzo-en-chascomus-el-congreso-de-salud-mental-comunitaria/",
@@ -432,10 +452,25 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3ZrVjk5bXZkakFQazdBSWJWVmlpZHVBVUVkSjhmQkxHOENFdlp3SmtuZGFDWDFXbWhjN2cyME1pTDZYSUhvclByREhSQk1hMUVIZUJSRmF0aWpKRlM0cmJxdmlLaEJmZEZsS0lESU5QTWtYd3FZekMxM1U3QmpHNXNiQnhpbUVid3hyYkYxSlpsa3dzN09uOV9YMk90MWljeHlmSlNPSzU2dzlESUR4c2xaNUg4c01GWkZDQm93?oc=5",
    "fecha": "2026-11-19T17:26-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.quepensaschacabuco.com/entrada/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco-38113/",
+   "revisada": true
+  },
+  {
+   "id": "61c1e767f896",
+   "titulo": "Una encuesta muestra un 62% de rechazo al Gobierno de Milei",
+   "medio": "MendoVoz",
+   "medio_url": "https://www.mendovoz.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjgwRkhvSXJPVDBTNGlVWFV6a3NWUHBWalEtMnQyZ3IyNE9KMGk2RjhzWXNpeTZFU1ZZSnZXTUxsR1VsOGxEaU5fWko3S0c4NVF4WUExUkNnOTFmZDl4Wk4zRmFXNUVFV1NaM1VoLTVhSVBjVHhxa1R4SURCcEx1Mzl3WC1MYWZkc1VpOEltOTVBdFRRWktIMF8ySmVhWldFRkd3a0VMSmhvLVJaeXFWZTFILTllLWd6S01IUFdIYi1GamVEeDdv?oc=5",
+   "fecha": "2026-11-19T17:01-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/19/una-encuesta-muestra-un-62-de-rechazo-al-gobierno-de-milei-170831.html",
    "revisada": true
   },
   {
@@ -447,10 +482,25 @@
    "fecha": "2026-11-19T16:53-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "encuesta Massa"
+    "encuesta Massa",
+    "encuesta \"Sergio Massa\""
    ],
    "visto": "2026-11-20T00:54-03:00",
    "url_original": "https://www.somosjujuy.com.ar/politica/milei-quedo-cuarto-una-encuesta-quienes-votaron-libertad-avanza-2023-n127461/amp",
+   "revisada": true
+  },
+  {
+   "id": "6d1d46e370da",
+   "titulo": "En el espejo de Mauricio Macri: Una nueva encuesta llena de urgencias y enciende alertas en el Gobierno",
+   "medio": "Gente de Salta",
+   "medio_url": "https://www.gentedesalta.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3ZuZEVsY0ZablRqZUVpbHlDY2JMSDZkNlc5LTh3X1ZiYWZGTjE3b2VONmdBS09pVjVTU05EM1hvUm44YU50NjQ5aGo3cmpwTEV3T20zTFhzSVI4aEsxMm1vM0NQaTBFSGJZYWRHSmRjY21ialJLSlh0Z1NacUl5SlBFejdDRnBMUlJJTmhTODkxTVFLdG5XRkhUVjRMWWxaUm1jdG1KSHhSTExPYW5fclFiazI1Q0N0TjZKeWtEWmx3RGxDS0h4VlZ30gHPAUFVX3lxTFBEdm01ejZLRnd2UUNUa2h1c2w3Yjh5aXQ2MTZpWWVSSVZtUGQxQ1l1Y0NiNzdKV3UzQ0pmbk9CdHhBOGZ0Yy1DaXVQRWI3TmY3eTBRaGZObmNGTFIwQmRna2liUHhtN1dHNmdndnpzT0tGZXZ5a2FZbFB0ZHZVVjcwOHpnOEdXV2tPaHZBcG51MW5GSXNsWGhHR0tPQThvY05vZjRVWklJRlV1YzZnYTFrUFFydUpSM01SSVhNODBadjAxNWJmeldVVkw1c2NIRQ?oc=5",
+   "fecha": "2026-11-19T16:38-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://www.gentedesalta.com/politica/en-espejo-mauricio-macri-una-nueva-encuesta-llena-urgencias-enciende-alertas-gobierno-n14115",
    "revisada": true
   },
   {
@@ -461,7 +511,8 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGlfdjVNTGk0M09BR0hDbm05bkNnY1c1MmV2QjZ6Q05JdU15UDU0WDlYVDJ2YUd3OV8zMVE3aGJ2cnlYVHFWQldtZnhObWlBQXB3WFBmNlM0YU1XWHJVV3VMbjFvYXloem0wN2FhazdYYlNaOHpPREw3S1NQX0JjZ3RDRmpndUk?oc=5",
    "fecha": "2026-11-19T16:29-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.chacabuquero.com.ar/2026/11/causo-buena-impresion-la-sede-de-la.html",
@@ -477,7 +528,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "\"Diego Giuliano\""
+    "\"Diego Giuliano\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.letrap.com.ar/politica/luciano-di-napoli-busca-apoyos-buenos-aires-ser-candidato-la-pampa-n5428354",
@@ -509,7 +561,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "\"Diego Giuliano\""
+    "\"Diego Giuliano\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.cfin.com.ar/politica/diego-giuliano-criticas-pullaro-deuda-santa-fe/",
@@ -552,7 +605,8 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlZ4eE82b2ZyM0FpOWRNWklCMnhFZk14WjZBcW9VV2tONkdqb1VxeVpHeG02dFVablRIQ0RPek02MGZLYl83Vko4ZnhKM1o1blYyQnVEZDBBZEZ3anhNRkhTay14YTg5LXRRSVpaako0aklqemJvZ0NGd0htbXZzbjAyd0xPdWVHX1BkMFI0NGp1NFNKTjJlYllNTkluMHp4NGfSAaIBQVVfeXFMT1pWeHhPNm9mcjNBaTlkTVpJQjJ4RWZNeFo2QXFvVVdrTjZHam9VcXlaR3htNnRVWm5USENET3pNNjBmS2JfN1ZKOGZ4SjNaNW5WMkJ1RGQwQWRGd2p4TUZIU2steGE4OS10UUlaWmpKNGpJanpib2dDRndIbW12c24wMndMT3VlR19QZDBSNDRqdTRTSk4yZWJZTU5JbjB6eDRn?oc=5",
    "fecha": "2026-11-19T15:18-03:00",
    "busquedas": [
-    "\"Pablo Garate\""
+    "\"Pablo Garate\"",
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://grupolaprovincia.com/amp/603560/garate-el-municipio-pone-primero-la-seguridad-de-los-vecinos",
@@ -698,7 +752,8 @@
    "fecha": "2026-11-19T13:39-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Malena Galmarini\""
+    "\"Malena Galmarini\"",
+    "massismo"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://informedigital.com.ar/malena-galmarini-cruzo-a-caputo-por-el-acto-de-massa-y-defendio-la-unidad-del-peronismo/",
@@ -798,7 +853,8 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSExqV0k1OWZ6MGlTYUxCR2ZnNTBoZC1wMzhEWlZVZEpNcGxYNWtYMVJMMXozYUQ3NEt2bkU4bWtKT2JVVE1CUXRfWW9TTjBSVmdnakdJVFJVWG9wYzNiNTM2cDd0SWM5TC0waDlnWjBBNmYxYWlreE51UmRLRDhiWF9WLVNBTEtoOFlMLTF5eERZdnh3dVplMURpc0R5X1ZYcVVUR3NZUGlWZzIySWJobWsyMTJ4U2hJclZNbWhDc096YUw4YU5aQTdHclJsa09zeFY0MFZFZDNGYUItME5FOUhySzZUYmd1R3c?oc=5",
    "fecha": "2026-11-19T12:12-03:00",
    "busquedas": [
-    "\"Guillermo Michel\""
+    "\"Guillermo Michel\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://informedigital.com.ar/contrarreloj-el-nuevo-consejo-de-la-magistratura-debe-empezar-a-funcionar-y-no-logra-completarse-hay-seis-bancas-en-disputa/",
@@ -828,7 +884,8 @@
    "fecha": "2026-11-19T12:11-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:54-03:00",
    "url_original": "https://www.lasintesis.com.ar/2026/11/19/el-peronismo-se-organiza-y-crece-la-competencia-interna",
@@ -859,7 +916,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "\"Katia Blanc\""
+    "\"Katia Blanc\"",
+    "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.diarionorte.com/336912-leiva-con-o-sin-primarias-vamos-a-volver-a-ser-gobierno",
@@ -918,7 +976,8 @@
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVYzcFJqR1FrLVJhZTJKT0hkUGtqX2xKVHM2YVJQQVRMVFdNUXktdDhueEJPdVVPUDRJYXAydExqUFoxQUZnZEpDTWl3WW5xUkJpV3dQQzYwY2Fnand3UWNHMUtGdVpJM2daUTFBbElsT2lXV0ZObk1ZZll5b2VxZ1N6aTNfc1dWNmlYV1BxX25PQ3l2Q0tJUXRTTVRFWDJzOXUtZk5fcEFSenk1MXVWLVh6MDVGTzZzR1o3MTdZbUNaMjlpWXFiS3F3QUhGck83Rm5sZnpwWFg?oc=5",
    "fecha": "2026-11-19T11:27-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.junindigital.com/regionales/2026-11-19-7-21-0-golia-firmo-los-contratos-para-iniciar-la-construccion-de-30-viviendas-en-chacabuco",
@@ -933,10 +992,25 @@
    "fecha": "2026-11-19T11:25-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.rionegro.com.ar/politica/elecciones-2027-cerca-de-axel-kicillof-creen-que-sergio-massa-y-cristina-kirchner-lo-quieren-condicionado-4804560/",
+   "revisada": true
+  },
+  {
+   "id": "8635a370579f",
+   "titulo": "Encuesta de la UBA: el 57 por ciento reclama una mayor presencia del Estado",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEN6QjYzSXR4VkE5aTRyRklCM0MxSl9GMG9NMlVldXktZXVjcWhzU1Z3WmlwS1hKN2RqZnJzaTBkdVRQejRDM1VSUzNkbVlOSWhhZ1V2QjhiWVRrTy13YmxVS0cyRjNpWUM3eWV4UTdBYjNnOVpoSHNxQjRxMUdKeVgwMEUtZjg2MS1nZVRhVTBja2d2T2dNRFlmb3NfbHNFbnpBdVZxakY3S2x1T0dmNGpjRnREUzd4a1BB?oc=5",
+   "fecha": "2026-11-19T11:21-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://www.perfil.com/sociedad/encuesta-de-la-uba-el-57-por-ciento-reclama-una-mayor-presencia-del-estado-aFoMg3O17ZCh",
    "revisada": true
   },
   {
@@ -994,6 +1068,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://criticasur.com.ar/nota/58089/massa_reorganiza_su_frente_renovador_alejandro_deanes_asume_en_tierra_del_fuego/",
+   "revisada": true
+  },
+  {
+   "id": "4b7003ae107a",
+   "titulo": "Una encuesta reveló qué preocupa más que la inflación",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZdIBmAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZQ?oc=5",
+   "fecha": "2026-11-19T10:45-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603556/encuesta-inflacion-empleo-reactivacion-economia-milei",
    "revisada": true
   },
   {
@@ -1104,7 +1192,8 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWJwYzNsclRsQ1dqZGRUdWdhNlJPODFVNWkyVjlfTElsbG5pRW5OSTZoM3NVejVIcTRzOE12a0hRSm84Y0xoZUgtYl9vLVFSSmMzUTBFRGdtYnEtVjd5QmpnbThZZHJURVowaGx5dHU0TEtGX3liQjV1M1JBOEFra1pwcHNtRlF3UEpoY3ZqTWkxUjh2Q24wWVRRUFNUZXJhRTRrUkYyakZRWW1hR09TbV83Vk1EV0hVUFlQTWJn?oc=5",
    "fecha": "2026-11-19T10:16-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://chacabucoenred.com/chacabuco-realizo-una-jornada-de-capacitacion-sobre-discapacidad-derechos-y-normativa-vigente/",
@@ -1192,7 +1281,8 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEZXb1lRWlQtdER1TDZpTmk0WmI2U1djSmd6Q0tfU1dXNnRPaGpzR0pkQkU2OVNkZi1md29raHpwdGUzQ1dmUDVMMWw5Z3BMOUwxeHEwOG9JY2NtbWlaeWZnYUtULWQ1SmxralNqSjZCX1pKcVhyMjhmS2VQc3RJOWdwR2doYzlyMmUwcFlicVQxUXVyTWlySnViSDNGWmZUTUF0SEt1Mjk3X2tMZHFRdHJpRkVFOVcwOFhGd0JJT3JwU01Ybm8zLWhzdk5hWmVSRXVj?oc=5",
    "fecha": "2026-11-19T09:40-03:00",
    "busquedas": [
-    "\"Javier Gastón\""
+    "\"Javier Gastón\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.elcronista.ar/con-la-firma-de-la-escritura-la-historica-casa-de-raul-alfonsin-paso-a-formar-parte-del-patrimonio-de-chascomus",
@@ -1206,7 +1296,8 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWFmQzgxZXV5b1pKRlV4dnM3SG9pRXMtV3BGQ3RZQU91TkdZaUpvVU0tUWNGdUFrRE5IakROTFB1RFYxMHlIdHV2VFlMUVozYm8zeUNfQ204YkNDNkNOaklWa0dqY0pMMUJ1WV9PRXhOVEV2R0JpSVlqWm9Rd0hGWTlkS3ZSajNtY1dqazdLWk9uQkJCNDRVaHU1RUFzSHlHcDFQa3BkYw?oc=5",
    "fecha": "2026-11-19T09:34-03:00",
    "busquedas": [
-    "\"Javier Gastón\""
+    "\"Javier Gastón\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.elcronista.ar/181-familias-de-chascomus-avanzan-hacia-la-escritura-definitiva-de-sus-hogares",
@@ -1220,7 +1311,8 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQanB1WFFndkxxUzlOaTFaVm9ady1vZW82Tm5HUzNBYmpHRHJaUDRxVUF0ZllDLWxBZnE3YmVacExKbEhBTXBWTnN0a3dETjl0dmYxUlVqem1rR0tsQjJXV2VaLXRtU1F0ZXdXdmFCUzNfNU9CazFmSk9TQzN4UjNfOHZqZU02dUVRbFlzcHZMV1g1OW9QQ3JNa1FNTkVJeEcyUkFrMmhaV3lWZTlD?oc=5",
    "fecha": "2026-11-19T09:20-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348249-dos-empresas-de-chacabuco-llevaran-adelante-la-con/",
@@ -1248,7 +1340,8 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVdJZkdPWFBwYzBDZGx1OXA2dEhYeHR6SDIxek9vWWlmOFFFX3I1dkdUSHNteG9QNWZPVnlHSDFDbVprc0R3QWlUQkktdmQxamlIQThXT3R5cENPamtCZnFLUDVxa21lVnNrU1NURXY3eF93TlpEWHY0S1lQaWljZFlnNk45ZzhSZFBROGY5THNPLWlMSkp3ajZ0dWFKMW1aVVJUaEZ6NVZHbDk0?oc=5",
    "fecha": "2026-11-19T09:17-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348247-chacabuco-realizo-una-jornada-sobre-discapacidad-y/",
@@ -1262,7 +1355,8 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnhFbXJTU1FQb0t1ekVldnV6bEtSdm9YSVRScFRZZGVLbElwTWJaWE15cUNaTUhORTMxbHlvMXdqYnEySzczN19FYVdjRkYxc2hsRnJpYnBadmZ5MUtvMEg1VUR5WkZES2FYSTVKRlBTdVFoY1NlSGFVNTBkTlZjYUh0ZVJXajJ1d0NHR3JpdEZNYW1pd2VhdWoweU14UWNjMWJSSXVmWkVwN1VX?oc=5",
    "fecha": "2026-11-19T09:15-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348246-se-inauguraron-nuevas-cuadras-de-pavimento-en-chac/",
@@ -1298,6 +1392,20 @@
    "revisada": true
   },
   {
+   "id": "48cef878d1f1",
+   "titulo": "Encuesta: ¿Patricia Bullrich se está llevando a los votantes 'desencantados de Milei'?",
+   "medio": "Urgente24",
+   "medio_url": "https://urgente24.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTlaM0FBWkRVNldkS2lJR1dOT3dTaGkwWjI2YWZzYzU0VUx1UDduQ1VnTnAxelZ5a19JVlNhZnR3ekNsS3ZqbDF3RmUzM09CYlZLeENPZk9WVkFpeWJ6UXhFU0xmZy02UkQ2T1ktc3FRcElPbGgza0diczVmZEVqOFZTS283NWx3LTFRNU1peVBsSHhuT183ZUw2RlNlWkVaRDdCeXRvdzJGdTJHQ01QSlJNNklTVWNB0gG-AUFVX3lxTE9vVnc1VURWNE1MX2YyaTlIdW1PQ203dXpPWnBJUkd2S0o2SXNUWXo1M3U0amRlRGNia0NRckZqbEpfb0dtQ1Q5TGppV0loWFE5VGpZUnZHTm56VWVhVDl6d0M2R2ZrNzB4TEstREw0cmJ2UFc2a2YyZ3puV2oxNzJLdWZ0VFBHNzhXX1U1MlJDcFFEa1I0R1drUXZjVEoyQVFsSVF3NnlyN0V1Y3pKWU1tLTdBSzlJOFBKWkFzRnc?oc=5",
+   "fecha": "2026-11-19T08:56-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://urgente24.com/actualidad/encuesta-patricia-bullrich-se-esta-llevando-los-votantes-desencantados-milei-n637072",
+   "revisada": true
+  },
+  {
    "id": "cc898162c78a",
    "titulo": "La advertencia de Lula da Silva al peronismo: después de ganar, hay que gobernar",
    "medio": "Letra P",
@@ -1319,7 +1427,8 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzdQaHRyVXQtblZoQmRVbWcycm5YaVNfb08tSWZJNmJ1Z1Y5REJoYmJyU2RoMDZYR3FaeTZxWlF3REV5N2dJWXI3eGd1Qk51QjhJOVRzUkMteWYzSlZzbnlQdy0xcWpfN0xLTV9pZ2hBWnNTOEJGanBhbXdjTG8wOC1kUU5lemh1ZE9OWEp5Z0V4alFNT2JpMWpTbV92MnZselZFRmdEVGV0UQ?oc=5",
    "fecha": "2026-11-19T08:48-03:00",
    "busquedas": [
-    "\"Darío Golía\""
+    "\"Darío Golía\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://infonoroeste.com.ar/nota/55683/golia-firmo-los-contratos-para-construir-30-viviendas-en-chacabuco/",
@@ -1375,7 +1484,8 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHppTUZaYTJjbFRCWk9LRU5ERTQzRWt1cHRCSUZaQjRyZzBLeFVrcUpnZnhYb2JVRnFUeXVaUi1TUlJvR3E3Y05QQmkyWHVKcUZLX1VvcUFpVWVSRVgxdVhYaXBqU2toSm5KOXNkQVN2U3ljNnZxbnpCM2tWYThqWXBSeFY3VlJkemp0Q0NLbHY1T2E5WTBwclVSVjFyeVN3MkFvMkRsOXZOZ2lOa0dVZE13cG1oeHIxQXdmVDg3ODc?oc=5",
    "fecha": "2026-11-19T08:26-03:00",
    "busquedas": [
-    "\"Juan Andreotti\""
+    "\"Juan Andreotti\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.diariolonuestro.com.ar/single-post/juan-andreotti-supervis%C3%B3-las-obras-de-la-universidad-nacional-del-delta",
@@ -1389,7 +1499,8 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3p3LUJCaExnZWtaMmZ1SndhYUIyYjAzVlk2V2dnNjktZFU4ZTNKTXFrelB1ZnNsVExoZzJjMHhodGphcWlzVi1SWFFQT2dXX1oyd1dRemM1NUdveG55Q0oxcVNIQTU1dXNQa1pVV3RsQ3ZMWFloV3JqdDZWYVBMaXg1QjUwdG5DTkJ6TjFDT1pPeFlMYTVOT09USGoyM0NlQnlkcDJUVGUxM2x3Wnk5NEFtcW1ueFk5WFpEOGJ1aVNVWGFSM3B2aA?oc=5",
    "fecha": "2026-11-19T08:26-03:00",
    "busquedas": [
-    "\"Juan Andreotti\""
+    "\"Juan Andreotti\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.quepasaweb.com.ar/comenzo-la-construccion-de-la-nueva-sede-de-la-universidad-nacional-del-delta-en-san-fernando-szn1/",
@@ -1436,6 +1547,20 @@
    ],
    "visto": "2026-11-20T01:52-03:00",
    "url_original": "https://www.noticiasdebariloche.com.ar/kicillof-se-despega-del-acto-peronista-de-san-fernando-no-fuimos-invitados/",
+   "revisada": true
+  },
+  {
+   "id": "b94d1352939a",
+   "titulo": "Insatisfacción y pesimismo: datos preocupantes para Milei en la encuesta de UdeSA",
+   "medio": "La 97.1 Radio Tucumán",
+   "medio_url": "https://radiotucuman.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0Y4VU9kaXhweXlxRWtZSm55Mmx6bzJTM0hKS1FXN1gtY0hoUm9yV2d5SjhOQm5xSEMyQ2w4VWczakxqX0lmLTIxbUlxem5rcWJDVFpRMTl1MTIyNmw0OWJDaGl4N2VhX3RUTlVldFlOT2JjUlZxRGJFQ2hFdWQyUHRmaE03YXhUZ2RkMWtTSktSdFMwZ1J2NnUtUlpEdlE0RlBoSm5VMk5vdDl0S0l5S3NrUHFianU3SXhF?oc=5",
+   "fecha": "2026-11-19T07:50-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T05:33-03:00",
+   "url_original": "https://radiotucuman.com.ar/nota/47081/insatisfaccion-y-pesimismo-datos-preocupantes-para-milei-en-la-encuesta-de-udesa",
    "revisada": true
   },
   {
@@ -1493,7 +1618,10 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
     "\"Diego Giuliano\"",
-    "\"Juan Andreotti\""
+    "\"Juan Andreotti\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.elentrerios.com/actualidad/quienes-son-los-dirigentes-entrerrianos-del-pj-que-se-mostraron-en-un-acto-con-sergio-massa-y-sin-kicillof.htm",
@@ -2876,7 +3004,13 @@
     "\"Cecilia Moreau\"",
     "\"Juan Andreotti\"",
     "\"Katia Blanc\"",
-    "\"Germán Di Cesare\""
+    "\"Germán Di Cesare\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.0223.com.ar/nota/2026-11-17-21-48-0-el-peronismo-se-reunio-en-san-fernando-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei",
@@ -3578,7 +3712,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.eldiarioar.com/politica/frente-anti-milei-hacerle-frente-kicillof_1_13672197.html",
+   "revisada": true
   },
   {
    "id": "ce67f73c54e1",
@@ -3590,7 +3726,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://deudaprometida.com/cristina-kirchner-mueve-sus-fichas-y-apuesta-por-guillermo-michel-en-la-justicia/",
+   "revisada": true
   },
   {
    "id": "b659bac6f89e",
@@ -3603,7 +3741,9 @@
     "\"Frente Renovador\"",
     "Eslaiman diputado"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://visionpolitica.com.ar/nacionales/ferraresi-provoco-a-massa-en-san-fernando-y-agrando-la-grieta-peronista_a6afb1bcd42fa9d9e6e2350ae",
+   "revisada": true
   },
   {
    "id": "90b327a5a2e0",
@@ -3615,7 +3755,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://tiempojudicial.com/consejo-de-la-magistratura/cristina-kirchner-avalo-a-guillermo-michel-para-el-consejo-de-la-magistratura",
+   "revisada": true
   },
   {
    "id": "3cef616589cd",
@@ -3627,7 +3769,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://delatribunatv.com/politica/politica-en-misiones/sergio-massa-llega-este-miercoles-a-misiones-y-se-reunira-con-hugo-passalacqua/",
+   "revisada": true
   },
   {
    "id": "84daa437c600",
@@ -3639,7 +3783,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://infocronos.com.ar/nota/58900/ninguneados-pero-con-ironia-que-dijo-el-kicillofismo-ante-el-acto-peronista-al-que-no-fue-invitado/",
+   "revisada": true
   },
   {
    "id": "f077f139db9a",
@@ -3651,7 +3797,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46382_cristina-kirchner-gira-y-elige-a-guillermo-michel-para-la-magistratura.htm",
+   "revisada": true
   },
   {
    "id": "1648e0f642e5",
@@ -3663,7 +3811,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.zonanortediario.com.ar/17/11/2026/juan-andreotti-acompano-las-galas-de-gimnasia-y-patin-de-los-polideportivos-de-san-fernando/",
+   "revisada": true
   },
   {
    "id": "bb889b79c0b1",
@@ -3675,7 +3825,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://revistacodigos.com/sergio-massa-llega-este-miercoles-a-misiones/",
+   "revisada": true
   },
   {
    "id": "ba04f9c8065c",
@@ -3688,7 +3840,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://diputadosbsas.com.ar/massa-reunira-dirigentes-peronismo-2027/",
+   "revisada": true
   },
   {
    "id": "f9191cab6acf",
@@ -3700,7 +3854,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://elargentinodiario.com.ar/politica/17/11/2026/dia-de-la-militancia-peronismo-en-actos-separados-y-massa-ausente/",
+   "revisada": true
   },
   {
    "id": "bdbfc0c4d843",
@@ -3712,7 +3868,9 @@
    "busquedas": [
     "encuesta \"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://www.noticiasurbanas.com.ar/acto-de-la-militancia-olmos-aclaro-la-ausencia-de-kicillof",
+   "revisada": true
   },
   {
    "id": "df24d520af64",
@@ -3725,7 +3883,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/tierra-del-fuego-sergio-massa-reactiva-el-frente-renovador-y-pone-alejandro-deanes-al-frente-del-partido-n5428278/amp",
+   "revisada": true
   },
   {
    "id": "3a8a2d5a29e9",
@@ -3737,7 +3897,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/bianco-hablo-del-acto-del-frente-renovador-en-san-fernando-y-relativizo-la-ausencia-de-kicillof",
+   "revisada": true
   },
   {
    "id": "a98787ef6607",
@@ -3749,7 +3911,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://misionesonline.net/2026/11/17/sergio-massa-llegara-manana-a-misiones-se-reunira-con-el-gobernador-y-empresarios-pero-no-con-el-pj-local/",
+   "revisada": true
   },
   {
    "id": "10a0315e6a9e",
@@ -3761,7 +3925,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://borderperiodismo.com/actualidad/el-peronismo-prepara-una-demostracion-de-fuerza-en-san-fernando-y-busca-ordenar-una-alternativa-frente-a-milei/",
+   "revisada": true
   },
   {
    "id": "10104162b800",
@@ -3773,7 +3939,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/desde-el-zamorismo-acusaron-al-massismo-de-convertir-una-decision-legislativa-en-una-operacion-politica/",
+   "revisada": true
   },
   {
    "id": "cf8a593de998",
@@ -3785,7 +3953,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.analisisdigital.com.ar/opinion/2026/11/17/guillermo-michel-y-una-voz-en-la-mesa-de-las-decisiones-nacionales",
+   "revisada": true
   },
   {
    "id": "d406b31b4d47",
@@ -3797,7 +3967,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://fmlaboca.com.ar/michel-peronismo-consejo-magistratura/",
+   "revisada": true
   },
   {
    "id": "ef6bd5f69224",
@@ -3809,7 +3981,9 @@
    "busquedas": [
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.miradorprovincial.com/2026/11/17/diego-giuliano-entrego-mas-de-800-diplomas-de-la-escuela-de-oficios-en-la-ciudad-de-santa-fe/",
+   "revisada": true
   },
   {
    "id": "8b4a6999efbf",
@@ -3821,7 +3995,9 @@
    "busquedas": [
     "\"Diego Giuliano\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lacapital.com.ar/politica/diego-giuliano-entrego-800-diplomas-una-escuela-oficios-mas-8000-inscriptos-n10292633.html",
+   "revisada": true
   },
   {
    "id": "d4a5a5dc29c8",
@@ -3833,7 +4009,9 @@
    "busquedas": [
     "encuesta \"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://www.eldestapeweb.com/politica/elecciones-2027-nueva-encuesta-muestra-demoledor-dato-niega-reeleccion-milei-20261117113438",
+   "revisada": true
   },
   {
    "id": "b24ed08fe17a",
@@ -3845,7 +4023,9 @@
    "busquedas": [
     "\"Pablo Garate\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603468/entrevista-glp-garate-destaco-los-avances-en-vivienda-y-reafirmo-su-politica-de-",
+   "revisada": true
   },
   {
    "id": "fe20b2e10886",
@@ -3857,7 +4037,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://infocronos.com.ar/nota/58896/kicillof-contra-la-campora-y-al-massismo-por-el-proyecto-para-regular-las-apuestas-online-pidio-cambiar-la-comision-en-la-legislatura/",
+   "revisada": true
   },
   {
    "id": "0098299b7519",
@@ -3869,7 +4051,8 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "revisada": true
   },
   {
    "id": "c56e0a323997",
@@ -3882,7 +4065,9 @@
     "\"Sergio Massa\"",
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://elagora.digital/argentina/cristina-kirchner-elige-guillermo-michel-acercamiento-sergio-massa/",
+   "revisada": true
   },
   {
    "id": "ba41fdb5d053",
@@ -3894,7 +4079,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.examedia.com.ar/portada/analisis/719-cristina-kirchner-eligio-al-entrerriano-guillermo-michel-para-el-consejo-de-la",
+   "revisada": true
   },
   {
    "id": "2194e4636177",
@@ -3906,7 +4093,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/guino-de-cristina-kirchner-a-massa-designo-a-guillermo-michel-para-el-consejo-de-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "e60b027db384",
@@ -3918,7 +4107,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://infonoroeste.com.ar/nota/55659/golia-participo-de-un-encuentro-de-salud-junto-al-ministro-kreplak/",
+   "revisada": true
   },
   {
    "id": "bec90b4c9bd0",
@@ -3930,7 +4121,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348156-dario-golia-y-celeste-trotti-participaron-de-la-as/",
+   "revisada": true
   },
   {
    "id": "771cd33ae848",
@@ -3942,7 +4135,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.canal13sanjuan.com/politica/cristina-kirchner-se-acerca-a-sergio-massa-y-elige-a-guillermo-michel-para-el-consejo-de-la-magistratura_a6afc4d5542fa9d9e6e3375de",
+   "revisada": true
   },
   {
    "id": "4f7dcb3b6871",
@@ -3954,7 +4149,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.enteratenoticias.com.ar/politica/guillermo-michel-llega-al-consejo-de-la-magistratura-y-amplia-su-protagonismo-en-el-escenario-politico-nacional/",
+   "revisada": true
   },
   {
    "id": "458787a79911",
@@ -3966,7 +4163,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://politicaymedios.com.ar/nota/24916/giro-pragmatico-de-cristina-kirchner-impulsa-a-guillermo-michel-para-el-consejo-de-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "f671b9d4a680",
@@ -3978,7 +4177,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52268",
+   "revisada": true
   },
   {
    "id": "5b7199b410d4",
@@ -3990,7 +4191,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46349_guillermo-michel-el-elegido-del-pj-en-diputados-para-el-consejo-de-la-magistratura.htm",
+   "revisada": true
   },
   {
    "id": "ee6f170dee1b",
@@ -4002,7 +4205,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.nexofin.com/notas/1302615-cristina-kirchner-eligio-a-un-diputado-de-massa-para-representar-al-peronismo-en-el-consejo-de-la-magistratura-n-/",
+   "revisada": true
   },
   {
    "id": "f650b7443d4b",
@@ -4015,7 +4220,9 @@
     "\"Sergio Massa\"",
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/",
+   "revisada": true
   },
   {
    "id": "1d492cd56f97",
@@ -4027,7 +4234,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://ledoymipalabra.com/la-nueva-estrategia-de-cristina-un-guino-al-massismo-y-un-cambio-de-perfil-en-el-frente-judicial/",
+   "revisada": true
   },
   {
    "id": "1cb42be95e21",
@@ -4039,7 +4248,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://tendenciadenoticias.com.ar/politica/el-peronismo-conmemorara-el-dia-de-la-militancia-con-actos-separados-y-en-medio-de-sus-diferencias-internas",
+   "revisada": true
   },
   {
    "id": "a55e4845ca08",
@@ -4051,7 +4262,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://lu17.com/contenido/157973/el-peronismo-no-kirchnerista-se-une-en-un-acto-para-disputarle-el-liderazgo-a-kicillof",
+   "revisada": true
   },
   {
    "id": "bc8297f1b37e",
@@ -4064,7 +4277,9 @@
     "\"Sergio Massa\"",
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.quepasaweb.com.ar/el-peronismo-federal-tendra-un-gesto-de-apoyo-a-sergio-massa-en-un-acto-san-fernando/",
+   "revisada": true
   },
   {
    "id": "51e93b69af1f",
@@ -4076,7 +4291,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.sitioandino.com.ar/politica/cristina-fernandez-kirchner-eligio-al-diputado-guillermo-michel-el-consejo-la-magistratura-n5733970",
+   "revisada": true
   },
   {
    "id": "4941eb045db2",
@@ -4088,7 +4305,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://diarioneuquino.com.ar/el-peronismo-se-reune-este-martes-para-construir-un-frente-contra-milei-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
+   "revisada": true
   },
   {
    "id": "a9eaefe3fbe8",
@@ -4100,7 +4319,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://agenhoy.com.ar/guillermo-michel-es-el-elegido-por-cristina-para-representar-al-peronismo-en-el-consejo-de-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "2ae8514e8912",
@@ -4112,7 +4333,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://periodicotribuna.com.ar/guillermo-michel-el-hombre-de-cfk-que-acumulo-poder-en-las-sombras-sociedades-aduana-y-denuncias-que-lo-rodean/",
+   "revisada": true
   },
   {
    "id": "a8477f5d6b79",
@@ -4124,7 +4347,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.diariojunio.com.ar/164732_cristina-jugo-para-que-guillermo-michel-integre-el-consejo-de-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "0c719658fe00",
@@ -4136,7 +4361,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lavoz.com.ar/politica/cristina-kirchner-eligio-guillermo-michel-consejo-magistratura-apuesta-perfil-dialoguista_0_1FfWntZMEi.html",
+   "revisada": true
   },
   {
    "id": "8063e6aa645b",
@@ -4148,7 +4375,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://delsurdiario.com/politica/sin-axel-kicillof-sergio-massa-unac-y-zamora-se-juntan-para-hablar-de-la-unidad-peronista",
+   "revisada": true
   },
   {
    "id": "e1149a15e89d",
@@ -4160,7 +4389,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.misionesopina.com.ar/llega-sergio-massa-se-reunira-con-el-gobernador-passalacqua-y-empresarios/",
+   "revisada": true
   },
   {
    "id": "6b405141392c",
@@ -4172,7 +4403,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://infotecrealico.com.ar/amp/90652/pj-federal-y-massismo-confluyen-en-el-dia-de-la-militancia-y-se-muestran-como-al",
+   "revisada": true
   },
   {
    "id": "80d12bc18731",
@@ -4184,7 +4417,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://virasorovirtual.com/2026-11-17-cristina-kirchner-suma-a-guillermo-michel-al-consejo-de-la-magistratura",
+   "revisada": true
   },
   {
    "id": "a3d9f24d84cb",
@@ -4197,7 +4432,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.clarin.com/politica/nueva-cumbre-peronista-massa-centro-presencia-kirchnerista-kicillof_0_0ZnRVpWv0f.html",
+   "revisada": true
   },
   {
    "id": "9d1565222dd3",
@@ -4209,7 +4446,8 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "revisada": true
   },
   {
    "id": "3831cf02b3d8",
@@ -4222,7 +4460,9 @@
     "\"Frente Renovador\"",
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.perfil.com/politica/interna-del-pj-los-movimientos-sociales-eligen-a-kicillof-mientras-el-massismo-arma-con-el-peronismo-federal-a9naN6A4c7zv",
+   "revisada": true
   },
   {
    "id": "8821241359a2",
@@ -4234,7 +4474,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://diarioelnorte.com.ar/andreotti-arma-en-san-fernando-la-cumbre-massista-sin-el-mdf/",
+   "revisada": true
   },
   {
    "id": "2b023f7d6b6c",
@@ -4247,7 +4489,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.infobae.com/politica/2026/11/17/el-peronismo-une-fuerzas-para-darle-vida-a-una-alternativa-electoral-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
+   "revisada": true
   },
   {
    "id": "7ea8fb36a2d3",
@@ -4259,7 +4503,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://diarioelnorte.com.ar/cristina-kirchner-designa-a-guillermo-michel-en-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "e9d352029514",
@@ -4272,7 +4518,9 @@
     "massismo",
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://noticiasargentinas.com/municipios/interna-al-rojo-vivo--andreotti-organiza-en-san-fernando-una-cumbre-de-massa-sin-el-mdf_a6afb172835eaa454718d01e1?output=amp",
+   "revisada": true
   },
   {
    "id": "1ab5c5d65f38",
@@ -4284,7 +4532,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://lagacetaonline.com.ar/nacional/cumbre-del-massismo-y-peronismo-federal-en-san-fernando-sin-el-mdf/",
+   "revisada": true
   },
   {
    "id": "4e5cdc1942ba",
@@ -4296,7 +4546,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.eldia.com/politica-y-economia/el-dia-de-la-militancia-expone-la-interna-en-el-pj-politica-y-economia_1794891550",
+   "revisada": true
   },
   {
    "id": "54a52a66974c",

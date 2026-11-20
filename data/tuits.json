@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-20T03:26-03:00",
- "total": 27,
+ "generado": "2026-11-20T05:34-03:00",
+ "total": 28,
  "tuits": [
+  {
+   "id": "2122680845538312658",
+   "usuario": "infobaenvivo",
+   "visto": "2026-11-20T05:34-03:00",
+   "url": "https://twitter.com/infobaenvivo/status/2122680845538312658",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "Acto de la Militancia: Olmos aclaró la ausencia de Kicillof",
+     "nota_id": "bdbfc0c4d843"
+    }
+   ]
+  },
   {
    "id": "2122824454728274104",
    "usuario": "Letra_P",
