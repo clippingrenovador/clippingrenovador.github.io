@@ -27,34 +27,65 @@ VENTANA = "7d" if RELLENO.exists() else "1d"
 ART = timezone(timedelta(hours=-3))
 
 # Cada busqueda es una consulta a Google Noticias Argentina (ultimas 24 h).
-BUSQUEDAS = [
+CONTEXTO = '(Massa OR "Frente Renovador" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)'
+
+# Busquedas propias del FR: lo que encuentran entra directo.
+BUSQUEDAS_FR = [
     '"Sergio Massa"',
     '"Frente Renovador"',
     'massismo',
     '"Malena Galmarini"',
     '"Sebastián Galmarini"',
     '"Cecilia Moreau"',
-    '"Diego Giuliano"',
-    '"Juan Andreotti"',
-    '"Katia Blanc"',
-    '"Juan Malpeli"',
-    '"Roberto Vázquez" diputado',
-    '"Javier Gastón"',
-    '"Ramiro Gutiérrez"',
-    '"Micaela Morán"',
-    '"Germán Di Cesare"',
-    '"Guillermo Michel"',
-    '"Pablo Garate"',
-    '"Darío Golía"',
-    'Eslaiman diputado',
-    '"Felipe Romero" Frente Renovador',
-    '"Felipe Romero" juventud',
     '"Feli Romero"',
     '"Jóvenes FR"',
     '"Juventud del Frente Renovador"',
-    'encuesta Massa',
+    'encuesta "Sergio Massa"',
     'encuesta "Frente Renovador"',
 ]
+
+# Nombres que pueden tener homonimos (en el pais o afuera): se buscan con contexto politico
+# y la nota solo entra si el titulo nombra a la persona o al FR.
+BUSQUEDAS_NOMBRES = {
+    '"Diego Giuliano"': ["giuliano"],
+    '"Juan Andreotti"': ["andreotti", "san fernando"],
+    '"Katia Blanc"': ["blanc"],
+    '"Juan Malpeli"': ["malpeli"],
+    '"Roberto Vázquez"': ["vazquez"],
+    '"Javier Gastón"': ["gaston", "chascomus"],
+    '"Ramiro Gutiérrez"': ["gutierrez"],
+    '"Micaela Morán"': ["moran"],
+    '"Germán Di Cesare"': ["cesare"],
+    '"Guillermo Michel"': ["michel", "magistratura"],
+    '"Pablo Garate"': ["garate"],
+    '"Darío Golía"': ["golia", "chacabuco"],
+    '"Rubén Eslaiman"': ["eslaiman"],
+    '"Felipe Romero"': ["romero"],
+}
+
+BUSQUEDAS = BUSQUEDAS_FR + [q + " " + CONTEXTO for q in BUSQUEDAS_NOMBRES]
+
+PALABRAS_FR = {"massa", "renovador", "massismo", "galmarini", "moreau", "jovenes fr"}
+DOMINIOS_AFUERA = (".mx", ".es", ".co", ".cl", ".pe", ".ve", ".ec", ".bo", ".py", ".gt", ".cr",
+                   ".pa", ".do", ".hn", ".sv", ".ni", ".cu", ".pr", ".it", ".br", ".us")
+
+
+def es_relevante(nota):
+    """Descarta homonimos y medios del exterior."""
+    dominio = urllib.parse.urlparse(nota.get("url_original") or nota.get("medio_url") or "").netloc.lower()
+    if dominio.endswith(DOMINIOS_AFUERA):
+        return False
+    titulo = " ".join(normaliza(nota.get("titulo", "")))
+    if any(p in titulo for p in PALABRAS_FR):
+        return True
+    for b in nota.get("busquedas", []):
+        base = b.replace(" " + CONTEXTO, "")
+        if base in BUSQUEDAS_FR:
+            return True
+        for clave in BUSQUEDAS_NOMBRES.get(base, []):
+            if re.search(r"\b" + clave + r"\b", titulo):
+                return True
+    return False
 
 UA = "Mozilla/5.0 (compatible; ClippingRenovador/1.0; +https://github.com/clippingrenovador/clippingrenovador.github.io)"
 
@@ -289,7 +320,7 @@ def main():
         print("Tuits fallo:", e)
 
     limite = datetime.now(ART) - timedelta(days=DIAS_GUARDADOS)
-    notas = [n for n in por_id.values() if datetime.fromisoformat(n["fecha"]) >= limite]
+    notas = [n for n in por_id.values() if datetime.fromisoformat(n["fecha"]) >= limite and es_relevante(n)]
     notas.sort(key=lambda n: n["fecha"], reverse=True)
 
     CRUDO.parent.mkdir(parents=True, exist_ok=True)

@@ -1,23 +1,9 @@
 {
  "generado": "2026-11-20T03:28-03:00",
- "total": 504,
+ "total": 417,
  "nuevas_ultima_corrida": 3,
  "errores": [],
  "notas": [
-  {
-   "id": "5ae8dcc6d040",
-   "titulo": "Pachuca busca realizar Cabalgata de Reyes Magos en 2027 con ProCentro",
-   "medio": "Criterio Hidalgo",
-   "medio_url": "https://criteriohidalgo.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFhnYkJjRDZEVjh5bVdES0lfX0xJVldBVmZEQ0dwOVpkZWtNQkJHLXpCOEtNYktIQ3RMNTVfRjRWUkw3UVBSenF4emh4Szl6TElacTNNUEctYjlEbmdTUkpJcVB3WlhQLWRtcWZYcTdRcWhwckh2MThEMHREU0pKQmszU2p1MldKa3UwN2FnSXBxcHRDQkV5cDhxR1JzcU1vbEVQNndIMFEyOS1tcUZMcnFlYnM?oc=5",
-   "fecha": "2026-11-20T02:32-03:00",
-   "busquedas": [
-    "\"Ramiro Gutiérrez\""
-   ],
-   "visto": "2026-11-20T03:25-03:00",
-   "url_original": "https://criteriohidalgo.com/noticias/hidalgo/pachuca-busca-realizar-cabalgata-de-reyes-magos-en-2027-con-procentro",
-   "revisada": true
-  },
   {
    "id": "f1e3ab8cc762",
    "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
@@ -187,20 +173,6 @@
    "revisada": true
   },
   {
-   "id": "a19d1c97ee2a",
-   "titulo": "Encuesta exclusiva: los números de la emocionalidad del voto y la imagen de los dirigentes rumbo a 2027",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6c9IB1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6cw?oc=5",
-   "fecha": "2026-11-19T21:45-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.minutouno.com/politica/encuesta-exclusiva-los-numeros-la-emocionalidad-del-voto-y-la-imagen-los-dirigentes-rumbo-2027-n6347388",
-   "revisada": true
-  },
-  {
    "id": "58d4b5489886",
    "titulo": "Kicillof manda 250 pliegos judiciales al Senado y en marzo podrían ir los de la Suprema Corte",
    "medio": "La Política Online",
@@ -356,33 +328,6 @@
    "revisada": true
   },
   {
-   "id": "5d32b3e83621",
-   "titulo": "Scaglia explicó por qué Provincias Unidas no dio quórum en Diputados y advirtió por el Presupuesto 2027",
-   "medio": "Diario Uno Santa Fe",
-   "medio_url": "https://www.unosantafe.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV3U4VjdQQ2F6bWx1dXZWTHVIOE1KQ2FUanM0ZkFHR25vQ3RPTk1wVXBXTzhHcERtWWhiMmw3UlRWbWs5S3M5OGlJTHh1TEJhTFhyRzBuYUt1cDEyWTU4MDhEd1lmbDF1b09JWW4ya05kMzdlaUJtTEZYY0padmN0R1pmTmZYWUlhRzBtVUtZaVNYQjl4SW4xTmNVQWowNlRzdy0wNGxnZ3dub0tVb2RyUEZLTFE5RDFHTXFKY21yd1Y2Zk0yejhGUUlBWlktMFV2NUxBdmNUMTJzLS1mMmptc2hGUlLSAeQBQVVfeXFMTld1OFY3UENhem1sdXV2Vkx1SDhNSkNhVGpzNGZBR0dub0N0T05NcFVwV084R3BEbVloYjJsN1JUVm1rOUtzOThpSUx4dUxCYUxYckcwbmFLdXAxMlk1ODA4RHdZZmwxdW9PSVluMmtOZDM3ZWlCbUxGWGNKWnZjdEdaZk5mWFlJYUcwbVVLWWlTWEI5eEluMU5jVUFqMDZUc3ctMDRsZ2d3bm9LVW9kclBGS0xROUQxR01xSmNtcndWNmZNMno4RlFJQVpZLTBVdjVMQXZjVDEycy0tZjJqbXNoRlJS?oc=5",
-   "fecha": "2026-11-19T18:56-03:00",
-   "busquedas": [
-    "\"Diego Giuliano\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "a155326accd0",
-   "titulo": "Se filtró otra encuesta con números en rojo para Javier Milei y LLA",
-   "medio": "Diario Mendoza Today",
-   "medio_url": "https://mendozatoday.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamk5MW5oeGpCYVNJREtjd2hwMUZjSVlBWDVGdG9kUjRzOHkxb1QzeVk1OWlhaFpyNWtyUzY2aVZQS2ZFSHM5c0NTWU0zTTBHZ1l1SThWdlhrV1dBTEpoMTdZM2o0aUhad2RvVldFS2djN3hBT3FadVBZYlZBcXU2WG1GMEJqVXBkNXotQ2M5ajktRXlOSF9CajdydEZLS1o5bmVr0gGaAUFVX3lxTFBDamwtVElCMFprbWRvR2lJeUJFZlU3RF9WNmVidFV3dU80MHl1cTBzSWhqVVo3bTRxb0lnaDNQdXZ6REFacllwNks4alhYdzNZWllrMkgzaWRZc2xONEhrckdWY2xjd1NrWVZjUHZsc0pMU09jMW5lZmpVNmdhSFVjWHBrbVNJdVN6dzR5ay15TGhaN0F6cVdVcVE?oc=5",
-   "fecha": "2026-11-19T18:41-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://mendozatoday.com.ar/nacionales/se-filtro-otra-encuesta-con-numeros-en-rojo-para-javier-milei/",
-   "revisada": true
-  },
-  {
    "id": "d83d308972c0",
    "titulo": "Consejo de la Magistratura. Menem no validó a Brügge y escala la pelea de Provincias Unidas con los libertarios",
    "medio": "La Voz del Interior",
@@ -393,20 +338,6 @@
     "\"Guillermo Michel\""
    ],
    "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "f33939d74332",
-   "titulo": "Una encuesta midió la desaprobación al Gobierno de Milei y cuánto crece el malestar por la economía",
-   "medio": "Diario La Opinión de Rafaela",
-   "medio_url": "https://diariolaopinion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnR5UmpGZzF2UGstM2dib05mbW5mXzdVOXF0M05GcHI2UmFKTjdvNHNXWmRublNUakVwTVZuZVJXYVlsNVNuM293elpqMUZhWlh0YmJGY1pMeGV1LXpFNHlPb0JhaWhVeVVKSF9QemdvcGNLZUNXNFowZ1ZMX2NoNllEcnBvTXlEUVVwcHBlRG0wWXBmYnZrcGtBck9pQjdsVEhfSHFmSzNZbDdkdWRuWVdCOUthWHVfV2RWcjgyWVNFQWl5S2JURlJMMmVrcXRtYmdkcdIB1AFBVV95cUxOTnR5UmpGZzF2UGstM2dib05mbW5mXzdVOXF0M05GcHI2UmFKTjdvNHNXWmRublNUakVwTVZuZVJXYVlsNVNuM293elpqMUZhWlh0YmJGY1pMeGV1LXpFNHlPb0JhaWhVeVVKSF9QemdvcGNLZUNXNFowZ1ZMX2NoNllEcnBvTXlEUVVwcHBlRG0wWXBmYnZrcGtBck9pQjdsVEhfSHFmSzNZbDdkdWRuWVdCOUthWHVfV2RWcjgyWVNFQWl5S2JURlJMMmVrcXRtYmdkcQ?oc=5",
-   "fecha": "2026-11-19T18:31-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://diariolaopinion.com.ar/amp/una-encuesta-midio-la-desaprobacion-al-gobierno-de-milei-y-cuanto-crece-el-malestar-por-la-economia.htm",
    "revisada": true
   },
   {
@@ -452,20 +383,6 @@
    "revisada": true
   },
   {
-   "id": "ef4f569bb08c",
-   "titulo": "En un mano a mano con Axel Kicillof, Milei pierde un tercio de los votos que consiguió en el balotaje de 2023",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmxiNGdLRW1TYm80bk5kN3libTRvZGFXMmlrWDhJaEZHLWxCNTFZYm5IZWt5RXAtOUs1OUw5cEN1UkQ5YkF1bGxNX1IwQzA0YkR4UmgtX0VtWC01OXJsVE5hbHNDQlUzTGw3T1IzN05CZVZ6TkYtU3F4MHJTLWtuUDVCMHpkOXkwS2VGa09lU1ptOG9uY0NQZHlzMUJCS1lhdTN5WHpXV1hXNHEwQmp0cm5ITV9FUGlqZXVfc1BhZXJ0bjVmUlVWX2t6aWkwQUJsMkFGM3NTQk_SAdgBQVVfeXFMTkJsYjRnS0VtU2JvNG5OZDd5Ym00b2RhVzJpa1g4SWhGRy1sQjUxWWJuSGVreUVwLTlLNTlMOXBDdVJEOWJBdWxsTV9SMEMwNGJEeFJoLV9FbVgtNTlybFROYWxzQ0JVM0xsN09SMzdOQmVWek5GLVNxeDByUy1rblA1QjB6ZDl5MEtlRmtPZVNabThvbmNDUGR5czFCQktZYXUzeVh6V1dYVzRxMEJqdHJuSE1fRVBpamV1X3NQYWVydG41ZlJVVl9remlpMEFCbDJBRjNzU0JP?oc=5",
-   "fecha": "2026-11-19T18:20-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.letrap.com.ar/politica/en-un-mano-mano-axel-kicillof-milei-pierde-un-tercio-los-votos-que-consiguio-el-balotaje-2023-n5428356/amp",
-   "revisada": true
-  },
-  {
    "id": "c6c639cd0636",
    "titulo": "Chascomús, sede del III Congreso de Salud Mental Comunitaria: dos jornadas de intercambio entre especialistas de todo el país",
    "medio": "El Cronista | Chascomús",
@@ -491,20 +408,6 @@
    ],
    "visto": "2026-11-20T01:52-03:00",
    "url_original": "https://www.elcronista.ar/orgullo-local-13-estudiantes-de-la-ciudad-representan-a-chascomus-en-la-final-de-los-juegos-escolares-bonaerenses",
-   "revisada": true
-  },
-  {
-   "id": "1ac9f31da0dd",
-   "titulo": "Axel Kicillof prepara un ajuste impositivo para el año electoral",
-   "medio": "Urgente24",
-   "medio_url": "https://urgente24.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmpyTE5QZWxRN05vZl9MclJmTVd6LWdxS092NFU4OEVRWTczdHVGQXVJaTBUSXV3bm9lVlhfeEVtZml4YndhaS1qY1cyNVphR1ZZdWtMYVNmR3hQa0FsYlJCam1lQzdkcTd1R3I1VGV6NFdEaHBIOG9zeW5EUEJkTXBxVHludjlaa0twX0g4WUNZemxVR1JjUFctcGNXZ0NMdVHSAaIBQVVfeXFMUHZqckxOUGVsUTdOb2ZfTHJSZk1Xei1ncUtPdjRVODhFUVk3M3R1RkF1SWkwVEl1d25vZVZYX3hFbWZpeGJ3YWktamNXMjVaYUdWWXVrTGFTZkd4UGtBbGJSQmptZUM3ZHE3dUdyNVRlejRXRGhwSDhvc3luRFBCZE1wcVR5bnY5WmtLcF9IOFlDWXpsVUdSY1BXLXBjV2dDTHVR?oc=5",
-   "fecha": "2026-11-19T17:56-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://urgente24.com/dinero/axel-kicillof-prepara-un-ajuste-impositivo-el-ano-electoral-n637129/amp",
    "revisada": true
   },
   {
@@ -536,48 +439,6 @@
    "revisada": true
   },
   {
-   "id": "7e06c1ec4970",
-   "titulo": "Dirigentes de la Sexta reclaman por el destino del impuesto a los combustibles líquidos",
-   "medio": "Cambio 2000",
-   "medio_url": "https://cambio2000.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnpRMzhuMHZIWUJSUFQ3OVlnY2tfUmloUzg2R2JNUWhJbmI2ci1jeVpjSUpBSWcyaEc3MGJGZFVnblZsVnQtNmZjTFdzT0NDUE1UQV91Y1JNWFprcUsyeVF3S1ZRcENZUHRBMTdYZkRySDVGR2dWenlWRWVvTDVlLXRuSDFnMGtUMDEwYXlIZmY2SjZFZWViNllpN2RuQURVa3M0VFAwVkNxTTRJcDN0TjRLWGlFQ2tqcFVr?oc=5",
-   "fecha": "2026-11-19T17:22-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://cambio2000.com.ar/site/dirigentes-de-la-sexta-reclaman-por-el-destino-del-impuesto-a-los-combustibles-liquidos/",
-   "revisada": true
-  },
-  {
-   "id": "4b4d052744e4",
-   "titulo": "Inaugurarán un mural dedicado a los excombatientes de Malvinas",
-   "medio": "EL FUERTE DIARIO",
-   "medio_url": "https://elfuertediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZm1hWUpNX3MxcjNGZHRSZkpZWkk0STgycVM0bWRGbXM0Z3FROEcxNGo5VzJMM0ZVTkpoNzhKY3hVODFiSWkteGZ6VXJUbVJ1MFdWU2lwSWc2WWRwMmdrTkgtZ2FoQzY0ZHgxTzZTZXdpS253ZjljVDBNRC1IcEp3enNhY0xkOWxFdi0wLTlpcVlxem4zSHgtQw?oc=5",
-   "fecha": "2026-11-19T17:08-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://elfuertediario.com.ar/inauguraran-un-mural-dedicado-a-los-excombatientes-de-malvinas/",
-   "revisada": true
-  },
-  {
-   "id": "61c1e767f896",
-   "titulo": "Una encuesta muestra un 62% de rechazo al Gobierno de Milei",
-   "medio": "MendoVoz",
-   "medio_url": "https://www.mendovoz.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjgwRkhvSXJPVDBTNGlVWFV6a3NWUHBWalEtMnQyZ3IyNE9KMGk2RjhzWXNpeTZFU1ZZSnZXTUxsR1VsOGxEaU5fWko3S0c4NVF4WUExUkNnOTFmZDl4Wk4zRmFXNUVFV1NaM1VoLTVhSVBjVHhxa1R4SURCcEx1Mzl3WC1MYWZkc1VpOEltOTVBdFRRWktIMF8ySmVhWldFRkd3a0VMSmhvLVJaeXFWZTFILTllLWd6S01IUFdIYi1GamVEeDdv?oc=5",
-   "fecha": "2026-11-19T17:01-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/19/una-encuesta-muestra-un-62-de-rechazo-al-gobierno-de-milei-170831.html",
-   "revisada": true
-  },
-  {
    "id": "241fa68afcbb",
    "titulo": "Milei quedó cuarto en una encuesta entre quienes votaron a La Libertad Avanza en 2023",
    "medio": "Somos Jujuy",
@@ -590,20 +451,6 @@
    ],
    "visto": "2026-11-20T00:54-03:00",
    "url_original": "https://www.somosjujuy.com.ar/politica/milei-quedo-cuarto-una-encuesta-quienes-votaron-libertad-avanza-2023-n127461/amp",
-   "revisada": true
-  },
-  {
-   "id": "6d1d46e370da",
-   "titulo": "En el espejo de Mauricio Macri: Una nueva encuesta llena de urgencias y enciende alertas en el Gobierno",
-   "medio": "Gente de Salta",
-   "medio_url": "https://www.gentedesalta.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3ZuZEVsY0ZablRqZUVpbHlDY2JMSDZkNlc5LTh3X1ZiYWZGTjE3b2VONmdBS09pVjVTU05EM1hvUm44YU50NjQ5aGo3cmpwTEV3T20zTFhzSVI4aEsxMm1vM0NQaTBFSGJZYWRHSmRjY21ialJLSlh0Z1NacUl5SlBFejdDRnBMUlJJTmhTODkxTVFLdG5XRkhUVjRMWWxaUm1jdG1KSHhSTExPYW5fclFiazI1Q0N0TjZKeWtEWmx3RGxDS0h4VlZ30gHPAUFVX3lxTFBEdm01ejZLRnd2UUNUa2h1c2w3Yjh5aXQ2MTZpWWVSSVZtUGQxQ1l1Y0NiNzdKV3UzQ0pmbk9CdHhBOGZ0Yy1DaXVQRWI3TmY3eTBRaGZObmNGTFIwQmRna2liUHhtN1dHNmdndnpzT0tGZXZ5a2FZbFB0ZHZVVjcwOHpnOEdXV2tPaHZBcG51MW5GSXNsWGhHR0tPQThvY05vZjRVWklJRlV1YzZnYTFrUFFydUpSM01SSVhNODBadjAxNWJmeldVVkw1c2NIRQ?oc=5",
-   "fecha": "2026-11-19T16:38-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.gentedesalta.com/politica/en-espejo-mauricio-macri-una-nueva-encuesta-llena-urgencias-enciende-alertas-gobierno-n14115",
    "revisada": true
   },
   {
@@ -712,20 +559,6 @@
    "revisada": true
   },
   {
-   "id": "7ea11925cc60",
-   "titulo": "Los candidatos al Congreso por Huesca se enfrentan este viernes en un debate electoral en Aragón TV",
-   "medio": "diariodelaltoaragon.es",
-   "medio_url": "https://www.diariodelaltoaragon.es",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeXBmdW5oMm9TdTdNV1JtekloZ1k4SXhpdVM3eHdHRkIycGEyekFsdnk4TTI0SUN0QUZyaDM2dVplRFdfV09tMEh2eFBFN3RrcUoteUpvSklTSURHdkdJNWpJVlFvNVlLT2pZTmwxeUdDejlqcC1KOHBTRmpwd3J2SGd6UHdXVWFtVl9FWHY0WGttOHp2MUkyUWozMkcwdno2Q2t2N25ENFIxMV9mUmZJN0JMWWlfSng5ekhfN29weElCR28xbkp6bW5JZWhvNU90WnZZY0E2ckIzNGFtZ3B5WkdRQTlOaGV4VVJoN0lhdWhjeUM0YnY3dQ?oc=5",
-   "fecha": "2026-11-19T15:17-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.diariodelaltoaragon.es/noticias/huesca/2026/11/19/los-candidatos-congreso-por-huesca-se-enfrentan-este-viernes-un-debate-electoral-aragon-tv-2070158.html",
-   "revisada": true
-  },
-  {
    "id": "ecd1fe780e1e",
    "titulo": "El peronismo coincidió en Luján: Axel Kicillof, Máximo Kirchner y Sergio Massa asistieron a la misa de León XIV",
    "medio": "HOY ROJAS",
@@ -781,20 +614,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://diarioelnorte.com.ar/malena-galmarini-cruzo-luis-caputo-riesgo-pais/",
-   "revisada": true
-  },
-  {
-   "id": "fb701d13b4d3",
-   "titulo": "Reconocimiento legislativo a mujeres emprendedoras: talento, creatividad y esfuerzo que construye desarrollo",
-   "medio": "CHACODIAPORDIA.COM",
-   "medio_url": "https://chacodiapordia.com",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXdZYlpEdmYwcy1wdzB5VkNLbXZDalRPSE5hRVJacGh5ZUdaUGd5a1VHV00zdHJPMW1tMmRvWG1UNVpMSmhBbTdVcUEtbDVDckhyaFBYa0F1UVNNT0V2MXpJWXBESEVraW56R2VUYkVXcHQ0cEtEbHRHMWMtRDVIc1dseXo3ZGZnYjR4U1hjMnFzTDRZTHlydXVJcUlBZHFtTUFFU1Nkc2xER2pXUkNkTk5Sc2NmQnFGY0h5ejBvZ25SUzNTa3kwSkRHSjJXZzQ?oc=5",
-   "fecha": "2026-11-19T14:28-03:00",
-   "busquedas": [
-    "\"Katia Blanc\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://chacodiapordia.com/reconocimiento-legislativo-a-mujeres-emprendedoras-talento-creatividad-y-esfuerzo-que-construye-desarrollo/",
    "revisada": true
   },
   {
@@ -1076,20 +895,6 @@
    "revisada": true
   },
   {
-   "id": "20a652dc6eeb",
-   "titulo": "La UBA midió a Milei y Kicillof y encontró un eventual empate: el dato sobre los votantes que sorprende a todos",
-   "medio": "El Cronista",
-   "medio_url": "https://www.cronista.com",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdEM1OFMyMFB3U0ZKSWIzUmxZSHNMbGhZTHphdk5WSDUtdXZLdUtKd1JnQkJRTzRVQ0NsamRwam5OTWl5ak9CWXd2dWVUVG0wNjd5NU5udmpzM2ZqemlBbloyTTRxRHpHLTBWQ2I2S1JNa0Z6X0hTbS1WZlduUVd3SmdrbERFdExWM3BvY2dVV1I4dlN5RHhRWDRnQXhfaE1HNkpJOXAtMDBpdXAtS3R1SjI3ZDhkeHdoYlhBTHZXRWVuWTBCamNWcjlmZ0pKZzhyR192NEYzbGl4dV9oNVRDLVRQSWVYcGtGdjR2UXp1dFRqTjZFOGlWeC1NQTFERzl6V0RiUNIBhAJBVV95cUxOdEM1OFMyMFB3U0ZKSWIzUmxZSHNMbGhZTHphdk5WSDUtdXZLdUtKd1JnQkJRTzRVQ0NsamRwam5OTWl5ak9CWXd2dWVUVG0wNjd5NU5udmpzM2ZqemlBbloyTTRxRHpHLTBWQ2I2S1JNa0Z6X0hTbS1WZlduUVd3SmdrbERFdExWM3BvY2dVV1I4dlN5RHhRWDRnQXhfaE1HNkpJOXAtMDBpdXAtS3R1SjI3ZDhkeHdoYlhBTHZXRWVuWTBCamNWcjlmZ0pKZzhyR192NEYzbGl4dV9oNVRDLVRQSWVYcGtGdjR2UXp1dFRqTjZFOGlWeC1NQTFERzl6V0RiUA?oc=5",
-   "fecha": "2026-11-19T11:49-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.cronista.com/economia-politica/la-uba-midio-a-milei-y-kicillof-y-encontro-un-eventual-empate-el-dato-sobre-los-votantes-que-sorprende-a-todos/?outputType=amp-type",
-   "revisada": true
-  },
-  {
    "id": "8599456433b1",
    "titulo": "Galmarini cruzó a Caputo por su reacción a la cumbre del PJ: “El miedo no es zonzo”",
    "medio": "Diputados Bonaerenses",
@@ -1132,20 +937,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.rionegro.com.ar/politica/elecciones-2027-cerca-de-axel-kicillof-creen-que-sergio-massa-y-cristina-kirchner-lo-quieren-condicionado-4804560/",
-   "revisada": true
-  },
-  {
-   "id": "8635a370579f",
-   "titulo": "Encuesta de la UBA: el 57 por ciento reclama una mayor presencia del Estado",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEN6QjYzSXR4VkE5aTRyRklCM0MxSl9GMG9NMlVldXktZXVjcWhzU1Z3WmlwS1hKN2RqZnJzaTBkdVRQejRDM1VSUzNkbVlOSWhhZ1V2QjhiWVRrTy13YmxVS0cyRjNpWUM3eWV4UTdBYjNnOVpoSHNxQjRxMUdKeVgwMEUtZjg2MS1nZVRhVTBja2d2T2dNRFlmb3NfbHNFbnpBdVZxakY3S2x1T0dmNGpjRnREUzd4a1BB?oc=5",
-   "fecha": "2026-11-19T11:21-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.perfil.com/sociedad/encuesta-de-la-uba-el-57-por-ciento-reclama-una-mayor-presencia-del-estado-aFoMg3O17ZCh",
    "revisada": true
   },
   {
@@ -1203,20 +994,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://criticasur.com.ar/nota/58089/massa_reorganiza_su_frente_renovador_alejandro_deanes_asume_en_tierra_del_fuego/",
-   "revisada": true
-  },
-  {
-   "id": "4b7003ae107a",
-   "titulo": "Una encuesta reveló qué preocupa más que la inflación",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZdIBmAFBVV95cUxPc2FsZkdFN1p0cFlsSFM5d1FjdTlYVjU4cm0yWlotVXl3ZlQyOHJhSXY4dU5rQ1FrWXBpOXdfWHNjSjJEejQ1dlhZUUZyMFNOU2hLZk9mSW9UeC1zdURMZ1ZleTh3clFLLThBQXFWa3dJNVlHOXNQTm9PZEUzZmJLZHRySF9uWnRyUFM2VW92Qm1MODdIZzJhZQ?oc=5",
-   "fecha": "2026-11-19T10:45-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://grupolaprovincia.com/amp/603556/encuesta-inflacion-empleo-reactivacion-economia-milei",
    "revisada": true
   },
   {
@@ -1348,20 +1125,6 @@
    "revisada": true
   },
   {
-   "id": "fe7a121aac59",
-   "titulo": "Las relaciones peligrosas del elegido de Cristina para controlar jueces",
-   "medio": "Nexofin",
-   "medio_url": "https://www.nexofin.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVXM5cVk1VzBDNnVza1JtQV9UdTEtaWVvcXJXMUhDQnRrUzJUck1xczk3Zl9OcjFvc2dDSXl1WmE3dTdNR2JKZkkzd3JUX2kxS2tfcER6Vm1vRE8wY0lHS0RLNmd5Zkl6ME9IV0FaeE1lcURGZElMamNwR00xQnZzZ1lZdndmNHk3dlRieW1MNXFuQUluSDg1ZW9lMjBYTDQzY0JLODdyN1JRZlhSOGhuaHRqZ9IBuAFBVV95cUxONl91dzFKRExJajAtbUNmdmZweE5UbHhtUXMxejktOWh3UWR4VU81Ujl5eUNvd1ZvTldQSzZ2OG9SVlpmcHRkdDc3eXhCV3Z6bldSaXZqZkVjWFFiYXFRMjNDWlJtOWRtX01wX1ppYXR3cTZaRGFIZVlvWGl1T1IzSEJ4cDdyb1ZfRjRpejlad1NmZ2hIREJfM01MSGdULWlKVXh4TTJzbmxzMVdCWEl1UlBkemxLbGFF?oc=5",
-   "fecha": "2026-11-19T10:02-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.nexofin.com/notas/1302795-las-relaciones-peligrosas-del-elegido-de-cristina-para-controlar-jueces-n-/",
-   "revisada": true
-  },
-  {
    "id": "77040d312431",
    "titulo": "Siete Puntas Digital",
    "medio": "Siete Puntas Digital",
@@ -1402,20 +1165,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://impactocastex.com.ar/politica/19251/cgt-la-cupula-sindical-retacea-apoyo-a-massa-y-busca-candidato",
-   "revisada": true
-  },
-  {
-   "id": "81a86983edee",
-   "titulo": "Aragón TV, Aragón Radio y Aragón Play ofrecen este viernes el debate electoral de los candidatos al Congreso por Huesca",
-   "medio": "Aragón Play",
-   "medio_url": "https://www.aragonplay.es",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUWd6T1hmQVFtbVBVb2xCQzU0OEFzdkpvRGZGR1l6SDc0cEdoU0E1dVZkdkItRXlnQWRTNU56UU9XMXdIRktxZTFHVjZrWWVaaFRORzlEbktDM3BFNUJBYXgyVWhUX0VGODNrSUhXaEdnNW5hMXB4bEFyTWRrZ3hsbVNZNlhrWTVuNDdLY0NybG9IbHZMVks5ZEd2YmdNOFMtN2RfaVU4RkdfaXdxOFQ1bkRYX0VNUTI5MUFQYVpMTUFHNWNrczk5Y2xiajh5aEoydWhvdDA1RV9rU0U5YWE0?oc=5",
-   "fecha": "2026-11-19T09:52-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.aragonplay.es/cartv/sala-de-prensa/aragon-tv-aragon-radio-aragon-play-ofrecen-viernes-debate-electoral-candidatos-congreso-huesca.html",
    "revisada": true
   },
   {
@@ -1535,20 +1284,6 @@
    "revisada": true
   },
   {
-   "id": "69c4f4f6041b",
-   "titulo": "Analizaron un arma alternativa y no letal que podría ser usada en Seguridad",
-   "medio": "La Voz del Pueblo",
-   "medio_url": "https://www.lavozdelpueblo.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1o5STRVUzZrUl9wTmhZNVlnd3RuZ25JWUY1NXZDSHpnaENNUktaUE9YMnhaUDNwZ2t5OHllRTdIYk5FdnNDYXJkOTh6NDUxbk9jbDk1Zmoxc2txR0VINm9xR1RaVXo4QVZZdEtuM056RmVXd21VSXU0a1lXX0ptOTJnOUVaVmdId2ZUbWtfcEs4T0p6a2E0UDBGOHpXOWp2T3lCa0pSU1RVNDZ1NHc?oc=5",
-   "fecha": "2026-11-19T09:02-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.lavozdelpueblo.com.ar/analizaron-un-arma-alternativa-y-no-letal-que-podria-ser-usada-en-seguridad",
-   "revisada": true
-  },
-  {
    "id": "01f465c92687",
    "titulo": "El Frente Renovador de Chubut está habilitado para participar de las elecciones de 2027",
    "medio": "El Comodorense",
@@ -1560,20 +1295,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.elcomodorense.net/el-frente-renovador-de-chubut-esta-habilitado-para-participar-de-las-elecciones-de-2027/",
-   "revisada": true
-  },
-  {
-   "id": "48cef878d1f1",
-   "titulo": "Encuesta: ¿Patricia Bullrich se está llevando a los votantes 'desencantados de Milei'?",
-   "medio": "Urgente24",
-   "medio_url": "https://urgente24.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTlaM0FBWkRVNldkS2lJR1dOT3dTaGkwWjI2YWZzYzU0VUx1UDduQ1VnTnAxelZ5a19JVlNhZnR3ekNsS3ZqbDF3RmUzM09CYlZLeENPZk9WVkFpeWJ6UXhFU0xmZy02UkQ2T1ktc3FRcElPbGgza0diczVmZEVqOFZTS283NWx3LTFRNU1peVBsSHhuT183ZUw2RlNlWkVaRDdCeXRvdzJGdTJHQ01QSlJNNklTVWNB0gG-AUFVX3lxTE9vVnc1VURWNE1MX2YyaTlIdW1PQ203dXpPWnBJUkd2S0o2SXNUWXo1M3U0amRlRGNia0NRckZqbEpfb0dtQ1Q5TGppV0loWFE5VGpZUnZHTm56VWVhVDl6d0M2R2ZrNzB4TEstREw0cmJ2UFc2a2YyZ3puV2oxNzJLdWZ0VFBHNzhXX1U1MlJDcFFEa1I0R1drUXZjVEoyQVFsSVF3NnlyN0V1Y3pKWU1tLTdBSzlJOFBKWkFzRnc?oc=5",
-   "fecha": "2026-11-19T08:56-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://urgente24.com/actualidad/encuesta-patricia-bullrich-se-esta-llevando-los-votantes-desencantados-milei-n637072",
    "revisada": true
   },
   {
@@ -1630,20 +1351,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://dechivilcoy.com.ar/se-realizo-en-chacabuco-una-jornada-de-capacitacion-sobre-derechos-y-normativa-en-discapacidad-con-la-presencia-de-dario-corrao/",
-   "revisada": true
-  },
-  {
-   "id": "aca4138dc2f3",
-   "titulo": "Nueva encuesta electoral: polarización light y notable diferencia en el voto de hombres y mujeres",
-   "medio": "Clarin.com",
-   "medio_url": "https://www.clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGxndGNkWjlBQ1lfdWhNS1JXLTdPVmdMZGdVTkxhQUFhdzNZcDBweUZoUUhKbWotQ1dqcmpIRjFNcFpXczVERGNxME1DSExrNF85XzgxRHFIZmZmX3BlNU5Jb0VmUkZNWGhqc293ZmhneWpSZ1k2b0JnSTcwb1dqczkxLUJGZHRiQWFINGN2UUYyMHZvVmRLY0w3VzlFUUZoQUtJeUJGRVRKNFh0UFdLV1lFSHFxektXZU9BYkprREZUX2lmOUV0NnFWT2IyZw?oc=5",
-   "fecha": "2026-11-19T08:32-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.clarin.com/politica/nueva-encuesta-electoral-polarizacion-light-notable-diferencia-voto-hombres-mujeres_0_jHTqC5h12S.html",
    "revisada": true
   },
   {
@@ -1704,34 +1411,6 @@
    "revisada": true
   },
   {
-   "id": "ea889db7a7d8",
-   "titulo": "Un Perón recreado con inteligencia artificial sorprendió en un acto del peronismo",
-   "medio": "Ecos Diarios Necochea",
-   "medio_url": "https://elecos.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEFVRWQxSXc3eDRKYzFfNGVVNE90azRBaEkwTUNveC1va3d2S3U4S01nOUFsZEtKc0Y1UHF1bnZBNWhwZVRJYkYtQ0VYQWJpUFZONEY4UjBYZ1hwR1NqVkdtUmNSQV80Rk5CQTVvMFhaNzB4a1ctRUxfTHVKWGVKSXA0U1Z1cnNQaGZSWVBHazdETFRFUExwSTA0YjB5N0N4T2pOdE5R?oc=5",
-   "fecha": "2026-11-19T08:18-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://elecos.com.ar/un-peron-recreado-con-inteligencia-artificial-sorprendio-en-un-acto-del-peronismo",
-   "revisada": true
-  },
-  {
-   "id": "fba3fe41dbdd",
-   "titulo": "El interior bonaerense se organiza y lleva la disputa por las rutas a una agenda regional",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHhHNWlaRFlJem9mY0pRWXhELTRjb0cxZHBzbmRaNW5FTDIweENHZV9JWERrSm40ZS05LWJ6Yi1wRWtxcmxuU0hQcjlKYmNZTVh2Tk5CMnZTdG1FeHgzNndGVTBsVGwxNjdobjlUZzNJc1Q2cFZ6ZERNYUdKNmdQVE9mZmZsWjNYdDJqdnphZTNwVzZlenZ6OERIQ1RWT1A0Yml6VDZtUkJ3SmRtZTF0eW5NUlhsSGExZHpEZVduSFRaOVE30gG8AUFVX3lxTFBDWGxrdl8yRXlhb0Rsd1RsMVE2U1ZrRks4TW16cExkWENyNXZPVEo3QnlpeXdLNThjZU5QaUoxUWRCck81QWF4cEZyUFpaaFE0cjhOQ0dna24wX1NSMnVYbWxfaDZYUTU4U3BkbVlTWTZ1c2J5bGJ6M2U2b0R1b3E0S3RXYWVROTRvay1LbG94T2lJSTllZVJwSFhfY29FaWM5bG5tTzljNWRLTkNHUjM3U0lPQXVReGxHLTg5?oc=5",
-   "fecha": "2026-11-19T08:18-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://grupolaprovincia.com/contenido/603541/el-interior-bonaerense-se-organiza-y-lleva-la-disputa-por-las-rutas-a-una-agenda",
-   "revisada": true
-  },
-  {
    "id": "b03b8a4e41be",
    "titulo": "De Mendiguren en Paren: San Juan como “leading case” de la minería, Massa para 2027 y el desafío de la unidad peronista – Editorial RN",
    "medio": "Editorial RN",
@@ -1746,20 +1425,6 @@
    "revisada": true
   },
   {
-   "id": "c0bc0f947d40",
-   "titulo": "Necrológicas de Junin24",
-   "medio": "Junín 24",
-   "medio_url": "https://junin24.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTjFiVjFma3JsNmVsdDA2MXR6SW1SMDl6TXBwVmtLQ2lTeHRuQVZOai05VFVmRW9HYU51b29GMEpPYW5jcWRSTktmYlQ1RER0S3NR?oc=5",
-   "fecha": "2026-11-19T08:00-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://junin24.com/locales/necrologicas/",
-   "revisada": true
-  },
-  {
    "id": "7787685c17de",
    "titulo": "Kicillof se despega del acto peronista de San Fernando: “No fuimos invitados”",
    "medio": "Noticias de Bariloche",
@@ -1771,34 +1436,6 @@
    ],
    "visto": "2026-11-20T01:52-03:00",
    "url_original": "https://www.noticiasdebariloche.com.ar/kicillof-se-despega-del-acto-peronista-de-san-fernando-no-fuimos-invitados/",
-   "revisada": true
-  },
-  {
-   "id": "d27e7e4e2525",
-   "titulo": "Comenzó el inicio de la obra de la Universidad Nacional del Delta",
-   "medio": "San Fernando Nuestro",
-   "medio_url": "https://sanfernandonuestro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2U1Z0VlbFJPclJHMDk0ZVI3V2x4Skp6Vk1abnpzUFNPd0IybE1fdUxIcnIxclRXRHZZZjdCTGkxc1hkelF2ZGw5d1FzbFJibFZlOXZFMEUyRXFoU2ZqSW5uWVp1blQ0bG9PTGFYend5a3AwcHBEUWwxMENoMkduamZXdFlBYXVlbEhnSXEzZTYtaGtyamRacjZ2SnpiM09mRnc?oc=5",
-   "fecha": "2026-11-19T07:50-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://sanfernandonuestro.com.ar/comenzo-el-inicio-de-la-obra-de-la-universidad-nacional-del-delta/",
-   "revisada": true
-  },
-  {
-   "id": "b94d1352939a",
-   "titulo": "Insatisfacción y pesimismo: datos preocupantes para Milei en la encuesta de UdeSA",
-   "medio": "La 97.1 Radio Tucumán",
-   "medio_url": "https://radiotucuman.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0Y4VU9kaXhweXlxRWtZSm55Mmx6bzJTM0hKS1FXN1gtY0hoUm9yV2d5SjhOQm5xSEMyQ2w4VWczakxqX0lmLTIxbUlxem5rcWJDVFpRMTl1MTIyNmw0OWJDaGl4N2VhX3RUTlVldFlOT2JjUlZxRGJFQ2hFdWQyUHRmaE03YXhUZ2RkMWtTSktSdFMwZ1J2NnUtUlpEdlE0RlBoSm5VMk5vdDl0S0l5S3NrUHFianU3SXhF?oc=5",
-   "fecha": "2026-11-19T07:50-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T03:26-03:00",
-   "url_original": "https://radiotucuman.com.ar/nota/47081/insatisfaccion-y-pesimismo-datos-preocupantes-para-milei-en-la-encuesta-de-udesa",
    "revisada": true
   },
   {
@@ -1843,34 +1480,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.latecla.info/171273-san-fernando-le-recordo-a-kicillof-que-ampliar-la-mesa-ya-no-es-opcional",
-   "revisada": true
-  },
-  {
-   "id": "4143cf6af272",
-   "titulo": "Diputados bonaerenses: qué proyectos pueden tratarse en la última sesión del año",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU1xVXFsNGhTX0NJWkZRSnVNd0xHb1VONzZJNDlLTXJxTXU2YXRLelpFbUplRFU2VGR4SC0zUW5CM0NVWEtoQjBsSXY4Qmx6dkluV2F5djl5N2dsb1loa3luMVpoZHM0WlJzZ2g1Y0dZZVZpMmE5VTRZUFN0TzE4dVhpenhHYkZGamdtMG9LVXEwTGdsaExJTUMwa1RVY1FHdEVHd280MWk2WGgyNUZXamxFMFRpRnVDeHY00gG7AUFVX3lxTFB1TXFVcWw0aFNfQ0laRlFKdU13TEdvVU43Nkk0OUtNcnFNdTZhdEt6WkVtSmVEVTZUZHhILTNRbkIzQ1VYS2hCMGxJdjhCbHp2SW5XYXl2OXk3Z2xvWWhreW4xWmhkczRaUnNnaDVjR1llVmkyYTlVNFlQU3RPMTh1WGl6eEdiRkZqZ20wb0tVcTBMZ2xoTElNQzBrVFVjUUd0RUd3bzQxaTZYaDI1RldqbEUwVGlGdUN4djQ?oc=5",
-   "fecha": "2026-11-19T07:03-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://grupolaprovincia.com/amp/603530/diputados-bonaerenses-que-proyectos-pueden-tratarse-en-la-ultima-sesion-del-ano",
-   "revisada": true
-  },
-  {
-   "id": "aacc156dbd78",
-   "titulo": "Alerta para el Gobierno: hicieron una encuesta entre votantes libertarios y Milei quedó cuarto",
-   "medio": "qpasó",
-   "medio_url": "https://qpaso.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaVB6WTNlc1FSbjZGSnJxMXBTdlhwV1otZWlLLUxIRlF4RGs1NENiajZNWmhQZlR4Q0N3bDZWbzRfVThuODFYd2JDTGVxcS14ZFZsQ1NpV1JYVW5pcnc4aUJxM210b2VtekJVQVp2Z1lJeXpoejFqQ0QtRHU0RmRqcF9UTFpqUi1CN0wtd2YxeEdEdTk5MnA3LWNEQkxPQUdiVjFNNXhiSGF4XzQ2UnlxOGZ2RFVScnBjT2RZOThSTGtBYldVVzZla2xweHV0Zw?oc=5",
-   "fecha": "2026-11-19T07:02-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://qpaso.ar/noticias/clarin/politica/alerta-gobierno-hicieron-encuesta-votantes-libertarios-milei-quedo-cuarto_0_KKgOtDH0tA.html",
    "revisada": true
   },
   {
@@ -1935,20 +1544,6 @@
    "revisada": true
   },
   {
-   "id": "59c3ad255487",
-   "titulo": "El pecado peronista",
-   "medio": "La Dorrego",
-   "medio_url": "https://ladorrego.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiWFlXRVNWX3JoVGhGVGI1YW1rRmtDUFAtM1duNDZJdHB4WGV2dy1Mc0ZsdF9Jdk9IOGV4cU9RMF9EamJmejg5bXctSHVHcmNSYlZxUVF4WV9EUGFrM21pSEN5ZmlPaUU?oc=5",
-   "fecha": "2026-11-19T05:00-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://ladorrego.com.ar/2026/11/19/el-pecado-peronista/",
-   "revisada": true
-  },
-  {
    "id": "0115645bd0e8",
    "titulo": "Por decreto, Kicillof prorrogó el mandato de los directores del Bapro",
    "medio": "El diario de Tandil",
@@ -1974,21 +1569,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058",
-   "revisada": true
-  },
-  {
-   "id": "c8ddb6d74406",
-   "titulo": "Casi 57% de argentinos ve negativamente al presidente, dice sondeo",
-   "medio": "Prensa Latina",
-   "medio_url": "https://www.prensa-latina.cu",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1luam1SWkNJRnp3SHRva0R5c0dyS0Y4OUhnM0VNd0hGRmF6aURBQXhGUWxvd0lWYkwyT0U1THVydURIb0JVYkIzUE1uSkxNT0NEWVNBTDJBVGFMdlctNEhCSGdhRjBTTnNBbW9YNGN0cl9tcDYwdEtVZGRiUEN5bGFSeGRKbEZ4SFJQc01jYlV4MGVPdGZRWTNfSEF5aS15ZXg2RW10d08?oc=5",
-   "fecha": "2026-11-19T03:39-03:00",
-   "busquedas": [
-    "encuesta Massa",
-    "encuesta \"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:23-03:00",
-   "url_original": "https://www.prensa-latina.cu/2026/11/19/casi-57-de-argentinos-ve-negativamente-al-presidente-dice-sondeo/",
    "revisada": true
   },
   {
@@ -2197,20 +1777,6 @@
    "revisada": true
   },
   {
-   "id": "1cb34f8f6252",
-   "titulo": "“Ningún problema real de la gente está en la agenda de Diputados” Diego Giuliano a Juan Amorín",
-   "medio": "Howl.Link",
-   "medio_url": "https://t.co",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1nV0dIaERiZGd2WWEybjFXT0ViNGhUd1lOU2hjeTBmRVhoUTVMNkNRTTlxbk9RNFl6bk1j?oc=5",
-   "fecha": "2026-11-18T19:35-03:00",
-   "busquedas": [
-    "\"Diego Giuliano\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://t.co/Whx0FDhqtY",
-   "revisada": true
-  },
-  {
    "id": "99b8ed2f7d85",
    "titulo": "Golía firmó los convenios para la construcción de 30 viviendas en Chacabuco",
    "medio": "Gobierno de Chacabuco",
@@ -2222,20 +1788,6 @@
    ],
    "visto": "2026-11-20T02:29-03:00",
    "url_original": "https://chacabuco.gob.ar/golia-firmo-los-convenios-para-la-construccion-de-30-viviendas-en-chacabuco/",
-   "revisada": true
-  },
-  {
-   "id": "a141187bd1a8",
-   "titulo": "Encuesta UBA: 57% quiere más Estado y Milei y Kicillof empatan 42 a 42",
-   "medio": "El Argentino Diario",
-   "medio_url": "https://elargentinodiario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNUZ4dnhrcnNidENWdHFRQzQ2cVdlWDViT0o5LTdXNXhRZVp4R1k0WW9HWFU0Q253aEtQYWFMWGVaTVNoOTBza2ZyS1FBNzhZMVk5WkVxS0NuaUk1WUJiSUsxRXB1NkM0dlZmRDBMcTJhdDZfdDRBYVJSdU5jMWpWYVc0X21DeEtadngwVkRwMUdyRFprUEw4VllnbE5udlgxZXY3cTVwSFJnT2RzNWdSTHoyWlNGQzY3YmFZNEpmY2J6T0VPUXlB?oc=5",
-   "fecha": "2026-11-18T18:57-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://elargentinodiario.com.ar/zona-destacada/18/11/2026/encuesta-uba-57-quiere-mas-estado-y-milei-y-kicillof-empatan-42-a-42/",
    "revisada": true
   },
   {
@@ -2278,34 +1830,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.letrap.com.ar/politica/buenos-aires-se-encamina-sostener-las-paso-aunque-milei-logre-suspenderlas-nivel-nacional-n5428332",
-   "revisada": true
-  },
-  {
-   "id": "736baa11c760",
-   "titulo": "Una encuesta midió la imagen de Milei y otros dirigentes: el Presidente tiene un 56,8% de opinión negativa",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVEJQSFpNLThKeTE4MUllNjd5aEM3SE1YRExNZUN4Qlp1em5mWTNJN0g5dTZ1QldHVHFraW1UMzQ3ZlYtNTc4bVgtcXc0RUgzZXRDaTM2cVhmUXFQSjdxeDhPS09GU0dpYmpJN2ttaC1BWGdTb3FpT2EyV2d3NzByaWNqX3A1dUpjeWUzcmw0ZklLVGJPMUZwTldNTk4wRnZzR0VpRTg0Z1htYTQtd2pRUHJISVlmWXhBOFdXdkxWd3dwa2VuVEFPVkxKVEhxalA3TnRjRDFFZVpRYUR3UkJudnRLLVA?oc=5",
-   "fecha": "2026-11-18T18:27-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.perfil.com/reperfilar/una-encuesta-midio-la-imagen-de-milei-y-otros-dirigentes-el-presidente-tiene-un-568-de-opinion-negativa-ah5hI4S6fvMC",
-   "revisada": true
-  },
-  {
-   "id": "28b057a26821",
-   "titulo": "Seis de cada diez argentinos jamás votaría a Milei: qué pasa con Kicillof y Bullrich",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVo4bVdrUUlsWWFPT01FRWp4aDdmR0dTZ1lOVkdkdEYtRlZ5Q2VKVmlFaEtfaUo3TVJkcUhDTWhXU3h4dXRUWTJNQ2RzQjRyTm5BMXBnOTRYNGZGMzNRQV9CYzVibk1USTJTU0d1ZnFzZEh3QmhXbFZFOUpOd19iNTl6ZGJUdzd4NkZlelRZTlBkcEJM0gGUAUFVX3lxTFBFWjhtV2tRSWxZYU9PTUVFanhoN2ZHR1NnWU5WR2R0Ri1GVnlDZUpWaUVoS19pSjdNUmRxSENNaFdTeHh1dFRZMk1DZHNCNHJObkExcGc5NFg0ZkYzM1FBX0JjNWJuTVRJMlNTR3VmcXNkSHdCaFdsVkU5Sk53X2I1OXpkYlR3N3g2RmV6VFlOUGRwQkw?oc=5",
-   "fecha": "2026-11-18T18:07-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://grupolaprovincia.com/amp/603529/encuesta-milei-rechazo-voto-kicillof-bullrich-2027",
    "revisada": true
   },
   {
@@ -2423,20 +1947,6 @@
    "revisada": true
   },
   {
-   "id": "c57905b486db",
-   "titulo": "Encuesta 2027: Milei y Kicillof empatarían en un eventual balotaje según un informe realizado por la UBA",
-   "medio": "InfoRegión",
-   "medio_url": "https://www.inforegion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc21ieGszbmJ5d1dQOEpNWnVna2IwUVJPdVNSSF9TVzZvNkNwRXZVa3djN2pNbGZZZ1hZYjltLS1PaGdSR2hlWDBlTlBEYlA0emdlX0thYkQ0YkVaX3BRQWt6bzQyZ3NSUjhDTk9zXzVvRXE3T1c0WWVGNng3YXFhb2tON3FQMmRmY2JjR3RFaGVaNEZxRFEtNl96UlJUOXl0VHpHZmlKYXV3Z0xDeWxhcS1ZTFA1WHdSeEpjMnVjZzhsWDl3a1FuYnRfY3dWblhxTGVGb1NkVGVFdmRDTUE?oc=5",
-   "fecha": "2026-11-18T16:05-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.inforegion.com.ar/2026/11/18/encuesta-2027-milei-y-kicillof-empatarian-en-un-eventual-balotaje-segun-un-informe-realizado-por-la-uba/",
-   "revisada": true
-  },
-  {
    "id": "698680008a97",
    "titulo": "El massismo defendió las PASO en Nación y PBA, pero evitó hablar de candidaturas",
    "medio": "La Tecla",
@@ -2449,48 +1959,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.latecla.info/171267-el-massismo-defendio-las-paso-en-nacion-y-pba-pero-evito-hablar-de-candidaturas",
-   "revisada": true
-  },
-  {
-   "id": "5c3912cb7600",
-   "titulo": "Según una encuesta, Milei y Kicillof podrían enfrentarse en un balotaje en 2027: cuánto mediría cada uno",
-   "medio": "Los Andes",
-   "medio_url": "https://www.losandes.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHFPSkVhLUFTVHI5LWFxRTVubVZDa0lWQ29KYlB2MFJQTjFfWjVOYS1YN1JqczIycjNYN0Rua045alQxUmNxYXh5NHRybmNIekQtRHVvM1JDMk5MOUphd1hHLV95T3RkdEJYaDFfa0pXZFlJY1lQNHVpNVdFOXZELTc4blY3Z3Q5M0F3SnhjRW85ajYyalhTQTdoWVc5cXJmeXBOQlpoaHZiQkdEQ2h1d1VTb29aQjhHeV9xdGtoUkprcUtYVVJEQW56d1JRTjZub0YtTVpGMWNEQQ?oc=5",
-   "fecha": "2026-11-18T15:56-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.losandes.com.ar/politica/segun-una-encuesta-milei-y-kicillof-podrian-enfrentarse-un-balotaje-2027-cuanto-mediria-cada-uno-n6014763",
-   "revisada": true
-  },
-  {
-   "id": "1ab8752911fb",
-   "titulo": "Encuesta: seis de cada diez personas \"jamás votarían\" a Javier Milei",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUhXYUlCZEpmbHNDMVhpczlkX3NKcjZYX2hoVnhSYmFCaVprQ21WQlFkVGdXbks5M3R4dDh1T3Y3eWtSYU5TRlJ2YW5EOTZhUUFKdnk0MWgyajNGNmlVWlBkUVZ1VmoybDY5akVIV0tRa3dzSENzS2VhakRlelBYZ2pHQVRYYURwRmtxTl85R1p0bUt2RTNuYkVyY3Zick94V1dzVmF6V2YyUnhr0gGsAUFVX3lxTE81SFdhSUJkSmZsc0MxWGlzOWRfc0pyNlhfaGhWeFJiYUJpWmtDbVZCUWRUZ1duSzkzdHh0OHVPdjd5a1JhTlNGUnZhbkQ5NmFRQUp2eTQxaDJqM0Y2aVVaUGRRVnVWajJsNjlqRUhXS1Frd3NIQ3NLZWFqRGV6UFhnakdBVFhhRHBGa3FOXzlHWnRtS3ZFM25iRXJjdmJyT3hXV3NWYXpXZjJSeGs?oc=5",
-   "fecha": "2026-11-18T15:56-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.letrap.com.ar/politica/encuesta-seis-cada-diez-personas-jamas-votarian-javier-milei-n5428302/amp",
-   "revisada": true
-  },
-  {
-   "id": "4c08ff138965",
-   "titulo": "Alquileres en Buenos Aires: familias endeudadas, un mercado en retroceso y proyectos para bajar los gastos",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc0hTY2hBMUw5bVg0YTdsY1ZWdHBHT1pqNVE3emVmS2x2U2xVRUlGRF8wZ2l6NXJydm4xNFpmOXYyY2Nxb01NX3dMQmdGYlNFblVPSzE1cklSWmFqTERya1k4R2RseUhuc0tKQWp1Q0gxU1J1aE1aQXBSZ0FrMGdjMVplWFM1eEhTSllsVkZZR2JLV184Q2hVYzR5YkpmczEtXzRWcmpic1pZbW5sQlZxTlRKZktqcjZPbWhHTNIBvAFBVV95cUxNc0hTY2hBMUw5bVg0YTdsY1ZWdHBHT1pqNVE3emVmS2x2U2xVRUlGRF8wZ2l6NXJydm4xNFpmOXYyY2Nxb01NX3dMQmdGYlNFblVPSzE1cklSWmFqTERya1k4R2RseUhuc0tKQWp1Q0gxU1J1aE1aQXBSZ0FrMGdjMVplWFM1eEhTSllsVkZZR2JLV184Q2hVYzR5YkpmczEtXzRWcmpic1pZbW5sQlZxTlRKZktqcjZPbWhHTA?oc=5",
-   "fecha": "2026-11-18T15:42-03:00",
-   "busquedas": [
-    "Eslaiman diputado"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://grupolaprovincia.com/amp/603524/alquileres-en-buenos-aires-familias-endeudadas-un-mercado-en-retroceso-y-proyect",
    "revisada": true
   },
   {
@@ -2607,20 +2075,6 @@
    "revisada": true
   },
   {
-   "id": "ff650c181c64",
-   "titulo": "Encuesta de la UBA rumbo a 2027: Javier Milei y Axel Kicillof empatan en un 42% en un eventual balotaje",
-   "medio": "El Liberal",
-   "medio_url": "https://www.elliberal.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlQtcVdYTkI1TUJiVGJUcVBKQ3kycUdwTGZycTBTNm90dzRRY1dqM3JFaDFyYk1ET0g5LTR4T3N2VDNNTnA5UjhYalJYSUpsajU4aXBIYl9mYlpZdGpkWkV0ZVppR1diOUZ6RGFITlcyMDhBNFRfY3lfWU9naXNyNU5sWmNnc1dWTU4tMmRQMFUteEhOTkQ3aWRjVVlDaWRKLUlfb1lmeXFNR2txTUgxZUpDTi1seGs5TGhjaGgwdFUtckJZZzgzSmlELUFRdU5DNmdpbzNkS0F0bkRnR2c5YkZ2WVNsX1JuZmk2ZGI4YzZqUGNhTG4wNHd5c0ZJbl950gGAAkFVX3lxTFBmVC1xV1hOQjVNQmJUYlRxUEpDeTJxR3BMZnJxMFM2b3R3NFFjV2ozckVoMXJiTURPSDktNHhPc3ZUM01OcDlSOFhqUlhJSmxqNThpcEhiX2ZiWll0amRaRXRlWmlHV2I5RnpEYUhOVzIwOEE0VF9jeV9ZT2dpc3I1TmxaY2dzV1ZNTi0yZFAwVS14SE5ORDdpZGNVWUNpZEotSV9vWWZ5cU1Ha3FNSDFlSkNOLWx4azlMaGNoaDB0VS1yQllnODNKaUQtQVF1TkM2Z2lvM2RLQXRuRGdHZzliRnZZU2xfUm5maTZkYjhjNmpQY2FMbjA0d3lzRkluX3k?oc=5",
-   "fecha": "2026-11-18T14:27-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.elliberal.com.ar/amp/2026/11/18/98423-encuesta-de-la-uba-rumbo-a-2027--javier-milei-y-axel-kicillof-empatan-en-un-42-en-porciento--en-un-eventual-balotaje.html",
-   "revisada": true
-  },
-  {
    "id": "06fab3f781e1",
    "titulo": "Jorge Asís: “Es Axel Kicillof contra Sergio Massa”",
    "medio": "Perfil",
@@ -2706,20 +2160,6 @@
    "revisada": true
   },
   {
-   "id": "c7409dd5ce90",
-   "titulo": "Una encuesta de la UBA muestra un empate entre Milei y Kicillof en un eventual balotaje presidencial",
-   "medio": "Tendencia de Noticias",
-   "medio_url": "https://tendenciadenoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRW5jOGJ1SGJsaHI3UWFmN25IV3FZVHh2bXBxWVNBcW9nV3g0RVJ1c19mVjRBOWE4QWt6akdZMmp1QkNfeE91TU1tVzl1dXlCZHFFMVdvb0piUGhRRWdpcnRwdDlza3Fyd2lSb0gwUEpmOFJhbFhDN1Bmb29BcWJjbmZ3WTdidnhfcU91R1RSM0g3cjBtWmJUVkhkWTJFd05QNXpGMjBOT0tYYVlMNUdicWVZTjVGSjdzeEpPeUZPRlJWdzRGX3l1NFdGOWNxMEViTHI4dHhtaFZCSnBC?oc=5",
-   "fecha": "2026-11-18T13:13-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://tendenciadenoticias.com.ar/politica/una-encuesta-de-la-uba-muestra-un-empate-entre-milei-y-kicillof-en-un-eventual-balotaje-presidencial",
-   "revisada": true
-  },
-  {
    "id": "912c0099cb8f",
    "titulo": "Massa nombró tres posibles candidatos a presidente y se dejó afuera: “Hoy estoy más para ayudar a otros”",
    "medio": "Diario Digital Conclusión",
@@ -2775,20 +2215,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.laizquierdadiario.com/Massa-entre-el-FMI-los-fondos-de-inversion-y-la-rosca-para-volver-al-poder",
-   "revisada": true
-  },
-  {
-   "id": "63067b5aa736",
-   "titulo": "Encuesta muestra empate técnico entre Milei y Kicillof para 2027",
-   "medio": "Novedades del Sur",
-   "medio_url": "https://novedadesdelsur.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFpxWWhMZUdnNnNBUkUwVE1vRTZURUprQmJRa193alRucnVod3BkS1k0RnN5WTBueklSaldiaG4zMFRrblZzQWZTSWxESUo2Q3drWVJaeS12YlN5WnJtNV83OTFPSUw2WXVtbUVFMkZlbWF0dmtZZUplYXRtdHNEbWFqY1BmRDNiT2gxT2JtdXpRbHRvcjdrY0MxbHoyZ3N6ZFlvWFFOWXnSAagBQVVfeXFMTTBacVloTGVHZzZzQVJFMFRNb0U2VEVKa0JiUWtfd2pUbnJ1aHdwZEtZNEZzeVkwbnpJUmpXYmhuMzBUa25Wc0FmU0lsRElKNkN3a1lSWnktdmJTeVpybTVfNzkxT0lMNll1bW1FRTJGZW1hdHZrWWVKZWF0bXRzRG1hamNQZkQzYk9oMU9ibXV6UWx0b3I3a2NDMWx6MmdzemRZb1hRTll5?oc=5",
-   "fecha": "2026-11-18T12:04-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://novedadesdelsur.com.ar/amp/94625/encuesta-muestra-empate-tecnico-entre-milei-y-kicillof-para-2027",
    "revisada": true
   },
   {
@@ -2862,48 +2288,6 @@
    "revisada": true
   },
   {
-   "id": "a88aa33efff5",
-   "titulo": "Una nueva encuesta midió quién ganaría un balotaje entre Milei y Kicillof",
-   "medio": "LV12",
-   "medio_url": "https://www.lv12.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3RlT1lmQUdmVzVLNG1IR2t3c0Y0a0F6djhtaVZ4Qm81TFNqR01hVXAyNmdJNG5ybVU3b0RNeDd6TWZiRWZ0TUdYRGJuWUxtM1EwbG1QQi1FdGZhc0lqdEZjQ2RnczFQb0FvSDJhcGxWQWFhakxTZ3dxUy1xb1lYUnJXWllmU2FkUjNTSGNlQ3hEZzJia0lIdHEya0s5OXFPMW5wbXlmcjQ?oc=5",
-   "fecha": "2026-11-18T11:25-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.lv12.com.ar/milei/una-nueva-encuesta-midio-quien-ganaria-un-balotaje-milei-y-kicillof-n206820",
-   "revisada": true
-  },
-  {
-   "id": "4d367fb5ab2c",
-   "titulo": "Encuesta UBA: Milei y Kicillof empatan en un balotaje 2027",
-   "medio": "Diario El Norte - San Nicolás",
-   "medio_url": "https://diarioelnorte.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdXRENHU3T2lmMjFuZ180dFhVQjNqR2JPRFY3Ri13Wl9zb2dMT0ktR2UwcThDZGVDNzdmeWdFUFdlaUhMWnZZWUFTRjI1VGNId19WNm5QMUE4dGZtU3hMY1B4NjFSby1TM3NQUW9NVzc4cVBNVVlidHRSY3RDdXFKRHlTWjJ4UXBpdElMcS1kT1Q?oc=5",
-   "fecha": "2026-11-18T11:09-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://diarioelnorte.com.ar/encuesta-uba-milei-y-kicillof-empatan-en-un-balotaje-2027/",
-   "revisada": true
-  },
-  {
-   "id": "6aef4373ed71",
-   "titulo": "Milei y Kicillof, cabeza a cabeza: una encuesta los midió en un balotaje y sorprendió el resultado",
-   "medio": "Argentar Noticias",
-   "medio_url": "https://argentarnoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2ttUlM1N2s4dEJ1cWhSZ2FnaEFGaGlGTC1uaGlqTFEtcDN4dEZoS3lCM0Y1U2FOQWdoc1RRWUw1VTlaTDUwemIwRUxpTFRGTWxsSERkbGRvY1N3Z0hhVUVWbjRzbzFmQmpTbmJ0eEJLMmtncklZOXJoM0VmQjBhY3dITDBzaG1KaUJUOVlYZDZoNU4yLVhNcEVrOEVSMzhTaUtGZlNvTExPTnZsSEEtTjZPQzJ6eWsxYmx0RFVadjhSQTZjRDQ2Yg?oc=5",
-   "fecha": "2026-11-18T11:09-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://argentarnoticias.com.ar/milei-y-kicillof-cabeza-a-cabeza-una-encuesta-los-midio-en-un-balotaje-y-sorprendio-el-resultado/",
-   "revisada": true
-  },
-  {
    "id": "cd41cbc244b1",
    "titulo": "Sergio Massa afirmó que \"no alcanza solo con el peronismo\"",
    "medio": "Diario Época Corrientes",
@@ -2915,19 +2299,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.diarioepoca.com/1395485-sergio-massa-afirmo-que-no-alcanza-solo-con-el-peronismo",
-   "revisada": true
-  },
-  {
-   "id": "8dd4f00b5bbf",
-   "titulo": "Provincia de Buenos Aires: despachan la ley del juego online",
-   "medio": "SBC Noticias",
-   "medio_url": "https://sbcnoticias.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVVKd1B5MkNGMVpMbVU2MnZvX2xaNVVJSDJJLVdDcG9udnp2RDBHSzg0MUluWFBENUVqZlFiRjN6ci11dkU1eUtHYVFUZVhpdmZkN2lIU0xXM0tCMkNFVExUZl96alp5T1FzbV9mc3BHMUpxZUlBQU9Qb0ZqV09PUEVvRHfSAYQBQVVfeXFMT21VSndQeTJDRjFaTG1VNjJ2b19sWjVVSUgySS1XQ3BvbnZ6dkQwR0s4NDFJblhQRDVFamZRYkYzenItdXZFNXlLR2FRVGVYaXZmZDdpSFNMVzNLQjJDRVRMVGZfempaeU9Rc21fZnNwRzFKcWVJQUFPUG9GaldPT1BFb0R3?oc=5",
-   "fecha": "2026-11-18T10:53-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
    "revisada": true
   },
   {
@@ -2969,20 +2340,6 @@
     "\"Malena Galmarini\""
    ],
    "visto": "2026-11-20T02:28-03:00",
-   "revisada": true
-  },
-  {
-   "id": "157b5478cfb8",
-   "titulo": "Una encuesta midió quién ganaría un balotaje entre Milei y Kicillof y dejó un dato clave para 2027",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWE5rVW81TElKZ3ktUnEyN3k0MTFuM3hKVXBITlFZNEdTSzhwbndGSURxYkVZYmZUVVBBemxIcERMczVDN0lzNzd0OWJBVTBlaU84aFVGS2Y5THJ0UjRMZUtXMEpYNjJrVjNaLTU0ck1IbUlTQjd5ek1uYlpiS0pxU1RnQndPNFNmR0s0V0FhWUtnUVVKRlVvTXpTMy05QzlidHpTYktfdUNLbEFmeFVySXA0WWEwQXRabE1UMWVrcGxYV293V1BQXzhyejlRQUo4LXhPWHF3T1ZuMEMwV3ZqS3RscWxvaU91NVdheG1tZVlLcVptQkVF0gGGAkFVX3lxTE8zWkpQeFRqTXJKaFBKSXoyZ0cxWFFhVFMtYlhRUnlZR3Fmc1VmQTZmZnV4T0RoQzNQQXcwVGVfNjRDSzhXUUdvLWtDQU5mbGprM21CNjlrVjZFV2xETjJHbU4tbzV2X2NVV2hRVUpZbGxNMk81ZDktUzBzVm9vWnA4Snpya2dlSkhXX0ZIWjd1aWNrdXhMbEN5UVg5TjhLTDdmRm5DaXJXeWdQYVFaUFFlYnJSLXB1Z0JKejFNWnJTYW5nMmhTQVNnOUplNllkdlBVeUpSRjhZUTR0a0VMb3NtaGdXWFF2WjNOQm9udUpJR1V3alhLbFE1a1BzNzVsZGxkNDItbWc?oc=5",
-   "fecha": "2026-11-18T10:19-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://noticiasargentinas.com/politica/una-encuesta-midio-quien-ganaria-un-balotaje-entre-milei-y-kicillof-y-dejo-un-dato-clave-para-2027_a6afd9b1c4f169fd00c3a5649",
    "revisada": true
   },
   {
@@ -3071,20 +2428,6 @@
    "revisada": true
   },
   {
-   "id": "81b9b8d63271",
-   "titulo": "El peronismo celebra el Día de la Militancia y vuelve a dividirse: un ausente central",
-   "medio": "NewsDigitales",
-   "medio_url": "https://www.newsdigitales.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRW9NeXdqY0V2NVFOTlhnWUo1cDJMaDdiUXp3R1hWXy1WTEhJaXFEUXA2QmhXT0FiblhmMnEwMWVBM2pPWUFmYm9ZZTVJQ1hLWkhGV2E3VHh3WGJzRnE2OVBIYl9sMVA5SVdKWGNLQmdKbk1faEhfYm5kakt4dF9mZUtTWmlpaXBCZEtBb3ZXTWdIaHRJcFoyU2ZocVBQOXFHdGMwNlNSTGxPSHhpSUJlNHUweVdYOElWVkxiNHZnSXRqdlA0bVE?oc=5",
-   "fecha": "2026-11-18T09:30-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.newsdigitales.com/nota/350348/el-peronismo-celebra-el-dia-de-la-militancia-y-vuelve-a-dividirse-un-ausente-central/",
-   "revisada": true
-  },
-  {
    "id": "29a3974e2710",
    "titulo": "Arcioni y Luque acompañaron a Massa en el acto del Día de la Militancia",
    "medio": "Diario Jornada",
@@ -3139,20 +2482,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.laizquierdadiario.com/El-Dia-de-la-Militancia-volvio-a-mostrar-la-divisiones-del-peronismo",
-   "revisada": true
-  },
-  {
-   "id": "298649f1348d",
-   "titulo": "Encuesta de la UBA: Otro empate entre Milei y Kicillof, pero la gente quiere un \"híbrido\"",
-   "medio": "Urgente24",
-   "medio_url": "https://urgente24.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUx0VXEwUi1PWjVTbGVxdkE4Z3p1OEl4NEdITEtsYnNpejhGVnZxSWxQSlVSblIzRk1HUzRROWhFRHJzdGJKZjlNM19ZenpCY3RzVFpkQzhWdnA0VGpudGh4THRPSjlNS0tYRWE0LXQwcDlpekRBRGpjeWtSMW1BT0k0Y1RjbTlvMEFHcGlBXzRhWjRpZTlJeXRWaERuR1V6OThuelpwUFlWaEFrMjJKQngwNDZlN1Vza2wzWnN30gG-AUFVX3lxTFBRTHRVcTBSLU9aNVNsZXF2QThnenU4SXg0R0hMS2xic2l6OEZWdnFJbFBKVVJuUjNGTUdTNFE5aEVEcnN0YkpmOU0zX1l6ekJjdHNUWmRDOFZ2cDRUam50aHhMdE9KOU1LS1hFYTQtdDBwOWl6REFEamN5a1IxbUFPSTRjVGNtOW8wQUdwaUFfNGFaNGllOUl5dFZoRG5HVXo5OG56WnBQWVZoQWsyMkpCeDA0NmU3VXNrbDNac3c?oc=5",
-   "fecha": "2026-11-18T09:19-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://urgente24.com/actualidad/encuesta-la-uba-otro-empate-milei-y-kicillof-pero-la-gente-quiere-un-hibrido-n636976/amp",
    "revisada": true
   },
   {
@@ -3307,20 +2636,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://realpolitik.com.ar/nota/75325/san-fernando-juan-andreotti-acompano-las-galas-de-gimnasia-y-patin-de-los-polideportivos/",
-   "revisada": true
-  },
-  {
-   "id": "76fd60e80314",
-   "titulo": "Día del Militante: buena parte del peronismo se reunió en San Fernando",
-   "medio": "Radio Villa María",
-   "medio_url": "https://radiovillamaria.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVW50TXllUWJYOHpzOVNKRjBiWkpHY2xwUHpWVXd4WGdpblVGYm5DWFNIX3A3NTV1UHpmQXhQeTVkdDBGSGNGb3MzNFFhdWYzUE14OGlqcUJqand3TkVUaXlJNTRtMFhHOFRTZW1IS2FqdGlHUVNya0JSSDBBSDd2NzBKazc3Qk5ZbThDWG9ObWF1eTU1NFFfYUNYdllaMnRaRlBEWjN6NTNmb2xrdmswcjd3?oc=5",
-   "fecha": "2026-11-18T06:27-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://radiovillamaria.com.ar/nota-189637/dia-del-militante-buena-parte-del-peronismo-se-reunio-en-san-fernando",
    "revisada": true
   },
   {
@@ -4069,20 +3384,6 @@
    "revisada": true
   },
   {
-   "id": "163b47567abc",
-   "titulo": "Una nueva encuesta dejó a Javier Milei cerca de su peor registro de imagen positiva",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0VaOG1EVW1rWDUtWVJvbTMwVTFLZkhOQVVXblRJNkFTcVktRnlBVEphOXFEN0p2ZnFvQ1RHREZxTVBNZDEyQ3NiZGJwRkJIVUtCNFhLdkQ1bmJKQWIzdzQzdWRoTDlSN2FlTzlyM1cxcG9hbFQxckgtOUNVZzBhV1g2YkVnNEM5aExvN2o3ZzJpdjBXOVNNQ2tSU0daN3piWGfSAZoBQVVfeXFMUFM0djg1OFBEUV9nUk04RHgtNGVxa2diWlI0ck8wdFIwSlRjak83aldMMmNfQjBIZVhLRUN3dUI1WGlObDh3TE1JWjY0MkpqeThDcGFWNVRqNjZ4dW1qa0t2QXFVN1YxX2F0SF94dV83VVZqaGw2QWluOGxpZkhORjE4Zm5fS29hN2c0eXVKdGx0cjNXc0Q0Y0tUZw?oc=5",
-   "fecha": "2026-11-17T18:12-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://grupolaprovincia.com/contenido/603485/encuesta-milei-imagen-negativa-giacobbe-noviembre-2026",
-   "revisada": true
-  },
-  {
    "id": "eac01bc6fa31",
    "titulo": "Massa reordena el Frente Renovador en Tierra del Fuego",
    "medio": "Diario El Norte - San Nicolás",
@@ -4165,20 +3466,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.impulsobaires.com.ar/nota/326606/sebastian-galmarini-critico-al-gobierno-de-milei-y-reclamo-unidad-en-el-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "3e715abcaf83",
-   "titulo": "Sin proyectos en la Legislatura, las PASO siguen vigentes y La Libertad Avanza espera el envión del Congreso",
-   "medio": "Infocielo",
-   "medio_url": "https://www.infocielo.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVTJZa215MVZpazFlVzFNM09faUNISmJ4UFQ2SmlqZ1Mzc0NYYTVCX3k2Q2dERmFVVGVMVm9fTkxDa1YwXy16Y1YyTHhHdTRscW81WWMydGVEYmVBdV9jVElUVXdQY1ItV0ltRXUybjhBT2tmTTExU2JEMjR1YlMyanQxbzZkVzdXUnNwSWktMzZyUU01TlV1d2xXSnk4b3JoLUE4d0lpUk0yUzBfMWNBY1lhRmtLNWhQTEFKVW9TY1JORmM0ZGhiWUlaOWp3SE44cVFaeTBZaFhjS1dmcGJhUGZPMTJ2Smxf?oc=5",
-   "fecha": "2026-11-17T16:57-03:00",
-   "busquedas": [
-    "Eslaiman diputado"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.infocielo.com/politica-y-economia/sin-proyectos-en-la-legislatura-las-paso-siguen-vigentes-y-la-libertad-avanza-espera-el-envion-del-congreso",
    "revisada": true
   },
   {
@@ -4391,18 +3678,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "40a9361ac93f",
-   "titulo": "A Milei le fue muy mal en la encuesta que le dio récord de imagen",
-   "medio": "Urgente24",
-   "medio_url": "https://urgente24.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEpHeTNCdERWZXhBdHp3YzMxOFMxZm03NlJZUGVqNFRSaGM0bjU0YlBmbEpMVWhsZTlkbGlLdFdwSW9YMDEtenVXOXByeUpMNkxMVGdJZlBONloycTh0WVZMNjVhYmtOMVp6UzR1VVVMNmY4TEptRmFaQ25WdHEyek9tRXRETEU0N3RJNkZoY2t5cjItTlV2UkhQR0pfY0oyTW5Kd2tnd9IBpwFBVV95cUxOaEpHeTNCdERWZXhBdHp3YzMxOFMxZm03NlJZUGVqNFRSaGM0bjU0YlBmbEpMVWhsZTlkbGlLdFdwSW9YMDEtenVXOXByeUpMNkxMVGdJZlBONloycTh0WVZMNjVhYmtOMVp6UzR1VVVMNmY4TEptRmFaQ25WdHEyek9tRXRETEU0N3RJNkZoY2t5cjItTlV2UkhQR0pfY0oyTW5Kd2tndw?oc=5",
-   "fecha": "2026-11-17T14:09-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "ba04f9c8065c",
    "titulo": "Massa desafía a Kicillof y reúne a dirigentes del peronismo federal de cara a 2027",
    "medio": "Diputados Bonaerenses",
@@ -4451,18 +3726,6 @@
     "\"Frente Renovador\""
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "171c409a5b2c",
-   "titulo": "¿Milei, Bullrich o Kicillof? La última encuesta de este reconocido consultor reveló al favorito para 2027",
-   "medio": "El Cronista",
-   "medio_url": "https://www.cronista.com",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmYtM004RjNGNE4wOWYxcnV0RXJFVkZyWnN1Yk00N29TZE9XalozTTkweWZ0aE5Yb3Jpb1FSdkZaSzFGd2w1UnVnNnJoS1gtcnR4N3ctRlJnR3FMc0s4VC1hSjN5d050blNCaXdiUHEwcnM4MVJNb1dONzFJNmtNUXIxUXdkajVSNGlnV3c5dEF5NU5QUEo4ajRQaE9VWlJMNkN5Zm9Zc19xRmh0T1VzUkprZk1DZTZiR3hybXlqbDI1c2F0b0piUVVuUEVCT2VZX3dKSV9PX0tfZ184aEhJ0gH6AUFVX3lxTE1ILU45Q1VuQ3JVZ2U5bHNPWjB0bHhpQ25tR0s5TnlPU3dfbnpuNWpEckZzYWluRnFtaDVubEhhbmVIT3pSQjNwbGRac3JwQ1NWRXZPV1E1NGd6SWVVcmZBUEVxQjVmWVNnM2o1UHc5cGV6dGRYVkthZzRHNGpwckxXQTdWVDM0LTFvelgtWDM1eFVTWXRyZUZxYnhwV0hXVDFocEJ2ZjBMaVo2a19vWlcyQWJQekFNdjNLMEpiZTJHWXhGaFBUQXJCdmZabmVqWHd1OXh6Z1o1b1FVV2hXYmNxR0ZNeG5RZ3VjZ1A2aGhhdDlZZG41R1RLd0E?oc=5",
-   "fecha": "2026-11-17T13:30-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "3a8a2d5a29e9",
@@ -4658,18 +3921,6 @@
    "visto": "2026-11-20T02:29-03:00"
   },
   {
-   "id": "4280431f188d",
-   "titulo": "El PRO resolvió acompañar la suspensión de las PASO para 2027",
-   "medio": "https://www.noticiero9.com.ar/",
-   "medio_url": "https://www.noticiero9.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHdCN0R6cDl3VjVNc21MTWJnZHdha2VEVU9TSHVYSjdxRjBTR3JNczlvUWY4R2VOMHlJVVRhbDhGbkZSRVV1OVZDNzlxWlo5Uks1d3o4c0JQd1IwNlFLMlR3SS1tXzFpNU1lcTBPdjF4MXR4QWhKRWhFZmJOd2plRV9YRmpsOFRJdlI1X2s1ZkhuTHBZZEZ5SXlqRmVwQQ?oc=5",
-   "fecha": "2026-11-17T10:47-03:00",
-   "busquedas": [
-    "\"Katia Blanc\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "bec90b4c9bd0",
    "titulo": "Darío Golía y Celeste Trotti participaron de la Asamblea Provincial de Salud junto a Nicolás Kreplak",
    "medio": "Diario Democracia",
@@ -4803,30 +4054,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "cd50472c1d2c",
-   "titulo": "Una encuesta nacional subió a Bullrich a la pelea entre Milei y Kicillof: cómo les fue en Mendoza",
-   "medio": "Los Andes",
-   "medio_url": "https://www.losandes.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0U4NDhvYW5GTERFc21jQmEwYjFZZnRSbGNOb0FLSlV5UkhyUWJIVTJKUEcwWmxpcU45M3poeXFsWXZ3ZTh2Z0FhZXhqUTF6LTRXVjZDLWROcTRxUFZ1bW1MeDN3eWJERDRKX1VXZWlnVUJocS00eklHeXd1TE5QSEE2a0xFS1ZxNG85UG1ELVB4U3ZscXFpc0RkUVFldDE0M3RZSThxRnZkZ2laSG1oY09qVEh2XzI5RmRiOWFZTG1jcVRCd05xUA?oc=5",
-   "fecha": "2026-11-17T09:12-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "0d14d988802b",
-   "titulo": "CRISTINA KIRCHNER CAMBIA DE ESTRATEGIA: el inesperado elegido para ocupar un lugar clave en la Justicia",
-   "medio": "El Economista - Últimas noticias económicas y financieras",
-   "medio_url": "https://eleconomista.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3lNSHlRblVJX3FmWGtWV2ZETVd2aDZUM01DOUF6RDhnRENqOGVHYU5jR2sxSDdtS3VFOENISUU5cVFkMDZtNVhNdGpnU2xSb0JxOEN5MFRiYVdWbGl6NHFQTUdCMVA3cHZVQU8xcmhSVl8yMS1feTAxa010LWdnTENpN3gwTEc4YVU2dEtENU9PYjZ1cl96T1RUa3BYQmh6d1FKTUljeVRHamUtX1lQOFp5Wm1KZ3FaUlhUTlVVRVQtY2c40gHKAUFVX3lxTE04SC03R1U2X3p5NlFpb3NubzFWSU4waFJmNUFydHBja001ZEdBblZaVDRIZUpCUktac2VTQ0F2bEdURjNJWGpqMmlrN01raDNXdUh2NVM0TDF4czhlWXE1ek9vUldmTWJUaDFCYnA2dVV0eU0yMDlyOE1EMjJXZUZCYjA1VTAzVXpNTFMtQnF6MFNGaWJudG1nM0RUWV84WEk4U1c0dGJUN21Sb1hKbW1wRmY0VnFMc3ZIeWZicmNjalBITjdKQzF0TUE?oc=5",
-   "fecha": "2026-11-17T09:04-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "bc8297f1b37e",
    "titulo": "El peronismo federal tendrá un gesto de apoyo a Sergio Massa en un acto en San Fernando",
    "medio": "Que Pasa Web",
@@ -4848,18 +4075,6 @@
    "fecha": "2026-11-17T09:00-03:00",
    "busquedas": [
     "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "f350bfbd3227",
-   "titulo": "Contrarreloj por las PASO: el Gobierno necesita cuatro aliados para el dictamen",
-   "medio": "https://www.noticiero9.com.ar/",
-   "medio_url": "https://www.noticiero9.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVVYYXQ0VkQtdXJyN1hpNmc1RGNDZkFPNnBWZTBrSFg5OGRvazAyR0ZrMUVKc0xMMkxWeDRNazFwT29oSFU3SlUyZVlYYmk5T0xWWjQ0TFpqc2w0dkNFTldDb0hmaVNDUTV3dFVxOEhzNWxUbjYxWHQyUENoZk1VbHVkRTRMZURTakRQNGJ4LU5aUWkxdFBtVnNwb1dNVko4Nmg2dE5VY3lmcVpHbEVHbWIzbHY?oc=5",
-   "fecha": "2026-11-17T08:57-03:00",
-   "busquedas": [
-    "\"Katia Blanc\""
    ],
    "visto": "2026-11-20T02:28-03:00"
   },
@@ -5010,18 +4225,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "134af40a7060",
-   "titulo": "Una nueva encuesta midió un escenario de balotaje entre Javier Milei y Axel Kicillof",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTVOZVdFRl9GLUZqTmdDcTByaXc2T21LWUpGSkpDeUFwQkl2YXZBVnZzcGlaMFp1M3BvV1V4OUFxTDhQalByei03b2ltRmRZa3dDLUh4a2xiNE1LRGtRRnNldlVsblBmQ09ucVZSZUxvckZLZDhUd3pESkg4bWwxSXlsU0NadElTY2ZnRVhWLV9XVjB0ZDhrUXRaTHRXRlR2aDFhUWNPQWVtb0lGOU9POE1IdmJGVW1PWUR3RlVRSHlSVVF1LWFqSw?oc=5",
-   "fecha": "2026-11-17T05:35-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "8821241359a2",
    "titulo": "Andreotti arma en San Fernando la cumbre massista sin el MDF",
    "medio": "Diario El Norte - San Nicolás",
@@ -5131,18 +4334,6 @@
     "massismo"
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "639c7037b10e",
-   "titulo": "Una nueva encuesta revela cifras negativas para Milei, pero tiene un dato que preocupa a la oposición",
-   "medio": "Así es nuestra vida",
-   "medio_url": "https://asiesnuestravida.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUYtV3RtMXRuaDFRVFdYVGJlVFpBallVV3FudzA0ejNiYW83MFVWNlBfYnBPUDBSa2psb2M1elNqNVBwYkhVWDZrY04yelpuUjVjZGtLQ1B3SzhnUWZnWXBHTnAxNmljU3ZUYTRQSkl2a2dDZFRZa1VxZklBeVRVTzluYXFpMUVrXy1xakl1Wmw4RXphRDAxeE5RVU14TGNpTGxwcUY0YjA2ZXpwLVZudHJpZXpMNHhJaWV3YVV2S0NuM0QxeTZMTGdoYTRmdw?oc=5",
-   "fecha": "2026-11-17T00:53-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "e2053bdd6aa7",
@@ -5485,18 +4676,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "2a386f6aaab6",
-   "titulo": "La escuela de oficios La Santa Fe que viene lanzó 14 nuevos cursos gratuitos: cómo inscribirse",
-   "medio": "Aire de Santa Fe",
-   "medio_url": "https://www.airedesantafe.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQXZ3bjhKd1ozdGQxY3ZvNWdROFp1VmlKZGV0TTFuaHRnUW5nMnNNQWEyYmYzNmdFS2ZpR0VvRzh1eHFpY2NKc1o0QkRWSE1qS0RseWV0elotZGhMeEltdG1sdVd3S1lMcFByMEl4TzVMTkktNW1td2E5dUtXelhPSnl6QU04bjh1YWw2ZzREVHZKLUszT0JiRGtLYm0xZHcxVzhKTmVWNDJqX0ZvZVVDUm5IaXc4NWpMZHNaMEJnY2NXTkJ6N3NVMWtibWYwUGczcGVBNll4Zw?oc=5",
-   "fecha": "2026-11-16T20:38-03:00",
-   "busquedas": [
-    "\"Diego Giuliano\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "fca484406e63",
    "titulo": "Sergio Massa se alía con el peronismo federal para lanzar su candidatura presidencial y enfrentar a Axel Kicillof",
    "medio": "Primera Página",
@@ -5814,30 +4993,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "7e67c3d99c95",
-   "titulo": "Muestra anual educativa en Claromecó",
-   "medio": "La Voz del Pueblo",
-   "medio_url": "https://www.lavozdelpueblo.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xMHlSb3RPeXNtYVY4d3RCdzdvV1drdWtMYk1lRXJKZnp6WTduTjNiNjAxQXhmaVlmMmEybzlENHpaTGhlbkE0ekpaMkxvQndDY20xZTRWV2cxR0J4dTlLb3VEbUotUVkxSkFDV0gxWEV5SmRLXzljMGVn?oc=5",
-   "fecha": "2026-11-16T14:09-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "fb2905f2053d",
-   "titulo": "Reforma electoral: el borrador suspende las PASO solo en 2027 y suma colectoras",
-   "medio": "https://www.noticiero9.com.ar/",
-   "medio_url": "https://www.noticiero9.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFNubFhYa2kyN291MEtVMDVsclJVdDJRS1VaLXBpMVlOcVhkX1cxWmZLU0JPVEk0a2hmbzMzNWU3dEIxRnNMVXAxWlo2SGI0UnIxYjdlN2tOYzcwQ0N5VWRrZGg3NWhBZC1pU2RhdzVKM2tmVllCMWFOVE1tbnZtQko2Um13aHlUclN6OUs5bFJmZUpBUDJ1NVFZWk1ycTk3MkoybGZ0YU1MR3lSTEFYTk44TlI?oc=5",
-   "fecha": "2026-11-16T14:06-03:00",
-   "busquedas": [
-    "\"Katia Blanc\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "970a56602634",
    "titulo": "Galmarini aseguró que Milei perderá las elecciones de 2027",
    "medio": "Infomiba",
@@ -5848,18 +5003,6 @@
     "\"Sebastián Galmarini\""
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "7781ded62051",
-   "titulo": "Una encuesta reveló un empate entre Javier Milei y Axel Kicillof",
-   "medio": "Minuto Neuquén",
-   "medio_url": "https://www.minutoneuquen.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjkxS0o4aXpvMHFQSVZFQjRLRks4eWRHSGF0TGN2bFItZXB4Ui1WSVkzR0cxanQ4aE1xOGd6bTJ1dVlsYXdRc3lfYVFtc0xLNDJtWnduRy1RUkRfeS1GVndkbTJVYXM2STgxSDZBUUdLZjlpQUhLazllalBERU16MVJkX1V1Ni13WTBmNmFsWmo5MGpwOXdUOXE0Zl9HZWNlb21lRTFkdjJUVTQtWWoyTWItbV8yLVhLNmlhSFZMV2JuU1lKZGZJ?oc=5",
-   "fecha": "2026-11-16T13:35-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "6f38226252b6",
@@ -5972,18 +5115,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "5592d59064ff",
-   "titulo": "Aragón TV, Aragón Radio y Aragón Play ofrecen este martes el debate electoral de los candidatos al Congreso por Teruel",
-   "medio": "Aragón Play",
-   "medio_url": "https://www.aragonplay.es",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMTk1bFVaTHZBYWRHQUx3YkM1RjFYNm9hUjF6Nk1WVnRxVlRRZmJaczhwc1kwS3ZCdlVTMF8wQ1pWYUFSR0RRZzBsV2lZeXlWaXFXQVRDa2dINEdRelBRTFdMajIweU9mbUdFcWpxcm45VklvREk3OXlJMHg5LXhYN3J3dGFZMWNmakRYaTY5RXB1ODFGNmFUU2pOM3NNWlRKYUpjQ3pfTWRKUEI3YmgtZTRwQ0R3SGlvTlU0TF9QTGJPVW1jSU95bEs4X2RoM0xQQUVyUDBBcmRyQlF6UEE?oc=5",
-   "fecha": "2026-11-16T10:46-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "23d3c249a463",
    "titulo": "Día de la Militancia: el massismo prepara foto con el peronismo federal para enfrentar a Kicillof",
    "medio": "ANDigital",
@@ -6004,30 +5135,6 @@
    "fecha": "2026-11-16T10:15-03:00",
    "busquedas": [
     "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "bb71dbb5932b",
-   "titulo": "Se homenajeó al granadero Juan Rabuffi en Castilla",
-   "medio": "Diario Democracia",
-   "medio_url": "https://www.diariodemocracia.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlBXVVZiWTRSdGZKZmpwOEs3Ym9lSFMtZUx2YXJWdFhlU09jVzdrWWlET3N0X2tpU3hWUUw2SVEya1NEMmUyUE9vQXZVR1kxNFRTMlRiRk5OMTF1cTJFcjB2UEdRbGxwWXBKUTRTSGwyaWxyR245aWhBSk5vUDYzWnRQU0xMODcteDJlNE03UVdKU3dyUTIwdUI5UW1lcHBleXdVSUNJLTl2bjc0?oc=5",
-   "fecha": "2026-11-16T10:14-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "c6a0f48932a9",
-   "titulo": "Encuesta 2027: empate técnico y ventaja de Kicillof en balotaje",
-   "medio": "Diario El Norte - San Nicolás",
-   "medio_url": "https://diarioelnorte.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUI3dk9CVjhRSEduSnQzYlhVYmVuR20wRFhpNW1OLWw3clJlSUxEdEJtVENMRFVjYkZZeDJSS3E4OVhBUmRMUjlLekJvMmkwdEVvSTRNLWxQSmpTSkFSbVZEdVZiT2JYUXBEMEJPTWZNU3pkLXhCX3QxQTYtRWhzSi1OT3l1OEpoWmZuMU1SR3gyVWdDYnNz?oc=5",
-   "fecha": "2026-11-16T10:04-03:00",
-   "busquedas": [
-    "encuesta Massa"
    ],
    "visto": "2026-11-20T02:29-03:00"
   },
@@ -6057,30 +5164,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "ef8abf79e5c6",
-   "titulo": "Encuesta electoral: empate en primera vuelta y una diferencia llamativa en el balotaje",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTdOaFdnbjZLTVpUVTY3NHgwQUZSSFZ0ckcyZzZFam1RWGFQR3lpdmUteWZYZFRHYnpPTUQtMEZMQUtJbHk1a2dmUVFweVZjcTdRcld5TnRxUHFtakF6WlpOd0s5Q1Atb05Dei1EUFJwYmJWWmxWSFNyaXRfR016MF9PRlpQSTVhUGM1X0hmVkxNbGxUMXlrSDhnYUlvYWthc25VU1hjTC1pOXVlc2RFazd1U3ZZSHRQQWJYQjBTWlg2T1pndi1PQVYxQjRMMmdXQk00Zkx5V3QyQlBiZHZCZ2g3ZHpjR1nSAfYBQVVfeXFMUGhTdW9HbkU2Ull3ZDIxVGtRQkVIcWlNcEFkbDE4ZkljZnJ4VTRzZDJsVkpvSHpuc0MzQ1RfUzFCWnM0Ykoyd25aOUw0OEpJQ0gxX3FwQmRGdHJNZjREZ3RvYm1VekxUOXNlNEdFYldoa2hqdmY0VHhraXAwdG5fM2tDVnJsc2otQUpZb2pxRkdWaXBIWDc1OUJfYm5SNWdTcFhLblhxVmtJNllpOHpVVVh5RGFrUjUtUGJ1bG9PRzFfOU9rLWRzQS1YelFJSkNNSnBuUjV0cU5oWS1yOHRmTlZrM3JhSFUzWnlMM1VxWFdjU3RCb0VB?oc=5",
-   "fecha": "2026-11-16T08:59-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "56c2c5fbfdb8",
-   "titulo": "Nueva encuesta electoral y sorpresa: empate en primera vuelta, pero 10 puntos de diferencia en el balotaje",
-   "medio": "Clarin.com",
-   "medio_url": "https://www.clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnpsaWVRVU5WMzFDX3lzQ1BtdDRMaWp3d0QyVFV3b202TzhubDlqMFdGSW1oVWw1ZWdqTjhyUGxwOURZSjN6UUtWWVBta2N1a1B4dVhnbGlkODE3RG9tMVRVUTV6X25xSXFrUkZrOHNlcmdHMHBjamVTREU2WG5OR01MOXl5dVBWTHJTXzY4RnBab0RQVGZkRkpwb3ZDdzJIc2hvVG10aXNWUGFrUXJuZ2I4VzlPeVZ0RUhvUjlxVWFvY29nNE00Z3lNaGEzM1RY?oc=5",
-   "fecha": "2026-11-16T06:01-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "c31ffd3beb2a",
    "titulo": "Guillermo Michel ocupará una banca con aval de Cristina Kirchner",
    "medio": "iProfesional",
@@ -6091,18 +5174,6 @@
     "\"Guillermo Michel\""
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "42778ba78a2b",
-   "titulo": "Raúl Timerman: \"las encuestas muestran un núcleo grande de disconformidad\"",
-   "medio": "Urgente24",
-   "medio_url": "https://urgente24.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTJqQ0hOY2JscVNtT2FvNVgzbEpNMFVDTVNONWVmSkNIeVVqaTd2UUtfbDRwbFM1SlB5aGlBRFd1MXBueWM4OUdXVldvMlpYcUxRMjJkd2EzMUdRQnV6RTlONzh5bTd5YjlyRDBYak8zUkVtUGlXYlJWSHJaQUY5TGJ6Q0cwYmdDcnJpM0hVbGJGNU1zLTF3bEhBcEJiMlFIeDFjUFY2bUdzSkRyQ0HSAbMBQVVfeXFMTjlESDVCVWxlWDdyQk5QUC0zZ3BkMkhwNzFmTzdnQWJkcG9UV21CQ2xSbXVjcE1KLVdFdEcwNlVpMFRBT3VwSk1FdnlFSE5tSXpQcFFLUWp3VWxhZjNQQS1iSWdMUW9adzJUZk5kdHJDVnBNdlBhTXRtSWxEOFdXNThFa0tPTjRNdnZPNGoyU0R5aW9zYlp0Q2Vvc3FUS19xX1NjR3FRcVFBSzlNVGRnN1hEOE0?oc=5",
-   "fecha": "2026-11-16T00:37-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "0c7d955cd010",
@@ -6127,18 +5198,6 @@
     "massismo"
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "4a9cf91668b7",
-   "titulo": "Inauguraron el Museo Histórico y Centro Cultural en Bellocq",
-   "medio": "La Voz del Pueblo",
-   "medio_url": "https://www.lavozdelpueblo.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHp5eHUwY2E1bWtwXzJTMHQzZkxZbC03RjV6T0Jia3lRVjgweExOQno3Q05iQ05fRzFiN2VWWk11UlRVNVlZdjJUWlRvMFZEUWd3VXZTREdhbzdHa0M3eWQyUGdVcEt4UHl2STdndTR6NmpseEpwcWVQOHlrT1g1X2pRaTNOODFaVklDV050Sm1wSjc4V1J3VA?oc=5",
-   "fecha": "2026-11-15T20:53-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "e7932fe4df7a",
@@ -6173,18 +5232,6 @@
    "fecha": "2026-11-15T16:56-03:00",
    "busquedas": [
     "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "36a77db195de",
-   "titulo": "Puerto La Plata: Desde Ensenada empujan el proyecto para cambiarle el nombre y reabre una disputa en la región capital bonaerense",
-   "medio": "La Noticia 1",
-   "medio_url": "https://www.lanoticia1.com",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQckpha09xTXJaZ2FiYnd5aGZXa1lNMGkyQlcyTmRnZGtsMzF6WHhCczZqZEgzbmh2WGJIZ3dkVEdRYXkwYkkyMmd0S1JjYjB0ZDJXR2tOUFg4WDcwTmdqdkkzWXN6b2k3QnlJakdaWWVoS2VHUWJ2MnBwZXhxSGFaaXpabWlEVmx3ZVFHTUVBeVRBUnR0MXBBQ3YyMW9qNmpaMExvMkh3U1BLYktFUV9JeGVLNk5LaFVUUUk1T1YwTVA2QjdrRlFuZVZJN2VuTDFlemhFZTJTNTc2S3VCRjBlOVNjWlljd2hwYzdtaXpCVlJoODg?oc=5",
-   "fecha": "2026-11-15T14:30-03:00",
-   "busquedas": [
-    "\"Juan Malpeli\""
    ],
    "visto": "2026-11-20T02:28-03:00"
   },
@@ -6237,18 +5284,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "47c8feeee48e",
-   "titulo": "Puerto La Plata: avanza el proyecto para rebautizarlo y abre una disputa entre Ensenada y la capital",
-   "medio": "InfoPlatense",
-   "medio_url": "https://www.infoplatense.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVBTR0ZCOHg5LVZUYlNQdVdTbmNrRGpJemgwWm5XMUlWaHFndlJmb3E5RVN4YlBiSUZ6ZHhKUnZaTXJhR09PLXNadVJCZTBKLXRlSzFLb0JVWlgwNGtCQlFPVWtKejhaeVp0QkVzUnplWnFlOFNwMGZwMlU0Z2RiVk9FX2UtYWJnTjZLbzFQN1dCZlYxbzNmeHBKUQ?oc=5",
-   "fecha": "2026-11-15T08:25-03:00",
-   "busquedas": [
-    "\"Juan Malpeli\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "1312d1450a7c",
    "titulo": "León, ¿y después?: el análisis de Cecilia Moreau",
    "medio": "Agencia Noticias Argentinas",
@@ -6259,18 +5294,6 @@
     "\"Cecilia Moreau\""
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "45ce1c85ebdd",
-   "titulo": "OTRA ENCUESTA MIDIÓ A MILEI Y KICILLOF EN UN BALOTAJE",
-   "medio": "Medios del Aire",
-   "medio_url": "https://www.mediosdelaire.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVVCdFgyeWh5QXMwZk9rV3ZGamtJTlRHLVhDSDVRcU1nZGVwMGxZNDdROElEWlkzLVl4emFXMFd1N2h6WEJHUGgxdlRpYk1yMzJocEk5RlBLeG1tOWk3eVFwUVQyMHlqb2E2MDdXWVJRcDJhV2RRUWkzd005SVRJUDJHM2lMUU8weDIxZXoyNjNQcFRTOVBTQmlZSTJkSkJ4MXNJdHFKSQ?oc=5",
-   "fecha": "2026-11-15T05:00-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "5fee1fee5e00",
@@ -6293,30 +5316,6 @@
    "fecha": "2026-11-14T17:59-03:00",
    "busquedas": [
     "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "81e0e8bedf94",
-   "titulo": "El cambio de nombre del Puerto La Plata suma respaldo en Ensenada y abre un nuevo debate regional",
-   "medio": "0221",
-   "medio_url": "https://www.0221.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1J2SjlhWFktWF94U245TjZIeVcyaEpFY2xJU2RYeGlHV19UNjJ6U0dNb1VGZjRTME1adUFsdHVfLWJvQmJpMjNYR2RvazNhV2RMQURlZEJGMnprY1I3OHdNOXEwUWNrYW9wZFpESTJHMlIyTWlqMm1OaG8zUEkzRnE1NVVDalRwTnFzWk9fYWNWQjNwbUdwOE53MDlLNDVYYno5SW9pT3Y1Ukk0MGRlTjUxRW1ZN2NJNDVqTTN6b2phWUpPakR6TUFTMTPSAdIBQVVfeXFMTkVkU0x3el9jSWJkSHFNNHFEZTdKNTdTMUJwY0RYdFdTdzhkWEVoaWZRUHM0ZDBJb1ZYUllSa1lOTXJsMHc5bzFRcTJRc25KVTFKYjcyOFBNRkxVT3RWbmZ1dWp3ZVpVS1VPYW44OTFEM3VYVWYxUk94MzhLMlRJSEE5enRfOHV2czJsRWFuaUhFX2k2bGdlTW9vQkJHU2pLZTFmMlRZSEt3RjI3RTB3ZHVpR004YkJzbFp0M3Vlektid0RRWTlHVmZDMjJ6UnJZQTdR?oc=5",
-   "fecha": "2026-11-14T17:46-03:00",
-   "busquedas": [
-    "\"Juan Malpeli\""
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "5c7696a68b17",
-   "titulo": "Oposición en el Concejo ve con buenos ojos cambios en gabinete",
-   "medio": "El Ciudadano",
-   "medio_url": "https://elciudadanoweb.com",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDVDVmRnemxtNUtXMEhKV0pmWVNwNW1FWmZqVUxVOWRfLUVUdGhMSlZNMkpBa3VwN1pucG4wWWxfcVBTTmxMZjJTNWhPMFAtejVYYjVYaGtvYVZUMlFrV0NjNG00ZElqZC1CTFU4UzJudklEQkdzZjlWei12NDlTUjBRNkc4MzhkR0RzSml4SWNTVDFGajFHVEVn0gGaAUFVX3lxTFBsNUNWZGd6bG01S1cwSEpXSmZZU3A1bUVaZmpVTFU5ZF8tRVR0aExKVk0ySkFrdXA3Wm5wbjBZbF9xUFNObExmMlM1aE8wUC16NVhiNVhoa29hVlQyUWtXQ2M0bTRkSWpkLUJMVThTMm52SURCR3NmOVZ6LXY0OVNSMFE2RzgzOGRHRHNKaXhJY1NUMUZqMUdURWc?oc=5",
-   "fecha": "2026-11-14T14:56-03:00",
-   "busquedas": [
-    "\"Diego Giuliano\""
    ],
    "visto": "2026-11-20T02:28-03:00"
   },
@@ -6345,42 +5344,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "880d7b5ba189",
-   "titulo": "Tres Arroyos amplía la red de gas natural: llegará al Polideportivo, dos centros de salud y nuevos sectores barriales",
-   "medio": "Diario 3",
-   "medio_url": "https://www.diario3.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0VMWDNuOWNsemZXbFF2dVNqYjVkblRZRW5NbGphOGp0aThzbHJ2RjNQQ2xhMDkxb0ZvZF9aaE1sX2Y2NG1tTFljVU90RzFGNl9EdDNwcGpBbzltWUNsUE9qSnJZeHowbEpPSU5rNG5mS0R1TXVqMWFYalZmSl9hOUVoby1zTlRFSHNpWkZCTEdfSi03a3NQdVF1MDZ2X2lxRzF3SktscUpIQjI2LVc5eVF6Znp5aVVzVWUyVlhscU5XZXFadWF0UVZxOXZSOFNxRVhIR1FHUW1kUmM?oc=5",
-   "fecha": "2026-11-14T12:11-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "ddf4df1c98ec",
-   "titulo": "Faltazo en Diputados de la provincia impidió tratar proyectos contra la ludopatía",
-   "medio": "Central de Noticias",
-   "medio_url": "https://cdnoticias.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMTlzdWxOOW54ckpvZlBEdlA5Z0tHZXpJT2ZwajJLVGJnbUtJYXNzTk8yRUZjUFFHN0hZRWp2ZjljekgzYTZ2WTFacDh1LXNFaWdBdk0tcENsdDFybkJWbFdyV2tmanhLNVlJanRTSk1RdnN3ZnJmbm11dmVSZk04OGFEWWZWQkNZV1JGaERQVmlNYWV3ZVlZTy1qSHotV0tlbWNweEh4cm8wMHJhTzVHOEdubHFCQ1BnVTljNEQ2Nms0RDdf?oc=5",
-   "fecha": "2026-11-14T11:31-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "58bded9a9d6c",
-   "titulo": "Así fue la Feria Local del Turismo",
-   "medio": "La Voz del Pueblo",
-   "medio_url": "https://www.lavozdelpueblo.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aejNJS0NnOU0xRW9td1FXdVd2aXVMeHVWRzJtYzBqUnQyeXQtcTNhWFc1Z2QwNjJNdFdCb0pFRTZSbXRoTUttVWtoZ2tFRTYzUmJ4cldHamJRQzdhT29senJCN2tubWI1YkxUZ2JUWm5qZk5kZEJz?oc=5",
-   "fecha": "2026-11-14T09:45-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "c4076343d5a7",
    "titulo": "Desde el bloque zamorista cruzaron al massismo: \"Convirtieron una decisión legislativa en una operación política\"",
    "medio": "Que Pasa Web",
@@ -6391,18 +5354,6 @@
     "massismo"
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "dac1c81b95b6",
-   "titulo": "Se firmó el convenio para ampliar la red de gas natural",
-   "medio": "La Voz del Pueblo",
-   "medio_url": "https://www.lavozdelpueblo.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1M0OU1HaFhTbTg2NURMWW9LdGtKYjZSVkZfOGJjeEhqM3JhaHREak5sQWllVDVjN3BEdWhrbHgwbjkzVXJzOEJ4VWxoOUs5M1RNUzhGcDhscDFlY3BERHA0WmVCWVk4WjF5X3lwNC1XcGpvb01semxwVzUyV0x3TU1mU052WnRtN1pqRWE2WEFXZUU?oc=5",
-   "fecha": "2026-11-14T08:50-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "e4bc5f8d24fb",
@@ -6478,30 +5429,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "4653247ffb89",
-   "titulo": "Diputados frenaron el debate sobre las apuestas online y se cayó la comisión de Ludopatía",
-   "medio": "Semanario de Junín",
-   "medio_url": "https://semanariodejunin.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXE3SVNHcjB6SzY3Nmd6VnN3VjFFVjBmU1kxdHFncW1iT2c0WEU0RlAwcWpmR0E5cTQzUVR4T2VSSlBqNS1xSFUtUFU0R0M4SlFjNEVxSHpSa1k3TW5FU2NxMENyM1NKQzZPSE9KY202VmU5YnVFS3d4SEZJcG10MmJrZjNsWlMtUF9MQ09oVnRtdFdCT0FmTWxZYkZ6T0xrSXU3bnYyRjIySHdyRV9Ea19iZnlTUkxCMmVHX2VtTko4d2pBeVluQmZJa3E2dw?oc=5",
-   "fecha": "2026-11-13T19:06-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "496030a2acef",
-   "titulo": "La Provincia avanza hacia el proyecto de adhesión al Programa de Cardiopatías Congénitas",
-   "medio": "El Teclado",
-   "medio_url": "https://www.elteclado.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXpnUXdPZGRTNDZtVjVEamJIWW1NYnB4T19mMnRxdkNBdmYyNExUMThoYzRsZ25YMGFacDU4cDc2RkJlbHhrdnFuVjh5WDF6ZkFTTm93RDlRYmtoOHhZQkp5aWctVU5meTVCU2Q4aEtHWGpLeF82QU0wZTg4WnE4YUZEakxkdUJNZ0ZvazRXakU3WFNhSFRDandNTlNhUzBCWmJ4S3djQ1l3N21OcndETVF5MzI4OThjM1g1ckp4WG9VMndPTHNWX2VqeUF1Z9IB0wFBVV95cUxNY2pRRzk0ZU9XU3U2M0JnTHpOWFZQak5McXlqV05wenhxdmtlaUVaeTJMV1Y0ZlgxVlZjaWM3NW5XZ1g3QUo2ZTdJZmh2WWhtaG8tOVl1VldjVjk3RkthbkpUMWZzQllnS1VoTGJORlpTMV9UcDRweFFlelVLckcwdTRKSEFnTlgyb0oteDVjMVdaRzZodE0tMmlxbU9MbVVBZVlzNVdnbkhEYmRXOWt4ZUlYVVNsbFBOUGZLcW4wdHRMc0VhZmphOXlYQ1J1eVRkQTAw?oc=5",
-   "fecha": "2026-11-13T18:31-03:00",
-   "busquedas": [
-    "Eslaiman diputado"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "2cc8d9c10908",
    "titulo": "Diego Giuliano reclamó refugios seguros y asistencia para las familias de Alto Verde",
    "medio": "El Intransigente",
@@ -6564,18 +5491,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "a2725eee94b8",
-   "titulo": "Avanza un proyecto de ley para suspender los desalojos en barrios populares por 10 años - Parlamentario",
-   "medio": "www.examedia.com.ar",
-   "medio_url": "https://www.examedia.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GVnprbTQtUHZWNVc3bFBsS3JpVlFHSTNWZUpoWUZDN1JlRDkzay10NUpCQ3JDTmsxTUVFcGdqMUdycDBrQmJqdXI3YzZCX1pXcW5PX1NGZzNOYldYQUE?oc=5",
-   "fecha": "2026-11-13T15:59-03:00",
-   "busquedas": [
-    "Eslaiman diputado"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "0462703c6ddc",
    "titulo": "La transparencia de recursos y un polémico veto de Gastón hizo estallar al campo de Chascomús",
    "medio": "Cronos noticias",
@@ -6636,18 +5551,6 @@
    "visto": "2026-11-20T02:29-03:00"
   },
   {
-   "id": "02771db0830b",
-   "titulo": "Vázquez le reclama a Milei por la Autopista Presidente Perón",
-   "medio": "Diputados Bonaerenses",
-   "medio_url": "https://diputadosbsas.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KdUFseDY3M1lLaVdMS3U1c1hSWUpFT2YyckV3Rnd5REpqQzNDRkFGN1hHUF84aWs1NHpqWnVoY1NJeTBBbV9wUWxXeWVhaERkUFRuV1NtU1dBSk1UWWJUdWJNRGVPSzF5VnE5Y1pHOV9QZTI0c2NfUHpZRkY?oc=5",
-   "fecha": "2026-11-13T14:05-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
    "id": "f748887b876e",
    "titulo": "La oposición cuestionó la inflación de octubre y el efecto de Zona Fría",
    "medio": "El Zonda",
@@ -6684,42 +5587,6 @@
    "visto": "2026-11-20T02:28-03:00"
   },
   {
-   "id": "f63f47378349",
-   "titulo": "Una encuesta le da a Kicillof diez puntos de ventaja en un ballotage con Milei",
-   "medio": "La Política Online",
-   "medio_url": "https://www.lapoliticaonline.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0VjdHV0Z0FxVFJMcDZRM2MtQ2V2TmRwSE9TSVV5Z1ZWOV95eUFHdVVLV09GUGx4S253ZGFHNHlkZG5pN2h0Mm9Hc09SWFBiTDRneWpLME5mbENoWVJweVNqSmVoQXJSbXYtNlBYeVBuSlp5c0FmYjlFNU14VDFJR2dlQjRVVXE0N25tMkJEcmk2dkRPam1CNWtYSjdWOEZXeEN1SXBJOG5TOGtHMnN2VXdoVWZiZ3JpZGwyVkFB0gHAAUFVX3lxTE85U3gyZmt0WEhXaVpHMGtOUm1tTXJHUEtZaEVoc3BLT1NKLVh4SWdtU1RBaFFZUEtnQ3Y4d0pKRkxXTWNQUGE5dGg2c2RvMENZQ09PMXdMQW9aeVdRZ2thN1NwNE9NTEtPX0RncjJid2I2Z1NFOTRsVmdSaU8tdjRGRlZmdVpvUHJ0cXUyTVBFSGZNbTd6d1BwNEhQQk8xT1RwMzJDdWkwYmFDRDJVRWJTbWVueVhpNFgzN0VVWGtlYQ?oc=5",
-   "fecha": "2026-11-13T09:28-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
-   "id": "11cf67ae9068",
-   "titulo": "Faltazo en Diputados: no hubo quórum para dar dictamen de comisión sobre proyectos contra la ludopatía",
-   "medio": "Alvear Ya",
-   "medio_url": "https://www.alvearya.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmNqeGVYaktkaHh3MzRJSDB0RGktM1NONl9Qb3hjeEhyZmJiWC1maGJDQ0N2cFV6c1ZGekxRZnVLQlMwUDJwUUN6X3lScUxPREJ3VVJId1c1N1FwN08xWVBGc0FTTnJadlQ5OE5lT1VKMWhyZ0RCS1ExalVoT0dhckFDY1hOd2d0MHJXSkNBREVWcGtLamZsNWkxMVJ4U3BnX1FCQ0VhSTFGMmtfZGZEdUplZ3RwY0RsNGJtZDZvMWJUZU51a2p3bjVYRF9QdmZOTk05dmk1dnU?oc=5",
-   "fecha": "2026-11-13T09:07-03:00",
-   "busquedas": [
-    "\"Roberto Vázquez\" diputado"
-   ],
-   "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "7bfb7c14b3fd",
-   "titulo": "Se entregó un reconocimiento al Ballet Municipal “Cahuín Cumpá”",
-   "medio": "Diario Democracia",
-   "medio_url": "https://www.diariodemocracia.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndVSGtfOFdYUEN3bDh3MUE1OUxSS3hiMGZwaE5hS0gtaUMwWjRVMjB0dW1hYWpmcjNKZHFhanU0X3VWZHlhQ0FRLXVFRU9NSmtQb0FZZ0N1T3NmY29wUzQtd3VYUFYzNkp2dHlaU0ZveEI4bmFGaXl3ZWo5bnZ0RmJVV2JvR0JpeE1HYUxzNXgxemQ3a0Y2UWhHVHBMVVZBX0NQX2pvWHd2OUp3?oc=5",
-   "fecha": "2026-11-13T08:59-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00"
-  },
-  {
    "id": "e24e44fb5dfd",
    "titulo": "El Senado bonaerense avanzó con un proyecto para ordenar las prioridades de paso en las calles y rutas",
    "medio": "La Noticia 1",
@@ -6730,18 +5597,6 @@
     "\"Malena Galmarini\""
    ],
    "visto": "2026-11-20T02:28-03:00"
-  },
-  {
-   "id": "b42ddcfbb91a",
-   "titulo": "Se ensancha la grieta por las reelecciones: nuevos cruces y una reforma que Kicillof no logra destrabar",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONUNjd2p2MEJBTkZ6VmZyeVlLellPbi1BVmN3RlRMRVhHdUpOV3R3ZVpHM21QSFl1TDlPaUFIQ1NGOTFaMmNlODU3M2h0YjE0VnlZdkNFX2h6NjF5N3owa0ZXN3psX29uMkxKSWk4SUU3ZkRFTTZtREt4SVVRYm9BUnZNalZIZ2RZWnFMYkh0ME8zaDU3TUVoMXp3SDBiZEE3WVR0bHRVXzJWWGNpc29WYVdQVlROQjNjUHM5UWh6SS02eUdC0gG8AUFVX3lxTFBMd0Qtc3gzMzUwQjJ1U29yQ29neTF6VXB5VFVaUGZDbF92UXRsTS1haFh1Qmw1ZEhOamNHaDE4cFpveGJLY0tZZlJTUnNsNFQ3M05sLXFxMHRHdTlHemVxdDE0Q05Fbk9DTGdwaDRWXzlZTkRNeXplNjcyUUhIY25yVnk4VXlRQjRNX2tDS3J0V0FrZnpfUEV5aXpkWFZ0bXhiQUN3Uy1ERzRsdzNYcThNNm1XZGIzUFF5Y1N6?oc=5",
-   "fecha": "2026-11-13T07:28-03:00",
-   "busquedas": [
-    "Eslaiman diputado"
-   ],
-   "visto": "2026-11-20T02:29-03:00"
   },
   {
    "id": "9d7a1a88895c",

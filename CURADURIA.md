@@ -30,6 +30,8 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 12. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
 13. Guardar: `git add data semanal.html && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
 
+- Descartar siempre homónimos (personas con el mismo nombre que no son nuestros dirigentes) y notas de medios del exterior que no hablen de la política argentina.
+
 ## Formato de data/curaduria.json
 
 ```json
