@@ -470,7 +470,7 @@ var tBus=null;$("q").addEventListener("input",function(e){clearTimeout(tBus);var
 var pedida=new URLSearchParams(location.search).get("e");
 var base=MODO==="semanal"?"data/semanal/":"data/ediciones/";
 var fuente=pedida&&/^[0-9-]+$/.test(pedida)?base+pedida+".json":(MODO==="semanal"?"data/semanal/ultimo.json":"data/edicion.json");
-json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO==="semanal"?"El primer Clipping Semanal sale el sábado":"La edición no está disponible";$("claves").innerHTML=MODO==="semanal"?"<li>El resumen semanal se publica todos los sábados con lo más importante de la semana.</li>":"<li>No pudimos cargar la edición. Probá recargar en unos minutos.</li>";})
+json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO==="semanal"?"El primer Clipping Semanal sale el sábado":"La edición no está disponible";if(MODO==="semanal"){$("metricas").textContent="Lo más importante de la semana sobre Sergio Massa y el Frente Renovador. Sale todos los sábados.";$("wa-edicion").style.display="none";$("tarjeta").style.display="none";}$("claves").innerHTML=MODO==="semanal"?"<li>El resumen semanal se publica todos los sábados con lo más importante de la semana.</li>":"<li>No pudimos cargar la edición. Probá recargar en unos minutos.</li>";})
   .then(function(){return json("data/crudo.json").then(pintarCable);}).catch(function(){});
 json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
 json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
