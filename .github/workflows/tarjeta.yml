@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "tarjeta-bot"
           git config user.email "tarjeta-bot@users.noreply.github.com"
-          git add tarjeta.png og.png
+          git add tarjeta.png og.jpg
           git diff --cached --quiet && exit 0
           git commit -m "Tarjeta diaria"
           for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done

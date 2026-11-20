@@ -215,8 +215,8 @@ def main():
     sol_grande(d, W - margen - r_sol, cy, r_sol, CREMA)
 
     img = img.resize((W // E, H // E), Image.LANCZOS)
-    img.save(RAIZ / "og.png", optimize=True)
-    print("og.png listo")
+    img.save(RAIZ / "og.jpg", quality=62, subsampling=2, optimize=True, progressive=True)
+    print("og.jpg listo", (RAIZ / "og.jpg").stat().st_size // 1024, "KB")
 
 
 if __name__ == "__main__":
