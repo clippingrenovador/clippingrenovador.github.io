@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-20T02:29-03:00",
- "total": 24,
+ "generado": "2026-11-20T03:26-03:00",
+ "total": 27,
  "tuits": [
+  {
+   "id": "2122824454728274104",
+   "usuario": "Letra_P",
+   "visto": "2026-11-20T03:26-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122824454728274104",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Todos menos tú: con Sergio Massa como figura estelar, el peronismo mostró una foto de la unidad sin Kicillof",
+     "nota_id": "8cfcd7bbc5dc"
+    }
+   ]
+  },
+  {
+   "id": "2122851817834877406",
+   "usuario": "teleargentinaOK",
+   "visto": "2026-11-20T03:26-03:00",
+   "url": "https://twitter.com/teleargentinaOK/status/2122851817834877406",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Todos menos tú: con Sergio Massa como figura estelar, el peronismo mostró una foto de la unidad sin Kicillof",
+     "nota_id": "8cfcd7bbc5dc"
+    }
+   ]
+  },
+  {
+   "id": "2122820177683218632",
+   "usuario": "Letra_P",
+   "visto": "2026-11-20T03:26-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122820177683218632",
+   "citado_en": [
+    {
+     "medio": "Enterate Noticias",
+     "titulo": "Guillermo Michel, en la cumbre de San Fernando: «Estoy seguro que acá surge el nuevo presidente peronista»",
+     "nota_id": "a0acfbdcaad8"
+    }
+   ]
+  },
   {
    "id": "2122830541561217178",
    "usuario": "Letra_P",
@@ -12,6 +51,11 @@
      "medio": "Letra P",
      "titulo": "El PJ de Entre Ríos se subió al frente anti-Milei que presentaron Massa y el peronismo federal",
      "nota_id": "47c5ce64adeb"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Todos menos tú: con Sergio Massa como figura estelar, el peronismo mostró una foto de la unidad sin Kicillof",
+     "nota_id": "8cfcd7bbc5dc"
     }
    ]
   },

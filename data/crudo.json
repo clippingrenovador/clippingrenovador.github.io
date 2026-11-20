@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-20T02:31-03:00",
- "total": 501,
- "nuevas_ultima_corrida": 361,
+ "generado": "2026-11-20T03:28-03:00",
+ "total": 504,
+ "nuevas_ultima_corrida": 3,
  "errores": [],
  "notas": [
+  {
+   "id": "5ae8dcc6d040",
+   "titulo": "Pachuca busca realizar Cabalgata de Reyes Magos en 2027 con ProCentro",
+   "medio": "Criterio Hidalgo",
+   "medio_url": "https://criteriohidalgo.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFhnYkJjRDZEVjh5bVdES0lfX0xJVldBVmZEQ0dwOVpkZWtNQkJHLXpCOEtNYktIQ3RMNTVfRjRWUkw3UVBSenF4emh4Szl6TElacTNNUEctYjlEbmdTUkpJcVB3WlhQLWRtcWZYcTdRcWhwckh2MThEMHREU0pKQmszU2p1MldKa3UwN2FnSXBxcHRDQkV5cDhxR1JzcU1vbEVQNndIMFEyOS1tcUZMcnFlYnM?oc=5",
+   "fecha": "2026-11-20T02:32-03:00",
+   "busquedas": [
+    "\"Ramiro Gutiérrez\""
+   ],
+   "visto": "2026-11-20T03:25-03:00",
+   "url_original": "https://criteriohidalgo.com/noticias/hidalgo/pachuca-busca-realizar-cabalgata-de-reyes-magos-en-2027-con-procentro",
+   "revisada": true
+  },
   {
    "id": "f1e3ab8cc762",
    "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
@@ -226,6 +240,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://portal.ejes.com/noticias/agenda/panorama-noche-19911",
+   "revisada": true
+  },
+  {
+   "id": "9eb26b1d72d4",
+   "titulo": "Se inauguró oficialmente la nueva Fiscalía Descentralizada de Chacabuco",
+   "medio": "Municipalidad de Chacabuco",
+   "medio_url": "https://chacabuco.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHV0a3BpMXlnRlV4Wk5TZUhvQkZKRGxBcWNSVUs4cExGWkNNQmMtMkszWFpRWDBaODFYUjI5REEtTGFMLW5iMktZdko2akpPSzNGSTR3bEtnMlVjUEFQSEpaakh4Z3BRWjUwTll2dUJSZDgzamYzeXpTSEg2U1ZvN1QwRzZFck1Eem9aSzN2VVgwWU5DLWNWN3Vqc1BRUQ?oc=5",
+   "fecha": "2026-11-19T20:51-03:00",
+   "busquedas": [
+    "\"Darío Golía\""
+   ],
+   "visto": "2026-11-20T03:26-03:00",
+   "url_original": "https://chacabuco.gob.ar/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco/",
    "revisada": true
   },
   {
@@ -793,7 +821,8 @@
    "busquedas": [
     "\"Frente Renovador\"",
     "\"Malena Galmarini\"",
-    "\"Sebastián Galmarini\""
+    "\"Sebastián Galmarini\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-20T00:50-03:00",
    "revisada": true
@@ -1756,6 +1785,20 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://sanfernandonuestro.com.ar/comenzo-el-inicio-de-la-obra-de-la-universidad-nacional-del-delta/",
+   "revisada": true
+  },
+  {
+   "id": "b94d1352939a",
+   "titulo": "Insatisfacción y pesimismo: datos preocupantes para Milei en la encuesta de UdeSA",
+   "medio": "La 97.1 Radio Tucumán",
+   "medio_url": "https://radiotucuman.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0Y4VU9kaXhweXlxRWtZSm55Mmx6bzJTM0hKS1FXN1gtY0hoUm9yV2d5SjhOQm5xSEMyQ2w4VWczakxqX0lmLTIxbUlxem5rcWJDVFpRMTl1MTIyNmw0OWJDaGl4N2VhX3RUTlVldFlOT2JjUlZxRGJFQ2hFdWQyUHRmaE03YXhUZ2RkMWtTSktSdFMwZ1J2NnUtUlpEdlE0RlBoSm5VMk5vdDl0S0l5S3NrUHFianU3SXhF?oc=5",
+   "fecha": "2026-11-19T07:50-03:00",
+   "busquedas": [
+    "encuesta Massa"
+   ],
+   "visto": "2026-11-20T03:26-03:00",
+   "url_original": "https://radiotucuman.com.ar/nota/47081/insatisfaccion-y-pesimismo-datos-preocupantes-para-milei-en-la-encuesta-de-udesa",
    "revisada": true
   },
   {
@@ -3150,7 +3193,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://revistacodigos.com/massa-agenda-postergo-visita-misiones/",
+   "revisada": true
   },
   {
    "id": "f072fcd18f78",
@@ -3162,7 +3207,9 @@
    "busquedas": [
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.perfil.com/entretenimiento/sofia-coppola-ser-mujer-y-dar-instrucciones-como-directora-es-como-hablar-un-idioma-extranjero-aEpoL1H704aY",
+   "revisada": true
   },
   {
    "id": "915d0d1b0b8e",
@@ -3174,7 +3221,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://horadigital.com.ar/massa-se-rodeo-de-dirigentes-para-lanzar-el-eje-anti-milei-sin-kicillof/",
+   "revisada": true
   },
   {
    "id": "0894f5bfce9c",
@@ -3186,7 +3235,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://laletrachica.com.ar/nota/26949/massa-el-peronismo-federal-y-el-kirchnerismo-se-reunieron-con-un-llamado-a-la-unidad/",
+   "revisada": true
   },
   {
    "id": "dee28d6030b6",
@@ -3198,7 +3249,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.diagonales.com/nacion/massa-dio-tres-nombres-para-la-presidencia-y-poso-con-los-intendentes-que-miran-a-la-gobernacion_a6afd83cc0287bf31c521aeab",
+   "revisada": true
   },
   {
    "id": "822561f37c8a",
@@ -3210,7 +3263,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.diariolonuestro.com.ar/single-post/el-peronismo-con-sergio-massa-como-arquitecto-de-la-unidad-arm%C3%B3-un-frente-anti-milie",
+   "revisada": true
   },
   {
    "id": "04c829230eaf",
@@ -3222,7 +3277,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.inforegion.com.ar/2026/11/18/el-peronismo-busca-conformar-un-frente-anti-milei/",
+   "revisada": true
   },
   {
    "id": "1a767631bffb",
@@ -3234,7 +3291,9 @@
    "busquedas": [
     "\"Malena Galmarini\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://nuevoenfoqueurbano.com.ar/sergio-massa-menciono-a-natalia-de-la-sota-como-una-candidata-a-presidenta-por-el-peronismo/",
+   "revisada": true
   },
   {
    "id": "4675245c439d",
@@ -3246,7 +3305,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://realpolitik.com.ar/nota/75325/san-fernando-juan-andreotti-acompano-las-galas-de-gimnasia-y-patin-de-los-polideportivos/",
+   "revisada": true
   },
   {
    "id": "76fd60e80314",
@@ -3258,7 +3319,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://radiovillamaria.com.ar/nota-189637/dia-del-militante-buena-parte-del-peronismo-se-reunio-en-san-fernando",
+   "revisada": true
   },
   {
    "id": "be9d9c867cfb",
@@ -3270,7 +3333,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.ellitoral.com/politica/consejo-magistratura-seleccion-jueces-congreso-nacion-luis-juez-guillermo-michel_0_bS3B1v8NWb.html",
+   "revisada": true
   },
   {
    "id": "39c18d10b233",
@@ -3282,7 +3347,9 @@
    "busquedas": [
     "encuesta Massa"
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://www.clarin.com/politica/nueva-encuesta-electoral-dato-clave-milei-kicillof-ganaron-bullrich-massa_0_qpYfi0kcE2.html",
+   "revisada": true
   },
   {
    "id": "531583dac51b",
@@ -3294,7 +3361,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.infobae.com/politica/2026/11/18/el-gobierno-le-presta-atencion-al-rearme-del-peronismo-los-escenarios-en-carpeta-y-el-riesgo-para-milei/",
+   "revisada": true
   },
   {
    "id": "74f77a2e6bac",
@@ -3306,7 +3375,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://patagonia24.com.ar/contenido/22468/rumbo-al-2027-massa-el-frente-renovador-y-la-jugada-por-el-tablero-fueguino",
+   "revisada": true
   },
   {
    "id": "342c175ab7c4",
@@ -3318,7 +3389,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.infobae.com/politica/2026/11/18/con-massa-y-el-apoyo-de-cfk-el-peronismo-armo-una-potente-foto-de-unidad-que-interpela-a-la-interna-y-a-milei/",
+   "revisada": true
   },
   {
    "id": "0c8706d2b3cb",
@@ -3330,7 +3403,9 @@
    "busquedas": [
     "\"Sebastián Galmarini\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://elsello.info/2026/11/17/dia-de-la-militancia-en-san-fernando-con-massa-parte-del-kirchnerismo-y-sin-el-mdf-de-kicillof/",
+   "revisada": true
   },
   {
    "id": "f928b613acde",
@@ -3342,7 +3417,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://infodelestero.com/2026/11/17/sergio-massa-hoy-aca-hubo-tres-candidatos-a-presidente-gerardo-zamora-sergio-unac-y-natalia-de",
+   "revisada": true
   },
   {
    "id": "8a91d2fec8e3",
@@ -3354,7 +3431,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.newsdigitales.com/nota/350322/massa-mueve-el-tablero-y-tierra-del-fuego-entra-en-la-reorganizacion-del-frente-renovador/",
+   "revisada": true
   },
   {
    "id": "811788159b5e",
@@ -3366,7 +3445,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lapoliticaonline.com/politica/massa-junto-la-dirigencia-peronist/",
+   "revisada": true
   },
   {
    "id": "8cfcd7bbc5dc",
@@ -3378,7 +3459,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/todos-menos-tu-sergio-massa-como-figura-estelar-el-peronismo-mostro-una-foto-la-unidad-kicillof-n5428312",
+   "revisada": true
   },
   {
    "id": "28a0f5d35d71",
@@ -3390,7 +3473,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.datadiario.com/politica/sergio-massa-en-el-acto-por-el-dia-del-militante-la-responsabilidad-tiene-que-estar-por-encima-de-la-vanidad-y-la-mezquindad-202611172290",
+   "revisada": true
   },
   {
    "id": "8e550a429ee0",
@@ -3402,7 +3487,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/se-termino-la-hegemonia-opositora-de-kicillof-el-massismo-y-el-peronismo-federal-demostro-su-fuerza-en-san-fernando",
+   "revisada": true
   },
   {
    "id": "314a5f3ad32e",
@@ -3414,7 +3501,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-distintos-espacios-del-peronismo-en-un-mensaje-hacia-la-interna-y-tambien-para-nid17112026/",
+   "revisada": true
   },
   {
    "id": "8e81c20b95d8",
@@ -3426,7 +3515,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lagaceta.com.ar/nota/1163024/politica/manzur-participo-cumbre-peronista-para-construir-frente-nacional-contra-milei.html",
+   "revisada": true
   },
   {
    "id": "216e0c9d9bfd",
@@ -3438,7 +3529,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/andreotti-y-un-mensaje-interno-al-peronismo-hablo-de-construir-una-amplia-mayoria-y-ceder-para-ganarle-a-milei/",
+   "revisada": true
   },
   {
    "id": "d3c8b2afb477",
@@ -3450,7 +3543,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://delfuegonoticias.com.ar/alejandro-deanes-asumio-la-conduccion-del-frente-renovador-en-tierra-del-fuego/",
+   "revisada": true
   },
   {
    "id": "79fe50f1ccd6",
@@ -3468,7 +3563,9 @@
     "\"Katia Blanc\"",
     "\"Germán Di Cesare\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.0223.com.ar/nota/2026-11-17-21-48-0-el-peronismo-se-reunio-en-san-fernando-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei",
+   "revisada": true
   },
   {
    "id": "3c126b03864c",
@@ -3480,7 +3577,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lavoz.com.ar/politica/sota-lugar-destacado-massa-mostro-tribus-pj_0_qKRkbRHbCO.html",
+   "revisada": true
   },
   {
    "id": "626bc19c13b2",
@@ -3492,7 +3591,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://norteonline.com.ar/massa-peronismo-san-fernando-frente-milei/",
+   "revisada": true
   },
   {
    "id": "e0e566829be0",
@@ -3504,7 +3605,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://lavozdemisiones.com/politica/cacho-barbaro-cristian-castro-y-yamila-ruiz-en-acto-de-massa-en-san-fernando",
+   "revisada": true
   },
   {
    "id": "c0fddf729a2c",
@@ -3516,7 +3619,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.minutodecierre.com/nota/2026-11-17-21-59-0-dia-de-la-militancia-massa-unac-y-referentes-del-peronismo-federal-se-reunieron-para-avanzar-en-un-frente-opositor-a-milei",
+   "revisada": true
   },
   {
    "id": "0e70d19446a0",
@@ -3528,7 +3633,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://elconurbano.com.ar/andreotti-y-un-mensaje-interno-al-peronismo-hablo-de-construir-una-amplia-mayoria-y-ceder-para-ganarle-a-milei/84039/",
+   "revisada": true
   },
   {
    "id": "2c297adcf7cf",
@@ -3540,7 +3647,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.canal12misiones.com/noticias-de-misiones/politica-politica/sergio-massa-misiones-passalacqua",
+   "revisada": true
   },
   {
    "id": "41b8e6f03ba0",
@@ -3552,7 +3661,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.examedia.com.ar/portada/post/88258370",
+   "revisada": true
   },
   {
    "id": "e9730f39ab51",
@@ -3565,7 +3676,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
+   "revisada": true
   },
   {
    "id": "b81624f52d56",
@@ -3577,7 +3690,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.laarena.com.ar/la-pampa/di-napoli-partipo-del-acto-de-sergio-massa-en-san-fernando-2026111721440",
+   "revisada": true
   },
   {
    "id": "8091ed61475b",
@@ -3589,7 +3704,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://tn.com.ar/politica/2026/11/17/el-peronismo-se-reunio-en-san-fernando-y-dejo-un-mensaje-para-kicillof-unidad-por-encima-de-las-aspiraciones-individuales/",
+   "revisada": true
   },
   {
    "id": "fe79e3c9dda8",
@@ -3602,7 +3719,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.clarin.com/politica/massa-armo-acto-kicillof-pj-prepara-dirimir-interna-paso_0_KLsGzlMMBb.html",
+   "revisada": true
   },
   {
    "id": "09f15e053b92",
@@ -3614,7 +3733,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.c5n.com/politica/gerardo-zamora-sergio-unac-y-natalia-la-sota-sergio-massa-menciono-tres-posibles-candidatos-presidente-del-peronismo-n254641",
+   "revisada": true
   },
   {
    "id": "301bdfa4d18d",
@@ -3626,7 +3747,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.tiempoar.com.ar/ta_article/massa-peronismo-no-kicillof/",
+   "revisada": true
   },
   {
    "id": "7c903429c096",
@@ -3639,7 +3762,9 @@
     "\"Frente Renovador\"",
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.zonanortehoy.com/elecciones-2027/massa-reunio-al-peronismo-en-san-fernando-para-enfrentar-a-milei-en-2027-sin-kicillof/",
+   "revisada": true
   },
   {
    "id": "04ccc7a419cc",
@@ -3651,7 +3776,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.minutouno.com/politica/sergio-massa-le-dijo-c5n-que-estuvo-acompanado-tres-candidatos-presidente-quienes-son-n6346437",
+   "revisada": true
   },
   {
    "id": "46f1ebf93263",
@@ -3667,7 +3794,9 @@
     "\"Juan Andreotti\"",
     "\"Germán Di Cesare\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.minutouno.com/politica/uno-uno-todos-los-dirigentes-que-participaron-la-cumbre-del-peronismo-san-fernando-sergio-massa-n6346433",
+   "revisada": true
   },
   {
    "id": "fab004e9fa5f",
@@ -3679,7 +3808,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.minutouno.com/politica/sergio-massa-hablo-c5n-la-cumbre-san-fernando-soy-muy-optimista-un-dia-va-haber-unidad-n6346432",
+   "revisada": true
   },
   {
    "id": "09d277fb108c",
@@ -3691,7 +3822,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.datadiario.com/politica/dia-de-la-militancia-maximo-kirchner-encabezo-un-acto-en-la-pampa-y-sergio-massa-hizo-lo-propio-con-una-alta-convocatoria-en-san-fernando-202611172030",
+   "revisada": true
   },
   {
    "id": "3937aec98656",
@@ -3705,7 +3838,9 @@
     "\"Frente Renovador\"",
     "\"Cecilia Moreau\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.perfil.com/politica/entre-un-frente-anti-milei-y-la-disputa-con-kicillof-el-peronismo-armo-una-foto-federal-con-massa-awayS5E6KS1I",
+   "revisada": true
   },
   {
    "id": "a786490cbb64",
@@ -3717,7 +3852,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.a24.com/politica/dirigentes-del-peronismo-se-reunieron-san-fernando-la-mira-puesta-las-elecciones-2027-n1617472",
+   "revisada": true
   },
   {
    "id": "fcc4e1d0a270",
@@ -3729,7 +3866,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://andigital.com.ar/nota/145030/el-peronismo-federal-se-reunio-en-san-fernando-para-construir-un-frente-nacional-contra-milei/",
+   "revisada": true
   },
   {
    "id": "d217648224dd",
@@ -3741,7 +3880,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.minutouno.com/politica/frente-anti-milei-sergio-massa-encabezo-la-foto-unidad-san-fernando-n6346423",
+   "revisada": true
   },
   {
    "id": "27c8cbc1a015",
@@ -3753,7 +3894,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.elcomercioonline.com.ar/articulos/60109245-San-Fernando-reunio-a-dirigentes-de-distintos-sectores-del-peronismo-para-avanzar-en-un-frente-contra-Milei/amp/",
+   "revisada": true
   },
   {
    "id": "59c882944c57",
@@ -3765,7 +3908,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.eltucumano.com/noticia/actualidad/327939/divididos-que-canto-cristina-kirchner-y-que-hizo-axel-kicillof-ante-el-ninguneo-de-sergio-massa",
+   "revisada": true
   },
   {
    "id": "5f7e8f454c73",
@@ -3778,7 +3923,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.cba24n.com.ar/argentina/dia-de-la-militancia--referentes-del-pj-cercanos-a-sergio-massa-participaron-de-un-acto-en-caba_a6afce38873529e80963af0fe",
+   "revisada": true
   },
   {
    "id": "d99f46a2fadf",
@@ -3791,7 +3938,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.ambito.com/politica/sergio-massa-y-el-peronismo-federal-se-reunieron-san-fernando-armar-un-frente-contra-javier-milei-n6346416",
+   "revisada": true
   },
   {
    "id": "2fada3c19ef1",
@@ -3803,7 +3952,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.rionegro.com.ar/politica/dia-de-la-militancia-sergio-massa-movio-sus-fichas-y-crece-la-tension-con-axel-kicillof-4802410/",
+   "revisada": true
   },
   {
    "id": "352e89a0ee44",
@@ -3815,7 +3966,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.infocielo.com/politica-y-economia/massa-zamora-y-unac-encabezaron-un-encuentro-peronista-con-la-mira-puesta-en-2027",
+   "revisada": true
   },
   {
    "id": "82ab411082ad",
@@ -3827,7 +3980,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://septimaseccion.com.ar/el-peronismo-federal-se-reunio-para-avanzar-en-un-frente-nacional-anti-milei-quienes-estuvieron/",
+   "revisada": true
   },
   {
    "id": "1ff2862bedde",
@@ -3839,7 +3994,9 @@
    "busquedas": [
     "\"Darío Golía\""
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://chacabuco.gob.ar/mas-seguridad-para-las-escuelas-golia-presento-el-sistema-de-alerta-temprana-escolar/",
+   "revisada": true
   },
   {
    "id": "a0acfbdcaad8",
@@ -3851,7 +4008,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.enteratenoticias.com.ar/politica/guillermo-michel-en-la-cumbre-de-san-fernando-estoy-seguro-que-aca-surge-el-nuevo-presidente-peronista/",
+   "revisada": true
   },
   {
    "id": "a0a25b139899",
@@ -3863,7 +4022,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.canal12misiones.com/noticias-de-misiones/politica-politica/sergio-massa-llega-misiones",
+   "revisada": true
   },
   {
    "id": "875795576e24",
@@ -3875,7 +4036,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://neuquenpost.com/dia-de-la-militancia-con-actos-separados-maximo-kirchner-viaja-a-la-pampa-y-el-massismo-sella-un-acuerdo-con-el-peronismo-federal/",
+   "revisada": true
   },
   {
    "id": "0a03457d6348",
@@ -3887,7 +4050,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.elonce.com/politica/guillermo-michel-llamo-a-construir-un-frente-para-derrotar-a-milei-en-las-elecciones-de-2027.htm",
+   "revisada": true
   },
   {
    "id": "a5417ba79478",
@@ -3899,7 +4064,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.surenio.com.ar/massa-suma-a-tierra-del-fuego-a-la-reorganizacion-federal-del-frente-renovador/",
+   "revisada": true
   },
   {
    "id": "163b47567abc",
@@ -3911,7 +4078,9 @@
    "busquedas": [
     "encuesta Massa"
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603485/encuesta-milei-imagen-negativa-giacobbe-noviembre-2026",
+   "revisada": true
   },
   {
    "id": "eac01bc6fa31",
@@ -3923,7 +4092,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://diarioelnorte.com.ar/massa-reordena-el-frente-renovador-en-tierra-del-fuego/",
+   "revisada": true
   },
   {
    "id": "125e4b35b92f",
@@ -3935,7 +4106,9 @@
    "busquedas": [
     "encuesta Massa"
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://diariolapluma.com.ar/encuesta-rumbo-a-2027-crece-el-rechazo-al-modelo-de-milei-pero-la-disputa-electoral-sigue-abierta-entre-kicillof-y-massa/",
+   "revisada": true
   },
   {
    "id": "df9f91cf0f3a",
@@ -3948,7 +4121,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/axel-kicillof-toma-distancia-de-la-cumbre-peronista-que-impulsa-sergio-massa-y-se-acelera-el-quiebre-nid17112026/",
+   "revisada": true
   },
   {
    "id": "704fc4d9e5b9",
@@ -3960,7 +4135,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lanueva.com/nota/2026-11-17-21-21-0-el-peronismo-se-reunio-en-san-fernando-para-avanzar-en-un-frente-nacional-anti-milei",
+   "revisada": true
   },
   {
    "id": "14f3319ce0e3",
@@ -3972,7 +4149,9 @@
    "busquedas": [
     "\"Juan Andreotti\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.diariolonuestro.com.ar/single-post/el-intendente-andreotti-en-el-camino-de-francisco-y-le%C3%B3n-celebr%C3%B3-la-cultura-del-encuentro",
+   "revisada": true
   },
   {
    "id": "94aeab784e66",
@@ -3984,7 +4163,9 @@
    "busquedas": [
     "\"Sebastián Galmarini\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.impulsobaires.com.ar/nota/326606/sebastian-galmarini-critico-al-gobierno-de-milei-y-reclamo-unidad-en-el-peronismo/",
+   "revisada": true
   },
   {
    "id": "3e715abcaf83",
@@ -3996,7 +4177,9 @@
    "busquedas": [
     "Eslaiman diputado"
    ],
-   "visto": "2026-11-20T02:29-03:00"
+   "visto": "2026-11-20T02:29-03:00",
+   "url_original": "https://www.infocielo.com/politica-y-economia/sin-proyectos-en-la-legislatura-las-paso-siguen-vigentes-y-la-libertad-avanza-espera-el-envion-del-congreso",
+   "revisada": true
   },
   {
    "id": "3668f4692377",
@@ -4008,7 +4191,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.fenix951.com.ar/noticia.php?id=360683",
+   "revisada": true
   },
   {
    "id": "4929f429f9ea",
@@ -4021,7 +4206,9 @@
     "\"Sergio Massa\"",
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/peronismo-paz-el-acto-san-fernando-vuelve-estallar-la-interna-n5428284",
+   "revisada": true
   },
   {
    "id": "2cf9128b97ff",
@@ -4033,7 +4220,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.eldestapeweb.com/politica/lideres-cgt-iran-cumbre-sergio-massa-lanza-planes-miniparos-gobierno-20261117164356",
+   "revisada": true
   },
   {
    "id": "60d44d236f51",
@@ -4045,7 +4234,9 @@
    "busquedas": [
     "\"Guillermo Michel\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/politica/iprofesional/cristina-kirchner-acordo-con-massa-sumar-a-guillermo-michel-al-consejo-de-la-magistratura/",
+   "revisada": true
   },
   {
    "id": "d4dabe3bfb7a",
@@ -4057,7 +4248,9 @@
    "busquedas": [
     "massismo"
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://periodicotribuna.com.ar/siras-el-escandalo-que-incomoda-al-massismo-y-no-avanza-en-la-justicia/",
+   "revisada": true
   },
   {
    "id": "fbe375f555c7",
@@ -4069,7 +4262,9 @@
    "busquedas": [
     "\"Sergio Massa\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://www.lapoliticaonline.com/politica/massa-suspendio-el-viaje-a-san-pablo-para-estar-en-el-acto-del-peronismo-en-san-fernando/",
+   "revisada": true
   },
   {
    "id": "44b313743b44",
@@ -4081,7 +4276,9 @@
    "busquedas": [
     "\"Frente Renovador\""
    ],
-   "visto": "2026-11-20T02:28-03:00"
+   "visto": "2026-11-20T02:28-03:00",
+   "url_original": "https://noticiasrionegro.com.ar/amp/94994/convocatoria-a-elecciones-internas-del-partido-frente-renovador-viedma",
+   "revisada": true
   },
   {
    "id": "ef591c2b39ef",
