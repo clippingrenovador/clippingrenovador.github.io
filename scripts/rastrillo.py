@@ -49,6 +49,8 @@ BUSQUEDAS = [
     '"Feli Romero"',
     '"Jóvenes FR"',
     '"Juventud del Frente Renovador"',
+    'encuesta Massa',
+    'encuesta "Frente Renovador"',
 ]
 
 UA = "Mozilla/5.0 (compatible; ClippingRenovador/1.0; +https://github.com/renzocanch2003-ops/clipping-renovador)"

@@ -25,8 +25,10 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 7. `redes`: hasta 6 tuits, priorizando cuentas de dirigentes del FR y solo publicaciones políticamente serias (`tuit_id` del archivo, o `url` si viene de `data/tuits_extra.txt`). `nota` opcional de una línea.
 8. `entrevistas`: solo entrevistas reales, en las que un dirigente del FR (o un referente hablando del FR) responde preguntas en un programa, radio, canal o streaming. No van: informes o notas de un medio sobre un hecho, paneles de análisis sin entrevistado, clips, recortes ni shorts. Duración mínima: 5 minutos (el armador descarta las más cortas). Mejor tres entrevistas buenas que ocho de relleno (`video_id`).
 9. `hora`: "06", "14" o "22" según la edición.
-10. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
-11. Guardar: `git add data && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
+10. **Encuestas** (`data/encuestas.json`): si en el material hay una encuesta nueva que mida a Massa, al FR o a sus dirigentes, agregarla. Para los números sí hay que abrir la nota (es la excepción a la regla de austeridad) y cargar solo cifras que figuren textualmente. Formato de cada entrada: `{"fecha": "AAAA-MM-DD", "consultora": "...", "alcance": "Nacional" o "Provincia de Buenos Aires", "titulo": "...", "datos": [{"etiqueta": "Imagen positiva de Sergio Massa", "valor": 25.9, "unidad": "%"}], "fuente": {"medio": "...", "url": "...", "dominio": "..."}}`. No duplicar encuestas ya cargadas.
+11. **Agenda** (`data/agenda.json`): agregar actividades futuras anunciadas en el material (actos, congresos, sesiones, entrevistas programadas) con `fecha`, `hora` (si se sabe), `titulo`, `detalle`, `lugar`, `dirigentes` y `fuente`. Borrar las que ya pasaron hace más de un día.
+12. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
+13. Guardar: `git add data && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
 
 ## Formato de data/curaduria.json
 
@@ -45,6 +47,17 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 
 ## Reglas
 
+- No usar "massista", "massismo" ni equivalentes para describir a dirigentes propios: es un clipping del FR y es redundante. Nombrar a cada uno por su nombre y cargo. (Se puede usar solo si aparece en una cita textual de un medio.)
+
 - No copiar párrafos de las notas: resúmenes propios y cortos.
 - No tocar `index.html`, los scripts ni el workflow.
 - Ser austero: leer los JSON con scripts cortos, sin abrir cada nota. Usar búsqueda web solo si un tema central no se entiende con los títulos.
+
+## Clipping Semanal (sábados)
+
+1. Leer las ediciones de la semana en `data/ediciones/` (domingo a sábado) y lo que quede en `data/crudo.json`, `data/videos.json` y `data/tuits.json`.
+2. Escribir `data/semanal/curaduria.json` con el mismo formato que la diaria más `"desde": "AAAA-MM-DD"` y `"hasta": "AAAA-MM-DD"`.
+   - `claves`: 4 o 5 puntos que resuman la semana, en el mismo registro formal y sobrio.
+   - `temas`: los 6 a 10 temas más importantes de la semana, cada uno con resumen de la semana completa (no del último día) y sus 2 o 3 mejores notas.
+   - `entrevistas`: las mejores entrevistas de la semana (máximo 8). `redes`: los tuits más relevantes (máximo 8).
+3. Correr `python3 scripts/armar_edicion.py --semanal` y guardar con git como la diaria.

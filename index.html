@@ -102,6 +102,8 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .wa{display:inline-flex;align-items:center;gap:7px;border:0;border-radius:30px;padding:8px 14px;background:#E6F6EC;color:#11663C;font:600 14px var(--sans);cursor:pointer;text-decoration:none}
 @media (prefers-color-scheme:dark){.wa{background:#163626;color:#7FE0A8}}
 .wa svg{width:17px;height:17px}
+.botones-claves{gap:8px;flex-wrap:wrap;padding-bottom:14px}
+.wa.secundario{background:#EEF5FC;color:var(--celeste-osc)}
 
 
 /* Gráficos de las tarjetas: dirigentes, logos y cobertura */
@@ -123,6 +125,45 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 .barra-tono{height:6px;border-radius:6px;background:var(--linea);overflow:hidden;margin:0 0 14px}
 .barra-tono i{display:block;height:100%;background:var(--neu)}
 .tema[data-tono=positivo] .barra-tono i{background:var(--pos)} .tema[data-tono=negativo] .barra-tono i{background:var(--neg)} .tema[data-tono=mixto] .barra-tono i{background:var(--mix)}
+
+
+/* Encuestas, agenda, buscador y semanal */
+.marca-der{display:flex;align-items:center;gap:16px}
+.ir-semanal{color:#fff;font-weight:700;font-size:14px;text-decoration:none;border:1.5px solid rgba(255,255,255,.75);border-radius:30px;padding:4px 12px}
+.ir-semanal:hover{background:rgba(255,255,255,.18)}
+.encuestas{display:grid;gap:16px}
+@media(min-width:760px){.encuestas{grid-template-columns:1fr 1fr}}
+.encuesta{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:18px 20px;border-left:5px solid var(--sol)}
+.encuesta .quien{font-size:13px;color:var(--tinta-2);margin-bottom:6px}
+.encuesta h3{margin:0 0 12px;font-size:18px;line-height:1.3}
+.dato{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;margin:0 0 10px}
+.dato span{font-size:14px}
+.dato b{font-weight:800;font-stretch:80%;font-size:22px;color:var(--celeste-osc)}
+.dato i{grid-column:1/-1;height:8px;border-radius:8px;background:var(--linea);overflow:hidden;display:block}
+.dato i u{display:block;height:100%;background:var(--celeste);text-decoration:none}
+.encuesta a{font-size:14px;color:var(--celeste-osc)}
+.agenda{list-style:none;margin:0;padding:0;max-width:760px}
+.agenda li{display:grid;grid-template-columns:78px 1fr;gap:16px;padding:16px 0;border-bottom:1px solid var(--linea)}
+.dia{background:var(--celeste);color:#fff;border-radius:12px;text-align:center;padding:8px 4px;line-height:1.1;align-self:start}
+.dia b{display:block;font-weight:900;font-stretch:70%;font-size:34px}
+.dia span{font-size:13px;font-weight:600}
+.agenda h3{margin:0 0 4px;font-size:18px}
+.agenda p{margin:0 0 4px;font-family:var(--serif);font-size:16px}
+.agenda .de{font-size:13px;color:var(--tinta-2)}
+.buscar{display:block;max-width:620px;margin:0 0 18px}
+.buscar span{display:block;font-weight:700;font-size:15px;margin-bottom:8px}
+.buscar input{width:100%;font:16px var(--sans);padding:12px 14px;border-radius:12px;border:1.5px solid var(--linea);background:var(--hoja);color:var(--tinta)}
+.buscar input:focus{outline:none;border-color:var(--celeste-osc);box-shadow:0 0 0 3px rgba(116,172,223,.35)}
+.resultados{display:grid;gap:12px;max-width:760px;margin-bottom:24px}
+.resultado{background:var(--hoja);border:1px solid var(--linea);border-radius:12px;padding:14px 16px}
+.resultado .cuando{font-size:13px;color:var(--tinta-2)}
+.resultado h3{margin:4px 0 6px;font-size:17px}
+.resultado h3 a{text-decoration:none}
+.resultado p{margin:0;font-family:var(--serif);font-size:15.5px}
+.resultado mark{background:rgba(226,178,48,.35);color:inherit;border-radius:2px}
+.sub{font-size:16px;margin:8px 0 12px}
+body[data-modo=semanal] .solo-diario{display:none}
+body[data-modo=semanal] .franja{background:linear-gradient(90deg,var(--celeste),#8EBFE8)}
 
 /* Redes y entrevistas */
 .grilla{display:grid;gap:16px}
@@ -175,8 +216,8 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 <header class="cabecera">
   <div class="franja"><div class="envoltura">
     <div class="marca">
-      <h1>Clipping <span>Renovador</span></h1>
-      <span class="vivo" id="vivo"><i></i><span>Actualizando</span></span>
+      <h1 id="marca">Clipping <span>Renovador</span></h1>
+      <div class="marca-der"><a class="ir-semanal" id="ir-semanal" href="semanal.html">Semanal</a><span class="vivo" id="vivo"><i></i><span>Actualizando</span></span></div>
     </div>
   </div></div>
   <div class="envoltura">
@@ -195,7 +236,7 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
     <section class="claves" aria-labelledby="t-claves">
       <h2 id="t-claves">Lo que tenés que saber</h2>
       <ol id="claves"><li class="cargando">Cargando…</li></ol>
-      <div class="acciones" style="padding-bottom:14px"><a class="wa" id="wa-edicion" href="#" target="_blank" rel="noopener"></a></div>
+      <div class="acciones botones-claves"><a class="wa secundario" id="tarjeta" href="tarjeta.png" download="clipping-renovador.png">Tarjeta para estados</a><a class="wa" id="wa-edicion" href="#" target="_blank" rel="noopener"></a></div>
     </section>
   </div>
 
@@ -204,8 +245,10 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
       <button role="tab" aria-selected="true" aria-controls="p-temas" id="b-temas">En los medios <b id="n-temas">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-redes" id="b-redes">En redes <b id="n-redes">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-videos" id="b-videos">Entrevistas <b id="n-videos">0</b></button>
-      <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable">Última hora</button>
-      <button role="tab" aria-selected="false" aria-controls="p-archivo" id="b-archivo">Ediciones anteriores</button>
+      <button role="tab" aria-selected="false" aria-controls="p-encuestas" id="b-encuestas">Encuestas</button>
+      <button role="tab" aria-selected="false" aria-controls="p-agenda" id="b-agenda" class="solo-diario">Agenda</button>
+      <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable" class="solo-diario">Última hora</button>
+      <button role="tab" aria-selected="false" aria-controls="p-archivo" id="b-archivo">Archivo</button>
     </div>
   </nav>
 
@@ -220,11 +263,23 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
     <section class="panel" id="p-videos" role="tabpanel" aria-labelledby="b-videos" hidden>
       <div class="grilla" id="videos"></div>
     </section>
+    <section class="panel" id="p-encuestas" role="tabpanel" aria-labelledby="b-encuestas" hidden>
+      <p class="aviso">Encuestas publicadas que miden a Sergio Massa o al Frente Renovador, con su consultora, fecha y fuente.</p>
+      <div class="encuestas" id="encuestas"></div>
+    </section>
+    <section class="panel" id="p-agenda" role="tabpanel" aria-labelledby="b-agenda" hidden>
+      <p class="aviso">Actos, sesiones, congresos y entrevistas anunciados para los próximos días.</p>
+      <ol class="agenda" id="agenda"></ol>
+    </section>
     <section class="panel" id="p-cable" role="tabpanel" aria-labelledby="b-cable" hidden>
       <p class="aviso">Todo lo que publicaron los medios en las últimas horas, sin filtrar. Se renueva cada hora; las marcadas como nuevas salieron después de la edición que estás viendo.</p>
       <ul class="cable" id="cable"></ul>
     </section>
     <section class="panel" id="p-archivo" role="tabpanel" aria-labelledby="b-archivo" hidden>
+      <label class="buscar"><span>Buscar en todas las ediciones</span>
+        <input type="search" id="q" placeholder="Por ejemplo: Moreau, PASO, Tigre" autocomplete="off"></label>
+      <div id="resultados" class="resultados" aria-live="polite"></div>
+      <h2 class="sub" id="t-ediciones">Ediciones</h2>
       <div class="archivo" id="archivo"></div>
     </section>
   </div>
@@ -280,14 +335,21 @@ tabs.forEach(function(t,i){t.addEventListener("click",function(){abrir(t.id);});
 function pintarEdicion(ed){
   ED=ed;
   var d=new Date(ed.generado);
-  $("hora").innerHTML=esc(ed.hora||String(d.getHours()).padStart(2,"0"))+"<small>h</small>";
-  $("fecha").textContent="Edición del "+fechaLarga(d);
+  if(MODO==="semanal"){
+    $("hora").innerHTML=esc(ed.rango_dias||"")+"<small>"+esc(ed.rango_mes||"")+"</small>";
+    $("hora").setAttribute("aria-label","Semana");
+    $("fecha").textContent=ed.titulo_semana||"Resumen de la semana";
+  }else{
+    $("hora").innerHTML=esc(ed.hora||String(d.getHours()).padStart(2,"0"))+"<small>h</small>";
+    $("fecha").textContent="Edición del "+fechaLarga(d);
+  }
   var m=ed.metricas||{};
-  $("metricas").textContent=m.notas_analizadas?("Revisamos "+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
+  $("metricas").textContent=m.notas_analizadas?((MODO==="semanal"?"En la semana revisamos ":"Revisamos ")+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
+  if(MODO==="semanal")$("tarjeta").hidden=true;
   var todos=[];(ed.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){if(todos.indexOf(p)<0)todos.push(p);});});
   $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+resaltar(c,todos)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
-  var txt="*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n"+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
-  $("wa-edicion").href=wa(txt); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
+  var txt=(MODO==="semanal"?"*CLIPPING SEMANAL RENOVADOR · "+(ed.titulo_semana||"")+"*\n\n":"*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n")+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
+  $("wa-edicion").href=wa(txt); $("tarjeta").href="tarjeta.png?v="+encodeURIComponent(ed.generado); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
   $("n-temas").textContent=(ed.temas||[]).length; $("n-redes").textContent=(ed.redes||[]).length; $("n-videos").textContent=(ed.entrevistas||[]).length;
   pintarFiltros(); pintarTemas(); pintarRedes(); pintarVideos();
 }
@@ -361,11 +423,59 @@ function pintarArchivo(ix){
   $("archivo").innerHTML=(ix.ediciones||[]).map(function(e){return'<a href="?e='+encodeURIComponent(e.id)+'"><strong>'+esc(e.titulo)+'</strong><span>'+esc(e.temas||"")+' temas</span></a>';}).join("")||'<p class="vacio">El archivo empieza con esta edición.</p>';
 }
 
+
+var MODO=document.body.dataset.modo||"diario";
+function fechaCorta(iso){var d=new Date(iso+(iso.length===10?"T12:00:00":""));return d.getDate()+" de "+MESES[d.getMonth()];}
+
+function pintarEncuestas(data){
+  var l=(data.encuestas||[]).slice().sort(function(a,b){return a.fecha<b.fecha?1:-1;});
+  if(!l.length){$("encuestas").innerHTML='<p class="vacio">Todavía no hay encuestas registradas. Aparecen acá cuando un medio publica una que mide a Massa o al Frente Renovador.</p>';return;}
+  $("encuestas").innerHTML=l.map(function(e){
+    return'<article class="encuesta"><div class="quien">'+esc([e.consultora,fechaCorta(e.fecha),e.alcance].filter(Boolean).join(", "))+'</div>'+
+      '<h3>'+esc(e.titulo)+'</h3>'+(e.datos||[]).map(function(x){var v=Number(x.valor);
+        return'<div class="dato"><span>'+esc(x.etiqueta)+'</span><b>'+esc(String(x.valor).replace(".",","))+(x.unidad||"%")+'</b>'+((x.unidad||"%")==="%"?'<i><u style="width:'+Math.max(0,Math.min(100,v))+'%"></u></i>':"")+'</div>';}).join("")+
+      (e.fuente?'<a href="'+esc(e.fuente.url)+'" target="_blank" rel="noopener">'+logo(e.fuente.dominio||"")+'Fuente: '+esc(e.fuente.medio)+'</a>':"")+'</article>';}).join("");
+}
+
+function pintarAgenda(data){
+  var hoy=new Date();hoy.setHours(0,0,0,0);
+  var l=(data.eventos||[]).filter(function(e){return new Date(e.fecha+"T23:59:00")>=hoy;}).sort(function(a,b){return a.fecha>b.fecha?1:-1;});
+  if(!l.length){$("agenda").innerHTML='<li class="vacio" style="display:block">No hay actividades anunciadas por ahora.</li>';return;}
+  var CORTOS=["dom","lun","mar","mié","jue","vie","sáb"];
+  $("agenda").innerHTML=l.map(function(e){var d=new Date(e.fecha+"T12:00:00");
+    return'<li><div class="dia"><span>'+CORTOS[d.getDay()]+'</span><b>'+d.getDate()+'</b><span>'+MESES[d.getMonth()].slice(0,3)+'</span></div><div>'+
+      '<h3>'+esc(e.titulo)+'</h3>'+(e.detalle?'<p>'+resaltar(e.detalle,e.dirigentes)+'</p>':"")+
+      '<div class="de">'+esc([e.hora?e.hora+" h":"",e.lugar].filter(Boolean).join(", "))+(e.fuente?' · <a href="'+esc(e.fuente.url)+'" target="_blank" rel="noopener">'+esc(e.fuente.medio)+'</a>':"")+'</div></div></li>';}).join("");
+}
+
+var BUSCADOR=null;
+function cargarBuscador(){if(BUSCADOR)return Promise.resolve(BUSCADOR);return json("data/buscador.json").then(function(b){BUSCADOR=b.temas||[];return BUSCADOR;});}
+function buscar(q){
+  q=q.trim(); if(q.length<3){$("resultados").innerHTML="";return;}
+  cargarBuscador().then(function(lista){
+    var nq=normalizar(q), palabras=nq.split(/\s+/).filter(Boolean);
+    var hits=lista.filter(function(t){var hay=normalizar([t.t,t.r,(t.d||[]).join(" "),(t.n||[]).map(function(n){return n.ti+" "+n.m;}).join(" ")].join(" "));
+      return palabras.every(function(p){return hay.indexOf(p)>=0;});}).slice(0,40);
+    if(!hits.length){$("resultados").innerHTML='<p class="vacio">No hay temas que coincidan con "'+esc(q)+'". Probá con un apellido o una palabra clave.</p>';return;}
+    $("resultados").innerHTML='<p class="aviso" style="margin:0">'+hits.length+(hits.length===40?"+":"")+' temas encontrados</p>'+hits.map(function(t){
+      return'<article class="resultado"><div class="cuando">'+esc(fechaCorta(t.f))+' · <a href="?e='+encodeURIComponent(t.e)+'">ver edición</a></div><h3><a href="'+esc((t.n[0]||{}).u||"#")+'" target="_blank" rel="noopener">'+marcar(t.t,palabras)+'</a></h3><p>'+marcar(t.r,palabras)+'</p></article>';}).join("");
+  });
+}
+function normalizar(x){return(x||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();}
+function marcar(texto,palabras){var t=esc(texto),n=normalizar(t);var marcas=[];
+  palabras.forEach(function(p){var i=0;while((i=n.indexOf(p,i))>=0){marcas.push([i,i+p.length]);i+=p.length;}});
+  marcas.sort(function(a,b){return b[0]-a[0];});var out=t;marcas.forEach(function(m){out=out.slice(0,m[0])+"<mark>"+out.slice(m[0],m[1])+"</mark>"+out.slice(m[1]);});return out;}
+var tBus=null;$("q").addEventListener("input",function(e){clearTimeout(tBus);var v=e.target.value;tBus=setTimeout(function(){buscar(v);},180);});
+
 var pedida=new URLSearchParams(location.search).get("e");
-var fuente=pedida&&/^[0-9-]+$/.test(pedida)?"data/ediciones/"+pedida+".json":"data/edicion.json";
-json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent="La edición no está disponible";$("claves").innerHTML="<li>No pudimos cargar la edición. Probá recargar en unos minutos.</li>";})
+var base=MODO==="semanal"?"data/semanal/":"data/ediciones/";
+var fuente=pedida&&/^[0-9-]+$/.test(pedida)?base+pedida+".json":(MODO==="semanal"?"data/semanal/ultimo.json":"data/edicion.json");
+json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO==="semanal"?"El primer Clipping Semanal sale el sábado":"La edición no está disponible";$("claves").innerHTML=MODO==="semanal"?"<li>El resumen semanal se publica todos los sábados con lo más importante de la semana.</li>":"<li>No pudimos cargar la edición. Probá recargar en unos minutos.</li>";})
   .then(function(){return json("data/crudo.json").then(pintarCable);}).catch(function(){});
-json("data/ediciones/indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
+json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
+json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
+if(MODO!=="semanal")json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
+if(MODO==="semanal"){$("t-claves").textContent="Lo más importante de la semana";$("marca").innerHTML="Clipping Semanal <span>Renovador</span>";$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
 var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
 setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
 })();

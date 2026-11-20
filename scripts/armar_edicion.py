@@ -5,7 +5,8 @@ Claude escribe data/curaduria.json eligiendo notas, tuits y videos por su id.
 Este script completa medio, titulo, link y fecha desde lo que junto el rastrillo,
 y escribe data/edicion.json, la copia en data/ediciones/ y el indice del archivo.
 
-Uso: python3 scripts/armar_edicion.py
+Uso: python3 scripts/armar_edicion.py            (edicion diaria)
+     python3 scripts/armar_edicion.py --semanal  (Clipping Semanal: lee data/semanal/curaduria.json)
 """
 import json
 import sys
@@ -39,7 +40,9 @@ def segundos(duracion):
 
 
 def main():
-    cur = json.loads((DATOS / "curaduria.json").read_text(encoding="utf-8"))
+    semanal = "--semanal" in sys.argv
+    origen = DATOS / "semanal" / "curaduria.json" if semanal else DATOS / "curaduria.json"
+    cur = json.loads(origen.read_text(encoding="utf-8"))
     notas = {n["id"]: n for n in cargar("crudo.json", "notas")}
     videos = {v["id"]: v for v in cargar("videos.json", "videos")}
     tuits = {t["id"]: t for t in cargar("tuits.json", "tuits")}
@@ -91,6 +94,9 @@ def main():
                             "url": v.get("url") or f"https://www.youtube.com/watch?v={e.get('video_id')}"})
 
     ahora = datetime.now(ART)
+    if semanal:
+        armar_semanal(cur, temas, redes, entrevistas, notas, ahora)
+        return
     hora = cur.get("hora") or ahora.strftime("%H")
     medios = {n["medio"] for n in notas.values()
               if datetime.fromisoformat(n["fecha"]) >= ahora - timedelta(hours=24)}
@@ -118,10 +124,60 @@ def main():
     indice["ediciones"] = indice["ediciones"][:270]
     ix_p.write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    # Indice del buscador: un registro por tema de cada edicion
+    bus_p = DATOS / "buscador.json"
+    buscador = json.loads(bus_p.read_text(encoding="utf-8")) if bus_p.exists() else {"temas": []}
+    buscador["temas"] = [b for b in buscador["temas"] if b["e"] != edicion["id"]]
+    nuevos = [{"e": edicion["id"], "f": edicion["generado"][:10], "t": t["titulo"], "r": t["resumen"],
+               "d": t["dirigentes"], "o": t["tono"],
+               "n": [{"m": n["medio"], "ti": n["titulo"], "u": n["url"]} for n in t["principales"]]}
+              for t in temas]
+    buscador["temas"] = (nuevos + buscador["temas"])[:4000]
+    bus_p.write_text(json.dumps(buscador, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+    copiar_pagina_semanal()
     print(f"Edicion {edicion['id']}: {len(temas)} temas, {len(redes)} tuits, {len(entrevistas)} videos")
     if faltan:
         print("IDs no encontrados (revisar):", faltan)
         sys.exit(2 if not temas else 0)
+
+
+def armar_semanal(cur, temas, redes, entrevistas, notas, ahora):
+    hasta = datetime.fromisoformat(cur.get("hasta", ahora.date().isoformat()))
+    desde = datetime.fromisoformat(cur.get("desde", (hasta - timedelta(days=6)).date().isoformat()))
+    en_semana = [n for n in notas.values() if desde.date() <= datetime.fromisoformat(n["fecha"]).date() <= hasta.date()]
+    mes = MESES[hasta.month - 1][:3]
+    rango = f"{desde.day}–{hasta.day}" if desde.month == hasta.month else f"{desde.day}/{desde.month}–{hasta.day}/{hasta.month}"
+    sid = hasta.strftime("%Y-%m-%d")
+    semana = {
+        "id": sid, "generado": ahora.isoformat(timespec="minutes"),
+        "titulo_semana": f"Semana del {desde.day} de {MESES[desde.month - 1]} al {hasta.day} de {MESES[hasta.month - 1]}",
+        "rango_dias": rango, "rango_mes": mes if desde.month == hasta.month else "",
+        "claves": cur.get("claves", []), "temas": temas, "redes": redes, "entrevistas": entrevistas,
+        "metricas": {"notas_analizadas": len(en_semana), "medios": len({n["medio"] for n in en_semana}),
+                     "temas": len(temas)},
+    }
+    carpeta = DATOS / "semanal"
+    texto = json.dumps(semana, ensure_ascii=False, indent=1)
+    (carpeta / f"{sid}.json").write_text(texto, encoding="utf-8")
+    (carpeta / "ultimo.json").write_text(texto, encoding="utf-8")
+    ix_p = carpeta / "indice.json"
+    indice = json.loads(ix_p.read_text(encoding="utf-8")) if ix_p.exists() else {"ediciones": []}
+    indice["ediciones"] = [e for e in indice["ediciones"] if e["id"] != sid]
+    indice["ediciones"].insert(0, {"id": sid, "temas": len(temas), "titulo": semana["titulo_semana"]})
+    ix_p.write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
+    copiar_pagina_semanal()
+    print(f"Clipping Semanal {sid}: {len(temas)} temas, {len(redes)} tuits, {len(entrevistas)} videos")
+
+
+def copiar_pagina_semanal():
+    html = (RAIZ / "index.html").read_text(encoding="utf-8")
+    html = html.replace("<body>", '<body data-modo="semanal">', 1)
+    html = html.replace("<title>Clipping Renovador · Lo que se dice del Frente Renovador hoy</title>",
+                        "<title>Clipping Semanal Renovador</title>")
+    html = html.replace('<meta property="og:title" content="Clipping Renovador">',
+                        '<meta property="og:title" content="CLIPPING SEMANAL RENOVADOR">')
+    (RAIZ / "semanal.html").write_text(html, encoding="utf-8")
 
 
 if __name__ == "__main__":
