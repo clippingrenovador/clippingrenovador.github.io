@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-20T16:27-03:00",
- "total": 40,
+ "generado": "2026-11-20T18:11-03:00",
+ "total": 41,
  "tuits": [
+  {
+   "id": "2123870406964576316",
+   "usuario": "Kicillofok",
+   "visto": "2026-11-20T18:11-03:00",
+   "url": "https://twitter.com/Kicillofok/status/2123870406964576316",
+   "citado_en": [
+    {
+     "medio": "Telégrafo",
+     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
+     "nota_id": "ed074699b723"
+    }
+   ]
+  },
   {
    "id": "2123786022630600823",
    "usuario": "peronconwifi",
