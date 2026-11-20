@@ -197,24 +197,41 @@
  "redes": [
   {
    "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante.",
-   "autor": "@SergioMassa"
+   "autor": "@SergioMassa",
+   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
   },
   {
    "tuit_id": "2123392418686828999",
    "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."
   },
   {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido."
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO."
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123099256861151520",
+   "autor": "@FrenteRenovador",
+   "nota": ""
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2123041725526528298",
+   "autor": "@SebasGalmarini",
+   "nota": "El encuentro de San Fernando por el Día de la Militancia."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123234459994783780",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano respondió al ministro de Economía por la marcha peronista."
+  },
+  {
    "tuit_id": "2122861243283239200",
    "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias."
-  },
-  {
-   "tuit_id": "2122855707460730904",
-   "nota": ""
-  },
-  {
-   "tuit_id": "2122860757658591600",
-   "nota": ""
   }
  ],
  "entrevistas": [

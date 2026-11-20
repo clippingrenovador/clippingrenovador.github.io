@@ -1,6 +1,6 @@
 {
  "id": "2026-11-20-01",
- "generado": "2026-11-20T03:41-03:00",
+ "generado": "2026-11-20T04:18-03:00",
  "hora": "01",
  "claves": [
   "El encuentro de San Fernando ubicó a Sergio Massa en el centro de la reorganización del peronismo. El gobernador Kicillof respondió con una convocatoria a sus intendentes en La Plata.",
@@ -141,17 +141,12 @@
      "dominio": "bvcnoticias.com.ar"
     },
     {
-     "medio": "Ecos Diarios Necochea",
-     "url": "https://elecos.com.ar/un-peron-recreado-con-inteligencia-artificial-sorprendio-en-un-acto-del-peronismo",
-     "dominio": "elecos.com.ar"
-    },
-    {
      "medio": "Tribuna de Periodistas",
      "url": "https://periodicotribuna.com.ar/cristina-kirchner-sera-el-arbitro-de-la-contienda-del-peronismo/",
      "dominio": "periodicotribuna.com.ar"
     }
    ],
-   "cantidad_notas": 25
+   "cantidad_notas": 24
   },
   {
    "titulo": "Malena Galmarini le respondió a Caputo: “No te alteres que te sube el riesgo país”",
@@ -448,11 +443,6 @@
      "dominio": "quepasaweb.com.ar"
     },
     {
-     "medio": "San Fernando Nuestro",
-     "url": "https://sanfernandonuestro.com.ar/comenzo-el-inicio-de-la-obra-de-la-universidad-nacional-del-delta/",
-     "dominio": "sanfernandonuestro.com.ar"
-    },
-    {
      "medio": "Infonoroeste",
      "url": "https://infonoroeste.com.ar/nota/55683/golia-firmo-los-contratos-para-construir-30-viviendas-en-chacabuco/",
      "dominio": "infonoroeste.com.ar"
@@ -473,7 +463,7 @@
      "dominio": "cfin.com.ar"
     }
    ],
-   "cantidad_notas": 10
+   "cantidad_notas": 9
   },
   {
    "titulo": "La CGT, entre la foto con Massa y la búsqueda de otro candidato",
@@ -570,19 +560,34 @@
    "nota": "La respuesta de Malena Galmarini a Caputo, citada por más de diez medios."
   },
   {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido."
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO."
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123099256861151520",
+   "autor": "@FrenteRenovador",
+   "nota": ""
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2123041725526528298",
+   "autor": "@SebasGalmarini",
+   "nota": "El encuentro de San Fernando por el Día de la Militancia."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123234459994783780",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano respondió al ministro de Economía por la marcha peronista."
+  },
+  {
    "url": "https://twitter.com/FedericoAchaval/status/2122861243283239200",
    "autor": "@FedericoAchaval",
    "nota": "Intendentes de la Liga en el encuentro de San Fernando, según Cronos Noticias."
-  },
-  {
-   "url": "https://twitter.com/nico_mantegazza/status/2122855707460730904",
-   "autor": "@nico_mantegazza",
-   "nota": ""
-  },
-  {
-   "url": "https://twitter.com/marielfmoreno1/status/2122860757658591600",
-   "autor": "@marielfmoreno1",
-   "nota": ""
   }
  ],
  "entrevistas": [
@@ -612,8 +617,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 138,
-  "medios": 99,
+  "notas_analizadas": 107,
+  "medios": 77,
   "temas": 9
  }
 }
