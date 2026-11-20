@@ -102,33 +102,43 @@ def texto_centrado(d, y, texto, f, color, borde=0, color_borde=BLANCO, espaciado
 
 
 def main():
-    img = Image.new("RGB", (W, H), BLANCO)
+    # Fondo: degradado azul a celeste, con semitono blanco que crece hacia las esquinas
+    img = Image.new("RGB", (W, H))
+    px = img.load()
+    a, b = (40, 96, 160), CELESTE
+    for y in range(H):
+        for x in range(0, W):
+            t = (x / W) * 0.6 + (y / H) * 0.4
+            px[x, y] = tuple(int(a[k] + (b[k] - a[k]) * t) for k in range(3))
     d = ImageDraw.Draw(img)
+    paso = 22 * E
+    for fila, y in enumerate(range(-paso, H + paso, paso)):
+        desplaza = (paso // 2) if fila % 2 else 0
+        for x in range(-paso + desplaza, W + paso, paso):
+            # distancia al centro, normalizada: los puntos crecen hacia los bordes
+            # semitono que nace en la mitad inferior y llega a blanco abajo
+            fuerza = min(1.0, max(0.0, (y / H - 0.60) / 0.40)) + max(0.0, 0.18 - y / H) * 1.2
+            r = paso * 0.64 * fuerza ** 1.1
+            if r > 0.6 * E:
+                d.ellipse([x - r, y - r, x + r, y + r], fill=BLANCO)
 
-    # Franjas celestes arriba y abajo, como la bandera
-    franja = int(H * 0.12)
-    d.rectangle([0, 0, W, franja], fill=CELESTE)
-    d.rectangle([0, H - franja, W, H], fill=CELESTE)
-    d.rectangle([0, franja, W, franja + 4 * E], fill=ORO)
-    d.rectangle([0, H - franja - 4 * E, W, H - franja], fill=ORO)
-
-    # Sol de Mayo detras del titulo
-    capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    sol_de_mayo(ImageDraw.Draw(capa), W / 2, H / 2, H * 0.37, SOL_CLARO + (255,), (226, 184, 90, 255))
-    img.paste(capa, (0, 0), capa)
+    # Titulo en blanco con sombra suave
+    f = fuente(132 * E, 900, 100)
+    sombra = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ds = ImageDraw.Draw(sombra)
+    for texto, y in (("CLIPPING", H * 0.16), ("RENOVADOR", H * 0.40)):
+        anchos = [ds.textlength(c, font=f) for c in texto]
+        total = sum(anchos) + 6 * E * (len(texto) - 1)
+        x = (W - total) / 2
+        for c, w in zip(texto, anchos):
+            ds.text((x + 4 * E, y + 6 * E), c, font=f, fill=(20, 50, 95, 110))
+            x += w + 6 * E
+    from PIL import ImageFilter
+    sombra = sombra.filter(ImageFilter.GaussianBlur(8 * E))
+    img.paste(sombra, (0, 0), sombra)
     d = ImageDraw.Draw(img)
-
-    # Titulo
-    f = fuente(150 * E, 900, 100)
-    texto_centrado(d, H * 0.235, "CLIPPING", f, CELESTE_OSC, borde=5 * E, espaciado=6 * E)
-    texto_centrado(d, H * 0.49, "RENOVADOR", f, ORO_OSC, borde=5 * E, espaciado=6 * E)
-
-    # Bajada en la franja inferior
-    fb = fuente(26 * E, 600)
-    texto_centrado(d, H - franja + (franja - 26 * E) / 2 - 4 * E,
-                   "Sergio Massa y el Frente Renovador en los medios, a las 6, 14 y 22 h", fb, BLANCO)
-    fa = fuente(24 * E, 700)
-    texto_centrado(d, (franja - 24 * E) / 2 - 4 * E, "Monitoreo de prensa", fa, BLANCO, espaciado=2 * E)
+    texto_centrado(d, H * 0.16, "CLIPPING", f, BLANCO, espaciado=6 * E)
+    texto_centrado(d, H * 0.40, "RENOVADOR", f, BLANCO, espaciado=6 * E)
 
     img = img.resize((W // E, H // E), Image.LANCZOS)
     img.save(RAIZ / "og.png", optimize=True)
