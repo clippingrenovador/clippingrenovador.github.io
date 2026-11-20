@@ -1,9 +1,54 @@
 {
- "generado": "2026-11-20T14:18-03:00",
- "total": 475,
- "nuevas_ultima_corrida": 23,
- "errores": [],
+ "generado": "2026-11-20T15:16-03:00",
+ "total": 482,
+ "nuevas_ultima_corrida": 21,
+ "errores": [
+  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
+  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "6355140bc567",
+   "titulo": "La aprobación de tres pisos adicionales para un complejo generó un fuerte cruce entre Zamora y el massismo",
+   "medio": "Flipr.news",
+   "medio_url": "https://flipr.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYlFXT2hwZUhzajYwWWRSVjl3ZkFJMVVrTzZqYTRRUjRhdXVvZXhvellJcXRhMEthTGdzOWZyQlpWcjVMLVQtZktLSE9oM3VobE04ZDZuSnpkNy1BNXRMSXFSWEVqazRZZ3dMNE95UjJTSW90czFrU1RHenFpaUVwamxINk9ZejBlbVNKZTdhVUtmZEJtcHE4NEUzRC1RdXg4MllwcWVlckFGeFpJOWc2N3NkVE9BZHZyMWNHNGVhQzRtY1lPX2UyWHhtMGIxM3JRR19yWDQ5SVJTd09wNlNrbTlzOXB0MHAw?oc=5",
+   "fecha": "2026-11-20T14:28-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://flipr.com.ar/buenos-aires/bsasnoticia/la-aprobacion-de-tres-pisos-adicionales-para-un-complejo-genero-un-fuerte-cruce-entre-zamora-y-el-massismo/",
+   "revisada": true
+  },
+  {
+   "id": "61fdfbf5e82c",
+   "titulo": "Massa busca aislar a Kicillof y piensa en Natalia de la Sota o Zamora para la fórmula",
+   "medio": "Informe Digital",
+   "medio_url": "https://informedigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTJKTTF3TVU4bU5oRUJ3QjV6b0lXeXo5dzdBSWtUX0NzMW1NZDN2aDgyUGFGUU55TU50MUJYRDN1Q0FPSmx6N0RBT2tBb21TY1Z0OG8welN3TktWc3FCSzRjWkgtUGx2UENiQU0yRG5NZmk5Z3YyYU82eUM3RXJzSlZ4eXdNcS1SUUV0QnVpWUFjMjVzeHkwczZmdTg1S0psTGJBWFZPN19tcnp6QjBSMlBlQUw3Sm8?oc=5",
+   "fecha": "2026-11-20T14:26-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://informedigital.com.ar/massa-busca-aislar-a-kicillof-y-piensa-en-natalia-de-la-sota-o-zamora-para-la-formula/",
+   "revisada": true
+  },
+  {
+   "id": "0fd092ea2a8a",
+   "titulo": "Massa busca aislar a Kicillof y piensa en Natalia de la Sota o Gerardo Zamora para la fórmula",
+   "medio": "Flipr.news",
+   "medio_url": "https://flipr.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVzJBdjRPVExSeF9GT2VyWkZlMTQ2WWhuUldzYV9FbHRFeGxvREdCa19OR2VqdTVaZmtNX09HNWRpclg5WjlzMDJaaWQtMkJxNDlHTTJGd090dnBWbnRMckFtRkRBM2pOZE5vVXktTFNISlFUZk9pT2NDTFNJRWRGa2lMWVQ3T1NlNVpmLW5hVWUycUZFWWZjT25nRjhGczdFSjBvb2oyZVhsN05FTHNuYmg1N0xiWXlmWmc2Q3lvWk5qYjdKLVlDcTBiQ2FmMkZObE91SEVQUnhGdkp5bE05dUdR?oc=5",
+   "fecha": "2026-11-20T14:19-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://flipr.com.ar/nacionales/politica/iprofesional/massa-busca-aislar-a-kicillof-y-piensa-en-natalia-de-la-sota-o-gerardo-zamora-para-la-formula/",
+   "revisada": true
+  },
   {
    "id": "65750c4e76f5",
    "titulo": "Consejo de la Magistratura: el Senado eligió a sus cuatro representantes",
@@ -16,6 +61,35 @@
    ],
    "visto": "2026-11-20T14:17-03:00",
    "url_original": "https://www.noticiasurbanas.com.ar/consejo-de-la-magistratura-el-senado-eligio-a-sus-cuatro-representantes",
+   "revisada": true
+  },
+  {
+   "id": "fa2085715361",
+   "titulo": "Pese a las fuertes internas, Cecilia Moreau aseguró que \"el peronismo va a ir unido a la elección\"",
+   "medio": "Diario Mendoza Today",
+   "medio_url": "https://mendozatoday.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNmlqZksyaWI4UldVUm5WajA5VUhCa2k0Rmh2QTN4bWh1WTZ4WVJoVFU0dWZMcUpDamFLSWo4R1U0WGlqV3lDWnNSQWlqY2hlN3FzU21NZmEwUjRoRXBiU3RHSkNEVUFhUGJ1OHlWWXlrR09CcElLSWNEdzc4MTc0MlQwZHdlX3FhNXkxUWphTG0zNDlobFJsZEI4alJ0RU9TZTQzREFCdFJjMGlxZnJ1UEVfVFZjZEQ0b3B5X2dWSFRMaHR0YldNUjY3TW1LUnAz0gHHAUFVX3lxTE1LZFB3TzFueFNzUWpzdWd2YlVBQS1tRzhsVXB4ZFdkMzFIMmp4cVdhMVczdzNCMTQ3eGtEX0ZpVmNZMXJuZ1hENXVkWFpWc0htdmpZeWN1Q2ZXdHZ5dDBDS1ZQalVlMUFaYlEwdnRsazR0ZERRcGJUZzZ5M0Q0LVpSS2NUZTFEMGM2eXZHNGE4d3N2dHY0QVlPOWdzN2VwaFV6NkJNRmZMX1FNZ2lSbm1OMTUwUk5GYTgwNzNSR1pza2tqQ0hpblU?oc=5",
+   "fecha": "2026-11-20T14:03-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "revisada": true
+  },
+  {
+   "id": "d214658a0550",
+   "titulo": "Pesatti evalúa ser candidato a gobernador por el Frente Renovador",
+   "medio": "Bariloche Opina",
+   "medio_url": "https://www.barilocheopina.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkROaHhBcnpxOVlpbWJNaWR0b0ZwYjNkTWNDTmJ4djJNTVVqb0JFOU5NVUZVcTlsZ3I4N3lsY0IyUWhFY3ZnVDcwOTRqZmJ5ZWJFSW1oZnJLV1dUMHVTUHYzZmpsUnc0Z001T0R4cGZtQnp4M3Q0QnZqSUtTQ3VIVW1YM0hPUl8xNTgwV1l1andKbnRfS05KWHJraGZYMkFyQ0h4d2tWemJTeVU3Mk9wX3UxRjd3N2xJRml0ZVFXUENRQVgt0gHEAUFVX3lxTE92RE5oeEFyenE5WWltYk1pZHRvRnBiM2RNY0NOYnh2Mk1NVWpvQkU5Tk1VRlVxOWxncjg3eWxjQjJRaEVjdmdUNzA5NGpmYnllYkVJbWhmcktXV1QwdVNQdjNmamxSdzRnTTVPRHhwZm1CengzdDRCdmpJS1NDdUhVbVgzSE9SXzE1ODBXWXVqd0pudF9LTkpYcmtoZlgyQXJDSHh3a1Z6YlN5VTcyT3BfdTFGN3c3bElGaXRlUVdQQ1FBWC0?oc=5",
+   "fecha": "2026-11-20T14:02-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://www.barilocheopina.com/amp/noticias/2026/11/20/97590-pesatti-evalua-ser-candidato-a-gobernador-por-el-frente-renovador",
    "revisada": true
   },
   {
@@ -175,6 +249,34 @@
    ],
    "visto": "2026-11-20T14:16-03:00",
    "url_original": "https://noticias.perfil.com/noticias/politica/delia-durisimo-cristina-se-cago-en-los-53-presos-politicos-del-kirchnerismo.phtml",
+   "revisada": true
+  },
+  {
+   "id": "a01865796788",
+   "titulo": "Moreau: \"Con PASO o sin PASO, el peronismo va a ir unido a la elección\"",
+   "medio": "APFDigital",
+   "medio_url": "https://www.apfdigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0ZpSlAtR3lTbE9wUVFfckNmQTZ6T1hvaFUtVmtuTUx0ci1PTzJHTVJVaktENGxLOERaWkx6SWVMUjA4ZEVsb3Z1a3pScURzZ0pST21nQmVpOE1pTTJ0a19oQVRDTExRVkpQV0N0T2duclMxalloMnJLRWRuaVEtSDZaa1hORGxWNDNESWxpbktCRm9WTTFXVkI2SWhiZFRiZ0FvY0J1aHJHdUFVNHpCVUhDYnR2UTl5WHE1aURsbkxCd9IBxwFBVV95cUxNdGVOaFM0V3I3UVRXWkJWa1VOTkJMSUZPT2JZZkZVR3otNTlaaVhHY25ReGRUN3hQRm5iekthWHhodzhhM0NOOUhnUTNrMVZISldQRTV6N28za0lHeVNpS01xVWl1TXJwTmpTNTRqdHMyd0luT1RFVEs3VlItYzdhcjB0cnUwNmcwRktNbFhUV2s4Y2ZSdWF4UUlRUUFUQVk4S0p6X0VlVmlpZzBTTUROUzRQQTNQVk9UTGNaVC1sSEhlR0o1RXI0?oc=5",
+   "fecha": "2026-11-20T11:50-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://www.apfdigital.com.ar/noticias/2026/11/20/480072-moreau-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido-a-la-eleccion",
+   "revisada": true
+  },
+  {
+   "id": "77389a73656e",
+   "titulo": "Cheppi propuso trasladar las harineras de pescado al Parque Industrial para terminar con los malos olores",
+   "medio": "AHORA Mar del Plata",
+   "medio_url": "https://ahoramardelplata.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdW1zNzFJUEJBX3BBclU1UmJjUDYtbDB3Z0Y1OHk0UEFLQ2RRSU1yUW1Oek5RX2RKTEtrcXlrR1VOTHBWZmZrYWllZEk5U0ZROXRYZkFtWVJzdmhTcFZILTVrN050dzFaQnhuOEltcWhaV1RTOXV0RUJpTUpiYUw0bF8zdzdCcjFCZUtBTUpnZ2FRMGY5YnhUY3p4M2s3UGo0R2c3dEl1U2hISzM2cjBCb1VOa1VFTFducUpUUlFXcHpuWWJIb1B2VUoxTGk1c1BUcEVLU09HQzVLVE81eEZV?oc=5",
+   "fecha": "2026-11-20T11:45-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://ahoramardelplata.com.ar/politica/cheppi-propuso-trasladar-las-harineras-de-pescado-al-parque-industrial-para-terminar-con-los-malos-olores",
    "revisada": true
   },
   {
@@ -542,6 +644,20 @@
    "revisada": true
   },
   {
+   "id": "8adf3fc71b92",
+   "titulo": "El Frente Renovador diseña una propuesta de gestión para General Arenales",
+   "medio": "Infonoroeste",
+   "medio_url": "https://infonoroeste.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbl9oMXgxQmtFZW9SdDNyQXBwTHVsTmtuWG9tXy13NkwxZ2lnYW1ULXo0Z2dSSWpJcklUblVTMlhDeFFWZ291Qzc5WjYxZnhGSW53OGpTXzNwVVpFTy1WVi1sWHJHbk1yQ2lDSmZKdEFlYTFSMEh2M09uNmpYSUJZTVo2TEVlMXJLZ0d3amV5WmJpdFJjcXllMHpfLW13MGVSbmE5RzFjLVVtSGZERTU0N3BoZw?oc=5",
+   "fecha": "2026-11-20T08:59-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://infonoroeste.com.ar/nota/55696/el-frente-renovador-disena-una-propuesta-de-gestion-para-general-arenales/",
+   "revisada": true
+  },
+  {
    "id": "1f667aa40337",
    "titulo": "PASO, ¡afuera!: el peronismo y el plan B de cara a las definiciones electorales",
    "medio": "La Tecla",
@@ -655,6 +771,20 @@
    "revisada": true
   },
   {
+   "id": "10423b95c0c5",
+   "titulo": "Femicidio en Córdoba: mataron a puñaladas a una mujer en un bar de La Cañada",
+   "medio": "Perfil",
+   "medio_url": "https://perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT3pYemJNNEQzYm1ad1o3bWlvTHp4VVk2N0F2QzJFeEpLNzdTWGVoOHZMNFF6TW0waFJIMUhZWHNEUUVzWlFNWjF2S3Q3U29CaU9VM0ExMVJmMXdzLWQ3akNUUzB4Q1RaS3JHdF9VNGZTNm52TVBETXljbmdFVVBaT2p1U2h2TkdRVW5QcmtaSUktNDQtMjFWdEJGRlZPOW02Q2dmTi1n?oc=5",
+   "fecha": "2026-11-20T07:05-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
+   "url_original": "https://perfil.com/cordoba/femicidio-en-cordoba-mataron-a-una-mujer-en-un-bar-de-la-canada-aGXdd2r8YxT3",
+   "revisada": true
+  },
+  {
    "id": "2d5914b520e5",
    "titulo": "¿Por qué no avanza en el Poder Judicial el escándalo de las SIRAS, que golpea tan fuerte al massismo?",
    "medio": "Tribuna de Periodistas",
@@ -712,6 +842,19 @@
    ],
    "visto": "2026-11-20T07:26-03:00",
    "url_original": "https://www.diariohuarpe.com/nota/aranda-si-gioja-y-unac-no-se-unen-y-perdemos-van-a-ser-responsables-202611206026",
+   "revisada": true
+  },
+  {
+   "id": "53b5c03a9c16",
+   "titulo": "El triunfo de León",
+   "medio": "Perfil",
+   "medio_url": "https://perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUWZISEUySDdRSGJBeVVlSGNPUG1pWDFoTVY3ZW0tTGZkcFhiR0tIZkpRM1VsSUl6WVVtbHVDcDQxeHJOMFVRYnBlWXZYZ2trTkptbkpPdXlQamVyeU5vRHB0cWFNWmNGUWhv?oc=5",
+   "fecha": "2026-11-20T05:39-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-20T15:15-03:00",
    "revisada": true
   },
   {
@@ -6778,48 +6921,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://eltermometroweb.com/2026/11/avellaneda-pepo-diaz-se-pasa-al-massismo-pero-tendra-su-propio-bloque/",
-   "revisada": true
-  },
-  {
-   "id": "0462703c6ddc",
-   "titulo": "La transparencia de recursos y un polémico veto de Gastón hizo estallar al campo de Chascomús",
-   "medio": "Cronos noticias",
-   "medio_url": "https://infocronos.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWkFGZkhkcGs2TUNhNnRiMmdYaExDaG9zWURqZkVkbUZkUTQ4YXpZR3A4MDFfeFNIOW51Ui03OXc3RHJwSW9YMVlfUW5OZ0EtTnJvMDRkWTdqV0tJMHoybkwyeFhEOHFvN0ZMVGJuWTRXX3gwa21rOWRIWlN1cndvOWF3QUlNYWFMWkl6ejBqWTVPc1h6N3lYRGw3RTdGMktRbHdPV3hHaVNFQzhLMHBvU1NSekhoX2w2N1pwVk40ZzNnM01TNzlOVHk0RQ?oc=5",
-   "fecha": "2026-11-13T15:03-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://infocronos.com.ar/nota/58851/la-transparencia-de-recursos-y-un-polemico-veto-de-gaston-hizo-estallar-al-campo-de-chascomus/",
-   "revisada": true
-  },
-  {
-   "id": "1acb4702134b",
-   "titulo": "Homenaje a Leopoldo Moreau por su trayectoria política y parlamentaria en el día de su cumpleaños",
-   "medio": "Tiempo Argentino",
-   "medio_url": "https://www.tiempoar.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGpSck5MeF9fcmw4TDdyMjV2YVAzNGdkQU9leG0wWG5BZThaT1VGbk9SbUpoZDhpYUUwamJjS2Fwb1kwZEsyb3dJN0pSQmhhckRxVTRUSGFCc1lmMU41X2Q4RGxxUTk4OU56cEdxSXhMbWRsZFhicjZ6VFhsWTZrN1RaYXcwbXZuU1hEYlJGTjB5Z2tFa3pQaEQyVUFLRlh6QWFFaXpwRi1pdXZabTFncGFfbGlPUDlxdWYyWGY1REJLWHdQQ1hzMTlVTmRPSUhsZTZz0gHYAUFVX3lxTE41dzA2dW5icGpnMWJybjlfbnhkbVc1Tm92Q1BLSE5oZnBoZklGcTAwNEFfVUtvY0pwSjlCMEZoeWxOUEMxTnZvOTBWZTBfMnFOejI4aWw1ME9wem5tcTBvY3ZOazUxa1RpaWtBM2hHRXphQlkyemE4dlNaUDFDbmNrbHZ2bzVoUFVicXdlZGNkUnFGeFhMNEtjY3dFNFVzTmxqdkZEYlkxVU5lU213blZlczNZQ0RVTEFCeVo3MUl2cXFnekYySl9lMXJfaGJ0SlpwbEN6VzExdw?oc=5",
-   "fecha": "2026-11-13T14:35-03:00",
-   "busquedas": [
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.tiempoar.com.ar/ta_article/homenaje-a-leopoldo-moreau-por-su-trayectoria-politica-y-parlamentaria-en-el-dia-de-su-cumpleanos/",
-   "revisada": true
-  },
-  {
-   "id": "90bfa7e6a726",
-   "titulo": "Pablo Garate visitó la Escuela Secundaria N° 9 y acompañó la inauguración de un nuevo espacio educativo",
-   "medio": "LU24 – Radio Tres Arroyos",
-   "medio_url": "https://www.lu24.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0NzRzNjS2JldEg3c3BYUjdhRnJ2cTlLNUxxN1dGYW5OYnFEeTRoT3BSZXZ3OXkyLVZ3VmxXSmU1Nm1sUlhsSUNSdUdsUmdLTWdBODVrbWlsTUV0aDhIVW1mR0doVzZQdzJGdktPNzdtZGoyZ01iVW55Mks2YldJM0ZDdVBDRjFzS3E2WFJOTHZzUFVnQ0ljX1dsUVpnNjJlWXJBQTNaS2lmdk54Q2hxMk13?oc=5",
-   "fecha": "2026-11-13T14:35-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.lu24.com.ar/locales/pablo-garate-visito-la-escuela-secundaria-n-9-y-acompano-la-inauguracion-de-un-n",
    "revisada": true
   }
  ]
