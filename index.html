@@ -101,6 +101,27 @@ details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0
 @media (prefers-color-scheme:dark){.wa{background:#163626;color:#7FE0A8}}
 .wa svg{width:17px;height:17px}
 
+
+/* Gráficos de las tarjetas: dirigentes, logos y cobertura */
+.tema-cabeza{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+.rostros{display:flex;align-items:center}
+.rostro{position:relative;width:46px;height:46px;border-radius:50%;margin-right:-10px;border:3px solid var(--hoja);
+  background:linear-gradient(140deg,var(--cobalto-2),var(--cobalto));color:#fff;display:grid;place-items:center;
+  font:800 15px/1 var(--sans);font-stretch:90%;overflow:hidden;flex:none}
+.rostro img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.05);mix-blend-mode:luminosity}
+.rostro::after{content:"";position:absolute;inset:0;background:linear-gradient(140deg,rgba(124,196,232,.25),rgba(20,48,110,.45))}
+.tema.destacado .rostro{width:58px;height:58px;font-size:18px}
+.rostros-mas{margin-left:16px;font-size:13px;color:var(--tinta-2)}
+.tema-cabeza .tema-meta{margin:0;justify-content:flex-end;text-align:right}
+.logo{width:18px;height:18px;border-radius:4px;vertical-align:-4px;margin-right:6px;background:var(--hoja);box-shadow:0 0 0 1px var(--linea)}
+.fuentes a strong{display:flex;align-items:center}
+.cobertura{display:flex;align-items:center;gap:10px;margin:2px 0 14px;font-size:13px;color:var(--tinta-2)}
+.pila{display:flex}
+.pila img{width:24px;height:24px;border-radius:50%;background:#fff;border:2px solid var(--hoja);margin-right:-7px;box-shadow:0 0 0 1px var(--linea);object-fit:contain;padding:2px}
+.barra-tono{height:6px;border-radius:6px;background:var(--linea);overflow:hidden;margin:0 0 14px}
+.barra-tono i{display:block;height:100%;background:var(--neu)}
+.tema[data-tono=positivo] .barra-tono i{background:var(--pos)} .tema[data-tono=negativo] .barra-tono i{background:var(--neg)} .tema[data-tono=mixto] .barra-tono i{background:var(--mix)}
+
 /* Redes y entrevistas */
 .grilla{display:grid;gap:16px}
 @media(min-width:760px){.grilla{grid-template-columns:1fr 1fr}}
@@ -226,6 +247,12 @@ function $(id){return document.getElementById(id);}
 function fechaLarga(d){return DIAS[d.getDay()]+" "+d.getDate()+" de "+MESES[d.getMonth()];}
 function hm(d){return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");}
 function hace(d){var m=Math.round((Date.now()-d)/60000); if(m<1)return"recién"; if(m<60)return"hace "+m+" min"; var h=Math.round(m/60); return h<24?"hace "+h+" h":"hace "+Math.round(h/24)+" días";}
+
+function logo(d){return d?'<img class="logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain='+encodeURIComponent(d)+'&sz=64">':"";}
+function slug(n){return n.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");}
+function iniciales(n){var p=n.split(/\s+/).filter(Boolean);return((p[0]||"")[0]+((p[p.length-1]||"")[0]||"")).toUpperCase();}
+function rostros(lista){if(!lista||!lista.length)return"";var v=lista.slice(0,4);
+  return'<div class="rostros" aria-label="'+esc(lista.join(", "))+'">'+v.map(function(n){return'<span class="rostro" title="'+esc(n)+'">'+esc(iniciales(n))+'<img alt="" loading="lazy" src="fotos/'+slug(n)+'.jpg" onerror="this.remove()"></span>';}).join("")+(lista.length>4?'<span class="rostros-mas">+'+(lista.length-4)+'</span>':"")+'</div>';}
 function wa(texto){return "https://wa.me/?text="+encodeURIComponent(texto);}
 function json(u){return fetch(u+(u.indexOf("?")<0?"?":"&")+"v="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
 
@@ -261,20 +288,29 @@ function pintarFiltros(){
 function pintarTemas(){
   var lista=(ED.temas||[]).filter(function(t){return!filtroPersona||(t.dirigentes||[]).indexOf(filtroPersona)>=0;});
   if(!lista.length){$("temas").innerHTML='<p class="vacio">No hay temas para este filtro en la edición.</p>';return;}
+  var max=Math.max.apply(null,lista.map(function(t){return t.cantidad_notas||1;}));
   $("temas").innerHTML=lista.map(function(t,i){
-    var princ=(t.principales||[]).map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener"><strong>'+esc(n.medio)+'</strong><span>'+esc(n.titulo)+'</span></a></li>';}).join("");
+    var princ=(t.principales||[]).map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener"><strong>'+logo(n.dominio)+esc(n.medio)+'</strong><span>'+esc(n.titulo)+'</span></a></li>';}).join("");
     var otras=(t.otras||[]);
-    var otrasHtml=otras.length?'<details class="otras"><summary>También lo publicaron '+otras.length+' medios más</summary><ul>'+otras.map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.medio)+'</a></li>';}).join("")+'</ul></details>':"";
+    var otrasHtml=otras.length?'<details class="otras"><summary>También lo publicaron '+otras.length+' medios más</summary><ul>'+otras.map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+logo(n.dominio)+esc(n.medio)+'</a></li>';}).join("")+'</ul></details>':"";
     var share="*"+t.titulo+"*\n"+(t.resumen||"")+"\n\n"+((t.principales||[])[0]?(t.principales[0].medio+": "+t.principales[0].url+"\n\n"):"")+"Clipping Renovador: "+SITIO;
     return'<article class="tema'+(i===0&&!filtroPersona?" destacado":"")+'" data-tono="'+esc(t.tono||"neutro")+'">'+
-      '<div class="tema-meta"><span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span><span>'+(t.cantidad_notas||((t.principales||[]).length+otras.length))+' notas sobre el tema</span></div>'+
+      '<div class="tema-cabeza">'+rostros(t.dirigentes)+'<div class="tema-meta"><span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span></div></div>'+
       '<h3>'+esc(t.titulo)+'</h3><p class="resumen">'+esc(t.resumen)+'</p>'+
+      coberturaHtml(t,otras,max)+
       ((t.dirigentes||[]).length?'<div class="personas">'+t.dirigentes.map(function(p){return"<span>"+esc(p)+"</span>";}).join("")+'</div>':"")+
       '<ul class="fuentes">'+princ+'</ul>'+otrasHtml+
       '<div class="acciones"><a class="wa" href="'+wa(share)+'" target="_blank" rel="noopener">'+WA_SVG+'Compartir</a></div></article>';
   }).join("");
 }
 
+
+function coberturaHtml(t,otras,max){
+  var total=t.cantidad_notas||((t.principales||[]).length+otras.length);
+  var vistos={},logos=[];((t.principales||[]).concat(otras)).forEach(function(n){if(n.dominio&&!vistos[n.dominio]&&logos.length<9){vistos[n.dominio]=1;logos.push(n.dominio);}});
+  return'<div class="barra-tono" title="Cobertura relativa"><i style="width:'+Math.max(8,Math.round(100*total/max))+'%"></i></div>'+
+    '<div class="cobertura"><span class="pila">'+logos.map(function(d){return'<img loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain='+encodeURIComponent(d)+'&sz=64">';}).join("")+'</span><span>'+total+(total===1?" nota":" notas")+' sobre el tema</span></div>';
+}
 var tuitsCargados=false;
 function pintarRedes(){
   var r=ED.redes||[];

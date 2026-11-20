@@ -9,6 +9,7 @@ Uso: python3 scripts/armar_edicion.py
 """
 import json
 import sys
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -36,8 +37,10 @@ def main():
         if not n:
             faltan.append(i)
             return None
-        return {"medio": n["medio"], "titulo": n["titulo"], "url": n.get("url_original") or n["url"],
-                "fecha": n["fecha"]}
+        url = n.get("url_original") or n["url"]
+        base = n.get("url_original") or n.get("medio_url") or ""
+        dominio = urllib.parse.urlparse(base).netloc.lower().removeprefix("www.")
+        return {"medio": n["medio"], "titulo": n["titulo"], "url": url, "fecha": n["fecha"], "dominio": dominio}
 
     temas = []
     for t in cur.get("temas", []):
@@ -47,7 +50,7 @@ def main():
             continue
         temas.append({"titulo": t["titulo"], "resumen": t.get("resumen", ""), "tono": t.get("tono", "neutro"),
                       "dirigentes": t.get("dirigentes", []), "principales": princ,
-                      "otras": [{"medio": o["medio"], "url": o["url"]} for o in otras],
+                      "otras": [{"medio": o["medio"], "url": o["url"], "dominio": o["dominio"]} for o in otras],
                       "cantidad_notas": len(princ) + len(otras)})
 
     redes = []
