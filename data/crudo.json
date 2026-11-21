@@ -1,9 +1,25 @@
 {
- "generado": "2026-11-21T07:09-03:00",
- "total": 557,
- "nuevas_ultima_corrida": 14,
- "errores": [],
+ "generado": "2026-11-21T08:08-03:00",
+ "total": 558,
+ "nuevas_ultima_corrida": 13,
+ "errores": [
+  "\"Sergio Massa\": HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "0c63dbc8e1ee",
+   "titulo": "El PJ bonaerense con un Congreso virtual y una evidente desconexión interna",
+   "medio": "La Tecla",
+   "medio_url": "https://www.latecla.info",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG9PZng2OE5RcFFyb3lHdEhBMlNuQVpOSldmVzhVbVJiVG1rQkNBb1J3NkxLZVotRmhQTThoUER6blo3WFdnOUEzM3hyZWxoX29DMkJUM1Nibm9raVJyOS1idzhpM1E5Q3MtM041a3lDbm1fT2VjcjNraHdFRjQ1azlmSGlkY3dlcGZOOFlZd3JLeTZHRk5qUjh3VkVORmR6eF90QUZWOGJ6cW8?oc=5",
+   "fecha": "2026-11-21T07:32-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T08:07-03:00",
+   "url_original": "https://www.latecla.info/171339-el-pj-bonaerense-con-un-congreso-virtual-y-una-evidente-desconexion-interna",
+   "revisada": true
+  },
   {
    "id": "753ffa4dc261",
    "titulo": "Nueva encuesta del consultor más anti K: inesperado empate en la punta",
@@ -41,7 +57,8 @@
    "fecha": "2026-11-21T02:04-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T02:16-03:00",
    "url_original": "https://mundogremial.com/el-peronismo-sin-paso-postura-de-las-tribus-y-el-dia-despues-del-acto-de-san-fernando/",
@@ -1565,7 +1582,8 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0NYemRHR2YtbDhWNHNpWkhBU3BtcjM2MjVWbUxtZlVjT0NWSFBtVG51MnNkY3NJMmgwbmdlQVdMNHd5X3c4MWJwa2RRVmZtRGVuYlhWdjNZNjlTRk4yaWRfOHh2YzJyOFBCQzJFQk5xT0k5M0dBUlU3NVlySUVXQmlyWlBybEttOVpmMjR4TWRyRVg0X2Nia2dWeFZNSFlITGJSMTJJZW8zRUptU0tBcV9yT3M4WWppS2owaUZPY9IBxAFBVV95cUxQYmR4b1hOX1ROOUFJZUFRYWtFZEE5cEc0S0VvdGVqbERYNkt2RWxCNk9YdjluWkJzamRmbDVVM3ZIV3M5OC1GYmtyTkNXOFY2MGRQQTd6c1NRSTNCRlZLMUJacmFzUDNIa2l1cEdCMnRMSWNtNXBIN2VGcy1kUUI4WkJ6REJyZndZYldhalJDbTE2UDRtM2pYQVIxVFBoRW9IbWNoSENjRjFwbzZJYWxEZW5OTm15SXNuSHQzcWMzRk54VWZ1?oc=5",
    "fecha": "2026-11-20T09:49-03:00",
    "busquedas": [
-    "encuesta \"Sergio Massa\""
+    "encuesta \"Sergio Massa\"",
+    "\"Malena Galmarini\""
    ],
    "visto": "2026-11-20T10:37-03:00",
    "url_original": "https://noticias.perfil.com/noticias/politica/encuesta-milei-tiene-62-por-ciento-de-imagen-negativa-y-31-de-positiva.phtml",
