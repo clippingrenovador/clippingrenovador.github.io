@@ -1,9 +1,37 @@
 {
- "generado": "2026-11-21T04:36-03:00",
- "total": 547,
- "nuevas_ultima_corrida": 13,
+ "generado": "2026-11-21T06:08-03:00",
+ "total": 554,
+ "nuevas_ultima_corrida": 20,
  "errores": [],
  "notas": [
+  {
+   "id": "753ffa4dc261",
+   "titulo": "Nueva encuesta del consultor más anti K: inesperado empate en la punta",
+   "medio": "Clarin.com",
+   "medio_url": "https://www.clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb045ZXUtZkNnQ1FWeDM5VXE0RmRtMHhYdTVibDBVRFl6SFhIeGxFbERCdW05SUQyalFlWTVfdTlRX2h0a1NHTnFNYTVhTGY1bTFxbjBkRzJOZ2RnWk5mTmFLNjVzVTdCZ19GYXhTUnlDUG9pTXQ2d21UdHU3TnU0c2NfRmlkemxEWmNUZUhzWHpYUDZoWEQ2ZEFMTHRHLUdhQWc1Y3BJNkQ?oc=5",
+   "fecha": "2026-11-21T06:00-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.clarin.com/politica/nueva-encuesta-consultor-anti-k-inesperado-empate-punta_0_heYF0KbS67.html",
+   "revisada": true
+  },
+  {
+   "id": "6827a24a0d14",
+   "titulo": "Milei puso en marcha su estrategia electoral para evitar una interna con Bullrich y complicar los planes de Kicillof",
+   "medio": "TN",
+   "medio_url": "https://tn.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMnJEd3U5VTNfVU5kTTU0aXlndElmYjVMNENyODUyek5CdzdIaDh0WnFJR2JMSVMxN3g1MDZZN3RtbGNaZ2Y4eU1WQU91b0w4ZUZuREFSVVpOTE5sc09ZaXlnRUZQMWstWXBHU1BoLVZpSmN3T2VmWnRsUlFKT0xwRjFHX0VrekFUb1dkOFM1WTBQLVZia21ZOHhmM3dNMmhlcDYydmctUTJiNUlkcmswRmRDLTREQ1pvVW9IOVJ1dzZVNkVISVJkQ3pGSEJmQlZuNW9nbmQxQmRSWEV3RDVKcVAyeW1BTkRObTlV0gH_AUFVX3lxTFBndDNTalpmc01IYXpmeGt0dEZ4SHRCV2hVaVFwVVctNFdScHdPeHRpMU1iUUdPSzUtQnFUZ3l4ZjM2dkp6MTAxUUg5OFctMVQ3VGpsLU9aZENhOVVBWHBiNXRQT0dGS001bFVVNk15dUxtZDY4S1FyYV94STJpcjJ0alRMTGhMUzk1LXZzNDY4M01LVk5ZaTYtWWlUR2ZaZHVOSHpKRm5iaEJscHRGZDc5VG5WSWU1SXVfNEphNGhsQl8tNlJ3YXpxN0hNVGowcDdCenhnVm1KV2RCNWJ2dzY0Q0JwQnYzNF9jQUtRX25jTWdtRVBBcjctMnlzeHNKSQ?oc=5",
+   "fecha": "2026-11-21T05:29-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://tn.com.ar/politica/2026/11/21/milei-puso-en-marcha-su-estrategia-electoral-para-evitar-una-interna-con-bullrich-y-complicar-los-planes-de-kicillof/",
+   "revisada": true
+  },
   {
    "id": "8cb88f734a31",
    "titulo": "El peronismo sin PASO: postura de las tribus y el día después del acto de San Fernando",
@@ -849,6 +877,20 @@
    "revisada": true
   },
   {
+   "id": "e447586ad67c",
+   "titulo": "Milei celebró la llegada de Tesla con un video hecho con IA",
+   "medio": "Revista Noticias",
+   "medio_url": "https://noticias.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2hDc1BjY19kTnJOVnRxY0w4ZFA5dC1YU201aWZWa2RHUU05cHM1MG1fY3RKVk4ydHJjOW5RMVFFZUxKUFZDa054M1J3dGJNSFVFOFpILXR6bXFuMllmdUZzVEhsbEpaMTRsb3ZVNXVvaHROQU1oWHhGaUs3X3JhQU1aWGltUU8xalJZNmxzRlcyU29XTDc4d3hxY0pZbGNpbXdOVDNLYXRBSkhQQXdQcNIBtgFBVV95cUxNa0pLS0REVHE0Sy1rZkhJTFpheGZUR2dUUFJvMlFpMFhHNHAxMGxDSXJqQ3RESmJucDFFQW15VUE2NlFnOXFsQmFia2F4Mnl4YmQydk5lejRpNU1CdE82M1BHX1JMZnpDa1hFa25SVmdubUZ6d2d4TXVWU1c1cWNLU1Q1bWpjQkFPZExfUE9lT3ZVSWNHTU5rdklqS0xncFVVWnJtbE5nZVUyRHFyVzFFTHd1NWtQdw?oc=5",
+   "fecha": "2026-11-20T13:54-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://noticias.perfil.com/noticias/politica/milei-celebro-la-llegada-de-tesla-con-un-video-hecho-con-ia.phtml",
+   "revisada": true
+  },
+  {
    "id": "2d3743e069a4",
    "titulo": "La histórica casa de Raúl Alfonsín pasó a formar parte del patrimonio de Chascomús",
    "medio": "Agencia DIB",
@@ -1225,6 +1267,20 @@
    "revisada": true
   },
   {
+   "id": "4335b00ed0c5",
+   "titulo": "Qué leer esta semana: “Yo digo paralítica”, la ley de la selva y qué aprendió (o no) el peronismo",
+   "medio": "Infobae",
+   "medio_url": "https://www.infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODZBQnQtMDJjMF9BWHBzOEl0Z1VXOXZQY1JUNmgtR2dENUt4WmJCeXVBN3BDSWRTdG01TzdkRU8tdUo4Rmh5c3VHSVNVc3lhdFZJU0tOR2M4SU41aXFlbzFaaktYTWtWM0JIbFlPaGxHNnJ6UG1TN1FFMjg0QnpNTXFZdWlWQkZ6ZWN0VnNGb3g5bDhybGVRV0dha2xfVHBuS2p0ZENyazRzV2MzMkUwS1RUTm9QWE90cW5PZG5sc2Y2RUhYRGlacdIB4wFBVV95cUxPX0lwa2UyR1lLdGp6cnNvMmt5em4ybURybm5ZY1N2N1hyRkxObXB5ZERlSDYzRlJOdTFOT1I5YzBtUnBLTmlqNzBCXzhINlcxTnRHRUFXMDZ0V2JPTS1halNuRWFqRUc4WlV4Tmhtd2RLWG9fWHhZSGJBVUFvX2dxQnVab19BZ3hLanV4SFJYVzF0bm1qNjVnMnBkTXpnTmsyT3FzMlc1U3dsQjluWjQtVkI0d3pWU1Y1X256UEptc2F5eWNYOERmYzk5bTVzdm5VTURjSDRxRGhTUDR0X0UtaGE0bw?oc=5",
+   "fecha": "2026-11-20T11:01-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.infobae.com/cultura/2026/11/20/que-leer-esta-semana-quiero-vivir-la-ley-de-la-selva-y-que-aprendio-o-no-el-peronismo/",
+   "revisada": true
+  },
+  {
    "id": "f70bdcb8775b",
    "titulo": "Perón volvió por IA, pero el proyecto de un peronismo de liberación sigue esperando que lo llamen",
    "medio": "Flipr.news",
@@ -1563,6 +1619,20 @@
    "revisada": true
   },
   {
+   "id": "a437d91fc978",
+   "titulo": "Municipios en alerta: contención del gasto por la merma en la coparticipación nacional",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1ZVbHhZOUg5VXdCMTJ1WnBzSTRvd2R4UkdwcVpNdEFlUTNtaHZWYVhJdFFGQ1dPbmQ5T3VHMmlLNVA1TTZyMDNpQ3VUU2JWcEdmb1pVVDZBS0Q4Y3Vjdk9MU1I4anZWTkFTaVRoSjg5N0hsUFFraHhxU2lsdXVaMEJJRmc5dUZWbTBXc2xoYU9BNWgwRm1xTDd4SWhEZFNWMlBrOUhabTlmZFVqLW14MzFvdnNDY0hOV0hacXhoVkRVQ1JVUnRRRjQzRDQ?oc=5",
+   "fecha": "2026-11-20T09:15-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.perfil.com/reperfilar/municipios-en-alerta-contencion-del-gasto-por-la-merma-en-la-coparticipacion-nacional-av0hM6V6BteP",
+   "revisada": true
+  },
+  {
    "id": "0e072cb13b4f",
    "titulo": "Kicillof convoca a intendentes tras el acto de Massa",
    "medio": "Impacto Castex",
@@ -1676,6 +1746,20 @@
    "revisada": true
   },
   {
+   "id": "acb4767bb81c",
+   "titulo": "Verano 2027: Ya se pueden sacar los pasajes en tren para viajar a la costa en hasta 6 cuotas sin interés",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMEZVZzJEVndtb3pxUmo5aklsUFpqZ3J5bk9XRWJXVFFVTlc0SWVIMTFJSXZXYnJMZ2NnZWprVXFybHJ3Q2VnTjZLTmhlRjJMbVgtT2t2UUR0OHRLREFZSFNrNkRvbWJGYTc3X2pULXFsU2pQOEd3MVg1Q2RqN3EwSWhrckIxaWxjNWpORVFuX3VYelE3MGhNdVZJaE5TRVZfV2h3ckVLb1FNbVhBaVVWTlhvaEVjQ2lueFdvOFU0WVlOSDRreUlWcHN2RHN6QlU2enBIRGlvQW1ueml0SC1fYktB?oc=5",
+   "fecha": "2026-11-20T08:22-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.perfil.com/economia/verano-2027-ya-se-pueden-sacar-los-pasajes-en-tren-para-viajar-a-la-costa-en-hasta-6-cuotas-sin-interes-aukQm5u6byW4",
+   "revisada": true
+  },
+  {
    "id": "2a230c043cae",
    "titulo": "Chacabuco inauguró la nueva sede de la Fiscalía Descentralizada",
    "medio": "Infonoroeste",
@@ -1705,6 +1789,20 @@
    "revisada": true
   },
   {
+   "id": "bb3093fe2903",
+   "titulo": "Cuánto ganan los encargados de edificios en noviembre: salarios por función y adicionales vigentes",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeElQWkdySVlMazlySWU5MS0xV1dzYl9hODRmTGRQMk5ZeGtUNW5wX2N3ZXdHQ0RfcTlXZ2EtRkE4NXRBS284bU5uN2kzcDJsdFhyeFhlYkJ5QmFtNEZ1N2h4SFZMZHg3TFVkVnVJb0Q5S0ZSRWpZWk5LMUtQOVNWOVBkUGJBWjlHSnUwQTZrY1JOTGpEYmUwc2NxVkotN3hRcElpR21Ja25sSmtGSjRXVHVBMjBFaFU?oc=5",
+   "fecha": "2026-11-20T07:30-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.perfil.com/economia/de-cuanto-es-el-salario-de-los-encargados-de-edificios-en-noviembre-a40-alZ4d0a6c4GS",
+   "revisada": true
+  },
+  {
    "id": "2ef454e53143",
    "titulo": "Río Negro: Weretilneck controla los tiempos electorales frente a una oposición fragmentada",
    "medio": "LA17",
@@ -1716,6 +1814,20 @@
    ],
    "visto": "2026-11-20T09:15-03:00",
    "url_original": "https://lu17.com/contenido/158493/rio-negro-weretilneck-controla-los-tiempos-electorales-frente-a-una-oposicion-fragmentada",
+   "revisada": true
+  },
+  {
+   "id": "d2d32da3c6af",
+   "titulo": "Padre, perdona nuestros pecados",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVENSeUwxWXdGRmE4XzdvNjRoZjB6LU5TLVdNVFZiZW5yam92MkpkSzdyNm8yeXdKS3ZjTk1nbk1lc3E1WF9wRENjcWFra2tKQTc2Q1VkVVYxME8zdUVlNTVfem9RaDhtLWhUMU4xc1RoQThMLWRPQzFXeXpDMlJZQg?oc=5",
+   "fecha": "2026-11-20T07:28-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T06:07-03:00",
+   "url_original": "https://www.perfil.com/sociedad/padre-perdona-nuestros-pecados-araFP8x5U1D4",
    "revisada": true
   },
   {
@@ -7852,20 +7964,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.quepasaweb.com.ar/desde-la-presidencia-del-hcd-de-tigre-cruzaron-al-massismo-convirtieron-una-decision-legislativa-en-una-operacion-politica/",
-   "revisada": true
-  },
-  {
-   "id": "e4bc5f8d24fb",
-   "titulo": "Convicción Federal demora su postura sobre la suspensión de las PASO",
-   "medio": "Identidad Correntina",
-   "medio_url": "https://www.identidadcorrentina.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYUk5M0ZqaHhEaEVCcktyY25rV3FlUTZ6OHVRTk1RYk5aMnZBd2trd1diZnBLS3BGUzJnbzQ2cmNUWUtNekhVT0xOSVEwTXlOX1J0eWNLTVJQcTdmald3cHZlSDk2ZGFtWE1qYUpCU1ZOb0taUDc5amwzUGd6LWdLdUxUNlV5QXR0QTlqZEZzYXhwa0tpTnFOZXNzMFFDNWdaRnQxRm5mQ0hXZU9qbXl1N1dfcXhTel84NzV0NlZ3TG4?oc=5",
-   "fecha": "2026-11-14T06:07-03:00",
-   "busquedas": [
-    "encuesta \"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46047_conviccin-federal-demora-su-postura-sobre-la-suspensin-de-las-paso.htm",
    "revisada": true
   }
  ]
