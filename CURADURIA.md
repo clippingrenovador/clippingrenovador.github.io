@@ -34,6 +34,7 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 12. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
 13. Guardar: `git add data semanal.html && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
 
+- **Hechos vs. interpretaciones:** no afirmar como hecho acuerdos, negociaciones o intenciones que solo aparecen como lectura de los medios (por ejemplo, "Massa y Cristina acordaron"). Si no hay confirmación de los protagonistas, atribuirlo: "según La Nación…", "distintos medios lo leyeron como…". Afirmar solo lo confirmado (por ejemplo, "Cristina Kirchner respaldó la postulación de Guillermo Michel").
 - **Equilibrio entre dirigentes:** por edición, como máximo 2 entrevistas y 3 tuits de un mismo dirigente (salvo Sergio Massa). Si alguien tiene muchas apariciones, elegir las de mayor repercusión o más distintas entre sí. Lo mismo cuenta para lo que queda de ediciones anteriores: si ya hay 2 entrevistas de esa persona vigentes, no sumar otra salvo que sea más importante (y en ese caso retirar la más floja).
 - Descartar siempre homónimos (personas con el mismo nombre que no son nuestros dirigentes) y notas de medios del exterior que no hablen de la política argentina.
 

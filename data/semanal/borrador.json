@@ -1,12 +1,12 @@
 {
  "id": "2026-11-21",
- "generado": "2026-11-21T07:45-03:00",
+ "generado": "2026-11-21T08:11-03:00",
  "titulo_semana": "Semana del 15 de noviembre al 21 de noviembre",
  "rango_dias": "15–21",
  "rango_mes": "nov",
  "claves": [
   "El 17 de noviembre, Día de la Militancia, Sergio Massa encabezó en San Fernando un encuentro con el peronismo federal, gobernadores e intendentes, sin la participación de Axel Kicillof, con la mira puesta en un frente para 2027.",
-  "Cristina Kirchner y Sergio Massa acordaron impulsar al diputado Guillermo Michel para el Consejo de la Magistratura en representación de la Cámara de Diputados.",
+  "Cristina Kirchner respaldó la postulación del diputado Guillermo Michel para el Consejo de la Magistratura en representación de la Cámara de Diputados, tras una negociación en el bloque en la que participó Cecilia Moreau.",
   "Ante la posible suspensión de las PASO, el peronismo discute cómo definir sus candidaturas. Kicillof busca sostenerlas en la provincia y los dirigentes del Frente Renovador sostienen que el espacio irá unido.",
   "El Frente Renovador amplió su estructura en Tierra del Fuego, Chaco y Río Negro, y Massa evalúa nombres para la fórmula presidencial.",
   "Malena Galmarini respondió al ministro Caputo por sus burlas al encuentro de San Fernando, con amplia repercusión en medios nacionales y provinciales."
@@ -81,8 +81,8 @@
   },
   {
    "id": "",
-   "titulo": "Guillermo Michel, al Consejo de la Magistratura con el aval de Cristina Kirchner",
-   "resumen": "Cristina Kirchner y Sergio Massa acordaron impulsar al diputado entrerriano para ocupar la banca de Diputados en el Consejo de la Magistratura. La designación fue leída como un acercamiento entre ambos sectores del peronismo. El Senado completó sus representantes y continúa la definición en la Cámara baja.",
+   "titulo": "Guillermo Michel, al Consejo de la Magistratura con el respaldo de Cristina Kirchner",
+   "resumen": "Cristina Kirchner respaldó la postulación del diputado entrerriano para la banca del peronismo de Diputados en el Consejo de la Magistratura. Según iProfesional, la propuesta surgió de una negociación en el bloque en la que participaron Cecilia Moreau y Paula Penacca. Los medios lo leyeron como un acercamiento entre el kirchnerismo y el Frente Renovador.",
    "tono": "positivo",
    "dirigentes": [
     "Guillermo Michel",
@@ -542,7 +542,7 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 552,
+  "notas_analizadas": 553,
   "medios": 243,
   "temas": 8
  }
