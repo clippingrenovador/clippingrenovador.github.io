@@ -1,9 +1,54 @@
 {
- "generado": "2026-11-21T12:09-03:00",
- "total": 579,
- "nuevas_ultima_corrida": 22,
+ "generado": "2026-11-21T13:05-03:00",
+ "total": 582,
+ "nuevas_ultima_corrida": 20,
  "errores": [],
  "notas": [
+  {
+   "id": "a891074f658e",
+   "titulo": "Marina Calabró: de los insultos de Milei a la vocación de poder de Massa",
+   "medio": "NewsDigitales",
+   "medio_url": "https://www.newsdigitales.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3RYcFN0akxHOV92aGMycHBHdXBwTm1ucDR5bWxMYTc2eWVyNXIwaWR3Q1FjNnhheGg4Zklaa1NZNElxc1FUR2E1d0txc2FHbmhHZkNLTzZkQzBLQ3hPV0tHMUlaUGZmYjdMSnZ4MjI5ZkNIRTZIOV8xbmVPbkx0WWJsOEcwYWEwdThsWmNBNjJJTHZoOUZNY0ZiNnZvMDI2WWNYUms2Z2tBZGFONG9SVzkzMVY?oc=5",
+   "fecha": "2026-11-21T12:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T13:04-03:00",
+   "url_original": "https://www.newsdigitales.com/nota/350645/marina-calabro-de-los-insultos-de-milei-a-la-vocacion-de-poder-de-massa/",
+   "revisada": true
+  },
+  {
+   "id": "4682a095bc2f",
+   "titulo": "Tensión máxima en el PJ: Massa suma apoyos y Kicillof mide fuerzas",
+   "medio": "» Cholila Online",
+   "medio_url": "https://cholilaonline.ar",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVRPMFh4bW5ISy1nQ1FiT2dNbUFXSXMxLURwZzZQWnRwVl9NaUhNWGllb1RvdTQ2VFQ0SnU3YTFLdFMtRV8tNFJac3JsYXV6X01DcDNNUk84QUhtZ3c1T2ZKM09nTHdzLXU0enBGazZUMjhSQVVRSFA1Y3NZdTBkdUM1RHZEUnNpU3pqaDQ1REdUOUZsWjRYYkNkV0pwRzVuS0tTT19n?oc=5",
+   "fecha": "2026-11-21T12:19-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T13:04-03:00",
+   "url_original": "https://cholilaonline.ar/2026/11/tension-maxima-en-el-pj-massa-suma-apoyos-y-kicillof-mide-fuerzas.html",
+   "revisada": true
+  },
+  {
+   "id": "b928033e121f",
+   "titulo": "Después de las peleas, Kicillof, Máximo y Massa ensayan gestos de unidad",
+   "medio": "CONFIRMADO NECOCHEA",
+   "medio_url": "https://www.confirmadonecochea.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmhyQU8tQ2hqTnVkOVR0ZHZyT1J3RVlsYWs4RExGMTRpTUZrNWg0MVpmcGJNUUhOaXdrY1FRa0pFMnNQWjRCcmFmN284VVdTY1RoZWFDQ0VtWm9rcTR2QU5BMlZZUGxCLUN1TUszU2pJanlZV2JpZGRrRkU1eHp4Z1k5d1BfZVNvU0xuYlZldnlsSWdWYnU0dDJ3bUFfQXBTWW9JTm5mcEY?oc=5",
+   "fecha": "2026-11-21T12:12-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "massismo"
+   ],
+   "visto": "2026-11-21T13:04-03:00",
+   "url_original": "https://www.confirmadonecochea.com/despues-de-las-peleas-kicillof-maximo-y-massa-ensayan-gestos-de-unidad",
+   "revisada": true
+  },
   {
    "id": "12285d3a83ff",
    "titulo": "Peronismo en revisión: las internas, Massa, Kicillof y el desafío Milei",
@@ -31,6 +76,22 @@
    ],
    "visto": "2026-11-21T12:07-03:00",
    "url_original": "https://www.identidadcorrentina.com.ar/noticia/46778_kicillof-mximo-y-massa-exhiben-seales-de-unidad-en-el-pj-bonaerense.htm",
+   "revisada": true
+  },
+  {
+   "id": "01c37242cdbc",
+   "titulo": "Kicillof mueve sus fichas para 2027 y crece la interna con Massa y Máximo Kirchner",
+   "medio": "Radio LV11",
+   "medio_url": "https://www.radiolv11.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDZNcXFhVXcyQmx3azNBMkkzQWlEcEROTVd4OUJlcE5rT1lmMVljV25nNDZua1BDUkZpXzBEM0o5YjhhYVdYRy1jYndWeWNSTll4R1E0QnNFTW9PMkZ5RTg1U1NINGR2dHJtaVhTSTFiQ3NLQUFySE8xWXFHTzZnMVh5UElMaldHZnItU0ZPN2NSMXljYkN2b3VUMUgzbVptVHF5ZzVhYkFDVWlmZUF6QXR4RzM2RTdyTlVF?oc=5",
+   "fecha": "2026-11-21T12:03-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-21T13:04-03:00",
+   "url_original": "https://www.radiolv11.com.ar/noticia/kicillof-mueve-sus-fichas-para-2027-y-crece-la-interna-con-massa-y-maximo-kirchner",
    "revisada": true
   },
   {
@@ -8321,20 +8382,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.diariopopular.com.ar/politica/tierra-del-fuego-alejandro-deanes-asume-la-conduccion-del-frente-renovador-massa-n929259",
-   "revisada": true
-  },
-  {
-   "id": "fe743d506772",
-   "titulo": "Galmarini cuestionó la reforma electoral del Gobierno y apuntó contra los indicadores económicos",
-   "medio": "www.examedia.com.ar",
-   "medio_url": "https://www.examedia.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SS3Z5Smhjc2JRb3NNR1JyQkFZWmx3bkwwRHNFd3FzT3UtaFEwY1ZCNTZnTnZfdUpuOERneVhQdWRULVY4QXI4ZGRFa2N6LUtwSWFaV2NLaFdBUGdlSnc?oc=5",
-   "fecha": "2026-11-14T12:20-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.examedia.com.ar/portada/post/88238320",
    "revisada": true
   }
  ]
