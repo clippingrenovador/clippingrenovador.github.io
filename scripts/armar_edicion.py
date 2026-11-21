@@ -250,6 +250,10 @@ def copiar_pagina_semanal():
     html = html.replace('<meta property="og:title" content="Clipping Renovador">',
                         '<meta property="og:title" content="CLIPPING SEMANAL RENOVADOR">')
     (RAIZ / "semanal.html").write_text(html, encoding="utf-8")
+    if (DATOS / "semanal" / "borrador.json").exists():
+        borrador = html.replace('"data/semanal/ultimo.json"', '"data/semanal/borrador.json"')
+        borrador = borrador.replace("<head>", '<head>\n<meta name="robots" content="noindex">', 1)
+        (RAIZ / "borrador-semanal.html").write_text(borrador, encoding="utf-8")
 
 
 if __name__ == "__main__":
