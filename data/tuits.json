@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-21T09:02-03:00",
- "total": 43,
+ "generado": "2026-11-21T10:23-03:00",
+ "total": 46,
  "tuits": [
+  {
+   "id": "2118362856353616228",
+   "usuario": "Matiasdeu",
+   "visto": "2026-11-21T10:23-03:00",
+   "url": "https://twitter.com/Matiasdeu/status/2118362856353616228",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
+     "nota_id": "356b0fc88d16"
+    }
+   ]
+  },
+  {
+   "id": "2123153547265233136",
+   "usuario": "UCRBuenosAires",
+   "visto": "2026-11-21T10:23-03:00",
+   "url": "https://twitter.com/UCRBuenosAires/status/2123153547265233136",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
+     "nota_id": "356b0fc88d16"
+    }
+   ]
+  },
+  {
+   "id": "2122734575176544682",
+   "usuario": "mojatignanelli",
+   "visto": "2026-11-21T10:23-03:00",
+   "url": "https://twitter.com/mojatignanelli/status/2122734575176544682",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
+     "nota_id": "356b0fc88d16"
+    }
+   ]
+  },
   {
    "id": "2123744862478500171",
    "usuario": "GermanGomezMza",

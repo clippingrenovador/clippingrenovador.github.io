@@ -1,12 +1,112 @@
 {
- "generado": "2026-11-21T09:03-03:00",
- "total": 561,
- "nuevas_ultima_corrida": 15,
- "errores": [
-  "\"Sergio Massa\": HTTP Error 429: Too Many Requests",
-  "\"Malena Galmarini\": HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-21T10:24-03:00",
+ "total": 568,
+ "nuevas_ultima_corrida": 24,
+ "errores": [],
  "notas": [
+  {
+   "id": "45cad97fa30e",
+   "titulo": "Massa arma un frente opositor sin definir candidato y Kicillof quiere disputar el liderazgo en las PASO",
+   "medio": "MDZ Online",
+   "medio_url": "https://www.mdzol.com",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZfN3BuVWdodW5BdjFYMFBQVHVfbWlEWEV5c3gwbWFJdUhJVEY2aU04VlNjdEZmRHBSQXkyc3l5NTNTRXdFU2lGNVRuS2JZWUk5NlowY2JJT3NLNThSYm5QajVldTFQdzdVVzl4dlJ5Z2wxbEZ3LXROQklWWjRYbkpzcnAzd0NZUC1sSW1xamdpNVl6RnNEblY5NFFxbm9DSkw4LWdUc05wUENER3ZQNkQtY2QtQUVuZjJrY1B3dV9EdmdDcFl1Y1lvdEZWRVE0dGdXMkE0Z2g0QUZPNnZVTlZMZnlrMVN0WENFSmNzZw?oc=5",
+   "fecha": "2026-11-21T10:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://www.mdzol.com/politica/2026/11/21/massa-arma-un-frente-opositor-sin-definir-candidato-y-kicillof-quiere-disputar-el-liderazgo-en-las-paso-1996957.html",
+   "revisada": true
+  },
+  {
+   "id": "b2168ce47691",
+   "titulo": "Ciberacoso y violencia digital: cómo quieren proteger a las empleadas públicas de PBA",
+   "medio": "NewsDigitales",
+   "medio_url": "https://www.newsdigitales.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWExvLXI1STJZbXhRa1JtWFZidUNHSTVmMFpVajd6aEtWQkdPZW5mTlN0SkRSZEhVeWhneDVCWG9UdXM3OG16U1NUYjE1UDJaazhHdXRjUDl4XzZUSHZPMktnc2VJSFpJdlpRMWJfUFdjZGxiWEQtdXFmY2Qxc2hPcDVwZDJnYVVSQWtZS28zX21UdGVVbFBuU2dRQkdfMU12emFsQ3hoYWpsTWd4Nm9QLXdMOEVpb2tRcE9LQTg3Umg3ektvcWc?oc=5",
+   "fecha": "2026-11-21T10:00-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T10:23-03:00",
+   "url_original": "https://www.newsdigitales.com/nota/350590/ciberacoso-y-violencia-digital-como-quieren-proteger-a-las-empleadas-publicas-de-pba/",
+   "revisada": true
+  },
+  {
+   "id": "1b09fe288ddb",
+   "titulo": "Inaugurarán en Chascomús el mural “Darwin Malvinas Argentinas” en homenaje a la memoria, la identidad y los caídos en la guerra",
+   "medio": "El Cronista | Chascomús",
+   "medio_url": "https://www.elcronista.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNakdCemdrZXUzMjdNaVZJSS10LVktUHVrTXZSM1kxU2FmUXRLSDJNZHVDeU9KV3N0Y0pkQXc4QjVhcTRnZGE4a05zSmg1TElEcmp0Ynhuc2RGVVlweEVGWGY2YUxHaHFtN0Y2b3d6V0JHYkJQTjRPcHkxSlJjODRjaF9IaEVCeWQ5N1hOWF9aazh0eE1yOXFibDVVeWZxU01GRXZrUHdXZ1JqV0NnZmVwUnBuSEh4ZnB1OXVmbEk1UnhDSkFlenI4RWN0bHlSeU9iR0VqdzFmSDA4OUxXZmktR1FZaUI?oc=5",
+   "fecha": "2026-11-21T10:00-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T10:23-03:00",
+   "url_original": "https://www.elcronista.ar/inauguraran-en-chascomus-el-mural-darwin-malvinas-argentinas-en-homenaje-a-la-memoria-la-identidad-y-los-caidos-en-la-guerra",
+   "revisada": true
+  },
+  {
+   "id": "b6fb776871d8",
+   "titulo": "Con las PASO en discusión, el peronismo debate cómo elegir su candidatura",
+   "medio": "El Argentino Diario",
+   "medio_url": "https://elargentinodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjEwMVlsR0Q0WFJQbU9aRDNCX2RDODBSZEN4WVRlZVYwNFhjQlhtWV9IUzIyc3c4dW03WnVVWWFUWlNCaEtvdHJYNWg4UUhTTGpUYXpyV25lOUt6VlJHM1hFNGxOMzh5UzI3UkdTZnBZQkN2WTBjV3BDUUI2RVJwQkRYV3ZjcGVselQ2eFdhaG1YdmhSdEg1LVVlOFNWUEd4T0JEZDdBOTdObGlYemEzM21TTEdYak9HWFVjOHVrRTBVX0M2?oc=5",
+   "fecha": "2026-11-21T09:38-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://elargentinodiario.com.ar/politica/21/11/2026/con-las-paso-en-discusion-el-peronismo-debate-como-elegir-su-candidatura/",
+   "revisada": true
+  },
+  {
+   "id": "1f1ce72bae11",
+   "titulo": "Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata y pidió unidad en el peronismo",
+   "medio": "www.puntocapitalnoticias.com",
+   "medio_url": "https://www.puntocapitalnoticias.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdzJKRWR2a1ViLWcxeDh4WTZKYjBaQm5DTzd0SF96cThLNmVyZHBEaHY1LXR2MGxDYU5TWnk0VUNncFhkWURfQm5ndkNfOHhsMG9Pcml5WDNzUWNQQVBaOGUtckkxT1ZsVVZTYlkzN1M4dVE3ZWpySW1LdVNDbTlzY1BBM2VGVTExVFpUSXpqWnJBZFJZMmNoQUEtWmd2czFsdFFCVm5sU1p0X2s4N191MEQ2QU1qOUJsX21ZNV92T0hGRkNnN0EwdF9vZ01yU29KWF83Wg?oc=5",
+   "fecha": "2026-11-21T09:27-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://www.puntocapitalnoticias.com/massa-confirmo-que-sus-intendentes-acompanaran-a-kicillof-en-la-plata-y-pidio-unidad-en-el-peronismo/",
+   "revisada": true
+  },
+  {
+   "id": "b1d5b14bfed6",
+   "titulo": "Massa y Kicillof tensan la interna peronista rumbo a 2027",
+   "medio": "Diario El Norte - San Nicolás",
+   "medio_url": "https://diarioelnorte.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGVnQkRqUmVjY2pLYVEwajJRTEZvQWFqdk82b2JTN3J0R0JOV3pPZjNYdFVwNXhjdEFXQ0NfMTNubkZiOHRWbnVxVDE5UnE1Z2lvRVNYUnR4aC1VSTBRUURhLWs0c2pIRmtrdmlpd0VmV0gyd1FrOHZCaTZ3SExHbW1tUkUtQzRDZ04tX0c4WGM?oc=5",
+   "fecha": "2026-11-21T09:03-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "massismo",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://diarioelnorte.com.ar/massa-y-kicillof-tensan-la-interna-peronista-rumbo-a-2027/",
+   "revisada": true
+  },
+  {
+   "id": "89e52748f6ac",
+   "titulo": "El peronismo pausa la interna y Máximo será nombrado presidente del Congreso del PJ bonaerense",
+   "medio": "DataClave",
+   "medio_url": "https://www.dataclave.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV2dpQ29Id2lHaGZsNDZaRTN3NVpfSDJzVU9fZ3JSLWIyOW5lVmF6LXBWWDBoT2xya20zVFd2TV9SQm9GbF94VTNwRUxHNUtmWDJhekVkNlNidU1Kc21NTUZjeUlXbWlKVlhpdDlYSlhSNnk5M3NReGROMGtnc0VtU0FscHIzZ00yRFBna2RtQWRHQlEwSHRFODRoaERQMTlOSklSQ3JkNUJlQXowNkxsaG5Ec2ZTcUlYbFJPdnRFalMxZFdjSWpGdmVacUZVSDVWNmVPbWw5VFN3WlczbUNPeUEtZ2swSm9qV1Z30gH6AUFVX3lxTE1URlJkSmxMRGlRdEJ1R3dYXzYtOXJRT1ZLbGpEMmh5ZldZbXItTjY4WWluZUxhNVJLcnc2V2lsZXhGZHJ6LTZZZHFZcTlMR0tVRkMzSFhtVG15SnA2SmJFMnpva1RGRlNuaF9WcjhUbWhvWWdsM0tLTGt3VDA4ZUkzMnp4cXk1b0RMLUJTaGFSZkNMQVdDc01vWjIwc0NodXJmVVFTNWVxVTJMZ25kNHc0VmFnVW9rWDg0aUctWTJqNWZxSlVQeGRRSTRKMGFNczBBVG5mOU9mMHhLcXdXbVJBbTBKYnJnbGtlcEFWZFY4VzZRZzNMZ0JKdmc?oc=5",
+   "fecha": "2026-11-21T08:27-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://www.dataclave.com.ar/poder/el-peronismo-pausa-la-interna-y-maximo-sera-nombrado-presidente-del-congreso-del-pj-bonaerense_a6b0097a4b72287ba377e30de",
+   "revisada": true
+  },
   {
    "id": "c95b4d53dee2",
    "titulo": "Experimentando privaciones",
@@ -15,7 +115,8 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQb19BWG9taFFKMXNCZFpkdUpOWFpTaFo4STZtZ1VLUWVJSlIzYmh5SDdKNkp2QzNaSGFKckwyTU1HSE9hSFVZY0V6X2FVZHBvQ245cmxMVDlmX0p0czdVVWFoU0hsdmN0OEJ4WldoY2xudjc2Zmc?oc=5",
    "fecha": "2026-11-21T08:14-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-21T09:02-03:00",
    "url_original": "https://cityenlinea.com.ar/a-nota/233282/experimentando-privaciones",
@@ -46,7 +147,8 @@
     "\"Frente Renovador\"",
     "encuesta \"Frente Renovador\"",
     "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-21T09:02-03:00",
    "url_original": "https://noticiasargentinas.com/politica/con-las-paso-en-riesgo--massa-engrosa-apoyos-para-la-paritaria-del-pj-y-kicillof-confia-en-sus-chances_a6b00b693f48d6d3ab480ba16",
@@ -410,6 +512,21 @@
    ],
    "visto": "2026-11-20T21:05-03:00",
    "url_original": "https://www.lapoliticaonline.com/provincia/kicillof-maximo-y-massa-cruzaron-gestos-de-unidad-en-la-antesala-del-congreso-del-pj-bonaerense/",
+   "revisada": true
+  },
+  {
+   "id": "c43b3a60e3ac",
+   "titulo": "Cecilia Moreau ratificó la unidad del peronismo",
+   "medio": "El Eco",
+   "medio_url": "https://www.eleco.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGlaQ3dVSHN0MG51aXg0OHI2Z19TV0Y1TGVNN25pd3V6TnVwVTlDMzljQW8tOF82M2dlWElmMjh1dFctSC11N2lHbnozOEVmUTdPVl9vZHNYb0ZuWWppSm81VXZrSE9ReHNlQVd2Z0c0VFRON2pOXzJvMmwyWVlLVlZRTGllQTRWS1pZ?oc=5",
+   "fecha": "2026-11-20T19:32-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T10:22-03:00",
+   "url_original": "https://www.eleco.com.ar/nacionales/cecilia-moreau-ratifico-la-unidad-del-peronismo",
    "revisada": true
   },
   {
@@ -8057,20 +8174,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.examedia.com.ar/portada/post/88238320",
-   "revisada": true
-  },
-  {
-   "id": "c4076343d5a7",
-   "titulo": "Desde el bloque zamorista cruzaron al massismo: \"Convirtieron una decisión legislativa en una operación política\"",
-   "medio": "Que Pasa Web",
-   "medio_url": "https://www.quepasaweb.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUDMzZE94a2oyOW9rTjdhMmRkc1V6c2JPbVQxWUZRMWVKdjUySGpBdFpQNmlVTllXYTFFNFNTZFYwMGRodUpwTHF3MFBhb2RBMXVlQWRFRGRzUy1KRzBIQ0xmU0N5LXdUT2duVjl2RWFxSXlkYlFQRTZGOEFoQ2VUYVUxQm12Q0czRnd3UzR0TUZTN0tCTTE5MzY2dC1KSnBfLWFWaHU4elBVb2RwWW9JY2wycjBXZFh2cXV5MVBPLXVWS0hzZkhUOWYwbVphckpSZkxPSjMtaDlBVGw1dFY4Y0dQbEJ6VWtJ?oc=5",
-   "fecha": "2026-11-14T09:17-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.quepasaweb.com.ar/desde-la-presidencia-del-hcd-de-tigre-cruzaron-al-massismo-convirtieron-una-decision-legislativa-en-una-operacion-politica/",
    "revisada": true
   }
  ]
