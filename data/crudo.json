@@ -1,11 +1,57 @@
 {
- "generado": "2026-11-21T08:08-03:00",
- "total": 558,
- "nuevas_ultima_corrida": 13,
+ "generado": "2026-11-21T09:03-03:00",
+ "total": 561,
+ "nuevas_ultima_corrida": 15,
  "errores": [
-  "\"Sergio Massa\": HTTP Error 429: Too Many Requests"
+  "\"Sergio Massa\": HTTP Error 429: Too Many Requests",
+  "\"Malena Galmarini\": HTTP Error 429: Too Many Requests"
  ],
  "notas": [
+  {
+   "id": "c95b4d53dee2",
+   "titulo": "Experimentando privaciones",
+   "medio": "Cityenlinea",
+   "medio_url": "https://cityenlinea.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQb19BWG9taFFKMXNCZFpkdUpOWFpTaFo4STZtZ1VLUWVJSlIzYmh5SDdKNkp2QzNaSGFKckwyTU1HSE9hSFVZY0V6X2FVZHBvQ245cmxMVDlmX0p0czdVVWFoU0hsdmN0OEJ4WldoY2xudjc2Zmc?oc=5",
+   "fecha": "2026-11-21T08:14-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T09:02-03:00",
+   "url_original": "https://cityenlinea.com.ar/a-nota/233282/experimentando-privaciones",
+   "revisada": true
+  },
+  {
+   "id": "43aa53b48a3b",
+   "titulo": "OPINIÓN: Salir del sillón",
+   "medio": "Plan B Noticias",
+   "medio_url": "https://www.planbnoticias.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFJ5Z1BRdGZGRkdqbF81My01WTcwNXR1S0RqY2xNeXFsZzB5Q0g2VGhPa19zTEJzTjNTVVExM2pLNmRKTVZsUlY2T0FieFVyU2h4Q3ROUURVV3ktcHkyZkJKVjlfV3l6VDhqaFhrdWpLa0tPVFBjQ1pwTkQ5blN3bWRsdWVLUQ?oc=5",
+   "fecha": "2026-11-21T08:11-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T09:02-03:00",
+   "url_original": "https://www.planbnoticias.com.ar/index.php/2026/11/21/opinion-salir-del-sillon/",
+   "revisada": true
+  },
+  {
+   "id": "762013da1cc4",
+   "titulo": "Con las PASO en riesgo, Massa engrosa apoyos para la paritaria del PJ y Kicillof confía en sus chances",
+   "medio": "Agencia Noticias Argentinas",
+   "medio_url": "https://noticiasargentinas.com",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVjZnZ2llLTdrc2d5S20yRDZLVWR2MUpnNjhGdWR2enpqZldWZzRZNGk5U3N2azRreDNmeXpSajV5dUhDQkJiX1NHd1owS1p1M0ltcjYxLURMSlVPVTlxcm9XTjJ1QVlGR0RYTUpueVdPZW9MT0xCQzFPWUhkdmhfUE1IcTFwaUROQ0ZoTkEtb3VjaG1IbmhtLUNNOHJ6TU1XVkFoWHNFQk5wUmEyYzBTc01SSjM5YWs4dWpWYlZWRFNMVVhxbTZJM2hnMG1kS2NTLTlWanVhNTlYbzZ1aVo4Y0tuVFFxR3dnUmpiaUlQUEE0ZnBEUjZyRGNISG_SAYsCQVVfeXFMTXVsMjQtNGhLVl9MUFg4SGlDX3ptSm8yRTFCZXR0UWtwaG5Lb2QtQmhoa2pqWmN2MXdhUVk4d1RadDhiY1p1QjRJTGpMeHdaeGVBcHdoVHBmaUJnRm9Fc0c0ZlNJbmpRaVJEcHhVUXBmekFrSlkwMmZMZXBkTHRBbVBQMmlsbGRSQU4wMlJ6OE1uelJYNGd6a09PMGJXYlQ1WkU3cWJ2NmRjVWRKTXpzOFZYRzkxT2xZalo5S2pCRnhVZkUzUk11MXdDUmdDSU5ZZ3YwMHdoUnI1dVlNMUVSM1NxNVZySENfVmxpWlZURWJxWHVnUk85Ui1nOWJzQVBxRjByRHJPbDhlUnpr?oc=5",
+   "fecha": "2026-11-21T08:07-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "encuesta \"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T09:02-03:00",
+   "url_original": "https://noticiasargentinas.com/politica/con-las-paso-en-riesgo--massa-engrosa-apoyos-para-la-paritaria-del-pj-y-kicillof-confia-en-sus-chances_a6b00b693f48d6d3ab480ba16",
+   "revisada": true
+  },
   {
    "id": "0c63dbc8e1ee",
    "titulo": "El PJ bonaerense con un Congreso virtual y una evidente desconexión interna",
