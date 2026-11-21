@@ -1,21 +1,85 @@
 {
  "id": "2026-11-21",
- "generado": "2026-11-21T08:11-03:00",
+ "generado": "2026-11-21T08:13-03:00",
  "titulo_semana": "Semana del 15 de noviembre al 21 de noviembre",
  "rango_dias": "15–21",
  "rango_mes": "nov",
  "claves": [
-  "El 17 de noviembre, Día de la Militancia, Sergio Massa encabezó en San Fernando un encuentro con el peronismo federal, gobernadores e intendentes, sin la participación de Axel Kicillof, con la mira puesta en un frente para 2027.",
-  "Cristina Kirchner respaldó la postulación del diputado Guillermo Michel para el Consejo de la Magistratura en representación de la Cámara de Diputados, tras una negociación en el bloque en la que participó Cecilia Moreau.",
-  "Ante la posible suspensión de las PASO, el peronismo discute cómo definir sus candidaturas. Kicillof busca sostenerlas en la provincia y los dirigentes del Frente Renovador sostienen que el espacio irá unido.",
-  "El Frente Renovador amplió su estructura en Tierra del Fuego, Chaco y Río Negro, y Massa evalúa nombres para la fórmula presidencial.",
-  "Malena Galmarini respondió al ministro Caputo por sus burlas al encuentro de San Fernando, con amplia repercusión en medios nacionales y provinciales."
+  {
+   "texto": "El 17 de noviembre, Día de la Militancia, Sergio Massa encabezó en San Fernando un encuentro con gobernadores, intendentes y dirigentes del peronismo federal. Axel Kicillof no participó.",
+   "fuentes": [
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/politica/massa-junto-la-dirigencia-peronist/"
+    },
+    {
+     "medio": "Ambito",
+     "url": "https://www.ambito.com/politica/sergio-massa-y-el-peronismo-federal-se-reunieron-san-fernando-armar-un-frente-contra-javier-milei-n6346416"
+    },
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-distintos-espacios-del-peronismo-en-un-mensaje-hacia-la-interna-y-tambien-para-nid17112026/"
+    }
+   ]
+  },
+  {
+   "texto": "En ese acto, Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles candidatos presidenciales.",
+   "fuentes": [
+    {
+     "medio": "C5N",
+     "url": "https://www.c5n.com/politica/gerardo-zamora-sergio-unac-y-natalia-la-sota-sergio-massa-menciono-tres-posibles-candidatos-presidente-del-peronismo-n254641"
+    },
+    {
+     "medio": "Info del Estero",
+     "url": "https://infodelestero.com/2026/11/17/sergio-massa-hoy-aca-hubo-tres-candidatos-a-presidente-gerardo-zamora-sergio-unac-y-natalia-de"
+    }
+   ]
+  },
+  {
+   "texto": "Cristina Kirchner respaldó la postulación del diputado Guillermo Michel para el Consejo de la Magistratura en representación de la Cámara de Diputados.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/16/acuerdo-entre-cristina-kirchner-y-massa-para-impulsar-al-representante-del-bloque-de-diputados-del-pj-en-el-consejo-de-la-magistratura/"
+    },
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-designa-al-peronista-federal-guillermo-michel-para-el-consejo-de-la-magistratura-nid16112026/"
+    }
+   ]
+  },
+  {
+   "texto": "El Gobierno impulsa la suspensión de las PASO. Según Infobae, Kicillof busca sostenerlas en la provincia de Buenos Aires; Cecilia Moreau afirmó que, con o sin primarias, el peronismo irá unido.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/"
+    },
+    {
+     "medio": "https://diariolapluma.com.ar/",
+     "url": "https://diariolapluma.com.ar/cecilia-moreau-llamo-a-la-unidad-del-peronismo-de-cara-a-las-elecciones-de-2027/"
+    }
+   ]
+  },
+  {
+   "texto": "El Frente Renovador designó a Alejandro Deanes al frente del partido en Tierra del Fuego, y Malena Galmarini respondió al ministro Caputo por sus burlas al encuentro de San Fernando.",
+   "fuentes": [
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/politica/tierra-del-fuego-sergio-massa-reactiva-el-frente-renovador-y-pone-alejandro-deanes-al-frente-del-partido-n5428278/amp"
+    },
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/galmarini-cruzo-a-caputo-por-su-reaccion-al-evento-del-peronismo-organizado-por-massa-esta-bien-que-nid19112026/"
+    }
+   ]
+  }
  ],
  "temas": [
   {
    "id": "",
    "titulo": "Día de la Militancia: Massa reunió al peronismo federal en San Fernando",
-   "resumen": "Con la organización de Juan Andreotti, el encuentro del 17 de noviembre reunió a gobernadores, intendentes, legisladores y a parte de la CGT, sin Axel Kicillof. Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles candidatos presidenciales y llamó a la unidad para enfrentar a Milei en 2027.",
+   "resumen": "El encuentro del 17 de noviembre, organizado por Juan Andreotti, reunió a gobernadores, intendentes, legisladores y dirigentes sindicales. Axel Kicillof no participó. Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles candidatos presidenciales y llamó a la unidad del peronismo.",
    "tono": "positivo",
    "dirigentes": [
     "Sergio Massa",
@@ -138,7 +202,7 @@
   {
    "id": "",
    "titulo": "PASO: el peronismo discute cómo definir candidaturas si se suspenden las primarias",
-   "resumen": "El proyecto oficial para suspender las PASO nacionales abrió la discusión sobre cómo elegir al candidato peronista. Kicillof busca sostenerlas en la provincia de Buenos Aires para negociar con Massa y Cristina Kirchner, mientras hacia el fin de semana se registraron gestos de unidad en la previa del congreso del PJ bonaerense.",
+   "resumen": "El Gobierno impulsa la suspensión de las PASO nacionales. Según Infobae, Kicillof busca sostenerlas en la provincia de Buenos Aires para negociar con Massa y Cristina Kirchner. Clarín describe una disputa por las candidaturas y La Política Online registró gestos de unidad entre Kicillof, Máximo Kirchner y Massa antes del congreso del PJ bonaerense.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
@@ -246,7 +310,7 @@
   {
    "id": "",
    "titulo": "El Frente Renovador amplía su estructura en las provincias",
-   "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego, el FR abrió un local en Barranqueras (Chaco) y en Río Negro Pedro Pesatti evalúa ser candidato a gobernador con ese sello. Según distintos medios, Massa evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula presidencial.",
+   "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego y el FR abrió un local en Barranqueras (Chaco). En Río Negro, Pedro Pesatti evalúa ser candidato a gobernador. Según Clarín, iProfesional e Informe Digital, Massa evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula.",
    "tono": "positivo",
    "dirigentes": [
     "Sergio Massa",

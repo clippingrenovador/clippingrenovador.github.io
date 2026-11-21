@@ -237,6 +237,9 @@ body[data-modo=semanal] .solo-diario{display:none}
 .copiar.ok em{background:#1E8E5E}
 .copiar:hover{border-color:var(--azul)}
 .sigue{font-size:12px;font-weight:700;color:var(--tinta-2);border:1px solid var(--linea);border-radius:20px;padding:1px 8px}
+.fuentes-clave{display:block;font:500 13px/1.4 var(--sans);color:var(--tinta-2);margin-top:4px}
+.fuentes-clave a{color:var(--cobalto-2);text-decoration:none;font-weight:600}
+.fuentes-clave a:hover{text-decoration:underline}
 </style>
 </head>
 <body data-modo="semanal">
@@ -378,8 +381,9 @@ function pintarEdicion(ed){
   $("metricas").textContent=m.notas_analizadas?((MODO==="semanal"?"En la semana revisamos ":"Revisamos ")+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
   if(MODO==="semanal")$("tarjeta").hidden=true;
   var todos=[];(ed.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){if(todos.indexOf(p)<0)todos.push(p);});});
-  $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+resaltar(c,todos)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
-  var txt=(MODO==="semanal"?"*CLIPPING SEMANAL RENOVADOR · "+(ed.titulo_semana||"")+"*\n\n":"*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n")+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
+  $("claves").innerHTML=(ed.claves||[]).map(function(c){var t=typeof c==="string"?c:c.texto,f=typeof c==="string"?[]:(c.fuentes||[]);
+    return"<li>"+resaltar(t,todos)+(f.length?'<span class="fuentes-clave">Fuente'+(f.length>1?"s":"")+': '+f.map(function(x){return'<a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.medio)+'</a>';}).join(", ")+"</span>":"")+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
+  var txt=(MODO==="semanal"?"*CLIPPING SEMANAL RENOVADOR · "+(ed.titulo_semana||"")+"*\n\n":"*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n")+(ed.claves||[]).map(function(c){return"• "+(typeof c==="string"?c:c.texto);}).join("\n")+"\n\nTodo el clipping: "+SITIO;
   $("wa-edicion").href=wa(txt); $("tarjeta").href="tarjeta.jpg?v="+encodeURIComponent(ed.generado); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
   $("n-temas").textContent=(ed.temas||[]).length; $("n-redes").textContent=(ed.redes||[]).length; $("n-videos").textContent=(ed.entrevistas||[]).length;
   pintarFiltros(); pintarTemas(); pintarRedes(); pintarVideos();

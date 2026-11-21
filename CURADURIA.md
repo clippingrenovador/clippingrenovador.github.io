@@ -34,6 +34,8 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 12. Escribir `data/curaduria.json` y correr `python3 scripts/armar_edicion.py`. Si avisa IDs no encontrados, corregirlos.
 13. Guardar: `git add data semanal.html && git commit -m "Edición <fecha> <hora> h" && git pull --rebase -X theirs && git push`.
 
+- **Todo texto propio con respaldo en fuentes:** cada oración de `claves` y de los `resumen` de temas tiene que estar respaldada por una nota del material. Escribir solo hechos que las notas confirman. Nada de conclusiones propias, adjetivos de valoración ni suposiciones ("seguramente", "sin dudas", "se trata de un acuerdo"). Si algo es interpretación de un medio, atribuirlo con su nombre.
+- **Formato de `claves` con fuentes:** cada clave es un objeto `{"texto": "...", "fuentes": ["<id nota>", "<id nota>"]}` con 1 a 3 notas que respaldan exactamente lo que dice el texto. En el sitio se muestran como "Fuentes: Medio, Medio" con link. No escribir una clave sin fuente.
 - **Hechos vs. interpretaciones:** no afirmar como hecho acuerdos, negociaciones o intenciones que solo aparecen como lectura de los medios (por ejemplo, "Massa y Cristina acordaron"). Si no hay confirmación de los protagonistas, atribuirlo: "según La Nación…", "distintos medios lo leyeron como…". Afirmar solo lo confirmado (por ejemplo, "Cristina Kirchner respaldó la postulación de Guillermo Michel").
 - **Equilibrio entre dirigentes:** por edición, como máximo 2 entrevistas y 3 tuits de un mismo dirigente (salvo Sergio Massa). Si alguien tiene muchas apariciones, elegir las de mayor repercusión o más distintas entre sí. Lo mismo cuenta para lo que queda de ediciones anteriores: si ya hay 2 entrevistas de esa persona vigentes, no sumar otra salvo que sea más importante (y en ese caso retirar la más floja).
 - Descartar siempre homónimos (personas con el mismo nombre que no son nuestros dirigentes) y notas de medios del exterior que no hablen de la política argentina.
@@ -43,7 +45,7 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
 ```json
 {
   "hora": "14",
-  "claves": ["...", "..."],
+  "claves": [{"texto": "...", "fuentes": ["<id nota>"]}],
   "retirar": [],
   "temas": [
     {"id": "<id-corto-del-tema, ej. san-fernando>", "titulo": "...", "resumen": "...", "tono": "positivo", "dirigentes": ["Sergio Massa"],

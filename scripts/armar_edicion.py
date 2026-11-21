@@ -111,6 +111,15 @@ def main():
         dominio = urllib.parse.urlparse(base).netloc.lower().removeprefix("www.")
         return {"medio": n["medio"], "titulo": n["titulo"], "url": url, "fecha": n["fecha"], "dominio": dominio}
 
+    claves = []
+    for c in cur.get("claves", []):
+        if isinstance(c, str):
+            claves.append({"texto": c, "fuentes": []})
+            continue
+        fuentes = [x for x in (nota(i) for i in c.get("fuentes", [])) if x]
+        claves.append({"texto": c.get("texto", ""),
+                       "fuentes": [{"medio": f["medio"], "url": f["url"]} for f in fuentes]})
+
     temas = []
     for t in cur.get("temas", []):
         princ = [x for x in (nota(i) for i in t.get("principales", [])) if x]
@@ -148,7 +157,7 @@ def main():
 
     ahora = datetime.now(ART)
     if semanal:
-        armar_semanal(cur, temas, redes, entrevistas, notas, ahora)
+        armar_semanal(cur, temas, redes, entrevistas, notas, ahora, claves)
         return
     hora = cur.get("hora") or ahora.strftime("%H")
     medios = {n["medio"] for n in notas.values()
@@ -158,7 +167,7 @@ def main():
         "id": ahora.strftime("%Y-%m-%d-") + hora,
         "generado": ahora.isoformat(timespec="minutes"),
         "hora": hora,
-        "claves": cur.get("claves", []),
+        "claves": claves,
         "temas": temas,
         "redes": redes,
         "entrevistas": entrevistas,
@@ -198,7 +207,7 @@ def main():
         sys.exit(2 if not temas else 0)
 
 
-def armar_semanal(cur, temas, redes, entrevistas, notas, ahora):
+def armar_semanal(cur, temas, redes, entrevistas, notas, ahora, claves=None):
     hasta = datetime.fromisoformat(cur.get("hasta", ahora.date().isoformat()))
     desde = datetime.fromisoformat(cur.get("desde", (hasta - timedelta(days=6)).date().isoformat()))
     en_semana = [n for n in notas.values() if desde.date() <= datetime.fromisoformat(n["fecha"]).date() <= hasta.date()]
@@ -209,7 +218,7 @@ def armar_semanal(cur, temas, redes, entrevistas, notas, ahora):
         "id": sid, "generado": ahora.isoformat(timespec="minutes"),
         "titulo_semana": f"Semana del {desde.day} de {MESES[desde.month - 1]} al {hasta.day} de {MESES[hasta.month - 1]}",
         "rango_dias": rango, "rango_mes": mes if desde.month == hasta.month else "",
-        "claves": cur.get("claves", []), "temas": temas, "redes": redes, "entrevistas": entrevistas,
+        "claves": claves if claves is not None else cur.get("claves", []), "temas": temas, "redes": redes, "entrevistas": entrevistas,
         "metricas": {"notas_analizadas": len(en_semana), "medios": len({n["medio"] for n in en_semana}),
                      "temas": len(temas)},
     }

@@ -148,7 +148,7 @@ def main():
     d.rectangle([M, y + 71, M + wt, y + 74], fill=AZUL)
     y_claves = y + 120
 
-    claves = ed.get("claves", [])[:4]
+    claves = [c if isinstance(c, str) else c.get("texto", "") for c in ed.get("claves", [])][:4]
     ancho = W - M - 150
     limite = H - 200
     for tam in range(42, 27, -1):
