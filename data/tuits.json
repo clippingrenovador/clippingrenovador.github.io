@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-21T17:02-03:00",
- "total": 48,
+ "generado": "2026-11-21T18:01-03:00",
+ "total": 51,
  "tuits": [
+  {
+   "id": "2124123159859179807",
+   "usuario": "_EncuestAR_",
+   "visto": "2026-11-21T18:01-03:00",
+   "url": "https://twitter.com/_EncuestAR_/status/2124123159859179807",
+   "citado_en": [
+    {
+     "medio": "Infonews",
+     "titulo": "Encuesta encendió las alarmas: crece la oposición a Milei y más de la mitad quiere otro gobierno",
+     "nota_id": "1fc5252c3d25"
+    }
+   ]
+  },
+  {
+   "id": "2123954275315306704",
+   "usuario": "_EncuestAR_",
+   "visto": "2026-11-21T18:01-03:00",
+   "url": "https://twitter.com/_EncuestAR_/status/2123954275315306704",
+   "citado_en": [
+    {
+     "medio": "Infonews",
+     "titulo": "Encuesta encendió las alarmas: crece la oposición a Milei y más de la mitad quiere otro gobierno",
+     "nota_id": "1fc5252c3d25"
+    }
+   ]
+  },
+  {
+   "id": "2123815534357520792",
+   "usuario": "AnalogiasX",
+   "visto": "2026-11-21T18:01-03:00",
+   "url": "https://twitter.com/AnalogiasX/status/2123815534357520792",
+   "citado_en": [
+    {
+     "medio": "Infonews",
+     "titulo": "Encuesta encendió las alarmas: crece la oposición a Milei y más de la mitad quiere otro gobierno",
+     "nota_id": "1fc5252c3d25"
+    }
+   ]
+  },
   {
    "id": "2123599310327799987",
    "usuario": "ceciliamoreauok",

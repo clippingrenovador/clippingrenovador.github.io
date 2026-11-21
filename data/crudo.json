@@ -1,9 +1,110 @@
 {
- "generado": "2026-11-21T17:03-03:00",
- "total": 596,
- "nuevas_ultima_corrida": 19,
+ "generado": "2026-11-21T18:01-03:00",
+ "total": 605,
+ "nuevas_ultima_corrida": 26,
  "errores": [],
  "notas": [
+  {
+   "id": "e21a334f9bdc",
+   "titulo": "El PJ se reorganiza para 2027 y Massa busca liderar el armado mientras Javier Milei negocia concesiones con los gobernadores",
+   "medio": "Mnews",
+   "medio_url": "https://mnews.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdWlER2R5UGhHTUZPVDF0YVIxYWRlX0x1QTRWT2pqZFQ3Y2ZZeWpJdUFsbjVvMFF1aExud2J1bnJhMzR0TEhoaFhWVmp5WmZad054QmxLdmRFcmwtbTRtQTBTeEdIR05aSzNQWThmaE9SM1QxZVExRjRjQlo5RGdaSlVqMkdVd2VJTHd2SG1QamNEZUk5RjZ1R0RhNVZicVcycmVKZEVsSzloTk9vM2tmZ2dnYndPdzVZeExpOUhqR2xuMlZKdXFJQVo4M1M1cnFKV1dkRVFvRURNa19jTWNxMkhsMF9QbGZKcnhHNkhKOUxjZDg?oc=5",
+   "fecha": "2026-11-21T17:49-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://mnews.com.ar/politica/185215-El-PJ-se-reorganiza-para-2027-y-Massa-busca-liderar-el-armado-mientras-Javier-Milei-negocia-concesiones-con-los-gobernadores",
+   "revisada": true
+  },
+  {
+   "id": "b9a9f7e32b75",
+   "titulo": "Encuesta nacional: Bullrich y Kicillof empatan en imagen positiva y desplazan a Milei",
+   "medio": "HolaSalta Noticias",
+   "medio_url": "https://holasalta.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2dSTk5DeXFPZE1EMHpkVEZQNG9XRVRuaHpTMVctZW5tM1c4OUh3XzlZNFNFNUFWdzhKWjBWMmRNR01lNGN4dE9jRE1tejFHbVdFZVBMQTAxSGNQWHhjSDVZTE1ZM05GRUZoNUp6endvYUZwRkRKZTRudmpkRHZoUFRlNUdvMlBTUmwyaVhRNS1vX2RvOVJvaHlhWkxLYlE4eVpIV2w0Y21USVY3eVphSS1B?oc=5",
+   "fecha": "2026-11-21T17:38-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://holasalta.com/post/encuesta-nacional-bullrich-y-kicillof-empatan-en-imagen-positiva-y-desplazan-a-milei/",
+   "revisada": true
+  },
+  {
+   "id": "e0fa8f4847fa",
+   "titulo": "El peronismo se reorganiza para 2027 y Sergio Massa busca liderar el armado mientras Javier Milei negocia concesiones con los gobernadores en medio de las tensiones políticas",
+   "medio": "TN",
+   "medio_url": "https://tn.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVGV1MWgyV0plSFRYOWNobzZiZG5xOUtjNnNDQlFBbUZoRDZCcC1VMV9RNlVuZ285TWlLNnpJQmlWSnh3RzNmbFpqbC1pQm5UTVlqU01PS0RXSkZiTE1hUGliLXZ3enFzR3AzWndSZmZOMVRncWFKTFU0dDBmejMySmJJcTlqTzNEUXFTeUhxY1hlYUVRR2llMmpMNVJXc2p0clg2NFhTYW9QdGNteC00NEZQTF8zLURXVkVSX1BKR053eWxZc2xTT2NJQ2VzUzJla3dzTlB4X1lmVlRtQU9mR0g3dXAzeDQxY1pfempJczRNVTV0aGc?oc=5",
+   "fecha": "2026-11-21T17:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://tn.com.ar/politica/2026/11/21/el-pj-se-reorganiza-para-2027-y-massa-busca-liderar-el-armado-mientras-javier-milei-negocia-concesiones-con-los-gobernadores/",
+   "revisada": true
+  },
+  {
+   "id": "c61da54202e3",
+   "titulo": "El intendente de Tres Arroyos, Pablo Garate, participó de actividades por la soberanía y la educación",
+   "medio": "Ecos Diarios Necochea",
+   "medio_url": "https://elecos.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTc2S0k3dzhBN1BwSmJ4Q01tckpYcTZOQVNGOEcyRU9mUlNvbWZMWTJSbGRYQ2RfRy1kVk1UQ1BxTzNfeU9VSDdDc0Zyd2x5UXNLYzIyM0s2MDlEQXFnNnBINUhGUkk3djJieGVIYXU1TEFBYkdRSWdGa0FGVDYzSWhRbkR6UUpOd0hpZS1ZZHFRRXJPQnQ5YjRPaE1YZUFpTGFLU1MwVW9zYXRIdUdqUXdReEJtS09ZWWlLcV9B?oc=5",
+   "fecha": "2026-11-21T17:21-03:00",
+   "busquedas": [
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://elecos.com.ar/el-intendente-de-tres-arroyos-pablo-garate-participo-de-actividades-por-la-soberania-y-la-educacion",
+   "revisada": true
+  },
+  {
+   "id": "b2db91ecf295",
+   "titulo": "Denuncian recortes en salud, universidades y discapacidad en el Presupuesto 2027",
+   "medio": "LA17",
+   "medio_url": "https://lu17.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0M0Y2FPaEk5UEQyTFRfMU8yUUFGeEZ5UEsyVmtkLUNDQmx5R2IxM1NDMW8yVmJKYXJhSzhpZTQwZzgwNWNKald1QjZzWkplZWxjVXpRR0FDbXpMa2NZbVA1bmN0SHBRMlJDTE9CQng4OXN1RHRfNGtfUlhuWURVMjlleEZCNGxnX3Y5ZXl6bGYzaDFYN1NrcFp1NXR1VVEtRTBDZ05MY1JuYzh3OTVGTC0tYw?oc=5",
+   "fecha": "2026-11-21T17:20-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://lu17.com/contenido/158672/denuncian-recortes-en-salud-universidades-y-discapacidad-en-el-presupuesto-2027",
+   "revisada": true
+  },
+  {
+   "id": "058aa449bba7",
+   "titulo": "Panorama político. Quién financia el tiempo que está comprando Milei",
+   "medio": "La Voz del Interior",
+   "medio_url": "https://www.lavoz.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzc2bGFlUmwzeTJtR1c0M0VEWkZ1b2ZfUnppa0ZWY29uNzdOYWgxdk05b2xOQmV1eHAxX1RHMklkRDRQVUZUN2dleGc5MVR5UDRxdGRuWGY1eld4X3l3OWxTSVNsYXRaV3YtdXR4Q2I1S0xWSEV5Y0ZUMjdJZHVtSXpPTXF3R3dMeXJF?oc=5",
+   "fecha": "2026-11-21T17:12-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://www.lavoz.com.ar/politica/financia-tiempo-comprando-milei_0_TlruH7TkJf.html",
+   "revisada": true
+  },
+  {
+   "id": "1fc5252c3d25",
+   "titulo": "Encuesta encendió las alarmas: crece la oposición a Milei y más de la mitad quiere otro gobierno",
+   "medio": "Infonews",
+   "medio_url": "https://infonews.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGhpOHhBTHRNRGk0ZmNkRU83cnY2QUdSTVc2cHFxaG1rczBENUkwUU5KVTV1a0plS2l6eWI5eGlvRVpOVk90LTdpVXY5V3NKWm5oWTg1RmhGUG9GTmhSM1UwRVl1UHM2aGlOTVY0Wmk4SnhEUzhhVlZfdk8tYVEzcFVZNVc3SElLUHhWSDdjNi1uUdIBlwFBVV95cUxNUFlnNlJsTkFfNk55NkcxUDJ0R0pzMzdrc1lzLTRtajVSa2RXZkZ1UzBVYTZ0S1BVdFVqTlpYTmdVcjRoWG4tMEFoc3R3WjBKUl9oZktuX2NPNngyTnNtY2JEbDUwdFlwNFZTeHJ4YVVnS1MwTjVRNzF5T3JmM0x5OFRjeGJ1YW9adFhhVGJ2QldYY2xZeW5V?oc=5",
+   "fecha": "2026-11-21T17:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://infonews.com/encuesta-milei-crece-oposicion-cambio-gobierno-elecciones-2027.html",
+   "revisada": true
+  },
   {
    "id": "7c4a45712a9e",
    "titulo": "“Voto anti-Milei Face ID\": la idea que crece en el peronismo para ordenar la feroz interna por las candidaturas",
@@ -18,6 +119,20 @@
    ],
    "visto": "2026-11-21T16:12-03:00",
    "url_original": "https://www.clarin.com/politica/voto-anti-milei-face-id-idea-crece-peronismo-ordenar-feroz-interna-candidaturas_0_SpCL5tolNx.html",
+   "revisada": true
+  },
+  {
+   "id": "46994d945931",
+   "titulo": "Juan Andreotti anunció la renovación de cinco escuelas de San Fernando",
+   "medio": "SM Noticias",
+   "medio_url": "https://www.smnoticias.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TT2hNbjNOb00yUlFLRlVTSm9odmRFT0VlWXBuRUJsWGFHYjBCQnZTYWRIbThDZHpqZ2dQQ05wNVZmUGZOX1l1T0UtcnA5UkZLYk1Tcg?oc=5",
+   "fecha": "2026-11-21T15:50-03:00",
+   "busquedas": [
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://www.smnoticias.com/noticias/291367",
    "revisada": true
   },
   {
@@ -110,6 +225,21 @@
    ],
    "visto": "2026-11-21T14:05-03:00",
    "url_original": "https://www.gentedesalta.com/politica/cecilia-moreau-pidio-unidad-peronismo-con-paso-o-paso-vamos-ir-unidos-eleccion-n14186",
+   "revisada": true
+  },
+  {
+   "id": "2a6c972afe5d",
+   "titulo": "Kicillof, entre la estrategia para enfrentar a Massa en Buenos Aires y la nueva disputa con Máximo Kirchner por las alianzas",
+   "medio": "0264Noticias",
+   "medio_url": "https://www.0264noticias.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSzVnc3BCM0xiSHJYM1Q3MmtzR0F3TndneEN1UFVWbkxvaW92TXZaTVM2YkswSEI3dEdHS2VXYklQRmxEb0dYTU9OOF9PTkdhcnF5WkhsN0p0VFd3a3dJaDRhWXlxeTExOHhsQU1YYmdWeVNwdDRCR2FLZFl5dndrM3hWSlhWMWZQcGdLcEdEQ2YyYXVKWFptRTUxQWd3aWt6WUpDenJEYS1IeWtRTWRMNmV0aXRPcDFQX2RMWXFTNTVrQkxSc2lOYzFhdUtXMUxkeldfYXJDZ2pYNWUxWWlFRTBtdWhjUUpudVZWSXUxbnRwNVJqX3RQX09kQUhOVzJoWFhzeVY1VWNESHZqSVczQXdUUXHSAZQCQVVfeXFMTks1Z3NwQjNMYkhyWDNUNzJrc0dBd053Z3hDdVBVVm5Mb2lvdk12Wk1TNmJLMEhCN3RHR0tlV2JJUEZsRG9HWE1PTjhfT05HYXJxeVpIbDdKdFRXd2t3SWg0YVl5cXkxMTh4bEFNWGJnVnlTcHQ0QkdhS2RZeXZ3azN4VkpYVjFmUHBnS3BHRENmMmF1SlhabUU1MUFnd2lrellKQ3pyRGEtSHlrUU1kTDZldGl0T3AxUF9kTFlxUzU1a0JMUnNpTmMxYXVLVzFMZHpXX2FyQ2dqWDVlMVlpRUUwbXVoY1FKbnVWVkl1MW50cDVSal90UF9PZEFITlcyaFhYc3lWNVVjREh2aklXM0F3VFFx?oc=5",
+   "fecha": "2026-11-21T12:34-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
+   "url_original": "https://www.0264noticias.com.ar/amp/noticias/2026/11/21/118110-kicillof-entre-la-estrategia-para-enfrentar-a-massa-en-buenos-aires-y-la-nueva-disputa-con-maximo-kirchner-por-las-alianzas",
    "revisada": true
   },
   {
@@ -257,7 +387,8 @@
    "fecha": "2026-11-21T11:29-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T14:05-03:00",
    "url_original": "https://www.cronista.com/columnistas/kicillof-quedo-afuera-de-la-foto-y-el-peronismo-empezo-a-discutir-como-llegar-a-2027/",
@@ -607,7 +738,8 @@
    "fecha": "2026-11-21T01:52-03:00",
    "busquedas": [
     "\"Frente Renovador\"",
-    "massismo"
+    "massismo",
+    "\"Cecilia Moreau\""
    ],
    "visto": "2026-11-21T02:16-03:00",
    "url_original": "https://www.eldia.com/politica-y-economia/la-oposicion-cree-que-kicillof-va-a-mantener-las-paso-en-la-provincia-politica-y-economia_1795236768",
@@ -813,6 +945,19 @@
    ],
    "visto": "2026-11-21T01:15-03:00",
    "url_original": "https://www.lu24.com.ar/locales/garate-acompano-un-acto-escolar-por-el-dia-de-la-soberania-y-la-muestra-anual-de",
+   "revisada": true
+  },
+  {
+   "id": "0a444ddc5ab6",
+   "titulo": "El riesgo país de la Argentina cerró la semana en 1.070 puntos básicos",
+   "medio": "Neuquén Al Instante",
+   "medio_url": "https://www.neuquenalinstante.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1dMV0t5ajRfTE5iM1otQ3BNdHlCbmJrQ1VvOHZRMkp1LTBkZl9CQjZ2aUwtMEgtc2FSYWx4NDV2Z1FCdjE3TkQ3eWRjY0R5N0Y1TnFrLWNKV0RndTRNVkJITWFKSmJkaUUyS2VSbkZnbkNuc1FBX0hYdTNPTVlnY242cVpFdTFXS0wtYW9vR08zaDFON21HMmY0M2tRTkdKNzNwZGVDME1DMnFsb0JfZl9xYk5VNEZxZUpmMUMxSmh6TldyZERzUWEyV05sVW9sZDJJ0gHTAUFVX3lxTE0zV0xXS3lqNF9MTmIzWi1DcE10eUJuYmtDVW84dlEySnUtMGRmX0JCNnZpTC0wSC1zYVJhbHg0NXZnUUJ2MTdORDd5ZGNjRHk3RjVOcWstY0pXRGd1NE1WQkhNYUpKYmRpRTJLZVJuRmduQ25zUUFfSFh1M09NWWdjbjZxWkV1MVdLTC1hb29HTzNoMU43bUcyZjQza1FOR0o3M3BkZUMwTUMycWxvQl9mX3FiTlU0RnFlSmYxQzFKaHpOV3JkRHNRYTJXTmxVb2xkMkk?oc=5",
+   "fecha": "2026-11-20T20:57-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T18:00-03:00",
    "revisada": true
   },
   {
@@ -8581,20 +8726,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.ellitoral.com/regionales/diegogiuliano-recorrida-provincial-municipios-diputado-sanjeronimo-coronda_0_ug8tjsJGwc.html",
-   "revisada": true
-  },
-  {
-   "id": "cdbdcc6ba9d0",
-   "titulo": "Luis Caputo publicó el dato salarial de septiembre y Sebastian Galmarini lo cuestionó",
-   "medio": "El Intransigente",
-   "medio_url": "https://elintransigente.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzQ3TjdMRWZIbGVjRk9iMWVpc0JZQjA0aGNPTjNmRWlQeldhVm9ZTHBhemtDbjZ5b19wM0gyVmlvblRmcVhhZUE0cUNBNktIVzhTdFkwOEV3emZEX0l4LU1PODdZaS0zU1pFLThFcm9sYjZudUNBN2NNWFNDZVhqRW53cHZzaGUyYXpxUEIwTjRtM3FFWU1tSmdnOWhxX1R3QXdpb0xuclRTeXFPUHl4SzR0akI?oc=5",
-   "fecha": "2026-11-14T17:59-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elintransigente.com/2026/11/14/luis-caputo-publico-dato-salarial-septiembre-sebastian-galmarini-cuestiono/",
    "revisada": true
   }
  ]
