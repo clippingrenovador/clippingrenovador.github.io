@@ -1,27 +1,64 @@
 {
- "hora": "06",
+ "hora": "14",
  "claves": [
-  "El PJ bonaerense realiza este sábado su congreso partidario, precedido por gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. La oposición provincial estima que el gobernador mantendrá las PASO en la Provincia.",
-  "Según distintos medios, Sergio Massa avanza en el armado federal del Frente Renovador y evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula de 2027.",
-  "José Ignacio de Mendiguren definió a Massa como una garantía de estabilidad económica. Miguel Ángel Pichetto pidió a Massa y a Kicillof agotar el diálogo.",
-  "En gestión, Juan Andreotti anunció obras en cinco escuelas de San Fernando y Sebastián Galmarini respaldó el reclamo vecinal por el predio de Martínez."
+  {
+   "texto": "El PJ bonaerense realiza este sábado su congreso partidario. Según DataClave y Diario Anticipos, Máximo Kirchner será designado presidente del Congreso del partido.",
+   "fuentes": [
+    "89e52748f6ac",
+    "7cd64bf38bfe"
+   ]
+  },
+  {
+   "texto": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Axel Kicillof en La Plata y pidió unidad en el peronismo.",
+   "fuentes": [
+    "1f1ce72bae11"
+   ]
+  },
+  {
+   "texto": "Según TN y Perfil, ante la posible suspensión de las PASO nacionales, el gobernador evalúa mantener las primarias en la Provincia para definir candidaturas en una interna.",
+   "fuentes": [
+    "39b378544b20",
+    "8efdbf702e31"
+   ]
+  },
+  {
+   "texto": "Cecilia Moreau reiteró que, con o sin PASO, el peronismo irá unido a la elección. Juan Andreotti detalló las cinco escuelas de San Fernando que serán renovadas.",
+   "fuentes": [
+    "73c742facabb",
+    "c7aa7b5c889e"
+   ]
+  }
  ],
  "retirar": [],
  "temas": [
   {
    "id": "sin-paso-la-interna",
-   "titulo": "Sin PASO: el congreso del PJ bonaerense y la discusión por las candidaturas de 2027",
-   "resumen": "Antes del congreso partidario de este sábado, La Política Online registró gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. El Día informa que la oposición bonaerense estima que el gobernador mantendrá las PASO en la Provincia, mientras otros medios advierten que la suspensión de las primarias nacionales reabre la disputa por las candidaturas. Diario Hoy destaca que el Frente Renovador apuesta a la unidad del peronismo.",
+   "titulo": "Congreso del PJ bonaerense y PASO: la discusión por las candidaturas de 2027",
+   "resumen": "El PJ bonaerense realiza este sábado su congreso partidario y, según DataClave, Máximo Kirchner será designado presidente del Congreso del partido. TN y Perfil informan que Kicillof evalúa mantener las PASO en la Provincia para competir en una interna, mientras MDZ sostiene que Massa arma un frente opositor sin definir candidato. El Cronista señala que el peronismo empezó a discutir cómo llegar a 2027.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "d7a0823e28ce",
-    "7b0fa285eda0",
-    "369a1776d772"
+    "39b378544b20",
+    "89e52748f6ac",
+    "8efdbf702e31"
    ],
    "otras": [
+    "45cad97fa30e",
+    "bcd8de8677c7",
+    "7cd64bf38bfe",
+    "0c63dbc8e1ee",
+    "762013da1cc4",
+    "01c37242cdbc",
+    "b928033e121f",
+    "77d9580083d2",
+    "4682a095bc2f",
+    "b6fb776871d8",
+    "250b2ff21bec",
+    "d7a0823e28ce",
+    "7b0fa285eda0",
+    "369a1776d772",
     "d4acb9b05402",
     "b0ab9197ae08",
     "a9ee4dc0aaba",
@@ -36,21 +73,79 @@
    ]
   },
   {
+   "id": "san-fernando-reordena-el",
+   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
+   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa",
+    "Alexis Guerrera",
+    "Natalia de la Sota"
+   ],
+   "principales": [
+    "1f1ce72bae11",
+    "ab00192983fb",
+    "ced4bbfd43aa"
+   ],
+   "otras": [
+    "798fa27100f2",
+    "0e072cb13b4f",
+    "d1e551eac8d2",
+    "4de08fa663d6",
+    "47607e29b920",
+    "ac5a556b9c95",
+    "78ef112c5d60",
+    "6924eb102826",
+    "4c59c5e66fae",
+    "57fbd70d76f7"
+   ]
+  },
+  {
+   "id": "cecilia-moreau-va-a",
+   "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
+   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias, y llamó a construir un frente contra el Gobierno de Javier Milei. También cuestionó el proyecto de Presupuesto. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    "a1632ef81952",
+    "b0345b304894",
+    "c0d46adcdf12"
+   ],
+   "otras": [
+    "73c742facabb",
+    "99e9d9cbf2b8",
+    "efa31e7b432b",
+    "6fb3218f269c",
+    "1fac97724d02",
+    "e1feda9da338",
+    "92fcfd32e28f",
+    "7ebd72f9444d",
+    "7f73794a5d6b",
+    "b559f17df80d"
+   ]
+  },
+  {
    "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: escuelas en San Fernando, Chacabuco y Tres Arroyos, y el reclamo vecinal en Martínez",
-   "resumen": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano. Sebastián Galmarini sumó su apoyo al reclamo de la Asamblea Cheeky por el predio de Martínez. Darío Golía participó de los 95 años del Diario Democracia y Pablo Garate acompañó actos escolares por el Día de la Soberanía en Tres Arroyos.",
+   "titulo": "Gestión: escuelas en San Fernando, nueva fiscalía en Chacabuco y el reclamo vecinal en Martínez",
+   "resumen": "Juan Andreotti anunció cuáles son las cinco escuelas de San Fernando que serán renovadas de forma integral durante el verano. Darío Golía inauguró junto a Conte Grand la nueva Fiscalía Descentralizada de Chacabuco. Sebastián Galmarini sumó su apoyo al reclamo de la Asamblea Cheeky por el predio de Martínez, y Pablo Garate acompañó actos escolares por el Día de la Soberanía en Tres Arroyos.",
    "tono": "positivo",
    "dirigentes": [
     "Juan Andreotti",
     "Darío Golía",
-    "Sebastián Galmarini"
+    "Sebastián Galmarini",
+    "Pablo Garate"
    ],
    "principales": [
-    "3423a4d75f90",
-    "fd58ac22c9ab",
-    "bf021e29b6f3"
+    "c7aa7b5c889e",
+    "83873b559481",
+    "fd58ac22c9ab"
    ],
    "otras": [
+    "5a2a1253a778",
+    "3423a4d75f90",
+    "bf021e29b6f3",
     "d935989ebdc9",
     "f900f928ae5f",
     "e9b6b874053d",
@@ -62,50 +157,21 @@
     "0851b0e47330",
     "9eb26b1d72d4"
    ]
-  },
-  {
-   "id": "respaldos-a-massa",
-   "titulo": "De Mendiguren: “Massa es garantía para evitar el péndulo”",
-   "resumen": "José Ignacio de Mendiguren sostuvo en Perfil que Sergio Massa ofrece estabilidad frente a los cambios bruscos de rumbo económico. El dirigente de Avellaneda Luca Bertolotto afirmó que su liderazgo es indiscutido. Miguel Ángel Pichetto aconsejó a Massa y a Kicillof agotar las instancias de diálogo y afirmó que el Gobierno provocó un gran daño a la clase media.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "d3c398885bd3",
-    "b1559ad5db4b",
-    "629298773d3d"
-   ],
-   "otras": [
-    "55eba034e55e"
-   ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/DiegoGiuliano/status/2123884316186812430",
+   "url": "https://x.com/DiegoGiuliano/status/2124144573446303919",
    "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano pidió no dejar solas a las pymes santafesinas."
-  },
-  {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa"
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-   "autor": "@ceciliamoreauok"
-  },
-  {
-   "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
-   "autor": "@MalenaGalmarini"
+   "nota": "Diego Giuliano advirtió sobre el endeudamiento de Santa Fe."
   }
  ],
  "entrevistas": [
   {
-   "video_id": "HbpWLzHNpN8"
+   "video_id": "L9dBSGtbhqM"
   },
   {
-   "video_id": "n4F54sw9GJU"
+   "video_id": "oFEeRoHKfdI"
   }
  ]
 }
