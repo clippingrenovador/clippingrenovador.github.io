@@ -109,7 +109,10 @@ def main():
         url = n.get("url_original") or n["url"]
         base = n.get("url_original") or n.get("medio_url") or ""
         dominio = urllib.parse.urlparse(base).netloc.lower().removeprefix("www.")
-        return {"medio": n["medio"], "titulo": n["titulo"], "url": url, "fecha": n["fecha"], "dominio": dominio}
+        medio = n["medio"]
+        if medio.startswith("http") or not medio:
+            medio = dominio or urllib.parse.urlparse(medio).netloc.removeprefix("www.")
+        return {"medio": medio, "titulo": n["titulo"], "url": url, "fecha": n["fecha"], "dominio": dominio}
 
     claves = []
     for c in cur.get("claves", []):
