@@ -399,7 +399,8 @@ function pintarFiltros(){
 
 function sigue(t){
   if(!t.desde_hora||!t.vigente_desde||!ED.generado||t.vigente_desde.slice(0,16)>=ED.generado.slice(0,16))return"";
-  return'<span class="sigue">De la edición de las '+esc(t.desde_hora)+' h</span>';
+  var ayer=t.vigente_desde.slice(0,10)!==ED.generado.slice(0,10);
+  return'<span class="sigue">De la edición '+(ayer?"de ayer, ":"de las ")+esc(t.desde_hora)+' h</span>';
 }
 function pintarTemas(){
   var lista=(ED.temas||[]).filter(function(t){return!filtroPersona||(t.dirigentes||[]).indexOf(filtroPersona)>=0;});
