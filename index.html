@@ -510,7 +510,7 @@ json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO===
 json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
 json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
 if(MODO!=="semanal")json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
-if(MODO==="semanal"){$("t-claves").textContent="Lo más importante de la semana";var l1=$("linea1");l1.textContent="CLIPPING SEMANAL";l1.setAttribute("x","104");l1.setAttribute("text-anchor","start");l1.setAttribute("textLength","792");l1.setAttribute("lengthAdjust","spacingAndGlyphs");$("marca").setAttribute("aria-label","Clipping Semanal Renovador");$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
+if(MODO==="semanal"){$("tarjeta").style.display="none";$("t-claves").textContent="Lo más importante de la semana";var l1=$("linea1");l1.textContent="CLIPPING SEMANAL";l1.setAttribute("x","104");l1.setAttribute("text-anchor","start");l1.setAttribute("textLength","792");l1.setAttribute("lengthAdjust","spacingAndGlyphs");$("marca").setAttribute("aria-label","Clipping Semanal Renovador");$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
 var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
 setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
 })();
