@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-21T20:00-03:00",
- "total": 614,
+ "generado": "2026-11-21T20:57-03:00",
+ "total": 618,
  "nuevas_ultima_corrida": 21,
  "errores": [],
  "notas": [
+  {
+   "id": "ac1594a44a15",
+   "titulo": "Visto y oído",
+   "medio": "LaPrensa.com.ar",
+   "medio_url": "https://www.laprensa.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vRnI0NjdEWTlEWHhQN0N3bGVSU2dfQy1LWUM4QzNXVVp3N1Vpb0ZaZHdxQ3dXTW9NVVVVaEVJRWFoYUFMWFVVSktpRmRYNjFDODlwMl9pSlVPeTh0TzN4TnluQ1BEdlJn?oc=5",
+   "fecha": "2026-11-21T20:39-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T20:56-03:00",
+   "url_original": "https://www.laprensa.com.ar/Visto-y-oido-578070.note.aspx",
+   "revisada": true
+  },
   {
    "id": "c39e46ffb1d1",
    "titulo": "Tras un acuerdo con Kicillof, Máximo Kirchner asumió la presidencia del Congreso del PJ",
@@ -48,6 +62,20 @@
    ],
    "visto": "2026-11-21T18:59-03:00",
    "url_original": "https://www.lanacion.com.ar/politica/peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-nid21112026/",
+   "revisada": true
+  },
+  {
+   "id": "2cde0ff3a426",
+   "titulo": "Chascomús reconoció a los medallistas de los Juegos Bonaerenses 2026",
+   "medio": "El Cronista | Chascomús",
+   "medio_url": "https://www.elcronista.ar",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFBWTUZ4cEVZaU54RlFIN1QzR3pYRWdKZ0JGcWdlRUtUVFNnV25XaHFJNTBLSDZYbFlRWmxyekxhNFhUdFlqQUw3RG5DeU15aUpzQ2tUMlN0ZFZGMkVSQUZOdWhuVWJoWlRVZWcyU0xpZm96eklTMGw4ZVA4TnQtZ1ZIc1lDMkhvVlRURHNWTHBEd0g0LWw2R1dB?oc=5",
+   "fecha": "2026-11-21T18:45-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T20:56-03:00",
+   "url_original": "https://www.elcronista.ar/chascomus-reconocio-a-los-medallistas-de-los-juegos-bonaerenses-2026",
    "revisada": true
   },
   {
@@ -223,6 +251,20 @@
    ],
    "visto": "2026-11-21T18:00-03:00",
    "url_original": "https://infonews.com/encuesta-milei-crece-oposicion-cambio-gobierno-elecciones-2027.html",
+   "revisada": true
+  },
+  {
+   "id": "8572114e9fb4",
+   "titulo": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense en pleno juicio por Los Sauces y Hotesur",
+   "medio": "Nexofin",
+   "medio_url": "https://www.nexofin.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2VqMFk4YWQxQjA4ZlJENjRoTlhJRXFCYm5PbGZWa05qRnVXeThFQXBnVXVKWl9lbjREWTZhVllnZWNFNy1ndk5ySVY1aW42QmNITDFsdkN4VXNIckhTTjB1eWV4RzBZQlgzbHE1M0lfTU5NS25IbDhOc090LUtmRi1MQkliXzQySDg1bURSa0VWakNUVE5rd2czV2o0MHNXUGZWendJQ2JEWjQzQVhtUDlsdkp5SXNsMDIzdzNSZVZocUhkVFZrQ0JxaDRtd0ZYQkdwTVRMd3UzZVdWN0NWUkVrazVyQdIB6wFBVV95cUxQZXlmMDRVM0p1N2pDLU51RFV3V3dTay1fX1o3eUlVSS1aNDFuUU5LemdadzlqVzdGUjk5aEFHYjNYX3hEZk9wSmVtRnJWMk93d0syRHVWVEhabXNtLXFKbTgwckxLWk82TTFPOTVONmJzOHVRQ1Q3NlNHbk9tV0s2LUo0aTc3blFXZ1l3QWg1YTZ2Vk01Z3QxSENQZC1fcGNLb2pVZjhKZWhoMktUbXFOMk5pWDVqcTIyR3ZnczhXdUxkbnFNNTJSQzJRWjRMZE90WVdRcUZzQnFQa3hSLWxPM1h0ZWVCQ3dPT21V?oc=5",
+   "fecha": "2026-11-21T16:46-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-21T20:56-03:00",
+   "url_original": "https://www.nexofin.com/notas/1303001-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-en-pleno-juicio-por-los-sauces-y-hotesur-n-/",
    "revisada": true
   },
   {
@@ -509,6 +551,20 @@
    ],
    "visto": "2026-11-21T12:07-03:00",
    "url_original": "https://tn.com.ar/politica/2026/11/21/el-plan-de-kicillof-para-enfrentar-a-massa-en-la-provincia-y-la-nueva-disputa-con-maximo-kirchner-por-las-alianzas-electorales/",
+   "revisada": true
+  },
+  {
+   "id": "d98988f85400",
+   "titulo": "Massa engrosa apoyos para la paritaria del PJ y Kicillof confía en sus chances",
+   "medio": "La Verdad Junín",
+   "medio_url": "https://laverdadonline.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmE1Q3ZLNVp6Z0dOTHMwWTltMzlTNndSZzUwVWdRejV1b0YyemV6Q0RxWWU3bE13WnlyUmNFSFAtRTY1RGk3ZUU0ZnZKN2phYXJ1V2VSWE9pSWRQQ2VLa3JBMEpVUlF6UWJra0JpMGJQc2FMaldGYzMzQlo1ZWFDVWlTTzNVT01ibzQxR2I3UFhjTWtfRjJPZW1ienBCUTlnMm0wb1kzWi1Edw?oc=5",
+   "fecha": "2026-11-21T11:46-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T20:56-03:00",
+   "url_original": "https://laverdadonline.com/massa-engrosa-apoyos-para-la-paritaria-del-pj-y-kicillof-confia-en-sus-chances/",
    "revisada": true
   },
   {
