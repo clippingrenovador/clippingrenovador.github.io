@@ -1,6 +1,6 @@
 {
  "id": "2026-11-21-06",
- "generado": "2026-11-21T05:33-03:00",
+ "generado": "2026-11-21T07:42-03:00",
  "hora": "06",
  "claves": [
   "El PJ bonaerense realiza este sábado su congreso partidario, precedido por gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. La oposición provincial estima que el gobernador mantendrá las PASO en la Provincia.",
@@ -98,7 +98,7 @@
     }
    ],
    "cantidad_notas": 14,
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -188,7 +188,7 @@
     }
    ],
    "cantidad_notas": 13,
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -231,7 +231,7 @@
     }
    ],
    "cantidad_notas": 4,
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T22:48-03:00"
   },
@@ -703,15 +703,15 @@
    "url": "https://x.com/DiegoGiuliano/status/2123884316186812430",
    "autor": "@DiegoGiuliano",
    "nota": "Diego Giuliano pidió no dejar solas a las pymes santafesinas.",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
-   "sumado": "2026-11-21T05:33-03:00"
+   "sumado": "2026-11-21T07:42-03:00"
   },
   {
    "url": "https://x.com/SergioMassa/status/2123517703826612429",
    "autor": "@SergioMassa",
    "nota": "",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -719,7 +719,7 @@
    "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
    "autor": "@ceciliamoreauok",
    "nota": "",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -727,7 +727,7 @@
    "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
    "autor": "@MalenaGalmarini",
    "nota": "",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -778,22 +778,6 @@
    "vigente_desde": "2026-11-20T14:51-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T14:51-03:00"
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123577503197368395",
-   "autor": "@ceciliamoreauok",
-   "nota": "Cecilia Moreau celebró la sanción de la ley de Discapacidad.",
-   "vigente_desde": "2026-11-20T06:21-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-20T06:21-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2123551493420978306",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, sobre la ley de seguridad aprobada en Santa Fe.",
-   "vigente_desde": "2026-11-20T06:21-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-20T06:21-03:00"
   }
  ],
  "entrevistas": [
@@ -804,7 +788,7 @@
    "fecha_txt": "hace 3 h",
    "duracion": "11:58",
    "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -815,7 +799,7 @@
    "fecha_txt": "Transmitido hace 13 h",
    "duracion": "1:00:07",
    "url": "https://www.youtube.com/watch?v=n4F54sw9GJU",
-   "vigente_desde": "2026-11-21T05:33-03:00",
+   "vigente_desde": "2026-11-21T07:42-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -829,44 +813,11 @@
    "vigente_desde": "2026-11-20T14:51-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T14:51-03:00"
-  },
-  {
-   "youtube": "e57KCvZktrE",
-   "titulo": "\"Suspender las PASO no generaría nada, difícilmente reelija\" Sebastián Galmarini a Nancy Pazos",
-   "canal": "Radio10",
-   "fecha_txt": "hace 2 días",
-   "duracion": "13:07",
-   "url": "https://www.youtube.com/watch?v=e57KCvZktrE",
-   "vigente_desde": "2026-11-20T06:21-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-20T06:21-03:00"
-  },
-  {
-   "youtube": "emLIIIp8hDU",
-   "titulo": "“No tengo dudas de que, con o sin PASO, el peronismo va a ir unido” Cecilia Moreau a Pablo Duggan",
-   "canal": "Radio10",
-   "fecha_txt": "hace 1 día",
-   "duracion": "8:45",
-   "url": "https://www.youtube.com/watch?v=emLIIIp8hDU",
-   "vigente_desde": "2026-11-20T06:21-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-20T06:21-03:00"
-  },
-  {
-   "youtube": "LccxmZvOYlM",
-   "titulo": "\"SI MASSA DECIDE LANZAR SU CANDIDATURA NO NECESITA NADA SUBREPTICIO\" Diego Giuliano con Fontevecchia",
-   "canal": "Perfil",
-   "fecha_txt": "hace 1 día",
-   "duracion": "10:35",
-   "url": "https://www.youtube.com/watch?v=LccxmZvOYlM",
-   "vigente_desde": "2026-11-20T06:21-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-20T06:21-03:00"
   }
  ],
  "metricas": {
-  "notas_analizadas": 127,
-  "medios": 85,
+  "notas_analizadas": 126,
+  "medios": 84,
   "temas": 12
  }
 }
