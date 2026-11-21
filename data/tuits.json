@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-21T18:01-03:00",
- "total": 51,
+ "generado": "2026-11-21T19:00-03:00",
+ "total": 52,
  "tuits": [
+  {
+   "id": "2123517703826612429",
+   "usuario": "SergioMassa",
+   "visto": "2026-11-21T19:00-03:00",
+   "url": "https://twitter.com/SergioMassa/status/2123517703826612429",
+   "citado_en": [
+    {
+     "medio": "La Nación",
+     "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Axel Kicillof",
+     "nota_id": "ff4882b1dc02"
+    }
+   ]
+  },
   {
    "id": "2124123159859179807",
    "usuario": "_EncuestAR_",
