@@ -1,10 +1,8 @@
 {
- "generado": "2026-11-21T00:08-03:00",
- "total": 535,
- "nuevas_ultima_corrida": 24,
- "errores": [
-  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-21T01:16-03:00",
+ "total": 538,
+ "nuevas_ultima_corrida": 16,
+ "errores": [],
  "notas": [
   {
    "id": "b0ab9197ae08",
@@ -103,6 +101,20 @@
     "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T00:07-03:00",
+   "url_original": "https://www.lu24.com.ar/locales/garate-acompano-un-acto-escolar-por-el-dia-de-la-soberania-y-la-muestra-anual-de",
+   "revisada": true
+  },
+  {
+   "id": "d37ec5c20781",
+   "titulo": "Garate acompañó un acto escolar por el Día de la Soberanía y la Muestra Anual de la Escuela Secundaria Agraria 2",
+   "medio": "LU24 – Radio Tres Arroyos",
+   "medio_url": "https://www.lu24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0Zla2FPU0JVSXR2blAyTmFwbXpGY2RSbHRKbU1hbFp0aTFFWlVIeW11U0JPUDhlUXB0aXNuWF9wSXZ1RE42eVVseTllZVBvTWNWOG9MXzl6NnpVdjlEVThQX0l3T3V5M280NkN3a3lxTXBXa3VsYUhvbmJoOFhYMlVKdjdsUzlzekd5OVBLNVNVQVdMa1JiamphamhsbTdTMHV4YWRMT2xOR3VweGM0UTRR?oc=5",
+   "fecha": "2026-11-20T20:59-03:00",
+   "busquedas": [
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T01:15-03:00",
    "url_original": "https://www.lu24.com.ar/locales/garate-acompano-un-acto-escolar-por-el-dia-de-la-soberania-y-la-muestra-anual-de",
    "revisada": true
   },
@@ -412,6 +424,22 @@
    "revisada": true
   },
   {
+   "id": "7e00b84b57be",
+   "titulo": "Encuesta: con un rechazo de gestión que roza el 60%, Milei caería ante el peronismo en ballotage",
+   "medio": "La Letra Chica",
+   "medio_url": "https://laletrachica.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnNabHYweXhZUjJ1UTRBTU1XZDE0VW9MakNsdW1TYmswcFVfdDlKSFdMZmZ2ZUU0Sm9XaG80YzlKU0M4dHhjNWRGLXB3bXhJMlZibmFuaEoxRlVLdFVmNGpoNkNjOGFpSzhMSzRSbWNSeXdGUG1meWZXc1BEbkt0enZodUN1OFFMM0lWSEtCY3k5akx2STl1dzJpTU15QXdTMDJiemtLUE12ejk2b3FBMkpXeDR2akJHMjVRZnF2ZWlTVHhRbW9hZkg4WWRrQQ?oc=5",
+   "fecha": "2026-11-20T16:34-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\"",
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T01:14-03:00",
+   "url_original": "https://laletrachica.com.ar/nota/26976/encuesta-con-un-rechazo-de-gestion-que-roza-el-60-milei-caeria-ante-el-peronismo-en-ballotage/",
+   "revisada": true
+  },
+  {
    "id": "9ab74ddd7fdf",
    "titulo": "Consejo de la Magistratura. El peronismo se quedó con dos representantes por el Senado y sigue la batalla por Brügge",
    "medio": "La Voz del Interior",
@@ -592,7 +620,8 @@
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQlpXZ29hNmZtVVJOaGw1SlZhMk1BVGVLeUxCLTA2dGR0QW9idU4tYi1hYVFTZXNxb1J4eFlzaFNtOG4yU05BUWx4bUNFOUctZjVCTGhzN1RfZldqYzd5VWtfZnZaWDRpWnF5QnFHQTlHUmczWFVDZGpwZ1dVdDQyWE1lNFktREFhUXRrNGVlTHFjUEZJM0pUZGUyMUZtdHhhOGVWRmpGb3RZT2dKSGY1ZmljeEg4ZUVOd1J4dmpqcXhqQ0VUYVlyQ0F2YVViQnBKdzdNSGdlZHlmZ3ItSWxwUjIzd0I5TW9PaVBCWHR3ZlZId3M5VVBlbA?oc=5",
    "fecha": "2026-11-20T15:27-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-20T18:10-03:00",
    "url_original": "https://www.perfil.com/politica/kicillof-define-sobre-las-paso-bonaerenses-mientras-massa-exige-unidad-anti-milei-y-maximo-habla-de-un-frente-patriotico-aM3Ol0k1FqKD",
@@ -1683,6 +1712,20 @@
     "\"Malena Galmarini\""
    ],
    "visto": "2026-11-20T15:15-03:00",
+   "revisada": true
+  },
+  {
+   "id": "540856ba418b",
+   "titulo": "Findel tratado Nuevo START, ¿pueden las tres grandes potencias negociarun nuevo equilibrio nuclear?",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGlRTkV0RkRwcnFfR0RXUnl5dGhJbjlScXQwX0JzaWJRR2M2VndEcHZ5YTdOUmYtSEktVVBqZzR0T09WRmJOR3NsVGd0M3FmNC1iUm1CcXdEZnRRMGlzMXEydnE1S2xpeWZWY2gwWE5GRDFlVkRzQlFxVkxabHcxUUdvREhDc3U3cURwd01KSm43cTE4RWdKSzFFZzY1d1BaQXNLb3BFX3IxcDY3Vl82UFk3YkJPX1lFdWRpSjFUVVU1NDg4RzAxNnZTNHRzS1NtY01weW5acw?oc=5",
+   "fecha": "2026-11-20T05:39-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T01:14-03:00",
+   "url_original": "https://www.perfil.com/opinion/findel-tratado-nuevo-start-pueden-las-tres-grandes-potencias-negociarun-nuevo-equilibrio-nuclear-aTg6t1W0wh6m",
    "revisada": true
   },
   {
