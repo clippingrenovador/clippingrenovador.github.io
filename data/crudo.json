@@ -1,9 +1,51 @@
 {
- "generado": "2026-11-21T10:24-03:00",
- "total": 568,
- "nuevas_ultima_corrida": 24,
+ "generado": "2026-11-21T11:18-03:00",
+ "total": 572,
+ "nuevas_ultima_corrida": 19,
  "errores": [],
  "notas": [
+  {
+   "id": "2b0be0dc0cd3",
+   "titulo": "Ni primera vuelta ni ballotage: una encuesta desmiente el pronóstico de Caputo",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmhqVm8yY2xsaExoQnVfTHg1YzROcnBORER2TTIwdEdITnRnTW13cll6dmp5dzFrVUxkN2l0V1REZjZjSDFmRGhHc0NwdmpfV2pqNC1vR0Y3ZDdyZVZOQkJucEpfaDM5NGs0TUVodzdIUDczV1lKVVpJekMtZnFTZ09DLUxYb1FyYjZUY2JKNkt5eGhBNWdMZg?oc=5",
+   "fecha": "2026-11-21T10:59-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T11:16-03:00",
+   "url_original": "https://www.infoplatense.com.ar/ncuesta-analogias-ballotage-kicillof-milei-gestion-reprobada/",
+   "revisada": true
+  },
+  {
+   "id": "83873b559481",
+   "titulo": "Golía junto a Conte Grand inauguraron la nueva Fiscalía Descentralizada de Chacabuco",
+   "medio": "Cuarto Político",
+   "medio_url": "https://www.cuartopolitico.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmMtMkFieEJHUXRJWkNIdzV0QkRZM0RrV2IybmhFekFDcm1SV1R6N2kxRWxWNmlDeUJkMnVuOG1aeTdTTm43d2hoQlVtbWs3UnNISXRYUmNLTkN3WjJhMHFqOFd1RGtzWW9vSXZSSERSMk8xV2ZMOFhmQWI5YUU4YksxcXhGWW9ZemlyQVh2S1ZLSnhnVW9ZajlBMGpTZkV4NDI5ZkRKbHBUU3RDVGVZOHdhdl83bVZFWDFuUWlOWWlpd2w0NlM3QVVxWjQyTUpRNzUzYndn?oc=5",
+   "fecha": "2026-11-21T10:47-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T11:17-03:00",
+   "url_original": "https://www.cuartopolitico.com/nota/2026-11-21-10-42-0-golia-junto-a-conte-grand-inauguraron-la-nueva-fiscalia-descentralizada-de-chacabuco",
+   "revisada": true
+  },
+  {
+   "id": "837d2c63cb0d",
+   "titulo": "El verdadero riesgo kuka",
+   "medio": "Exclusiva | Plataforma de noticias",
+   "medio_url": "https://exclusiva.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xU1UzY0VYU1MwRlBYS2JOY2JRYXMydHRadS0wNFM0YnplamExYVBSVUVJZWpueHA4WF9SQ3k2ZGRvcHFybTAyOWNJR2tZZHAySFA0LVM2Yl9UQTdfRHJ5eUJUYUhva1BYbUpPZ0w5WEMwZ1ZY?oc=5",
+   "fecha": "2026-11-21T10:40-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T11:16-03:00",
+   "url_original": "https://exclusiva.com.ar/blog/2026/11/21/el-verdadero-riesgo-kuka/",
+   "revisada": true
+  },
   {
    "id": "45cad97fa30e",
    "titulo": "Massa arma un frente opositor sin definir candidato y Kicillof quiere disputar el liderazgo en las PASO",
@@ -194,6 +236,20 @@
    ],
    "visto": "2026-11-21T06:07-03:00",
    "url_original": "https://tn.com.ar/politica/2026/11/21/milei-puso-en-marcha-su-estrategia-electoral-para-evitar-una-interna-con-bullrich-y-complicar-los-planes-de-kicillof/",
+   "revisada": true
+  },
+  {
+   "id": "93a55bd02af5",
+   "titulo": "Petitorio y denuncia de vecinos de Martínez",
+   "medio": "Portal UNO Argentina",
+   "medio_url": "http://www.portalunoargentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xR1BPS0ZxenAzMG5QaldqOTY2S0N2cmZvUVROS252aUJLYzR1SDRQTUptRHdjYmRMUmN0MWZJSnEza2NaWU9pQnpLWk9Id3FNdl9jX0VTRkhEaEpOMzRkWkZpLXI1TjFHdUNtWk8wREhRTVVUbkI1VQ?oc=5",
+   "fecha": "2026-11-21T05:00-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-21T11:16-03:00",
+   "url_original": "http://www.portalunoargentina.com.ar/contenidosver.asp?id=35404&sid=6",
    "revisada": true
   },
   {
