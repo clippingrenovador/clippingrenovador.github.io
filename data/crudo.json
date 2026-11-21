@@ -1,9 +1,37 @@
 {
- "generado": "2026-11-20T21:06-03:00",
- "total": 523,
- "nuevas_ultima_corrida": 23,
+ "generado": "2026-11-20T22:39-03:00",
+ "total": 527,
+ "nuevas_ultima_corrida": 19,
  "errores": [],
  "notas": [
+  {
+   "id": "12b2d83bac0a",
+   "titulo": "Encuesta: cuatro de cada diez argentinos sienten bronca hacia Javier Milei",
+   "medio": "Diario NDI",
+   "medio_url": "https://diariondi.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHpvWUhEUUtaLTBPeWdZZVNJbkh5d2RZSXUzWGdSVnVYSExyWWs1VUZvZzZyNlc2VFJBWE9JcU9Udm1NcGpKYVpuWUZrYmR0RjBFcWZER0M1THBVWncyV29PVG9RZXE4eEpJSXNEOF9EZXZGaGFmWi1lV0RaSGFybUJTT2pSNXlGb19jN3NBbk9sdW1JOEtyM0RDaVQ?oc=5",
+   "fecha": "2026-11-20T21:59-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T22:38-03:00",
+   "url_original": "https://diariondi.com/encuesta-cuatro-de-cada-diez-argentinos-sienten-bronca-hacia-javier-milei/",
+   "revisada": true
+  },
+  {
+   "id": "55eba034e55e",
+   "titulo": "Miguel Pichetto: \"Milei provocó un gran daño a la clase media\"",
+   "medio": "Cuestión Entrerriana",
+   "medio_url": "https://cuestionentrerriana.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDFaTlZrSjhGSml5VVdxR2RDZWEwcHBCYjk3N1dSS1B2R2J6YnJyc24yMlF6ZTNSQy1uUEYzeTFZLVJLZlNXSW1aT1ljamtoTGNKa3NhVTJVWVF2R3JwUjgycEc0MEk5NmlBbVNnVnhtQVZRUk9YbnliU1JaTjQwcnNQZk8wRWFyQjZ1czJzUEtqUUEyUkRRakFlMA?oc=5",
+   "fecha": "2026-11-20T21:10-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T22:38-03:00",
+   "url_original": "https://cuestionentrerriana.com.ar/miguel-pichetto-milei-provoco-un-gran-dano-a-la-clase-media/",
+   "revisada": true
+  },
   {
    "id": "852e224c9964",
    "titulo": "Kicillof sin Plan B por la suspensión de las PASO en Nación",
@@ -99,7 +127,8 @@
    "fecha": "2026-11-20T19:41-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "massismo"
    ],
    "visto": "2026-11-20T21:05-03:00",
    "url_original": "https://www.lapoliticaonline.com/provincia/kicillof-maximo-y-massa-cruzaron-gestos-de-unidad-en-la-antesala-del-congreso-del-pj-bonaerense/",
@@ -222,6 +251,20 @@
    "revisada": true
   },
   {
+   "id": "c3b4d1918ba3",
+   "titulo": "La histórica casa de Raúl Alfonsín ya pasó a formar parte del patrimonio de Chascomús",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1FESkdtT3IxNE1oVHpsMU8tckFMQVlrVXo0M3VBVElUVUNDVG1BUFU3YUZhNXVXZldZSW5LdlE1ZWEwa3pJdzFqV3R0TWdGMk1sc0ZMSHlsYjE0ZE9qMXpVQ3BZU3NPX095VWdpVHp6Y0V1bzMyc1ZtMHFzeDV4ZHA3NTlNWjlmVUx4bmt6b2pXVFQ4RTdTNVRvT28zVHhVMXItenN1M2V5bVJxOHpnSXQtYW1PX0V2RlF2Wg?oc=5",
+   "fecha": "2026-11-20T17:30-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T22:38-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/la-historica-casa-de-raul-alfonsin-ya-paso-a-formar-parte-del-patrimonio-de-chascomus",
+   "revisada": true
+  },
+  {
    "id": "d3c398885bd3",
    "titulo": "José Ignacio de Mendiguren: \"Massa es garantía para evitar el péndulo, siempre estuvo de acuerdo con el equilibrio fiscal\"",
    "medio": "Perfil",
@@ -291,6 +334,21 @@
    ],
    "visto": "2026-11-20T16:26-03:00",
    "url_original": "https://www.zonanortehoy.com/san-fernando/juan-andreotti-anuncio-la-renovacion-de-5-escuelas-de-san-fernando/",
+   "revisada": true
+  },
+  {
+   "id": "0f1d5815a8d4",
+   "titulo": "Kicillof: “No importa de qué potencia hablemos, la Argentina no va a ser el patio trasero de nadie”",
+   "medio": "Zona Norte Diario Online",
+   "medio_url": "https://www.zonanortediario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3UzWlFyS0ZSY3p6NjRXMXVkc2FtVUpUTEh0LW9FQjRkWkIyWm94RVNGUVZORmppVW1CUUV0c1pqZ1BsZERYWjh3UDJLSHd4YnlMdnRtY2hfSEtieWxicmFPWkEzSFZKR2w5R21Rc2tUcHBOT3B4WnktVGswRlplZnZidVZDbm9aSGdDX0JZUXkzc2hBZUJSa01yZmVUTHZCMkV4ME5aZG1GcWZTeDlSaXF5VTFrM09qSXVjY1NxbDJYQmYyaDBFc2VuZzZRSEJCZTFJV29RRVkxZw?oc=5",
+   "fecha": "2026-11-20T16:11-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\"",
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T22:38-03:00",
+   "url_original": "https://www.zonanortediario.com.ar/20/11/2026/kicillof-no-importa-de-que-potencia-hablemos-la-argentina-no-va-a-ser-el-patio-trasero-de-nadie/",
    "revisada": true
   },
   {
@@ -438,6 +496,21 @@
    "revisada": true
   },
   {
+   "id": "49ab884f4c7a",
+   "titulo": "Cecilia Moreau llamó a la unidad del peronismo de cara a las elecciones de 2027",
+   "medio": "https://diariolapluma.com.ar/",
+   "medio_url": "https://diariolapluma.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3FJdXo1c3NMZlA1RHZhcTFuY3VOeWRYR0czbWlXR1pGZGdDdWw1eVE1THROTmFrTWUxYUtKdV9ibUpCYkZLSmxHclQwQlFXQ1lRWUh3bDZGMXB1akNlUnZteEVIT2tlbHd0eDloY1l4TW9vRFpoYVJuTTZBdnFmaVBEVjJseDY5U3ZTUy1Bd1k4MTA2RklYRXpkMGkwUUdtbGpMSUU4MmNUa3NrbEE?oc=5",
+   "fecha": "2026-11-20T15:25-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-20T22:38-03:00",
+   "url_original": "https://diariolapluma.com.ar/cecilia-moreau-llamo-a-la-unidad-del-peronismo-de-cara-a-las-elecciones-de-2027/",
+   "revisada": true
+  },
+  {
    "id": "6355140bc567",
    "titulo": "La aprobación de tres pisos adicionales para un complejo generó un fuerte cruce entre Zamora y el massismo",
    "medio": "Flipr.news",
@@ -533,7 +606,8 @@
    "fecha": "2026-11-20T14:00-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T14:16-03:00",
    "url_original": "https://www.iprofesional.com/politica/469660-massa-busca-aislar-a-kicillof-en-quienes-piensa-como-companeros-de-formula",
@@ -7499,20 +7573,6 @@
    ],
    "visto": "2026-11-20T02:29-03:00",
    "url_original": "https://infocronos.com.ar/nota/58858/garate-firmo-un-acuerdo-con-camuzzi-gas-pampeana-para-el-polideportivo-municipal-y-a-caps/",
-   "revisada": true
-  },
-  {
-   "id": "c06012591d03",
-   "titulo": "Tigre: el zamorismo y un concejal de La Libertad Avanza acusan al massismo de montar una “operación política” por las torres de Remeros",
-   "medio": "InfoBAN",
-   "medio_url": "https://www.infoban.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMnM3YU15NXdKcUd4Wm9RVmtsQ0tLNkV2RFdtT0x0SmZLc0tQNWF1dzJWbDI4dFdHQm5wUHVjRFNaSzM0cVJfbXJuQWlmR2ZkdFdOWjluQ1RhQ2N0cmJUN0hROTBIZy1PcnkxOHlRMG02blRaZlpXNHFad3lkZ0VySm8taThvMnlMam1YVHQxUnl4bEZ6WDE0OVMtdEpKTE41RjdJVnJiekE3bFN0ZnFZbG1jc3pGMGNVMFNLVERTVHk0encyU2tSUjQzaWtwNHJGOTBLbnpzQkhnTExrdTN4Ty12RnA5aklw?oc=5",
-   "fecha": "2026-11-13T22:34-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.infoban.com.ar/13/11/2026/tigre-desde-la-presidencia-del-hcd-acusaron-al-massismo-de-montar-una-operacion-politica-por-las-torres-de-remeros/",
    "revisada": true
   }
  ]
