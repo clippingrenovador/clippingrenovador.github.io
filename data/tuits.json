@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-21T13:05-03:00",
- "total": 46,
+ "generado": "2026-11-21T14:05-03:00",
+ "total": 48,
  "tuits": [
+  {
+   "id": "2123599310327799987",
+   "usuario": "ceciliamoreauok",
+   "visto": "2026-11-21T14:05-03:00",
+   "url": "https://twitter.com/ceciliamoreauok/status/2123599310327799987",
+   "citado_en": [
+    {
+     "medio": "Gente de Salta",
+     "titulo": "Cecilia Moreau pidió unidad en el peronismo: “Con PASO o sin PASO, vamos a ir unidos a la elección”",
+     "nota_id": "73c742facabb"
+    }
+   ]
+  },
+  {
+   "id": "2123589644080091472",
+   "usuario": "RPN_Oficial",
+   "visto": "2026-11-21T14:05-03:00",
+   "url": "https://twitter.com/RPN_Oficial/status/2123589644080091472",
+   "citado_en": [
+    {
+     "medio": "Gente de Salta",
+     "titulo": "Cecilia Moreau pidió unidad en el peronismo: “Con PASO o sin PASO, vamos a ir unidos a la elección”",
+     "nota_id": "73c742facabb"
+    }
+   ]
+  },
   {
    "id": "2118362856353616228",
    "usuario": "Matiasdeu",

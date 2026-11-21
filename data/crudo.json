@@ -1,9 +1,39 @@
 {
- "generado": "2026-11-21T13:05-03:00",
- "total": 582,
- "nuevas_ultima_corrida": 20,
+ "generado": "2026-11-21T14:06-03:00",
+ "total": 588,
+ "nuevas_ultima_corrida": 25,
  "errores": [],
  "notas": [
+  {
+   "id": "250b2ff21bec",
+   "titulo": "Kicillof analiza suspender las PASO bonaerenses tras la avanzada de Massa",
+   "medio": "radio master lujan",
+   "medio_url": "https://radiomasterlujan.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHRaVDBKeEZNOEJDS0ZSMHhxTWxlZjFoMnFnSldnLWtCOUQtYVVvdTM4NE0wZ2U2S3N1Zm0yRjJrNEZtTEl1VmNYWi12MDRweXVVSDBFTzNaUlFQNEp3b05CMDZHN0VqMVZPR2gxYS13b1d4WGpsOGRPangtTXNXQzNFUldxT1RDV3JKRHRlbTYteDNUYlo5V3MtMmdlQndWQXQ5czFBeXRBUQ?oc=5",
+   "fecha": "2026-11-21T14:01-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://radiomasterlujan.com.ar/kicillof-analiza-suspender-las-paso-bonaerenses-tras-la-avanzada-de-massa/",
+   "revisada": true
+  },
+  {
+   "id": "73c742facabb",
+   "titulo": "Cecilia Moreau pidió unidad en el peronismo: “Con PASO o sin PASO, vamos a ir unidos a la elección”",
+   "medio": "Gente de Salta",
+   "medio_url": "https://www.gentedesalta.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY29CM0NSVGhSbzBKajVmLTdPdjZYZ3BBSmJyUkUydS12d0x0MGJnb2dwM2xudjVhNnozVmNLak83TFE2ZndVaUFRaGVnM3dyNHF0b0d0ekxlYmdrWW8tVjRtXzRIQWg5MW1IdFhWOWpmS2sycGxXNnhGeGE1ajBJc2VzRHI0QjBPY0VXZnJjeHB6ZHN6RnEwR3hqYmxBcnRTb0dsY3pMdGtIVC1PWTZvOHpsU25uQnBqMDlYaWk5NWHSAcYBQVVfeXFMTUtMMEJzd1YtWE4xWWpIVTBHaTlMcmtlX2NPRzliSVVLY3VRUHdZako1R2xzQU5SN3cxeXJwTVpKQmlWaUJrcXpkNUk3SjdxNFZ2MnowOGp2NmxVVWJuY3BXM09BTUdSOFhjX0dTWWVRMThEZVJVOWMtc3FzRHFmU0xQS0FiWnZ0X2tjc3dRSUh0QkowYV96c1ZobGREMmg4WElyOFNYcnN6dnpVVDE4YVdsRHF2Yl9rS1pmRmpXYXMzc1ZjY3VB?oc=5",
+   "fecha": "2026-11-21T12:57-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://www.gentedesalta.com/politica/cecilia-moreau-pidio-unidad-peronismo-con-paso-o-paso-vamos-ir-unidos-eleccion-n14186",
+   "revisada": true
+  },
   {
    "id": "a891074f658e",
    "titulo": "Marina Calabró: de los insultos de Milei a la vocación de poder de Massa",
@@ -27,7 +57,8 @@
    "fecha": "2026-11-21T12:19-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T13:04-03:00",
    "url_original": "https://cholilaonline.ar/2026/11/tension-maxima-en-el-pj-massa-suma-apoyos-y-kicillof-mide-fuerzas.html",
@@ -136,6 +167,35 @@
    ],
    "visto": "2026-11-21T12:07-03:00",
    "url_original": "https://diarioanticipos.com/2026/11/21/el-pj-bonaerense-se-reune-para-elegir-a-maximo-kirchner-titular-del-congreso-partidario-y-a-leo-nardini-presidente-de-la-junta-electoral-con-kicillof-ausente/",
+   "revisada": true
+  },
+  {
+   "id": "bcd8de8677c7",
+   "titulo": "Kicillof quedó afuera de la foto y el peronismo empezó a discutir cómo llegar a 2027",
+   "medio": "El Cronista",
+   "medio_url": "https://www.cronista.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzZFZlNLZ2NiNFJKS1Z0T1lxSFY4WThQRGRLREpIdmhrOUNTY3dqLUZXbHFfY0NNWUlBX2Vxb2JtZzhESzdaTTBuUUhlaHJoQTJpM0RmaU5UM2RXbUtFWDAzRWt1U29lNzBMVkNlaXdCYnkwWGUtTzlQTmIyNXJFUWh2MXJLUWJTMEV4WGNneHEtNV9xRVR4R3pOVnBNNGhaWDNxNzJad2E2RThYMWQzUDZuSmE3bFdtT3hkOVFEQdIB2gFBVV95cUxPZ1JKbm1URHNhdU9CSlZzZV9LcmhOcWN1ZEk0cnN1UnpnUU1hRmFJYmVkbDJJazc2SUJUa1JtUXB2QUl5cFR0ZnYwZGxobDZoeUxMUVowN3F0SUl5dGVuWmVHRG5lLWtGTTYwVzNRZFVLTzNhYTZBanZFVkM1akFxNVZhVTNneklyT3l0MFRBOG9DaWFBNVNyajZVVlV5MWY4eEdjd3QyUGZOcDM4eVJDbkl3ZXhxZnREN0FXZ3lGb0h0SGdiYWRPWVgwZ2JFX0Z5Nm9sbE50YlRLUQ?oc=5",
+   "fecha": "2026-11-21T11:29-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://www.cronista.com/columnistas/kicillof-quedo-afuera-de-la-foto-y-el-peronismo-empezo-a-discutir-como-llegar-a-2027/",
+   "revisada": true
+  },
+  {
+   "id": "c7aa7b5c889e",
+   "titulo": "Andreotti anunció qué cinco escuelas de San Fernando serán renovadas a nuevo",
+   "medio": "elcomercioonline.com.ar",
+   "medio_url": "https://www.elcomercioonline.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNejhHSEtKSHI1dkZVczlGNkpMN3JJaFVGSDY3bG9iak9nUXBWWGRqeDlWRmo4LTllYkx4ckhNWkxQNmV4bUVxUjRRbk5OVmhHSG94cG0tMW5CS2NodUt0RUZoLW8tLWYxWUkzRllXMXBSQ0tQN3loaW51UlhOWnpjenBxUkd3aFd0RExlMUpFaDlIa2gtSDVOdVBtMWpKOUJ6U0g5ZHNCWWpjSUVQc2JXVE1mMHBCYlVFTG1VZVZpTW9yUHF0RlRoWExua2VLeXRWaUHSAdIBQVVfeXFMTW9YLTB1VWJrdVpzdFdtRlFMM3VPS2VXTUlYVnNpcG12RXZmU19iYS1WMUV5amx6dHpIeUx1N0w2T201dXJDdHNFWDE3cEdOSTM3SGowaUgtaTJWcF9wOEpCMWU2WDRrSWtYMkhRQjhQTWRrV05WbndWejZXYjJjZ0J1ckRTbjlOdktWalRublQybG05aXN6cEU4dWhEQ1dOQTNIMHRkQXB6cVhTSnFvYm5Id0lCaFA4TjhXUkt5SW1FQUF1SlJkVjBQakY5dFp1WmNR?oc=5",
+   "fecha": "2026-11-21T11:11-03:00",
+   "busquedas": [
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://www.elcomercioonline.com.ar/articulos/60109269-Andreotti-anuncio-que-cinco-escuelas-de-San-Fernando-seran-renovadas-a-nuevo.html",
    "revisada": true
   },
   {
@@ -371,6 +431,34 @@
    ],
    "visto": "2026-11-21T08:07-03:00",
    "url_original": "https://www.latecla.info/171339-el-pj-bonaerense-con-un-congreso-virtual-y-una-evidente-desconexion-interna",
+   "revisada": true
+  },
+  {
+   "id": "b31e30971d00",
+   "titulo": "El PJ bonaerense con un Congreso virtual y una desconexión interna hacia 2027",
+   "medio": "La Tecla",
+   "medio_url": "https://www.latecla.info",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG9PZng2OE5RcFFyb3lHdEhBMlNuQVpOSldmVzhVbVJiVG1rQkNBb1J3NkxLZVotRmhQTThoUER6blo3WFdnOUEzM3hyZWxoX29DMkJUM1Nibm9raVJyOS1idzhpM1E5Q3MtM041a3lDbm1fT2VjcjNraHdFRjQ1azlmSGlkY3dlcGZOOFlZd3JLeTZHRk5qUjh3VkVORmR6eF90QUZWOGJ6cW8?oc=5",
+   "fecha": "2026-11-21T07:32-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://www.latecla.info/171339-el-pj-bonaerense-con-un-congreso-virtual-y-una-evidente-desconexion-interna",
+   "revisada": true
+  },
+  {
+   "id": "b31c5049b42b",
+   "titulo": "Bullrich y Kicillof empatan al frente de una encuesta de imagen",
+   "medio": "Impacto Castex",
+   "medio_url": "https://impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzNaVjlHN3VRekdhTzNCX0ZHajNhbGhnMC1FUFlIX1AtSUZWcV9DX0h2WFpFaUZDRnptbmVhT05aNW1kd3QxLTJFdXBkaExBRDlJR21uNGYtNjZZcTNBTWtfY2VNQ081ZFBGSXdtWnFnUUVQX09NLVVOTmNiSWpEbi1UMllDcDdrUmxkMm9ZOXNLSHZXT0RQbU5TWUs0cXlzaDdwdjg0ZUE5X0E?oc=5",
+   "fecha": "2026-11-21T07:30-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T14:05-03:00",
+   "url_original": "https://impactocastex.com.ar/politica/19489/bullrich-y-kicillof-empatan-al-frente-de-una-encuesta-de-imagen",
    "revisada": true
   },
   {
