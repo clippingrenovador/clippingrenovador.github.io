@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-21T14:06-03:00",
- "total": 588,
- "nuevas_ultima_corrida": 25,
+ "generado": "2026-11-21T15:01-03:00",
+ "total": 590,
+ "nuevas_ultima_corrida": 23,
  "errores": [],
  "notas": [
   {
@@ -17,6 +17,20 @@
    ],
    "visto": "2026-11-21T14:05-03:00",
    "url_original": "https://radiomasterlujan.com.ar/kicillof-analiza-suspender-las-paso-bonaerenses-tras-la-avanzada-de-massa/",
+   "revisada": true
+  },
+  {
+   "id": "9810b4b0e9c3",
+   "titulo": "Panorama político: Massa armó su foto, Kicillof eligió la gestión y Máximo asume por Zoom",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUZvRGN5VjIxaXc5bTMtdXZuT3cxLVJRcmgzSEF4Z0RXdWNPbFIwWDVUbEtPUGxBY0xzeGg0VEhXX05GZnl5cFhqc1hBN1RrZDZzandkZFc5NHRzSE9xWGNFZkdKQmxHYjlBeVRWb3hDNnNPb3ZMNEZoYnhUaEUySFBFY1hiVmU0UzFKaWRlZlVlZkxLaVE0SWIxZmtEbkM0SmdJWGp0dWY3ZzJiYnlad2g5Yi1Zemtqdm5sYg?oc=5",
+   "fecha": "2026-11-21T13:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T14:59-03:00",
+   "url_original": "https://www.infoplatense.com.ar/panorama-politico-massa-armo-su-foto-kicillof-eligio-la-gestion-y-maximo-asume-por-zoom/",
    "revisada": true
   },
   {
@@ -148,7 +162,8 @@
    "fecha": "2026-11-21T11:48-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sebastián Galmarini\""
    ],
    "visto": "2026-11-21T12:07-03:00",
    "url_original": "https://tn.com.ar/politica/2026/11/21/el-plan-de-kicillof-para-enfrentar-a-massa-en-la-provincia-y-la-nueva-disputa-con-maximo-kirchner-por-las-alianzas-electorales/",
@@ -1013,6 +1028,20 @@
    "revisada": true
   },
   {
+   "id": "fafc068f3f5e",
+   "titulo": "Sin PASO, el peronismo busca la unidad y desafía a Milei",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXE0UjZsTkphUU93R2h1VU5KTXpPa0pNRkFtZXpyZ0dNY01UMl9tWlR5ZGloZEFMNzhmdWRTTC1DUTEtY1VJVEI4UV81Q0QxYUpUaU5NTXJZUldJbWlIaDJhTU95Q0ZHMUdGM1RjcVhMVXZ2aTliN3Y5NW1welBESDU4ekZzZmtsc1VyVVNRT3E2anlZaUHSAY4BQVVfeXFMUDNVajdKTVB0TWRzdjVyVnZHQWNHa2Jxb0hiMFZjUTBtMzAxUURrVV9oMzhEX0dtbHhJMnlzTDZKT25vdGttNEc4VTNPeko5Q3BFTGhtWXA1STgtRG5GZmVZWXJ5UklyeEo2S0VuSXhFNmkwX1FYM1kyNmZaa3kzbDhGbWtHTWt0UUhub3NFQQ?oc=5",
+   "fecha": "2026-11-20T16:49-03:00",
+   "busquedas": [
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T14:59-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603604/peronismo-unidad-2027-paso-moreau-massa-milei",
+   "revisada": true
+  },
+  {
    "id": "c7833897a31b",
    "titulo": "Barrios de Pie sale a la calle con la consigna \"Axel o Milei\"",
    "medio": "Letra P",
@@ -1127,6 +1156,20 @@
    ],
    "visto": "2026-11-20T16:26-03:00",
    "url_original": "https://www.zonanortediario.com.ar/20/11/2026/juan-andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas-de-san-fernando-durante-el-verano/",
+   "revisada": true
+  },
+  {
+   "id": "372bf19155cb",
+   "titulo": "Atención: la tarjeta SUBE no funcionará durante 12 horas del fin de semana",
+   "medio": "MendoVoz",
+   "medio_url": "https://www.mendovoz.com",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHI0VmYxXzM1cHAyTGoxc21oNmU4SUNVTlJpSWRWdUhLSDFXV0ZSNHZSNXVreTdaaUowOERzTFlaeFlOZ2g0ZGF4elZFNXJfbkQtRUphdzdjRzBuRlRBNHlscEE3WE1pb3pYa0JnaWVKR1FCVGJrbGtGMkMwM3pfeHpkWVlCM2FDU0VMNjEwbW1QOGh4ZHZpYkZucURWWUhtMWxuaWtaRWN4MU5rNHdON2NvRDlWcnhDNTF6dUU4TzMzcXBRT2xidk5yRlAydW5LcFUtQTdNN3lvTG8?oc=5",
+   "fecha": "2026-11-20T16:00-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T14:59-03:00",
+   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/20/atencion-la-tarjeta-sube-no-funcionara-durante-12-horas-del-fin-de-semana-170866.html",
    "revisada": true
   },
   {
@@ -8456,20 +8499,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://elintransigente.com/2026/11/14/luis-caputo-publico-dato-salarial-septiembre-sebastian-galmarini-cuestiono/",
-   "revisada": true
-  },
-  {
-   "id": "eab74e2ea211",
-   "titulo": "Tierra del Fuego: Alejandro Deanes asume la conducciòn del Frente Renovador de Massa",
-   "medio": "Diario Popular",
-   "medio_url": "https://www.diariopopular.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmc5aXJUbkR0dWRUVlJvZWhRR1I5LTVaUF9xTFFidC1yazBwZUtyTzkxOUNENklmMHRiZkxoSXF4S3lNTFhRX2hhbVFIbVEtZHo2eHozS0JIY3MwTmZEUWZXQmtqSHB1cDJ0dXpsaDlfc0NhQ0NjekNrNG41b1RwS3RfVGJwMjRvZkRZNHY4RWs5UVpHeTN5d0Y3ay13bnJKNEZqSGJXMTU5NGFCeWZVNHlNeVRJZXJnU2F4SEpuVVB0dXExZE9KNEln?oc=5",
-   "fecha": "2026-11-14T14:23-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.diariopopular.com.ar/politica/tierra-del-fuego-alejandro-deanes-asume-la-conduccion-del-frente-renovador-massa-n929259",
    "revisada": true
   }
  ]
