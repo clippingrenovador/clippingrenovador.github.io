@@ -1,47 +1,33 @@
 {
- "hora": "22",
+ "hora": "06",
  "claves": [
-  "Según distintos medios, Sergio Massa aceleró el armado federal del Frente Renovador y evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula de 2027.",
-  "Axel Kicillof, Máximo Kirchner y Sergio Massa mostraron gestos de unidad en la previa del congreso del PJ bonaerense, mientras avanza la discusión por la suspensión de las PASO.",
-  "José Ignacio de Mendiguren definió a Massa como una garantía para evitar el péndulo económico. Miguel Ángel Pichetto pidió a Massa y a Kicillof agotar el diálogo.",
-  "En gestión, Juan Andreotti anunció la renovación de cinco escuelas en San Fernando y Sebastián Galmarini recibió un petitorio de vecinos de Martínez."
+  "El PJ bonaerense realiza este sábado su congreso partidario, precedido por gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. La oposición provincial estima que el gobernador mantendrá las PASO en la Provincia.",
+  "Según distintos medios, Sergio Massa avanza en el armado federal del Frente Renovador y evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula de 2027.",
+  "José Ignacio de Mendiguren definió a Massa como una garantía de estabilidad económica. Miguel Ángel Pichetto pidió a Massa y a Kicillof agotar el diálogo.",
+  "En gestión, Juan Andreotti anunció obras en cinco escuelas de San Fernando y Sebastián Galmarini respaldó el reclamo vecinal por el predio de Martínez."
  ],
  "retirar": [],
  "temas": [
   {
-   "id": "massa-armado-formula-2027",
-   "titulo": "Massa acelera el armado federal y evalúa nombres para la fórmula de 2027",
-   "resumen": "Según Clarín, iProfesional e Informe Digital, Sergio Massa reorganizó el Frente Renovador en las provincias y evalúa a Natalia de la Sota o a Gerardo Zamora como posibles integrantes de la fórmula. Algunos medios lo leen como una estrategia para relegar a Axel Kicillof en la definición de la candidatura.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa",
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "c852c18e0925",
-    "57abd5fa3bb0",
-    "61fdfbf5e82c"
-   ],
-   "otras": [
-    "0fd092ea2a8a",
-    "8b157db9c966",
-    "f5a19752d55b"
-   ]
-  },
-  {
    "id": "sin-paso-la-interna",
-   "titulo": "Sin PASO: gestos de unidad entre Kicillof, Máximo Kirchner y Massa antes del congreso del PJ bonaerense",
-   "resumen": "La Política Online registró gestos de unidad entre los tres dirigentes en la previa del congreso partidario del sábado. Clarín anticipa una disputa por las candidaturas si se suspenden las primarias nacionales, y NOVA señala que el gobernador no tiene una alternativa definida ante ese escenario.",
+   "titulo": "Sin PASO: el congreso del PJ bonaerense y la discusión por las candidaturas de 2027",
+   "resumen": "Antes del congreso partidario de este sábado, La Política Online registró gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. El Día informa que la oposición bonaerense estima que el gobernador mantendrá las PASO en la Provincia, mientras otros medios advierten que la suspensión de las primarias nacionales reabre la disputa por las candidaturas. Diario Hoy destaca que el Frente Renovador apuesta a la unidad del peronismo.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
+    "d7a0823e28ce",
     "7b0fa285eda0",
-    "369a1776d772",
-    "852e224c9964"
+    "369a1776d772"
    ],
    "otras": [
+    "d4acb9b05402",
+    "b0ab9197ae08",
+    "a9ee4dc0aaba",
+    "8cb88f734a31",
+    "66053672bed9",
+    "852e224c9964",
     "c5e431352ace",
     "f1e3ab8cc762",
     "1f667aa40337",
@@ -50,24 +36,9 @@
    ]
   },
   {
-   "id": "respaldos-a-massa",
-   "titulo": "De Mendiguren: “Massa es garantía para evitar el péndulo”",
-   "resumen": "José Ignacio de Mendiguren sostuvo en Perfil que Sergio Massa ofrece estabilidad frente a los cambios bruscos de rumbo económico. El dirigente de Avellaneda Luca Bertolotto afirmó que su liderazgo es indiscutido. Miguel Ángel Pichetto, por su parte, aconsejó a Massa y a Kicillof agotar las instancias de diálogo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "d3c398885bd3",
-    "b1559ad5db4b",
-    "629298773d3d"
-   ],
-   "otras": []
-  },
-  {
    "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: escuelas en San Fernando, agroecología en Chacabuco y reclamo vecinal en Martínez",
-   "resumen": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano y avanza la obra de la Universidad Nacional del Delta. Darío Golía participó del Congreso Provincial de Agroecología en la UNNOBA. Sebastián Galmarini recibió a vecinos del predio ex Cheeky, en Martínez, que le entregaron un petitorio por las obras en el lugar.",
+   "titulo": "Gestión: escuelas en San Fernando, Chacabuco y Tres Arroyos, y el reclamo vecinal en Martínez",
+   "resumen": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano. Sebastián Galmarini sumó su apoyo al reclamo de la Asamblea Cheeky por el predio de Martínez. Darío Golía participó de los 95 años del Diario Democracia y Pablo Garate acompañó actos escolares por el Día de la Soberanía en Tres Arroyos.",
    "tono": "positivo",
    "dirigentes": [
     "Juan Andreotti",
@@ -76,10 +47,12 @@
    ],
    "principales": [
     "3423a4d75f90",
-    "ae95abfd83ad",
+    "fd58ac22c9ab",
     "bf021e29b6f3"
    ],
    "otras": [
+    "d935989ebdc9",
+    "f900f928ae5f",
     "e9b6b874053d",
     "7f26dc382791",
     "882b8ea0c36d",
@@ -91,69 +64,48 @@
    ]
   },
   {
-   "id": "natalia-de-la-sota-cordoba",
-   "titulo": "Natalia de la Sota: “Hoy no hay diálogo con la Provincia”",
-   "resumen": "La diputada cordobesa sostuvo que no existe diálogo con el gobierno de Martín Llaryora y que primero hace falta voluntad política. Carlos Tévez expresó públicamente su apoyo en medio de la tensión con el PJ provincial.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "2d701ef7614c",
-    "91ad8fd422db"
-   ],
-   "otras": []
-  },
-  {
-   "id": "giuliano-santa-fe",
-   "titulo": "Diego Giuliano: PASO, emergencia política y seguridad en Santa Fe",
-   "resumen": "En Urbana BA, Giuliano defendió las primarias y afirmó que el oficialismo le teme a las urnas. En Santa Fe planteó que la provincia atraviesa una emergencia política y cuestionó el paquete de seguridad del gobernador Pullaro por el riesgo de nulidades en las causas.",
+   "id": "respaldos-a-massa",
+   "titulo": "De Mendiguren: “Massa es garantía para evitar el péndulo”",
+   "resumen": "José Ignacio de Mendiguren sostuvo en Perfil que Sergio Massa ofrece estabilidad frente a los cambios bruscos de rumbo económico. El dirigente de Avellaneda Luca Bertolotto afirmó que su liderazgo es indiscutido. Miguel Ángel Pichetto aconsejó a Massa y a Kicillof agotar las instancias de diálogo y afirmó que el Gobierno provocó un gran daño a la clase media.",
    "tono": "positivo",
    "dirigentes": [
-    "Diego Giuliano"
+    "Sergio Massa"
    ],
    "principales": [
-    "ac2453b54d02",
-    "d683d483b2ff",
-    "e25eaf75b600"
+    "d3c398885bd3",
+    "b1559ad5db4b",
+    "629298773d3d"
    ],
    "otras": [
-    "19f55830f26c",
-    "b635f2a82aaa"
-   ]
-  },
-  {
-   "id": "el-frente-renovador-arma",
-   "titulo": "El Frente Renovador suma estructura: Pesatti evalúa ser candidato en Río Negro",
-   "resumen": "Alexis Guerrera recibió a dirigentes de General Arenales para diagramar un plan de gestión municipal del Frente Renovador. En Chubut, Mariano Arcioni proyecta un FR activo hacia 2027, y en San Juan Franco Aranda pidió unidad al PJ frente a la disputa entre José Luis Gioja y Sergio Uñac. En Río Negro, Pedro Pesatti evalúa competir por la gobernación con el sello del Frente Renovador.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Alexis Guerrera",
-    "Mariano Arcioni",
-    "Franco Aranda"
-   ],
-   "principales": [
-    "d214658a0550",
-    "d60945912240",
-    "90acf2c89934"
-   ],
-   "otras": [
-    "c399b84a3175",
-    "c03b6a5adcc9"
+    "55eba034e55e"
    ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/marinadorotea/status/2123944776139428350",
-   "autor": "@marinadorotea",
-   "nota": "Marina Salzmann, sobre las horas que pierden los trabajadores del oeste en el transporte."
+   "url": "https://x.com/DiegoGiuliano/status/2123884316186812430",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano pidió no dejar solas a las pymes santafesinas."
   },
   {
-   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
-   "autor": "@MichelGuilleOK",
-   "nota": "La Justicia admitió el amparo de Guillermo Michel por las rutas nacionales de Entre Ríos."
+   "url": "https://x.com/SergioMassa/status/2123517703826612429",
+   "autor": "@SergioMassa"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok"
+  },
+  {
+   "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
+   "autor": "@MalenaGalmarini"
   }
  ],
- "entrevistas": []
+ "entrevistas": [
+  {
+   "video_id": "HbpWLzHNpN8"
+  },
+  {
+   "video_id": "n4F54sw9GJU"
+  }
+ ]
 }

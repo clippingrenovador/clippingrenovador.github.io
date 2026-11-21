@@ -1,0 +1,872 @@
+{
+ "id": "2026-11-21-06",
+ "generado": "2026-11-21T05:33-03:00",
+ "hora": "06",
+ "claves": [
+  "El PJ bonaerense realiza este sábado su congreso partidario, precedido por gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. La oposición provincial estima que el gobernador mantendrá las PASO en la Provincia.",
+  "Según distintos medios, Sergio Massa avanza en el armado federal del Frente Renovador y evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula de 2027.",
+  "José Ignacio de Mendiguren definió a Massa como una garantía de estabilidad económica. Miguel Ángel Pichetto pidió a Massa y a Kicillof agotar el diálogo.",
+  "En gestión, Juan Andreotti anunció obras en cinco escuelas de San Fernando y Sebastián Galmarini respaldó el reclamo vecinal por el predio de Martínez."
+ ],
+ "temas": [
+  {
+   "id": "sin-paso-la-interna",
+   "titulo": "Sin PASO: el congreso del PJ bonaerense y la discusión por las candidaturas de 2027",
+   "resumen": "Antes del congreso partidario de este sábado, La Política Online registró gestos de unidad entre Axel Kicillof, Máximo Kirchner y Sergio Massa. El Día informa que la oposición bonaerense estima que el gobernador mantendrá las PASO en la Provincia, mientras otros medios advierten que la suspensión de las primarias nacionales reabre la disputa por las candidaturas. Diario Hoy destaca que el Frente Renovador apuesta a la unidad del peronismo.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Diario El Día de La Plata",
+     "titulo": "La oposición cree que Kicillof va a mantener las PASO en la Provincia",
+     "url": "https://www.eldia.com/politica-y-economia/la-oposicion-cree-que-kicillof-va-a-mantener-las-paso-en-la-provincia-politica-y-economia_1795236768",
+     "fecha": "2026-11-21T01:52-03:00",
+     "dominio": "eldia.com"
+    },
+    {
+     "medio": "La Política Online",
+     "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
+     "url": "https://www.lapoliticaonline.com/provincia/kicillof-maximo-y-massa-cruzaron-gestos-de-unidad-en-la-antesala-del-congreso-del-pj-bonaerense/",
+     "fecha": "2026-11-20T19:41-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "Clarin.com",
+     "titulo": "Sin las PASO, arrancó una pelea feroz entre Kicillof, Cristina y Massa para resolver las candidaturas",
+     "url": "https://www.clarin.com/politica/paso-arranco-pelea-feroz-kicillof-cristina-massa-resolver-candidaturas_0_ElPkpTLzKH.html",
+     "fecha": "2026-11-20T13:54-03:00",
+     "dominio": "clarin.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Hoy En la noticia",
+     "url": "https://diariohoy.net/politica/el-frente-renovador-apuesta-a-la-unidad-del-peronismo-290463",
+     "dominio": "diariohoy.net"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://www.perfil.com/columnistas/internas-sin-paso-aIeH59z5VMEE",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "www.diariovoces.com.ar",
+     "url": "https://www.diariovoces.com.ar/politica/la-suspension-de-las-paso-hizo-explotar-la-interna-entre-kicillof-y-massa-por-las-candidaturas-de-2027/",
+     "dominio": "diariovoces.com.ar"
+    },
+    {
+     "medio": "Mundo Gremial",
+     "url": "https://mundogremial.com/el-peronismo-sin-paso-postura-de-las-tribus-y-el-dia-despues-del-acto-de-san-fernando/",
+     "dominio": "mundogremial.com"
+    },
+    {
+     "medio": "Primera Página",
+     "url": "https://primerapagina.info/politica/milei-mueve-las-paso--massa-reune-al-pj-y-kicillof-enfrenta-una-interna-decisiva_a6b009570cd25aee28856b4c4",
+     "dominio": "primerapagina.info"
+    },
+    {
+     "medio": "NOVA Bonaerense",
+     "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_20&id=92751&id_tiponota=51",
+     "dominio": "novabonaerense.com"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://perfil.com/politica/kicillof-define-que-hacer-con-las-paso-bonaerenses-mientras-maximo-y-massa-exigen-un-frente-de-unidad-anti-milei-aM3Ol0k1FqKD",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "La Tecla",
+     "url": "https://www.latecla.info/171315-paso-afuera-el-peronismo-y-el-plan-b-de-cara-a-las-definiciones-electorales",
+     "dominio": "latecla.info"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://www.perfil.com/politica/kicillof-define-sobre-las-paso-bonaerenses-mientras-massa-exige-unidad-anti-milei-y-maximo-habla-de-un-frente-patriotico-aM3Ol0k1FqKD",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Nuevo Diario de Salta",
+     "url": "https://nuevodiariodesalta.com.ar/kicillof-se-aferra-a-las-paso-en-buenos-aires-para-negociar-con-massa-y-cfk/",
+     "dominio": "nuevodiariodesalta.com.ar"
+    }
+   ],
+   "cantidad_notas": 14,
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "gestion-universidad-en-san",
+   "titulo": "Gestión: escuelas en San Fernando, Chacabuco y Tres Arroyos, y el reclamo vecinal en Martínez",
+   "resumen": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano. Sebastián Galmarini sumó su apoyo al reclamo de la Asamblea Cheeky por el predio de Martínez. Darío Golía participó de los 95 años del Diario Democracia y Pablo Garate acompañó actos escolares por el Día de la Soberanía en Tres Arroyos.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Juan Andreotti",
+    "Darío Golía",
+    "Sebastián Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "Zona Norte Hoy",
+     "titulo": "Juan Andreotti anunció la renovación de 5 escuelas de San Fernando",
+     "url": "https://www.zonanortehoy.com/san-fernando/juan-andreotti-anuncio-la-renovacion-de-5-escuelas-de-san-fernando/",
+     "fecha": "2026-11-20T16:12-03:00",
+     "dominio": "zonanortehoy.com"
+    },
+    {
+     "medio": "elcomercioonline.com.ar",
+     "titulo": "La Asamblea Cheeky sumó el apoyo de Sebastián Galmarini en su reclamo por el predio de Martínez",
+     "url": "https://www.elcomercioonline.com.ar/articulos/60109268-La-Asamblea-Cheeky-sumo-el-apoyo-de-Sebastian-Galmarini-en-su-reclamo-por-el-predio-de-Martinez.html",
+     "fecha": "2026-11-20T23:25-03:00",
+     "dominio": "elcomercioonline.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "titulo": "Sebastián Galmarini se reunió con vecinos del predio ex Cheeky en Martínez y recibió un petitorio por las obras de Black Martínez",
+     "url": "https://www.zonanortediario.com.ar/20/11/2026/sebastian-galmarini-se-reunio-con-vecinos-del-predio-ex-cheeky-en-martinez-y-recibio-un-petitorio-por-obras-de-black-martinez/",
+     "fecha": "2026-11-20T17:57-03:00",
+     "dominio": "zonanortediario.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Democracia",
+     "url": "https://www.diariodemocracia.com/ciudad/chacabuco/348330-es-un-gusto-poder-heredar-la-vision-de-don-moises/",
+     "dominio": "diariodemocracia.com"
+    },
+    {
+     "medio": "LU24 – Radio Tres Arroyos",
+     "url": "https://www.lu24.com.ar/locales/garate-acompano-un-acto-escolar-por-el-dia-de-la-soberania-y-la-muestra-anual-de",
+     "dominio": "lu24.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/20/11/2026/juan-andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas-de-san-fernando-durante-el-verano/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/20/11/2026/tigre-realizo-una-nueva-entrega-de-kits-ludicos-para-jardines-de-infantes-en-rincon-de-milberg/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/20/11/2026/martinez-vecinos-del-predio-ex-cheeky-entregaron-un-petitorio-a-sebastian-galmarini-y-denunciaron-que-se-incumple-la-medida-cautelar/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "De norte a norte",
+     "url": "https://denorteanorte.com/en-marcha-la-obra-de-la-universidad-nacional-del-delta-en-san-fernando/",
+     "dominio": "denorteanorte.com"
+    },
+    {
+     "medio": "Zonales",
+     "url": "https://zonales.com/universidad-del-delta-nueva-sede-san-fernando-empezo-construccion/",
+     "dominio": "zonales.com"
+    },
+    {
+     "medio": "Diariolaprimera",
+     "url": "https://diariolaprimera.com.ar/contenido/11294/san-fernando-comenzo-la-obra-de-la-nueva-sede-de-la-universidad-del-delta",
+     "dominio": "diariolaprimera.com.ar"
+    },
+    {
+     "medio": "Informe Norte",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakpKaGVSRmsza1pSSkhMNmNTN29OWmhxUmpzQnJGeF80Nk1mWnRPYW1EQ0VVcXUtbERQSjRNTlljekhraWZWZFFReGdnZ0ZOdTZ1NTZ5elYxV29FczRDamlSSWNtbjBXSGlpNWdMeDRXTW9maEdnUEJ2d1J3ZXhhY3BHX19RbzR6N2V5WnRVSS1XZkx6LTRHMlo3TXMtQlM4V19rc252T3JKRjND?oc=5",
+     "dominio": "informenorte.com.ar"
+    },
+    {
+     "medio": "Municipalidad de Chacabuco",
+     "url": "https://chacabuco.gob.ar/se-inauguro-oficialmente-la-nueva-fiscalia-descentralizada-de-chacabuco/",
+     "dominio": "chacabuco.gob.ar"
+    }
+   ],
+   "cantidad_notas": 13,
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "respaldos-a-massa",
+   "titulo": "De Mendiguren: “Massa es garantía para evitar el péndulo”",
+   "resumen": "José Ignacio de Mendiguren sostuvo en Perfil que Sergio Massa ofrece estabilidad frente a los cambios bruscos de rumbo económico. El dirigente de Avellaneda Luca Bertolotto afirmó que su liderazgo es indiscutido. Miguel Ángel Pichetto aconsejó a Massa y a Kicillof agotar las instancias de diálogo y afirmó que el Gobierno provocó un gran daño a la clase media.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Perfil",
+     "titulo": "José Ignacio de Mendiguren: \"Massa es garantía para evitar el péndulo, siempre estuvo de acuerdo con el equilibrio fiscal\"",
+     "url": "https://www.perfil.com/modo-fontevecchia/jose-ignacio-de-mendiguren-massa-es-garantia-para-evitar-el-pendulo-siempre-estuvo-de-acuerdo-con-el-equilibrio-fiscal-aAYhr4e8zvoB",
+     "fecha": "2026-11-20T17:03-03:00",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Avellaneda Hoy",
+     "titulo": "Luca Bertolotto: \"El liderazgo de Sergio Massa es indiscutido\"",
+     "url": "https://avellanedahoy.com.ar/nota/24752/luca-bertolotto-el-liderazgo-de-sergio-massa-es-indiscutido/",
+     "fecha": "2026-11-20T16:36-03:00",
+     "dominio": "avellanedahoy.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Miguel Ángel Pichetto: \"Les aconsejo a Massa y Kicillof que agoten las instancias del diálogo para construir una alternativa de gobierno\"",
+     "url": "https://perfil.com/modo-fontevecchia/miguel-angel-pichetto-les-aconsejo-a-massa-y-kicillof-que-agoten-las-instancias-del-dialogo-para-construir-una-alternativa-de-gobierno-aqPYY1S7vZGt",
+     "fecha": "2026-11-20T15:46-03:00",
+     "dominio": "perfil.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Cuestión Entrerriana",
+     "url": "https://cuestionentrerriana.com.ar/miguel-pichetto-milei-provoco-un-gran-dano-a-la-clase-media/",
+     "dominio": "cuestionentrerriana.com.ar"
+    }
+   ],
+   "cantidad_notas": 4,
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "id": "massa-armado-formula-2027",
+   "titulo": "Massa acelera el armado federal y evalúa nombres para la fórmula de 2027",
+   "resumen": "Según Clarín, iProfesional e Informe Digital, Sergio Massa reorganizó el Frente Renovador en las provincias y evalúa a Natalia de la Sota o a Gerardo Zamora como posibles integrantes de la fórmula. Algunos medios lo leen como una estrategia para relegar a Axel Kicillof en la definición de la candidatura.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa",
+    "Natalia de la Sota"
+   ],
+   "principales": [
+    {
+     "medio": "Clarin.com",
+     "titulo": "Massa acelera el armado federal del Frente Renovador rumbo a 2027: rearmó el partido y bendijo a su hombre en Tierra del Fuego",
+     "url": "https://www.clarin.com/politica/massa-acelera-armado-federal-frente-renovador-rumbo-2027-rearmo-partido-bendijo-hombre-tierra-fuego_0_8uBTR8SCA2.html",
+     "fecha": "2026-11-20T15:36-03:00",
+     "dominio": "clarin.com"
+    },
+    {
+     "medio": "iProfesional",
+     "titulo": "Massa busca aislar a Kicillof y define su fórmula para 2027",
+     "url": "https://www.iprofesional.com/politica/469660-massa-busca-aislar-a-kicillof-en-quienes-piensa-como-companeros-de-formula",
+     "fecha": "2026-11-20T14:00-03:00",
+     "dominio": "iprofesional.com"
+    },
+    {
+     "medio": "Informe Digital",
+     "titulo": "Massa busca aislar a Kicillof y piensa en Natalia de la Sota o Zamora para la fórmula",
+     "url": "https://informedigital.com.ar/massa-busca-aislar-a-kicillof-y-piensa-en-natalia-de-la-sota-o-zamora-para-la-formula/",
+     "fecha": "2026-11-20T14:26-03:00",
+     "dominio": "informedigital.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/nacionales/politica/iprofesional/massa-busca-aislar-a-kicillof-y-piensa-en-natalia-de-la-sota-o-gerardo-zamora-para-la-formula/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "El Observador Argentina",
+     "url": "https://www.elobservador.com/argentina/politica/power-rankings-politico-las-paso-caer-milei-y-massa-activan-el-modo-full-campana-n6064610",
+     "dominio": "elobservador.com"
+    },
+    {
+     "medio": "Tiempo Argentino",
+     "url": "https://www.tiempoar.com.ar/ta_article/interna-peronista-el-massismo-habla-de-la-necesidad-de-un-candidato-soft-y-kicillof-arma-en-santa-fe/",
+     "dominio": "tiempoar.com.ar"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "id": "natalia-de-la-sota-cordoba",
+   "titulo": "Natalia de la Sota: “Hoy no hay diálogo con la Provincia”",
+   "resumen": "La diputada cordobesa sostuvo que no existe diálogo con el gobierno de Martín Llaryora y que primero hace falta voluntad política. Carlos Tévez expresó públicamente su apoyo en medio de la tensión con el PJ provincial.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Natalia de la Sota"
+   ],
+   "principales": [
+    {
+     "medio": "Perfil",
+     "titulo": "Natalia de la Sota: \"Hoy no hay diálogo con la Provincia; primero hace falta voluntad\"",
+     "url": "https://www.perfil.com/cordoba/natalia-de-la-sota-hoy-no-hay-dialogo-con-la-provincia-primero-hace-falta-voluntad-aFXD44x4LHcL",
+     "fecha": "2026-11-20T18:45-03:00",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Tévez toma partido por Natalia de la Sota en medio de la presión de Massa sobre el PJ de Llaryora",
+     "url": "https://www.perfil.com/cordoba/tevez-toma-partido-por-natalia-de-la-sota-en-medio-de-la-presion-de-massa-sobre-el-pj-de-llaryora-akWfj4C66KgO",
+     "fecha": "2026-11-20T16:04-03:00",
+     "dominio": "perfil.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "id": "giuliano-santa-fe",
+   "titulo": "Diego Giuliano: PASO, emergencia política y seguridad en Santa Fe",
+   "resumen": "En Urbana BA, Giuliano defendió las primarias y afirmó que el oficialismo le teme a las urnas. En Santa Fe planteó que la provincia atraviesa una emergencia política y cuestionó el paquete de seguridad del gobernador Pullaro por el riesgo de nulidades en las causas.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Diego Giuliano"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "En Urbana BA, Giuliano defendió las PASO y lanzó: «Le tienen miedo a la urna»",
+     "url": "https://www.lanoticiaweb.com.ar/en-urbana-ba-giuliano-defendio-las-paso-y-lanzo-le-tienen-miedo-a-la-urna/",
+     "fecha": "2026-11-20T19:27-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "Aire de Santa Fe",
+     "titulo": "Diego Giuliano: Estamos en una emergencia política que obliga a dar respuestas extraordinarias",
+     "url": "https://www.airedesantafe.com.ar/actualidad/diego-giuliano-estamos-una-emergencia-politica-que-obliga-dar-respuestas-extraordinarias-n677512",
+     "fecha": "2026-11-20T13:30-03:00",
+     "dominio": "airedesantafe.com.ar"
+    },
+    {
+     "medio": "Sin Mordaza",
+     "titulo": "Giuliano cuestionó el paquete de seguridad de Pullaro: \"Una ley no puede beneficiar a los delincuentes\"",
+     "url": "https://sinmordaza.com/noticia/526078-giuliano-cuestiono-el-paquete-de-seguridad-de-pullaro-una-ley-no-puede-beneficiar-a-los-delincuentes.html",
+     "fecha": "2026-11-20T13:42-03:00",
+     "dominio": "sinmordaza.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "CFIN Noticias",
+     "url": "https://www.cfin.com.ar/politica/diego-giuliano-criticas-pullaro-deuda-santa-fe/",
+     "dominio": "cfin.com.ar"
+    },
+    {
+     "medio": "Novedades del Sur",
+     "url": "https://novedadesdelsur.com.ar/contenido/94820/diego-giuliano-advierte-sobre-emergencia-politica-y-deuda-en-santa-fe",
+     "dominio": "novedadesdelsur.com.ar"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "id": "el-frente-renovador-arma",
+   "titulo": "El Frente Renovador suma estructura: Pesatti evalúa ser candidato en Río Negro",
+   "resumen": "Alexis Guerrera recibió a dirigentes de General Arenales para diagramar un plan de gestión municipal del Frente Renovador. En Chubut, Mariano Arcioni proyecta un FR activo hacia 2027, y en San Juan Franco Aranda pidió unidad al PJ frente a la disputa entre José Luis Gioja y Sergio Uñac. En Río Negro, Pedro Pesatti evalúa competir por la gobernación con el sello del Frente Renovador.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Alexis Guerrera",
+    "Mariano Arcioni",
+    "Franco Aranda"
+   ],
+   "principales": [
+    {
+     "medio": "Bariloche Opina",
+     "titulo": "Pesatti evalúa ser candidato a gobernador por el Frente Renovador",
+     "url": "https://www.barilocheopina.com/amp/noticias/2026/11/20/97590-pesatti-evalua-ser-candidato-a-gobernador-por-el-frente-renovador",
+     "fecha": "2026-11-20T14:02-03:00",
+     "dominio": "barilocheopina.com"
+    },
+    {
+     "medio": "Cuarto Político",
+     "titulo": "Urio visitó a Guerrera para diagramar un plan de gestión municipal del FR en General Arenales",
+     "url": "https://www.cuartopolitico.com/nota/2026-11-20-9-27-0-urio-visito-a-guerrera-para-diagramar-un-plan-de-gestion-municipal-del-fr-en-general-arenales",
+     "fecha": "2026-11-20T09:32-03:00",
+     "dominio": "cuartopolitico.com"
+    },
+    {
+     "medio": "El Diario de Madryn",
+     "titulo": "Arcioni fortalece su proyección política de cara a 2027 con un Frente Renovador activo en Chubut",
+     "url": "https://www.eldiarioweb.com/2026/11/arcioni-fortalece-su-proyeccion-politica-de-cara-a-2027-con-un-frente-renovador-activo-en-chubut/",
+     "fecha": "2026-11-19T14:01-03:00",
+     "dominio": "eldiarioweb.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Huarpe",
+     "url": "https://www.diariohuarpe.com/nota/aranda-si-gioja-y-unac-no-se-unen-y-perdemos-van-a-ser-responsables-202611206026",
+     "dominio": "diariohuarpe.com"
+    },
+    {
+     "medio": "https://patagonia24.com.ar/",
+     "url": "https://patagonia24.com.ar/contenido/22499/rumbo-al-2027-el-frente-renovador-confirmo-su-alianza-con-el-mpf",
+     "dominio": "patagonia24.com.ar"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "cecilia-moreau-va-a",
+   "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
+   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias, y llamó a construir un frente contra el Gobierno de Javier Milei. También cuestionó el proyecto de Presupuesto. Varios medios leyeron sus declaraciones como una señal del Frente Renovador para bajar el tono de la interna.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "Ambito",
+     "titulo": "Sin PASO a la vista, el Frente Renovador anticipa acuerdo de unidad en el peronismo",
+     "url": "https://www.ambito.com/ambito-nacional/sin-paso-la-vista-el-frente-renovador-anticipa-acuerdo-unidad-el-peronismo-n6347483/amp",
+     "fecha": "2026-11-20T10:57-03:00",
+     "dominio": "ambito.com"
+    },
+    {
+     "medio": "Infocielo",
+     "titulo": "\"El peronismo va a ir unido a la elección\": el Frente Renovador resigna las PASO y ya piensa en 2027",
+     "url": "https://www.infocielo.com/politica-y-economia/el-peronismo-va-a-ir-unido-a-la-eleccion-el-frente-renovador-resigna-las-paso-y-ya-piensa-en-2027",
+     "fecha": "2026-11-20T08:50-03:00",
+     "dominio": "infocielo.com"
+    },
+    {
+     "medio": "Agencia Noticias Argentinas",
+     "titulo": "Cecilia Moreau: \"Con PASO o sin PASO, el peronismo va a ir unido a la elección\"",
+     "url": "https://noticiasargentinas.com/politica/cecilia-moreau---con-paso-o-sin-paso--el-peronismo-va-a-ir-unido-a-la-eleccion-_a6b003a42f48d6d3ab47af810",
+     "fecha": "2026-11-20T09:18-03:00",
+     "dominio": "noticiasargentinas.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Séptima Sección",
+     "url": "https://septimaseccion.com.ar/el-massismo-pone-panos-frios-a-la-interna-y-aclara-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido/",
+     "dominio": "septimaseccion.com.ar"
+    },
+    {
+     "medio": "Todo Provincial",
+     "url": "https://www.todoprovincial.com/cecilia-moreau-llamo-a-la-unidad-del-peronismo-rumbo-a-2027-y-cuestiono-el-proyecto-de-presupuesto/",
+     "dominio": "todoprovincial.com"
+    },
+    {
+     "medio": "0223.com.ar",
+     "url": "http://www.0223.com.ar/nota/2026-11-20-10-7-0-cecilia-moreau-descarto-la-interna-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido",
+     "dominio": "0223.com.ar"
+    },
+    {
+     "medio": "QZ | Noticias",
+     "url": "https://www.qznoticias.com/el-pais/cecilia-moreau-aseguro-que-con-paso-o-sin-paso-el-peronismo-va-a-ir-unido",
+     "dominio": "qznoticias.com"
+    },
+    {
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/con-paso-o-sin-paso-el-peronismo-va-a-ir-unido-cecilia-moreau-llamo-a-construir-un-frente-contra-milei",
+     "dominio": "lanoticia1.com"
+    },
+    {
+     "medio": "Diario El Norte - San Nicolás",
+     "url": "https://diarioelnorte.com.ar/cecilia-moreau-el-peronismo-ira-unido-para-frenar-a-milei/",
+     "dominio": "diarioelnorte.com.ar"
+    },
+    {
+     "medio": "Diario El Norte - San Nicolás",
+     "url": "https://diarioelnorte.com.ar/cecilia-moreau-el-peronismo-ira-unido-para-frenar-a-milei/",
+     "dominio": "diarioelnorte.com.ar"
+    },
+    {
+     "medio": "El Corredor Noticias",
+     "url": "https://www.elcorredornoticias.com/amp/noticias/2026/11/20/31662-sin-paso-a-la-vista-el-frente-renovador-anticipa-un-acuerdo-de-unidad-en-el-peronismo",
+     "dominio": "elcorredornoticias.com"
+    },
+    {
+     "medio": "Info Arenales",
+     "url": "https://infoarenales.com/2026/11/20/sin-paso-a-la-vistael-frente-renovador-anticipa-acuerdo-de-unidad-en-el-peronismo/",
+     "dominio": "infoarenales.com"
+    },
+    {
+     "medio": "El Intransigente",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTl4dzd1TFVhNkFPX0lHQ0RBZ0ViYkNsbGlSSkVESU01S2Q1MHhlYjBsY3NGYmdEWXdleHRnbHRfSW1CbHIybkxyTTl4NXhTMFdZemhqdlduR0M5NEZHTV9iSFRRTHY5aHJSRUFkZV8wQlBDSXpMUkdnQzY0NG9nOWZkTG00ZklpV2J0Ql9BdVJLVnBGY0FDS2lWZEMxQWJuTFRJTHhBTnh5Wl9Lb0lPZGd2NkEzTVc3Z21sbQ?oc=5",
+     "dominio": "elintransigente.com"
+    }
+   ],
+   "cantidad_notas": 13,
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "san-fernando-reordena-el",
+   "titulo": "Después de San Fernando: Kicillof convoca a los intendentes y Guerrera tiende puentes",
+   "resumen": "Tras el encuentro que encabezó Sergio Massa en San Fernando, el gobernador Kicillof convocó a los intendentes a un acto de gestión y su ministro Carlos Bianco aseguró que la reunión no fue contra él. Alexis Guerrera hizo un gesto de acercamiento al gobernador. Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa",
+    "Alexis Guerrera",
+    "Natalia de la Sota"
+   ],
+   "principales": [
+    {
+     "medio": "La Política Online",
+     "titulo": "Tras la demostración de fuerza de Massa, Kicillof convoca a los intendentes a un acto de gestión",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHAwbzRhMW9sUExGYnE1NzlwamJzdzQ1ZGR2akMzQS13VW5vWFl1OGpLUkl1M2RlbWpydkFkZUpkbWpRVEs5RkNSa2RyVzVuVjhqblM0VVBfbjJObkNNeFpja1FwSHVoQ3Rqa1ZsNkREelhYSXV2V1M3eWNkZmxWb3Y4cURVdTNnM2ZFUUZRV045T2xuX1d2dG9YQU02NXZnVlF6QlZhaXBLX20yNVVkQVVuRFl3ZHRFLWVucVlzWlpnNHA2OFdBTm5ndFpscnkxa3ZFcNIB1wFBVV95cUxPbm16QXdJdzZQZ2I1MDMwZlZuZ29vallmZVBaVFQ0NHpmRFpzWEZ4NUYycDNKaDU1bmgxYk40dGpGYTh1Umd0ekI3U0Ixb2VIeGFyWjhodHRhdDN1Ym9rdjdNVVExNjRiN0hTWUJZdjRTSUJUcmFMaGhmYTE2b0ZlbzRnWlRUMmxGNGRiSGd0TlQwNFc2ZUZQTVItSkhpUXktZ2xvRGhuNGExTUV5RmVIc1JiLXFPVXJFSV9Nb29VY1NTSjJpdmRfOUtsaklOb21JQnc4VVkyTQ?oc=5",
+     "fecha": "2026-11-19T19:57-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "Diputados Bonaerenses",
+     "titulo": "Tras el acto de Massa, Guerrera hizo un guiño a Kicillof",
+     "url": "https://diputadosbsas.com.ar/guerrera-intendentes-massa-acto-kicillof/",
+     "fecha": "2026-11-20T09:18-03:00",
+     "dominio": "diputadosbsas.com.ar"
+    },
+    {
+     "medio": "Impacto Castex",
+     "titulo": "Massa destacó a tres candidatos presidenciales en un acto de unidad",
+     "url": "https://impactocastex.com.ar/nacionales/19349/massa-destaco-a-tres-candidatos-presidenciales-en-un-acto-de-unidad",
+     "fecha": "2026-11-20T06:00-03:00",
+     "dominio": "impactocastex.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/19375/kicillof-convoca-a-intendentes-tras-el-acto-de-massa",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Infomiba",
+     "url": "https://infomiba.com.ar/nota/59727/bianco-busco-desactivar-la-polemica-por-el-acto-de-massa-no-fue-contra-kicillof/",
+     "dominio": "infomiba.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/politica/carlos-bianco-trabajo-todos-los-dias-que-axel-kicillof-sea-candidato-presidente-n5428373/amp",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "NOVA Bonaerense",
+     "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_19&id=92738&id_tiponota=1",
+     "dominio": "novabonaerense.com"
+    },
+    {
+     "medio": "Nuevo Diario de Salta",
+     "url": "https://nuevodiariodesalta.com.ar/despues-de-san-fernando-el-peronismo-se-ordena-en-dos-caminos-massa-por-un-lado-kicillof-por-el-otro/",
+     "dominio": "nuevodiariodesalta.com.ar"
+    },
+    {
+     "medio": "NOVA Bonaerense",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVJjY1plOFM3VHhkcVp5V1QxNmY2TnRJaVVTZF94RHNmX092cDNsTzZOSk14d084SW14VndObmhJYW5SZ2plcUJ6U2xFMUoyMDdyTUlUbmtmSk1mWjBpTWZhcWFKQW5BQWpUajZvV1VFMjZUaFNHVjFYY1NaLVpweVBRQmhxY2l2R1JXeGFlclZIMmN4QURnWGV3WG9IOVFEenBIMkY3VGhrNjNGcy00MXpEdElBQVRfMjl1c2FKYW5RbTltaFBj?oc=5",
+     "dominio": "novabonaerense.com"
+    },
+    {
+     "medio": "Diario Mendoza Today",
+     "url": "https://mendozatoday.com.ar/politica/massa-desafia-a-kicillof-y-empieza-a-jugar-sus-cartas-en-terreno-mendocino/",
+     "dominio": "mendozatoday.com.ar"
+    },
+    {
+     "medio": "El Ancasti",
+     "url": "https://www.elancasti.com.ar/opinion/la-cuna-massa-n626417",
+     "dominio": "elancasti.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/congreso-pj-bonaerense-sabado-tension-san-fernando/?amp=1",
+     "dominio": "norteonline.com.ar"
+    }
+   ],
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "pepo-diaz-urbana",
+   "titulo": "Arnaldo “Pepo” Díaz explicó por qué dejó La Libertad Avanza",
+   "resumen": "El dirigente de Avellaneda Arnaldo \"Pepo\" Díaz, que se incorporó al Frente Renovador, sostuvo en Urbana BA que se alejó de La Libertad Avanza porque el partido perdió el espíritu con el que fue fundado.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Arnaldo Díaz"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Arnaldo \"Pepo\" Díaz en Urbana BA: \"Me alejé de La Libertad Avanza porque perdió el espíritu de cuando la fundamos\"",
+     "url": "https://www.lanoticiaweb.com.ar/arnaldo-pepo-diaz-en-urbana-ba-me-aleje-de-la-libertad-avanza-porque-perdio-el-espiritu-de-cuando-la-fundamos/",
+     "fecha": "2026-11-20T11:27-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "titulo": "Arnaldo Pepo Díaz se alejó de La Libertad Avanza por perder su espíritu fundacional",
+     "url": "https://elconurbano.com.ar/arnaldo-pepo-diaz-en-urbana-ba-me-aleje-de-la-libertad-avanza-porque-perdio-el-espiritu-de-cuando-la-fundamos/84581/",
+     "fecha": "2026-11-20T11:25-03:00",
+     "dominio": "elconurbano.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "id": "guillermo-michel-se-suma",
+   "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
+   "resumen": "Cristina Kirchner impulsa a Guillermo Michel para el Consejo de la Magistratura, en medio de las negociaciones del Congreso por los lugares del organismo.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    {
+     "medio": "Uno Entre Rios",
+     "titulo": "Cristina Fernández impulsa a Guillermo Michel para el Consejo de la Magistratura",
+     "url": "https://www.unoentrerios.com.ar/el-pais/cristina-fernandez-impulsa-guillermo-michel-el-consejo-la-magistratura-n10292615.html",
+     "fecha": "2026-11-20T04:35-03:00",
+     "dominio": "unoentrerios.com.ar"
+    },
+    {
+     "medio": "TN",
+     "titulo": "El Congreso define ocho lugares para el Consejo de la Magistratura en medio de las peleas en LLA y el PJ",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORERib0JrNkV3dkMtZUQ5SE5lN0RvTlY5VHh4anVZSVVZMjZ3X3NGdUhEOU04RWZ0c3NnUzM3LXBWandrUm9GYk9SQkJnbEFGMk1JQ1VsdzdIVWd3X0ozdzVXM3IwQzR3MkxsQTA0OUZabGNzaEtwSExwRURnd3NaTVYwSDRNai11VTJZNWJLeFlHNXp4ZnF1ZExfS0NQQ2RkaEc1RURDbGZLUlVZTmZFTXprNE9ZN0M2bU1HNjhJcVY2VzFhMklZUm1icHEzVVZzMFFvcklha9IB6wFBVV95cUxPeC04eV9lN2xncmhNQ3FjUm1kLU9VdDdhWFhUNGU1VWdoNGVvUmRmNUlVYzZhbXd4ZzAxRnNQMEtaZnVfNi1Hd2VwdDJOZlRxM1FoaTJRaE9VdFYzYkxKblpjUjhOYlluSDZtTjhPNmhnZjA0c3BIUW92WGdVbWtTSEZCMXNaMURhT1V4cUVULXRRdDJKTTlWcmhiWXkwei05SVFwUlBRdXczQzFVclZva19jYWpEVHRLbmNMVkpYQlpjTk5kZVYwSEZkR3ppX1MtZ0JUb0xmQVU2YzJkR1FfWmx3TEUwbWJDdnZv?oc=5",
+     "fecha": "2026-11-19T22:16-03:00",
+     "dominio": "tn.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/amp/362495-bullrich-acordo-con-el-peronismo-para-mandar-dos-senadores-de-cristina-a-la-magistratura/",
+     "dominio": "lapoliticaonline.com"
+    }
+   ],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "id": "las-criticas-del-dia",
+   "titulo": "Las críticas del día",
+   "resumen": "Tribuna de Periodistas volvió sobre el caso de las SIRAS y su impacto sobre Massa. Otras columnas lo presentan como \"candidato de la Embajada\" o cuestionan que el peronismo vuelva con viejas recetas, y Diario Junio relativizó el alcance del acto de San Fernando.",
+   "tono": "negativo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Tribuna de Periodistas",
+     "titulo": "¿Por qué no avanza en el Poder Judicial el escándalo de las SIRAS, que golpea tan fuerte al massismo?",
+     "url": "https://periodicotribuna.com.ar/por-que-no-avanza-en-el-poder-judicial-el-escandalo-de-las-siras-que-golpea-tan-fuerte-al-massismo/",
+     "fecha": "2026-11-20T07:00-03:00",
+     "dominio": "periodicotribuna.com.ar"
+    },
+    {
+     "medio": "Diario Hoy En la noticia",
+     "titulo": "“Massa fue, es y será el candidato de la Embajada”",
+     "url": "https://diariohoy.net/politica/massa-fue-es-y-sera-el-candidato-de-la-embajada-290398/amp",
+     "fecha": "2026-11-20T00:00-03:00",
+     "dominio": "diariohoy.net"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Elintra.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU25hdVV6dzhmVlNNcWVIWjhGRmN0RmdTTHR1ZWpzbkdOZXJ2aEduUnFaRmdBYmxhWTI1M3FzbjBaaFRwd0JmUzR3Rjl5YTNycHpLM3pITTlOREQxWEl4XzBLZWQzNWxNX3QwcEwzdVZOZS1WUlRxb2Rmbm9KLVdWdjFCZmNDR0h4aUwyNXU5MU9RV0JraWZmeDgwbw?oc=5",
+     "dominio": "elintra.com.ar"
+    },
+    {
+     "medio": "Diario Junio",
+     "url": "https://www.diariojunio.com.ar/165099_massa-dio-su-mejor-golpe-pero/",
+     "dominio": "diariojunio.com.ar"
+    }
+   ],
+   "cantidad_notas": 4,
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T04:58-03:00"
+  }
+ ],
+ "redes": [
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123884316186812430",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano pidió no dejar solas a las pymes santafesinas.",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-21T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/SergioMassa/status/2123517703826612429",
+   "autor": "@SergioMassa",
+   "nota": "",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok",
+   "nota": "",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
+   "autor": "@MalenaGalmarini",
+   "nota": "",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2123944776139428350",
+   "autor": "@marinadorotea",
+   "nota": "Marina Salzmann, sobre las horas que pierden los trabajadores del oeste en el transporte.",
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
+   "autor": "@MichelGuilleOK",
+   "nota": "La Justicia admitió el amparo de Guillermo Michel por las rutas nacionales de Entre Ríos.",
+   "vigente_desde": "2026-11-20T22:48-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123807802850242958",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, sobre un eventual aguinaldo diferido.",
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
+   "autor": "@FrenteRenovador",
+   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno.",
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123757344173531358",
+   "autor": "@FrenteRenovador",
+   "nota": "Día de la Soberanía Nacional.",
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123532174339031167",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau, sobre el lawfare en la región.",
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123577503197368395",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau celebró la sanción de la ley de Discapacidad.",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2123551493420978306",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, sobre la ley de seguridad aprobada en Santa Fe.",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  }
+ ],
+ "entrevistas": [
+  {
+   "youtube": "HbpWLzHNpN8",
+   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
+   "canal": "C5N",
+   "fecha_txt": "hace 3 h",
+   "duracion": "11:58",
+   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "youtube": "n4F54sw9GJU",
+   "titulo": "Aranda señaló a Massa como hombre de unidad y habló de la grieta Gioja-Uñac",
+   "canal": "Huarpe TV",
+   "fecha_txt": "Transmitido hace 13 h",
+   "duracion": "1:00:07",
+   "url": "https://www.youtube.com/watch?v=n4F54sw9GJU",
+   "vigente_desde": "2026-11-21T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "youtube": "G7pC6FGk1Yc",
+   "titulo": "Diego Giuliano en UrbanaBA",
+   "canal": "UrbanaBA Streaming",
+   "fecha_txt": "hace 1 h",
+   "duracion": "16:48",
+   "url": "https://www.youtube.com/watch?v=G7pC6FGk1Yc",
+   "vigente_desde": "2026-11-20T14:51-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-20T14:51-03:00"
+  },
+  {
+   "youtube": "e57KCvZktrE",
+   "titulo": "\"Suspender las PASO no generaría nada, difícilmente reelija\" Sebastián Galmarini a Nancy Pazos",
+   "canal": "Radio10",
+   "fecha_txt": "hace 2 días",
+   "duracion": "13:07",
+   "url": "https://www.youtube.com/watch?v=e57KCvZktrE",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "youtube": "emLIIIp8hDU",
+   "titulo": "“No tengo dudas de que, con o sin PASO, el peronismo va a ir unido” Cecilia Moreau a Pablo Duggan",
+   "canal": "Radio10",
+   "fecha_txt": "hace 1 día",
+   "duracion": "8:45",
+   "url": "https://www.youtube.com/watch?v=emLIIIp8hDU",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  },
+  {
+   "youtube": "LccxmZvOYlM",
+   "titulo": "\"SI MASSA DECIDE LANZAR SU CANDIDATURA NO NECESITA NADA SUBREPTICIO\" Diego Giuliano con Fontevecchia",
+   "canal": "Perfil",
+   "fecha_txt": "hace 1 día",
+   "duracion": "10:35",
+   "url": "https://www.youtube.com/watch?v=LccxmZvOYlM",
+   "vigente_desde": "2026-11-20T06:21-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T06:21-03:00"
+  }
+ ],
+ "metricas": {
+  "notas_analizadas": 127,
+  "medios": 85,
+  "temas": 12
+ }
+}
