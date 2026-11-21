@@ -1,6 +1,6 @@
 {
  "id": "2026-11-20-22",
- "generado": "2026-11-20T22:43-03:00",
+ "generado": "2026-11-20T22:48-03:00",
  "hora": "22",
  "claves": [
   "Según distintos medios, Sergio Massa aceleró el armado federal del Frente Renovador y evalúa a Natalia de la Sota o a Gerardo Zamora para la fórmula de 2027.",
@@ -59,9 +59,9 @@
     }
    ],
    "cantidad_notas": 6,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
+   "sumado": "2026-11-20T22:48-03:00"
   },
   {
    "id": "sin-paso-la-interna",
@@ -122,7 +122,7 @@
     }
    ],
    "cantidad_notas": 8,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -159,9 +159,9 @@
    ],
    "otras": [],
    "cantidad_notas": 3,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
+   "sumado": "2026-11-20T22:48-03:00"
   },
   {
    "id": "gestion-universidad-en-san",
@@ -239,7 +239,7 @@
     }
    ],
    "cantidad_notas": 11,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -269,9 +269,9 @@
    ],
    "otras": [],
    "cantidad_notas": 2,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
+   "sumado": "2026-11-20T22:48-03:00"
   },
   {
    "id": "giuliano-santa-fe",
@@ -317,7 +317,7 @@
     }
    ],
    "cantidad_notas": 5,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-20T14:51-03:00"
   },
@@ -367,7 +367,7 @@
     }
    ],
    "cantidad_notas": 5,
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -657,25 +657,17 @@
    "url": "https://x.com/marinadorotea/status/2123944776139428350",
    "autor": "@marinadorotea",
    "nota": "Marina Salzmann, sobre las horas que pierden los trabajadores del oeste en el transporte.",
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
+   "sumado": "2026-11-20T22:48-03:00"
   },
   {
    "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
    "autor": "@MichelGuilleOK",
    "nota": "La Justicia admitió el amparo de Guillermo Michel por las rutas nacionales de Entre Ríos.",
-   "vigente_desde": "2026-11-20T22:43-03:00",
+   "vigente_desde": "2026-11-20T22:48-03:00",
    "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2123456334225953150",
-   "autor": "@marinadorotea",
-   "nota": "Marina Salzmann respaldó a Malena Galmarini frente a los libertarios.",
-   "vigente_desde": "2026-11-20T22:43-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T22:43-03:00"
+   "sumado": "2026-11-20T22:48-03:00"
   },
   {
    "url": "https://x.com/DiegoGiuliano/status/2123807802850242958",
@@ -745,6 +737,14 @@
    "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
    "autor": "@ceciliamoreauok",
    "nota": "Cecilia Moreau, sobre la reforma electoral: con o sin PASO, el peronismo irá unido.",
+   "vigente_desde": "2026-11-20T04:58-03:00",
+   "desde_hora": "01",
+   "sumado": "2026-11-20T04:58-03:00"
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini cuestionó el proyecto oficial para suspender las PASO.",
    "vigente_desde": "2026-11-20T04:58-03:00",
    "desde_hora": "01",
    "sumado": "2026-11-20T04:58-03:00"
@@ -819,8 +819,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 121,
-  "medios": 84,
+  "notas_analizadas": 120,
+  "medios": 83,
   "temas": 12
  }
 }
