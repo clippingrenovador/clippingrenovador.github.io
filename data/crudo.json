@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-21T16:14-03:00",
- "total": 594,
- "nuevas_ultima_corrida": 22,
+ "generado": "2026-11-21T17:03-03:00",
+ "total": 596,
+ "nuevas_ultima_corrida": 19,
  "errores": [],
  "notas": [
   {
@@ -12,7 +12,9 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzZWaTNjVkRzRTc1blF4LU1BOWtWUURKVzFac3hoZkl6dTFGV2F4bkdiVVljMl9vNi1uNW83TklNNVZfakJWd194LVZfSDlzTWVZOHdZMy1qRU5EYTM3UkI3eWxqOWpWTHhxSGVwUTNzTEo1MHFURVlmeTRvdDliNTZweG1qWW1zXy1sd3FsTFprdkFWWjFuZjVQQmpIeE9tN09fS2tSQTViVDhGX2hBeEVLZGNZM0VVcjZyYXNSWi1EaUgteldFMw?oc=5",
    "fecha": "2026-11-21T16:08-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T16:12-03:00",
    "url_original": "https://www.clarin.com/politica/voto-anti-milei-face-id-idea-crece-peronismo-ordenar-feroz-interna-candidaturas_0_SpCL5tolNx.html",
@@ -79,6 +81,20 @@
    ],
    "visto": "2026-11-21T14:59-03:00",
    "url_original": "https://www.infoplatense.com.ar/panorama-politico-massa-armo-su-foto-kicillof-eligio-la-gestion-y-maximo-asume-por-zoom/",
+   "revisada": true
+  },
+  {
+   "id": "a6e7d40b395a",
+   "titulo": "Javier Milei quedó tercero en el ranking de imagen positiva",
+   "medio": "Impacto Castex",
+   "medio_url": "https://impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVENIVFJVR2xkcm9aUUtTRHRMVlZvNHJaeWtkbFluUHdTZUJnU3FMOGhIQ21vNmVrSFlSQ1FQYXo3aFNmY196Nk9uTjNvZGtwbTFVdEo4S0dBQXphVG1vNFdoaDV0MVNNbFU0N3JWR2JremV0TDY0UkxmTWNqQk9qWXVPV2lOOWJoRVhVSmRxRnlXcjM0d3NPWmowWEdJLWpKZlFxSDNR?oc=5",
+   "fecha": "2026-11-21T13:00-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T17:02-03:00",
+   "url_original": "https://impactocastex.com.ar/politica/19531/javier-milei-quedo-tercero-en-el-ranking-de-imagen-positiva",
    "revisada": true
   },
   {
@@ -1059,6 +1075,20 @@
    ],
    "visto": "2026-11-20T18:10-03:00",
    "url_original": "https://www.letrap.com.ar/politica/kicillof-se-puso-el-traje-candidato-presidencial-punta-indio-geopolitica-y-proyecto-nacional-n5428395",
+   "revisada": true
+  },
+  {
+   "id": "7012a6d7871c",
+   "titulo": "La tarjeta SUBE suspenderá sus servicios durante 12 horas: cuándo y cómo viajar",
+   "medio": "El Teclado",
+   "medio_url": "https://www.elteclado.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXR6QmFWUEVqZ3F4NHI2alB4NkhMMzdoMzVMQjZlbG9tX3hpbzRsSEZmYXVaZWFDNWVJV2VJM3ZOQXRGSk95ODAxUHY3MHkzQmZZeXlsZ1lWUzRUSzlyS3dNYUlSZ3hnNDhSU3ZaVlhwX3hYYU9WSVVIbEdTdDhuSFA0ekxyMkRqV0MwMWtlc1lTSVJJUEh6R1MyRnZudlJMUFpxclRmbVNiaGl2M3JiRXIwZW5abXN5WnNrQmVEckhxMkJwWXfSAcYBQVVfeXFMT010ekJhVlBFamdxeDRyNmpQeDZITDM3aDM1TEI2ZWxvbV94aW80bEhGZmF1WmVhQzVlSVdlSTN2TkF0RkpPeTgwMVB2NzB5M0JmWXl5bGdZVlM0VEs5ckt3TWFJUmd4ZzQ4UlN2WlZYcF94WGFPVklVSGxHU3Q4bkhQNHpMcjJEaldDMDFrZXNZU0lSSVBIekdTMkZ2bnZSTFBacXJUZm1TYmhpdjNyYkVyMGVuWm1zeVpza0JlRHJIcTJCcFl3?oc=5",
+   "fecha": "2026-11-20T17:34-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T17:02-03:00",
+   "url_original": "https://www.elteclado.com.ar/nota/32458/la-tarjeta-sube-suspendera-sus-servicios-durante-12-horas-cuando-y-como-viajar.html/amp",
    "revisada": true
   },
   {
