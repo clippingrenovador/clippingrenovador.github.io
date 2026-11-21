@@ -1,9 +1,69 @@
 {
- "generado": "2026-11-20T22:39-03:00",
- "total": 527,
- "nuevas_ultima_corrida": 19,
- "errores": [],
+ "generado": "2026-11-21T00:08-03:00",
+ "total": 535,
+ "nuevas_ultima_corrida": 24,
+ "errores": [
+  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "b0ab9197ae08",
+   "titulo": "Internas sin PASO",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNExoUDJkTUVscTJ2ZWJKTFNiaUNMNmR3cTJLcG9NR3RyODJtd05DOEpVZGkyY001bHk2eEpZS3pzY0lubTFkemt6WVJnMUxHVjZreEIxODhQVllHbjRqQmpLYXhqNEVDZWdwVTh0MjJYNzg?oc=5",
+   "fecha": "2026-11-20T23:58-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://www.perfil.com/columnistas/internas-sin-paso-aIeH59z5VMEE",
+   "revisada": true
+  },
+  {
+   "id": "d935989ebdc9",
+   "titulo": "“Es un gusto poder heredar la visión de Don Moisés Lebensohn”, Darío Golía por los 95 años del Diario Democracia",
+   "medio": "Diario Democracia",
+   "medio_url": "https://www.diariodemocracia.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmJYUnhJaWdFWFBiSTNrbTNfRjBpWjZFdWJQRVBxZHhsNDFQOXZmai1DN082Q3UtaGF6Q29yZzFKb1Fjczk3Z19KS0VvVjlWeDFRZVpXa0JBRW4wVEYwYnpGanZETGhaRktaS1Vhd2FjS3JxNk5CRjNaYnViUERobEV6Ym9PcVFlY2VLYU1MeGs5eGVBdUQ2eV9jV0lfOHhac0dYTnpQQ2ktZGM?oc=5",
+   "fecha": "2026-11-20T23:17-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T00:07-03:00",
+   "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348330-es-un-gusto-poder-heredar-la-vision-de-don-moises/",
+   "revisada": true
+  },
+  {
+   "id": "2ea145adf1d2",
+   "titulo": "Milei contra la conjura de los tibios",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXFzMkxJbXhfZ3JHN0tRWFJLdktVSHliemFBQlpwRExkMmp0U1M5OUtxcFlUQXJjSThyWDQ3TnFNMkwxRjkzc2NlaUNrZmlvcHQzazFKZ2hKUVgyckZnOUdMLVlPazgyaDBkUVktWWNqX1ZTdG1ROGFrdnp4OHI4WHJSM21RX000OUxmeg?oc=5",
+   "fecha": "2026-11-20T22:59-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://www.lanacion.com.ar/ideas/milei-contra-la-conjura-de-los-tibios-nid20112026/",
+   "revisada": true
+  },
+  {
+   "id": "a9ee4dc0aaba",
+   "titulo": "La suspensión de las PASO hizo explotar la interna entre Kicillof y Massa por las candidaturas de 2027",
+   "medio": "www.diariovoces.com.ar",
+   "medio_url": "https://www.diariovoces.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVTQ5ck9WdlgxdDZaNm9CWmxpc3E1N0tLQVFWQlVjTG5GVnhMdDdBYjNZamg3aC1YR1hhOGxSeDZiYXdYY05Kc19JVWROUVY1V2g3S1JQNy12MWtfOS1taG9pUU9aUDJQaGZoT1F1WEhVY1JZNlN1MnZSUXhfaEpYMmN4ZTRDa1ZkQzI4ZUZjWlBUaGV3TkxIRlBCYXV4R29QYll1QjdqcEdJYVZzYTZEMXA5emc1Q1JUUGVNMjBwRUIyNnkyMkJlaTFKdFdkaHdmV0xDZ0EybHFhbTQ?oc=5",
+   "fecha": "2026-11-20T22:53-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://www.diariovoces.com.ar/politica/la-suspension-de-las-paso-hizo-explotar-la-interna-entre-kicillof-y-massa-por-las-candidaturas-de-2027/",
+   "revisada": true
+  },
   {
    "id": "12b2d83bac0a",
    "titulo": "Encuesta: cuatro de cada diez argentinos sienten bronca hacia Javier Milei",
@@ -30,6 +90,20 @@
    ],
    "visto": "2026-11-20T22:38-03:00",
    "url_original": "https://cuestionentrerriana.com.ar/miguel-pichetto-milei-provoco-un-gran-dano-a-la-clase-media/",
+   "revisada": true
+  },
+  {
+   "id": "f900f928ae5f",
+   "titulo": "Garate acompañó un acto escolar por el Día de la Soberanía y la Muestra Anual de la Escuela Agraria",
+   "medio": "LU24 – Radio Tres Arroyos",
+   "medio_url": "https://www.lu24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0Zla2FPU0JVSXR2blAyTmFwbXpGY2RSbHRKbU1hbFp0aTFFWlVIeW11U0JPUDhlUXB0aXNuWF9wSXZ1RE42eVVseTllZVBvTWNWOG9MXzl6NnpVdjlEVThQX0l3T3V5M280NkN3a3lxTXBXa3VsYUhvbmJoOFhYMlVKdjdsUzlzekd5OVBLNVNVQVdMa1JiamphamhsbTdTMHV4YWRMT2xOR3VweGM0UTRR?oc=5",
+   "fecha": "2026-11-20T20:59-03:00",
+   "busquedas": [
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-21T00:07-03:00",
+   "url_original": "https://www.lu24.com.ar/locales/garate-acompano-un-acto-escolar-por-el-dia-de-la-soberania-y-la-muestra-anual-de",
    "revisada": true
   },
   {
@@ -151,6 +225,20 @@
    "revisada": true
   },
   {
+   "id": "66053672bed9",
+   "titulo": "Milei mueve las PASO, Massa reúne al PJ y Kicillof enfrenta una interna decisiva",
+   "medio": "Primera Página",
+   "medio_url": "https://primerapagina.info",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTU1WT19VbFVRb0dTVjhnd3BnUHJrSkJYYVE3UzE1N1VpMEhYd1AyQmEtejFBRGxxam9CcjZpdk9jczV1RFl2YWdzRy1LMDlwQ2RobE5DMlpqU1p3TDhOYk0tRUs3eDJaMjdjTmU2TzRhVmxvN2wwWUFsaGlEUnpERE81M2VuOU1FS2g4NFdwTWZ4Mnk0Vk5USTkzSHVzWTNWeXg0Uk5DMll6dHh2T2ljeGtXbGozY2JGejAzbE4wZWhpS0VLMENPZGRpdzFfRFR1TzlQRTBOblJ5UdIB6AFBVV95cUxNV2RXektuaDBQeFJMbnY1QzE5ZldNMjA0WlIwUGNNcTZpcnpXOW80MVhtOW1wMVhxSXZxbERCZDRzRUpoVmFWSGQ2MlY0WGNTNW5DWUFhVjVXVUVna1Q2U1UzQm1lUHUzS2IxV3NKVDcydG0wVGgzRHYtdDBieUFOTTNIZW0waTRqUmFBUERzUlpLd21zNHhWbGlxdFZDNmRMTFNoMG5ySmJjSG96bjlLMUJuOTZPZkc1NEV1V1h6aU13TTdOSGw1Y25tOEJTQ1N2Y3NwZWNWUHE0dThaRXA1d2QzdlNsZzd3?oc=5",
+   "fecha": "2026-11-20T19:01-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://primerapagina.info/politica/milei-mueve-las-paso--massa-reune-al-pj-y-kicillof-enfrenta-una-interna-decisiva_a6b009570cd25aee28856b4c4",
+   "revisada": true
+  },
+  {
    "id": "5a302e183443",
    "titulo": "Máximo Kirchner pidió revisar los beneficios del RIGI: objeciones en el peronismo sanjuanino y un moderado de Chimbas",
    "medio": "Tiempo de San Juan",
@@ -206,6 +294,21 @@
    ],
    "visto": "2026-11-20T20:07-03:00",
    "url_original": "https://www.elobservador.com/argentina/politica/power-rankings-politico-las-paso-caer-milei-y-massa-activan-el-modo-full-campana-n6064610",
+   "revisada": true
+  },
+  {
+   "id": "e76c66260835",
+   "titulo": "El balotaje, el peor escenario para Milei",
+   "medio": "Página|12",
+   "medio_url": "https://www.pagina12.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHZYRXBHMjh3MGliNDE0T0lqRlhiajFnTnJuYjQ2eHBxVHRrQXZITVZ6RTZpZGR3SGNFWTNYMjRHUjlURi1ncE1OdzFtUUk5dk9BREV2WExOWXRQVlo3bGxnamNNeFpSb3NkeVgza3ZlTEdveEFKMGNLQmVnOXlCeFAyQnFJTWs?oc=5",
+   "fecha": "2026-11-20T18:29-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://www.pagina12.com.ar/2026/11/21/el-balotaje-el-peor-escenario-para-milei/",
    "revisada": true
   },
   {
@@ -1556,6 +1659,20 @@
    "revisada": true
   },
   {
+   "id": "50f0a5cc7d63",
+   "titulo": "Enojo de las prepagas tras el fallo judicial que les impide aumentar las cuotas: “Están matando al sistema, la gente se va a quedar sin cobertura”",
+   "medio": "Perfil",
+   "medio_url": "https://perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZ2lUWFYweExnbzlLTm55OGpoTHdHTkhwV3FKMVlTdElXZzhuc1dOTTN0bS1xUEQ5UVlaTzhGcDV2UWRYREJ6VVZ1ajREc3p2X25yejZtZ3ExdzhodGpiNzJuNDNFSE13NHVtNnZ6TzlYazJXNlE2TXBsUXppMWRQbzdXNmRoNmZFbFpBQ0xSZ2RmLURRU2tfOGJNSExKZ083Mkd6aVhXVmYtQmFaV20tRVRsMGhLVFhETWdSY0c2OWN5Z0UxcUVsYnRqb3BEck43aVkxVGMyOVU2YnlaM1JHWEdvYjVQckRHallzd01oeC0wTGFraGdpM3ZHZXRIMHRiSUZDRUI2bVlwa1VnZmV5UlBJOA?oc=5",
+   "fecha": "2026-11-20T05:45-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://perfil.com/actualidad/enojo-de-las-prepagas-tras-el-fallo-judicial-que-les-impide-aumentar-las-cuotas-estan-matando-al-sistema-la-gente-se-va-a-quedar-sin-cobertura-a7Pa57j5ddPn",
+   "revisada": true
+  },
+  {
    "id": "53b5c03a9c16",
    "titulo": "El triunfo de León",
    "medio": "Perfil",
@@ -1597,6 +1714,20 @@
    "revisada": true
   },
   {
+   "id": "6e0647046770",
+   "titulo": "Por el caso Ueno Bank, la Fiscalía de Paraguay allanó el Instituto de Previsión Social: cuál es el objetivo detrás de esta medida",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWUdaQXloenBSeDRqTE04OUd0NTN5VndpaGxXcnhCQS1HbHg3RHlwWE1BN1QyZF9rSFItX3k4aERiV2FYeVVNQ3JQcTZHanJvRW01WVJwNWJ6WHUtVDc0T2ZTZnBWUW4yOFdPQ3BuLVFLNnF3MmZTbkM2SUp1dUdiQnR2d1h4Uk1VVnVXbVBWYURoNXVjWU94Ry1jNDJ4alRTTEl4SzNtdEtWVnhPRS1uOTZzOThuTndIZjB6RUQteUljRWR0VmJNUmhubk05Wk93S0dWX2NwVV9oOEVfM0YxNm1xRWI5UG1MTmtLejZfRGdJLTN0ZVhnc19ONWZFaGd4VFBpOVNPWVA?oc=5",
+   "fecha": "2026-11-20T01:51-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://www.perfil.com/internacional/por-el-caso-ueno-bank-la-fiscalia-de-paraguay-allano-el-instituto-de-prevision-social-cual-es-el-objetivo-detras-de-esta-medida-aZoz71R4r1aL",
+   "revisada": true
+  },
+  {
    "id": "f1e3ab8cc762",
    "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
    "medio": "Infobae",
@@ -1624,6 +1755,20 @@
    ],
    "visto": "2026-11-20T01:52-03:00",
    "url_original": "https://enfoquesindical.org/articulo/noticias/cristian-jeronimo-tomo-distancia-de-massa-y-reclamo-una-interna-para-definir-el",
+   "revisada": true
+  },
+  {
+   "id": "52ffe3f8adaa",
+   "titulo": "En Isidro Casanova asesinaron al dueño de un super chino por dos cervezas: los detalles del violento episodio",
+   "medio": "Perfil",
+   "medio_url": "https://perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSjlQWGRtRWZDQU40d3dHZExYN19XcFpHaGlnUmhBSTlKTEx1clY2b0VkbWxTMV9ld3YyNXoxcTJGOTJER2I2dFpnc1g0Qlk1aWowc08yX18wMnZILWY5WmZ2XzRmMjJXNWd5bGFpVlJncFFhcEp2cEhmTnQyY3E1WGI2WXNYY18tVDRBYnFXLUt6VU1LMm0xUHE4QlgyMlJoQjJhbHZ3VFRac0dERFpBUlRsZ3BvTjdsRnJ6WHRPWEk3VWdacUhmdGZGMC1jTHZJQUpaVEU2VjdKcTNpd1hpYWEzTQ?oc=5",
+   "fecha": "2026-11-20T00:59-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-21T00:06-03:00",
+   "url_original": "https://perfil.com/sociedad/en-isidro-casanova-asesinaron-al-dueno-de-un-super-chino-por-dos-cervezas-los-detalles-del-violento-episodio-a9t6I6b3Hkm3",
    "revisada": true
   },
   {
@@ -7545,34 +7690,6 @@
    ],
    "visto": "2026-11-20T02:29-03:00",
    "url_original": "https://www.identidadcorrentina.com.ar/noticia/46047_conviccin-federal-demora-su-postura-sobre-la-suspensin-de-las-paso.htm",
-   "revisada": true
-  },
-  {
-   "id": "248e64691d72",
-   "titulo": "Tras el veto a la ordenanza aprobada - Un proyecto de Gastón reduce la intervención de la Comisión de Caminos en el control de los fondos y designación de un director técnico",
-   "medio": "EL FUERTE DIARIO",
-   "medio_url": "https://elfuertediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQWdkQ3JEdzBIZ1VjaWUxQ3N4VzNpaDNWZDNLTmQzZWhvTU1tZHZHb0RwYU92S1I3QlZVRVVBT0FSNFFtcGRyQjdWR3pHTTNmZGVoNmpqMVl0aTRZQXMxRzZUQ2pFYVRBcDRObDFpU2hmY1BwT01QZGFvQ0dDRFJuUXMtVjRhZDlTdHh1QmcwZFV5Um5zM1I4dkphV2pHTFlmd0JvZ3JWbEF4UDk0Y3BEaFplS0pmYmdqQkplNmZ1QXVPVmpGRENjMEtMek9ZdEQxOWFTZ0Vrbmg3MFVtTEZaQkZ4NlctTFdvOWNqcElvWVpZSUJ6UGtIa3lFQzNyQWZRSjhXcmRtRTF5QmRmWVlRbkNfcjduR1FEQVljZC1PeFl6VWM0QU52b1dqSQ?oc=5",
-   "fecha": "2026-11-13T23:16-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elfuertediario.com.ar/tras-el-veto-a-la-ordenanza-aprobada-un-proyecto-de-gaston-reduce-la-intervencion-de-la-comision-de-caminos-en-el-control-de-los-fondos-y-designacion-de-un-director-tecnico/",
-   "revisada": true
-  },
-  {
-   "id": "988d3c0dcb1d",
-   "titulo": "Garate firmó un acuerdo con Camuzzi Gas Pampeana para el Polideportivo Municipal y a CAPS",
-   "medio": "Cronos noticias",
-   "medio_url": "https://infocronos.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFhaN2xDQk9CaUUwR3pzdmpqdWZUWUJHUml1aFRXN0tjWlhvZ1FwOTYwMl9LZWdEeDVWMTNTaFdKbnVnMm1mQzYwaXdHcHNSR1NrMlViMVYxVnFKSUpHV0I3dGRrRkFJS0NWZ3F6OTdERlRkWVA3dXJ0cTd3RmpSYkhzRF9pMEt5ZldnbWRhRjU2RERrSWJrT2dBTHV0aUhpWUZSa0UwOWI0NzVkNTZ3MzZ5VW9OdGE5elA2YjE2NmM0TF9uM3c?oc=5",
-   "fecha": "2026-11-13T22:42-03:00",
-   "busquedas": [
-    "\"Pablo Garate\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://infocronos.com.ar/nota/58858/garate-firmo-un-acuerdo-con-camuzzi-gas-pampeana-para-el-polideportivo-municipal-y-a-caps/",
    "revisada": true
   }
  ]
