@@ -93,6 +93,8 @@ def continuidad(nuevo, anterior, ahora, retirar=()):
 def main():
     semanal = "--semanal" in sys.argv
     origen = DATOS / "semanal" / "curaduria.json" if semanal else DATOS / "curaduria.json"
+    if semanal and "--borrador" in sys.argv:
+        origen = DATOS / "semanal" / "borrador_curaduria.json"
     cur = json.loads(origen.read_text(encoding="utf-8"))
     notas = {n["id"]: n for n in cargar("crudo.json", "notas")}
     videos = {v["id"]: v for v in cargar("videos.json", "videos")}
@@ -213,6 +215,10 @@ def armar_semanal(cur, temas, redes, entrevistas, notas, ahora):
     }
     carpeta = DATOS / "semanal"
     texto = json.dumps(semana, ensure_ascii=False, indent=1)
+    if "--borrador" in sys.argv:
+        (carpeta / "borrador.json").write_text(texto, encoding="utf-8")
+        print(f"Borrador semanal: {len(temas)} temas, {len(redes)} tuits, {len(entrevistas)} videos")
+        return
     (carpeta / f"{sid}.json").write_text(texto, encoding="utf-8")
     (carpeta / "ultimo.json").write_text(texto, encoding="utf-8")
     ix_p = carpeta / "indice.json"

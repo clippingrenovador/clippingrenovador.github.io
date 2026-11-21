@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta name="robots" content="noindex">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Clipping Semanal Renovador</title>
+<meta property="og:type" content="website">
+<meta property="og:title" content="CLIPPING SEMANAL RENOVADOR">
+<meta property="og:image" content="https://clippingrenovador.github.io/og.jpg?v=7">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://clippingrenovador.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0E121A">
+<link rel="icon" type="image/png" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --azul:#188CE8; --azul-osc:#0F5FA8; --noche:#0E121A; --crema:#F4F0E4;
+  --cobalto:#14306E; --cobalto-2:#0F5FA8; --celeste:#74ACDF; --celeste-osc:#188CE8; --sol:#F4F0E4; --oro:#188CE8;
+  --papel:#F3EFE5; --hoja:#FFFFFF; --tinta:#131B2E; --tinta-2:#4A5163; --linea:#E0DBCE;
+  --pos:#1E8E5E; --neg:#C8402F; --neu:#7D879B; --mix:#B7791F;
+  --sans:"Archivo",system-ui,sans-serif; --serif:"Newsreader",Georgia,serif;
+  --r:14px;
+}
+@media (prefers-color-scheme:dark){:root{
+  --papel:#0B0F17; --hoja:#141B28; --tinta:#ECE8DC; --tinta-2:#A8AFBF; --linea:#263042; --cobalto-2:#6DB7F2; --celeste-osc:#4FA6EE;
+}}
+*{box-sizing:border-box} html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papel);color:var(--tinta);font:16px/1.5 var(--sans)}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--sol);outline-offset:2px;border-radius:4px}
+.envoltura{max-width:1080px;margin:0 auto;padding:0 18px}
+
+/* Cabecera: afiche en azul y negro con semitono, letra crema y filetes dobles (estética Jóvenes FR) */
+.cabecera{background:#0E121A url(cabecera.jpg) center/cover;color:var(--crema);position:relative;padding:14px 0 40px}
+.cabecera::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,18,26,.10),rgba(14,18,26,0) 40%,rgba(14,18,26,.25));pointer-events:none}
+.cabecera .envoltura{position:relative}
+.barra-sup{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:13px;font-weight:600}
+.vivo{display:inline-flex;align-items:center;gap:8px;color:var(--crema);white-space:nowrap}
+.vivo i{width:8px;height:8px;border-radius:50%;background:var(--crema);box-shadow:0 0 0 0 rgba(244,240,228,.8);animation:latido 2.4s infinite}
+@keyframes latido{70%{box-shadow:0 0 0 9px rgba(244,240,228,0)}100%{box-shadow:0 0 0 0 rgba(244,240,228,0)}}
+.ir-semanal{color:var(--crema);font-weight:700;font-size:13px;text-decoration:none;border:1.5px solid rgba(244,240,228,.8);border-radius:30px;padding:4px 13px;font-stretch:110%}
+.ir-semanal:hover{background:rgba(244,240,228,.14)}
+.afiche{margin:20px auto 0;max-width:820px;font-size:0}
+.filete{display:block;height:var(--g);border-top:var(--g) solid var(--crema);border-bottom:var(--g) solid var(--crema);box-sizing:content-box;padding:0;margin:0}
+.filete{--g:clamp(4px,.9vw,7px);height:clamp(3px,.7vw,5px)}
+.afiche svg{display:block;width:100%;height:auto;margin:clamp(12px,2.6vw,22px) 0;overflow:visible}
+.afiche text{font-family:"Archivo",system-ui,sans-serif;font-weight:900;font-variation-settings:"wdth" 125;fill:var(--crema)}
+.afiche .sol{fill:var(--crema)}
+.fecha-linea{display:flex;align-items:center;gap:14px;max-width:820px;margin:16px auto 0;color:var(--crema)}
+.fecha-linea em{font-family:var(--serif);font-style:italic;font-weight:400;font-size:clamp(17px,2.6vw,22px);white-space:nowrap}
+.fecha-linea i{flex:1;height:1.5px;background:var(--crema);opacity:.85;min-width:20px}
+.fecha-linea b{font-weight:900;font-variation-settings:"wdth" 125;font-size:clamp(20px,3.2vw,28px);letter-spacing:.01em;white-space:nowrap}
+.fecha-linea b small{font-size:.62em;margin-left:3px}
+.bajada{max-width:820px;margin:10px auto 0;font-size:14px;font-weight:600;color:var(--crema);text-shadow:0 1px 2px rgba(14,18,26,.9),0 0 10px rgba(14,18,26,.7)}
+
+/* Lo que tenés que saber */
+.claves{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);margin:-14px 0 0;padding:24px 24px 8px;position:relative;z-index:1;box-shadow:0 18px 40px -26px rgba(14,18,26,.55)}
+.claves h2,.titulo-seccion{margin:0 0 16px;font-weight:900;font-variation-settings:"wdth" 125;font-size:clamp(17px,2.4vw,21px);letter-spacing:.01em;text-transform:uppercase;color:var(--tinta);padding-bottom:9px;border-bottom:3px double var(--azul);display:inline-block}
+.claves ol{margin:0;padding:0;list-style:none;counter-reset:k}
+.claves li{font-family:var(--serif);font-size:clamp(18px,2.6vw,21px);line-height:1.42;padding:0 0 14px 34px;position:relative;max-width:68ch}
+.claves li::before{counter-increment:k;content:counter(k);position:absolute;left:0;top:2px;font:900 14px/1 var(--sans);font-variation-settings:'wdth' 110;color:#fff;background:var(--azul);width:24px;height:24px;border-radius:50%;display:grid;place-items:center}
+
+/* Pestañas */
+.pestanas{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--papel) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--linea);margin-top:22px}
+.pestanas .envoltura{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.pestanas button{border:0;background:none;font:600 15px var(--sans);color:var(--tinta-2);padding:14px 12px 12px;border-bottom:3px solid transparent;white-space:nowrap;cursor:pointer}
+.pestanas button[aria-selected=true]{color:var(--tinta);border-bottom-color:var(--azul);font-weight:800}
+.pestanas button b{font-weight:600;font-size:12px;background:var(--linea);color:var(--tinta-2);border-radius:20px;padding:1px 7px;margin-left:5px}
+.panel{padding:22px 0 60px}
+.panel[hidden]{display:none}
+
+/* Filtro por dirigente */
+.filtros{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 18px}
+.chip{border:1px solid var(--linea);background:var(--hoja);color:var(--tinta);border-radius:30px;padding:6px 12px;font:500 14px var(--sans);cursor:pointer}
+.chip[aria-pressed=true]{background:var(--celeste-osc);border-color:var(--celeste-osc);color:#fff}
+
+/* Temas */
+.temas{display:grid;gap:16px}
+@media(min-width:860px){.temas{grid-template-columns:1fr 1fr}.tema.destacado{grid-column:1/-1}}
+.tema{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:20px 20px 16px;border-top:5px solid var(--neu);display:flex;flex-direction:column}
+.tema[data-tono=positivo]{border-top-color:var(--pos)} .tema[data-tono=negativo]{border-top-color:var(--neg)} .tema[data-tono=mixto]{border-top-color:var(--mix)}
+.tema-meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:13px;color:var(--tinta-2);margin-bottom:8px}
+.tono{font-weight:700}
+.tema[data-tono=positivo] .tono{color:var(--pos)} .tema[data-tono=negativo] .tono{color:var(--neg)} .tema[data-tono=mixto] .tono{color:var(--mix)}
+.tema h3{margin:0 0 8px;font-size:clamp(20px,2.8vw,24px);line-height:1.18;font-weight:750;font-stretch:96%}
+.tema.destacado h3{font-size:clamp(23px,3.4vw,30px)}
+.tema .resumen strong,.claves li strong{font-weight:600;color:var(--tinta);box-shadow:inset 0 -.42em 0 rgba(24,140,232,.22)}
+.tema .resumen{font-family:var(--serif);font-size:17.5px;line-height:1.55;margin:0 0 14px;color:var(--tinta);max-width:70ch}
+.personas{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px}
+.personas span{font-size:13px;background:color-mix(in srgb,var(--celeste) 22%,transparent);color:var(--tinta);border-radius:6px;padding:2px 8px}
+.fuentes{list-style:none;margin:0;padding:0;border-top:1px solid var(--linea)}
+.fuentes li{border-bottom:1px solid var(--linea)}
+.fuentes a{display:block;padding:11px 0;text-decoration:none}
+.fuentes a strong{display:block;font-size:13px;color:var(--cobalto-2);font-weight:700}
+.fuentes a span{font-size:15.5px;line-height:1.35}
+.fuentes a:hover span{text-decoration:underline}
+details.otras{margin-top:8px;font-size:14px;color:var(--tinta-2)}
+details.otras summary{cursor:pointer;padding:6px 0}
+details.otras ul{margin:4px 0 0;padding-left:18px} details.otras li{margin:4px 0}
+.acciones{margin-top:auto;padding-top:12px;display:flex;justify-content:flex-end}
+.wa{display:inline-flex;align-items:center;gap:7px;border:0;border-radius:30px;padding:8px 14px;background:#E6F6EC;color:#11663C;font:600 14px var(--sans);cursor:pointer;text-decoration:none}
+@media (prefers-color-scheme:dark){.wa{background:#163626;color:#7FE0A8}}
+.wa svg{width:17px;height:17px}
+.botones-claves{gap:8px;flex-wrap:wrap;padding-bottom:14px}
+.wa.secundario{background:#EEF5FC;color:var(--celeste-osc)}
+
+
+/* Gráficos de las tarjetas: dirigentes, logos y cobertura */
+.tema-cabeza{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+.rostros{display:flex;align-items:center}
+.rostro{position:relative;width:46px;height:46px;border-radius:50%;margin-right:-10px;border:3px solid var(--hoja);
+  background:linear-gradient(140deg,var(--celeste),var(--celeste-osc));color:#fff;display:grid;place-items:center;
+  font:800 15px/1 var(--sans);font-stretch:90%;overflow:hidden;flex:none}
+.rostro img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.05);mix-blend-mode:luminosity}
+.rostro::after{content:"";position:absolute;inset:0;background:linear-gradient(140deg,rgba(124,196,232,.25),rgba(20,48,110,.45))}
+.tema.destacado .rostro{width:58px;height:58px;font-size:18px}
+.rostros-mas{margin-left:18px;font-size:14px;font-weight:600;color:var(--tinta);line-height:1.25}
+.tema-cabeza .tema-meta{margin:0;justify-content:flex-end;text-align:right}
+.logo{width:18px;height:18px;border-radius:4px;vertical-align:-4px;margin-right:6px;background:var(--hoja);box-shadow:0 0 0 1px var(--linea)}
+.fuentes a strong{display:flex;align-items:center}
+.cobertura{display:flex;align-items:center;gap:10px;margin:2px 0 14px;font-size:13px;color:var(--tinta-2)}
+.pila{display:flex}
+.pila img{width:24px;height:24px;border-radius:50%;background:#fff;border:2px solid var(--hoja);margin-right:-7px;box-shadow:0 0 0 1px var(--linea);object-fit:contain;padding:2px}
+.barra-tono{height:6px;border-radius:6px;background:var(--linea);overflow:hidden;margin:0 0 14px}
+.barra-tono i{display:block;height:100%;background:var(--neu)}
+.tema[data-tono=positivo] .barra-tono i{background:var(--pos)} .tema[data-tono=negativo] .barra-tono i{background:var(--neg)} .tema[data-tono=mixto] .barra-tono i{background:var(--mix)}
+
+
+/* Encuestas, agenda, buscador y semanal */
+.encuestas{display:grid;gap:16px}
+@media(min-width:760px){.encuestas{grid-template-columns:1fr 1fr}}
+.encuesta{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:18px 20px;border-left:5px solid var(--azul)}
+.encuesta .quien{font-size:13px;color:var(--tinta-2);margin-bottom:6px}
+.encuesta h3{margin:0 0 12px;font-size:18px;line-height:1.3}
+.dato{display:grid;grid-template-columns:1fr auto;gap:4px 12px;align-items:center;margin:0 0 10px}
+.dato span{font-size:14px}
+.dato b{font-weight:800;font-stretch:80%;font-size:22px;color:var(--celeste-osc)}
+.dato i{grid-column:1/-1;height:8px;border-radius:8px;background:var(--linea);overflow:hidden;display:block}
+.dato i u{display:block;height:100%;background:var(--celeste);text-decoration:none}
+.encuesta a{font-size:14px;color:var(--celeste-osc)}
+.agenda{list-style:none;margin:0;padding:0;max-width:760px}
+.agenda li{display:grid;grid-template-columns:78px 1fr;gap:16px;padding:16px 0;border-bottom:1px solid var(--linea)}
+.dia{background:var(--noche) url(cabecera.jpg) center/cover;color:var(--crema);border-radius:12px;text-align:center;padding:8px 4px;line-height:1.1;align-self:start}
+.dia b{display:block;font-weight:900;font-stretch:70%;font-size:34px}
+.dia span{font-size:13px;font-weight:600}
+.agenda h3{margin:0 0 4px;font-size:18px}
+.agenda p{margin:0 0 4px;font-family:var(--serif);font-size:16px}
+.agenda .de{font-size:13px;color:var(--tinta-2)}
+.buscar{display:block;max-width:620px;margin:0 0 18px}
+.buscar span{display:block;font-weight:700;font-size:15px;margin-bottom:8px}
+.buscar input{width:100%;font:16px var(--sans);padding:12px 14px;border-radius:12px;border:1.5px solid var(--linea);background:var(--hoja);color:var(--tinta)}
+.buscar input:focus{outline:none;border-color:var(--celeste-osc);box-shadow:0 0 0 3px rgba(116,172,223,.35)}
+.resultados{display:grid;gap:12px;max-width:760px;margin-bottom:24px}
+.resultado{background:var(--hoja);border:1px solid var(--linea);border-radius:12px;padding:14px 16px}
+.resultado .cuando{font-size:13px;color:var(--tinta-2)}
+.resultado h3{margin:4px 0 6px;font-size:17px}
+.resultado h3 a{text-decoration:none}
+.resultado p{margin:0;font-family:var(--serif);font-size:15.5px}
+.resultado mark{background:rgba(24,140,232,.22);color:inherit;border-radius:2px}
+.sub{font-size:16px;margin:8px 0 12px}
+body[data-modo=semanal] .solo-diario{display:none}
+
+
+/* Redes y entrevistas */
+.grilla{display:grid;gap:16px}
+@media(min-width:760px){.grilla{grid-template-columns:1fr 1fr}}
+.tarjeta{background:var(--hoja);border:1px solid var(--linea);border-radius:var(--r);padding:14px;min-width:0}
+.tarjeta .nota{font-family:var(--serif);font-size:16px;margin:0 0 8px}
+.tarjeta .twitter-tweet{margin:0!important}
+.video{position:relative;display:block;width:100%;aspect-ratio:16/9;border-radius:10px;overflow:hidden;background:#000;border:0;padding:0;cursor:pointer}
+.video img{width:100%;height:100%;object-fit:cover;display:block}
+.video .play{position:absolute;inset:0;display:grid;place-items:center}
+.video .play i{width:66px;height:66px;border-radius:50%;background:rgba(63,134,198,.92);display:grid;place-items:center}
+.video .play i::after{content:"";border-left:20px solid #fff;border-top:12px solid transparent;border-bottom:12px solid transparent;margin-left:5px}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.tarjeta h3{font-size:17px;line-height:1.3;margin:12px 0 4px}
+.tarjeta .de{font-size:13px;color:var(--tinta-2)}
+
+/* Al minuto */
+.cable{list-style:none;margin:0;padding:0;max-width:760px}
+.cable li{display:grid;grid-template-columns:62px 1fr;gap:12px;padding:12px 0;border-bottom:1px solid var(--linea)}
+.cable time{font-weight:700;font-stretch:80%;font-size:15px;color:var(--cobalto-2)}
+.cable a{text-decoration:none;font-size:16px;line-height:1.35}
+.cable a:hover{text-decoration:underline}
+.cable .de{display:block;font-size:13px;color:var(--tinta-2);margin-top:2px}
+.nuevo{font-size:12px;font-weight:700;color:#fff;background:var(--azul);border-radius:4px;padding:0 5px;margin-left:6px}
+.aviso{color:var(--tinta-2);font-size:14px;max-width:62ch;margin:0 0 16px}
+
+/* Archivo */
+.archivo{display:grid;gap:8px;max-width:560px}
+.archivo a{display:flex;justify-content:space-between;gap:12px;background:var(--hoja);border:1px solid var(--linea);border-radius:10px;padding:12px 14px;text-decoration:none}
+.archivo a span{color:var(--tinta-2);font-size:14px}
+
+.pie{border-top:3px double var(--linea);padding:24px 0 40px;color:var(--tinta-2);font-size:14px}
+.pie p{margin:0 0 6px;max-width:70ch}
+.vacio{padding:30px 0;color:var(--tinta-2)}
+.cargando{opacity:.5}
+@media (prefers-reduced-motion:reduce){.vivo i{animation:none}}
+@media(max-width:520px){
+  .vivo{font-size:12px}
+  .vivo .largo{display:none}
+  .afiche{margin-top:16px}
+  .fecha-linea{gap:10px}
+  .bajada{font-size:13px}
+  .claves{padding:20px 16px 4px}
+}
+
+/* Movimiento: soles que giran, tarjetas que responden y bienvenida del día */
+.afiche .sol{transform-box:fill-box;transform-origin:center;transition:transform 1.2s cubic-bezier(.2,.7,.2,1)}
+.cabecera:hover .afiche .sol,.afiche.girar .sol{transform:rotate(180deg)}
+.tema,.tarjeta,.encuesta,.resultado,.archivo a{transition:transform .25s ease,box-shadow .25s ease}
+@media (hover:hover){.tema:hover,.tarjeta:hover,.encuesta:hover,.resultado:hover,.archivo a:hover{transform:translateY(-3px);box-shadow:0 16px 30px -22px rgba(14,18,26,.6)}}
+#intro{position:fixed;inset:0;z-index:60;background:#0E121A url(cabecera.jpg) center/cover;display:grid;place-items:center;cursor:pointer;transition:transform .75s cubic-bezier(.75,0,.2,1)}
+#intro.fuera{transform:translateY(-102%)}
+#intro .caja{width:min(86vw,760px);font-size:0}
+#intro .hola{display:block;font:italic 400 clamp(28px,5.2vw,44px)/1.2 var(--serif);color:var(--crema);text-align:center;margin-bottom:clamp(14px,3vw,24px);opacity:0;transform:translateY(10px);animation:sube .5s .1s forwards}
+#intro .filete{transform:scaleX(0);animation:abre .55s .35s cubic-bezier(.2,.8,.2,1) forwards}
+#intro .filete:last-child{animation-delay:.45s}
+#intro svg{opacity:0;transform:translateY(14px);animation:sube .55s .6s forwards}
+#intro .sol{animation:gira 1.6s .6s cubic-bezier(.2,.7,.2,1) both}
+#intro .saltar{position:absolute;bottom:26px;left:0;right:0;text-align:center;font-size:14px;font-weight:600;color:rgba(244,240,228,.75);opacity:0;animation:sube .4s 1s forwards}
+@keyframes sube{to{opacity:1;transform:none}}
+@keyframes abre{to{transform:scaleX(1)}}
+@keyframes gira{from{transform:rotate(-180deg)}to{transform:rotate(0)}}
+@media (prefers-reduced-motion:reduce){#intro{display:none}.afiche .sol,.tema,.tarjeta{transition:none}}
+
+.copiar{display:inline-flex;align-items:center;gap:10px;margin-top:10px;border:1.5px solid var(--linea);background:var(--hoja);color:var(--tinta);border-radius:30px;padding:8px 8px 8px 14px;font:600 15px var(--sans);cursor:pointer;max-width:100%}
+.copiar svg{width:20px;height:20px;color:var(--azul);flex:none}
+.copiar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.copiar em{font-style:normal;font-size:13px;font-weight:700;color:#fff;background:var(--azul);border-radius:20px;padding:4px 10px;white-space:nowrap}
+.copiar.ok em{background:#1E8E5E}
+.copiar:hover{border-color:var(--azul)}
+.sigue{font-size:12px;font-weight:700;color:var(--tinta-2);border:1px solid var(--linea);border-radius:20px;padding:1px 8px}
+</style>
+</head>
+<body data-modo="semanal">
+<header class="cabecera">
+  <div class="envoltura">
+    <div class="barra-sup">
+      <a class="ir-semanal" id="ir-semanal" href="semanal.html">Semanal</a>
+      <span class="vivo" id="vivo"><i></i><span>Actualizando</span></span>
+    </div>
+    <h1 class="afiche" id="marca" aria-label="Clipping Renovador">
+      <span class="filete" aria-hidden="true"></span>
+      <svg viewBox="0 0 1000 236" aria-hidden="true">
+        <defs><g id="sol"><path d="M0.450 0.110L1.000 0.000L0.450 -0.110ZM0.406 0.223L0.753 0.202L0.463 0.010ZM0.335 0.320L0.866 0.500L0.445 0.130ZM0.240 0.396L0.552 0.552L0.396 0.240ZM0.130 0.445L0.500 0.866L0.320 0.335ZM0.010 0.463L0.202 0.753L0.223 0.406ZM-0.110 0.450L0.000 1.000L0.110 0.450ZM-0.223 0.406L-0.202 0.753L-0.010 0.463ZM-0.320 0.335L-0.500 0.866L-0.130 0.445ZM-0.396 0.240L-0.552 0.552L-0.240 0.396ZM-0.445 0.130L-0.866 0.500L-0.335 0.320ZM-0.463 0.010L-0.753 0.202L-0.406 0.223ZM-0.450 -0.110L-1.000 0.000L-0.450 0.110ZM-0.406 -0.223L-0.753 -0.202L-0.463 -0.010ZM-0.335 -0.320L-0.866 -0.500L-0.445 -0.130ZM-0.240 -0.396L-0.552 -0.552L-0.396 -0.240ZM-0.130 -0.445L-0.500 -0.866L-0.320 -0.335ZM-0.010 -0.463L-0.202 -0.753L-0.223 -0.406ZM0.110 -0.450L-0.000 -1.000L-0.110 -0.450ZM0.223 -0.406L0.202 -0.753L0.010 -0.463ZM0.320 -0.335L0.500 -0.866L0.130 -0.445ZM0.396 -0.240L0.552 -0.552L0.240 -0.396ZM0.445 -0.130L0.866 -0.500L0.335 -0.320ZM0.463 -0.010L0.753 -0.202L0.406 -0.223Z"/><circle r=".52"/></g></defs>
+        <g transform="translate(46 58) scale(44)"><use href="#sol" class="sol"/></g>
+        <g transform="translate(954 58) scale(44)"><use href="#sol" class="sol"/></g>
+        <text id="linea1" x="500" y="102" text-anchor="middle" font-size="118">CLIPPING</text>
+        <text x="0" y="230" font-size="118" textLength="1000" lengthAdjust="spacingAndGlyphs">RENOVADOR</text>
+      </svg>
+      <span class="filete" aria-hidden="true"></span>
+    </h1>
+    <div class="fecha-linea"><em id="fecha">Cargando edición</em><i aria-hidden="true"></i><b id="hora" aria-label="Hora de la edición">--<small>h</small></b></div>
+    <p class="bajada" id="metricas"></p>
+  </div>
+</header>
+
+<main>
+  <div class="envoltura">
+    <section class="claves" aria-labelledby="t-claves">
+      <h2 id="t-claves">Lo que tenés que saber</h2>
+      <ol id="claves"><li class="cargando">Cargando…</li></ol>
+      <div class="acciones botones-claves"><a class="wa secundario" id="tarjeta" href="tarjeta.jpg" download="clipping-renovador.jpg">Tarjeta para estados</a><a class="wa" id="wa-edicion" href="#" target="_blank" rel="noopener"></a></div>
+    </section>
+  </div>
+
+  <nav class="pestanas" aria-label="Secciones">
+    <div class="envoltura" role="tablist">
+      <button role="tab" aria-selected="true" aria-controls="p-temas" id="b-temas">En los medios <b id="n-temas">0</b></button>
+      <button role="tab" aria-selected="false" aria-controls="p-redes" id="b-redes">En redes <b id="n-redes">0</b></button>
+      <button role="tab" aria-selected="false" aria-controls="p-videos" id="b-videos">Entrevistas <b id="n-videos">0</b></button>
+      <button role="tab" aria-selected="false" aria-controls="p-encuestas" id="b-encuestas">Encuestas</button>
+      <button role="tab" aria-selected="false" aria-controls="p-agenda" id="b-agenda" class="solo-diario">Agenda</button>
+      <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable" class="solo-diario">Última hora</button>
+      <button role="tab" aria-selected="false" aria-controls="p-archivo" id="b-archivo">Archivo</button>
+    </div>
+  </nav>
+
+  <div class="envoltura">
+    <section class="panel" id="p-temas" role="tabpanel" aria-labelledby="b-temas">
+      <div class="filtros" id="filtros" aria-label="Filtrar por dirigente"></div>
+      <div class="temas" id="temas"></div>
+    </section>
+    <section class="panel" id="p-redes" role="tabpanel" aria-labelledby="b-redes" hidden>
+      <div class="grilla" id="redes"></div>
+    </section>
+    <section class="panel" id="p-videos" role="tabpanel" aria-labelledby="b-videos" hidden>
+      <div class="grilla" id="videos"></div>
+    </section>
+    <section class="panel" id="p-encuestas" role="tabpanel" aria-labelledby="b-encuestas" hidden>
+      <p class="aviso">Encuestas publicadas que miden a Sergio Massa o al Frente Renovador, con su consultora, fecha y fuente.</p>
+      <div class="encuestas" id="encuestas"></div>
+    </section>
+    <section class="panel" id="p-agenda" role="tabpanel" aria-labelledby="b-agenda" hidden>
+      <p class="aviso">Actividades del Frente Renovador y sus dirigentes anunciadas para los próximos días.</p>
+      <ol class="agenda" id="agenda"></ol>
+    </section>
+    <section class="panel" id="p-cable" role="tabpanel" aria-labelledby="b-cable" hidden>
+      <p class="aviso">Todo lo que publicaron los medios en las últimas horas, sin filtrar. Se renueva cada hora; las marcadas como nuevas salieron después de la edición que estás viendo.</p>
+      <ul class="cable" id="cable"></ul>
+    </section>
+    <section class="panel" id="p-archivo" role="tabpanel" aria-labelledby="b-archivo" hidden>
+      <label class="buscar"><span>Buscar en todas las ediciones</span>
+        <input type="search" id="q" placeholder="Por ejemplo: Moreau, PASO, Tigre" autocomplete="off"></label>
+      <div id="resultados" class="resultados" aria-live="polite"></div>
+      <h2 class="sub" id="t-ediciones">Ediciones</h2>
+      <div class="archivo" id="archivo"></div>
+    </section>
+  </div>
+</main>
+
+<footer class="pie">
+  <div class="envoltura">
+        <p id="pie-act"></p>
+        <button type="button" class="copiar" id="copiar"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="M10 13.5a4.5 4.5 0 0 0 6.4.4l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2M14 10.5a4.5 4.5 0 0 0-6.4-.4l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg><span>clippingrenovador.github.io</span><em id="copiado">Copiar link</em></button>
+  </div>
+</footer>
+
+<script>
+(function(){
+"use strict";
+var SITIO = location.origin + location.pathname.replace(/index\.html$/,"");
+var MESES=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+var DIAS=["domingo","lunes","martes","miércoles","jueves","viernes","sábado"];
+var WA_SVG='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a.9.9 0 0 0-.7.3 2.8 2.8 0 0 0-.9 2.1 4.9 4.9 0 0 0 1 2.6 11.2 11.2 0 0 0 4.3 3.8c1.6.7 2.2.7 3 .6a2.6 2.6 0 0 0 1.7-1.2 2.1 2.1 0 0 0 .2-1.2c-.1-.1-.3-.2-.5-.3Z"/></svg>';
+var TONO={positivo:"Favorable",negativo:"Desfavorable",neutro:"Neutral",mixto:"Mixto"};
+var ED=null, filtroPersona=null;
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+function $(id){return document.getElementById(id);}
+function fechaLarga(d){return DIAS[d.getDay()]+" "+d.getDate()+" de "+MESES[d.getMonth()];}
+function hm(d){return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0");}
+function hace(d){var m=Math.round((Date.now()-d)/60000); if(m<1)return"recién"; if(m<60)return"hace "+m+" min"; var h=Math.round(m/60); return h<24?"hace "+h+" h":"hace "+Math.round(h/24)+" días";}
+
+function logo(d){return d?'<img class="logo" loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain='+encodeURIComponent(d)+'&sz=64">':"";}
+function slug(n){return n.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");}
+function iniciales(n){var p=n.split(/\s+/).filter(Boolean);return((p[0]||"")[0]+((p[p.length-1]||"")[0]||"")).toUpperCase();}
+function rostros(lista){if(!lista||!lista.length)return"";var v=lista.slice(0,4);
+  return'<div class="rostros" aria-label="'+esc(lista.join(", "))+'">'+v.map(function(n){return'<span class="rostro" title="'+esc(n)+'">'+esc(iniciales(n))+'<img alt="" loading="lazy" src="fotos/'+slug(n)+'.jpg" onerror="this.remove()"></span>';}).join("")+'<span class="rostros-mas">'+esc(lista.slice(0,3).join(", "))+(lista.length>3?" y "+(lista.length-3)+" más":"")+'</span></div>';}
+
+var TERMINOS_FR=["Frente Renovador","Jóvenes FR","massismo","massistas","massista","FR"];
+function resaltar(texto,personas){
+  var t=[];(personas||[]).forEach(function(n){t.push(n);var p=n.split(/\s+/);var ap=p[p.length-1];if(ap&&ap.length>3)t.push(ap);});
+  t=t.concat(TERMINOS_FR).filter(function(x,i,a){return x&&a.indexOf(x)===i;}).sort(function(a,b){return b.length-a.length;});
+  var out=esc(texto);if(!t.length)return out;
+  var re=new RegExp("(^|[^\\p{L}])("+t.map(function(x){return esc(x).replace(/[.*+?^${}()|[\]\\]/g,"\\$&");}).join("|")+")(?![\\p{L}])","gu");
+  return out.replace(re,"$1<strong>$2</strong>");
+}
+function wa(texto){return "https://wa.me/?text="+encodeURIComponent(texto);}
+function json(u){return fetch(u+(u.indexOf("?")<0?"?":"&")+"v="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
+
+// Pestañas
+var tabs=[].slice.call(document.querySelectorAll('[role=tab]'));
+function abrir(id){tabs.forEach(function(t){var on=t.id===id;t.setAttribute("aria-selected",on);$(t.getAttribute("aria-controls")).hidden=!on;});
+  if(id==="b-redes")cargarTuits(); if(location.hash!=="#"+id.slice(2))history.replaceState(null,"","#"+id.slice(2));}
+tabs.forEach(function(t,i){t.addEventListener("click",function(){abrir(t.id);});
+  t.addEventListener("keydown",function(e){var j=e.key==="ArrowRight"?i+1:e.key==="ArrowLeft"?i-1:null;if(j==null)return;var n=tabs[(j+tabs.length)%tabs.length];n.focus();abrir(n.id);});});
+
+function pintarEdicion(ed){
+  ED=ed;
+  var d=new Date(ed.generado);
+  if(MODO==="semanal"){
+    $("hora").innerHTML=esc(ed.rango_dias||"")+"<small>"+esc(ed.rango_mes||"")+"</small>";
+    $("hora").setAttribute("aria-label","Semana");
+    $("fecha").textContent=ed.titulo_semana||"Resumen de la semana";
+  }else{
+    $("hora").innerHTML=esc(ed.hora||String(d.getHours()).padStart(2,"0"))+"<small>h</small>";
+    $("fecha").textContent=fechaLarga(d);
+  }
+  var m=ed.metricas||{};
+  $("metricas").textContent=m.notas_analizadas?((MODO==="semanal"?"En la semana revisamos ":"Revisamos ")+m.notas_analizadas+" notas de "+m.medios+" medios y nos quedamos con lo que importa."):"";
+  if(MODO==="semanal")$("tarjeta").hidden=true;
+  var todos=[];(ed.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){if(todos.indexOf(p)<0)todos.push(p);});});
+  $("claves").innerHTML=(ed.claves||[]).map(function(c){return"<li>"+resaltar(c,todos)+"</li>";}).join("")||"<li>Todavía no hay resumen para esta edición.</li>";
+  var txt=(MODO==="semanal"?"*CLIPPING SEMANAL RENOVADOR · "+(ed.titulo_semana||"")+"*\n\n":"*Clipping Renovador · "+fechaLarga(d)+", "+(ed.hora||"")+" h*\n\n")+(ed.claves||[]).map(function(c){return"• "+c;}).join("\n")+"\n\nTodo el clipping: "+SITIO;
+  $("wa-edicion").href=wa(txt); $("tarjeta").href="tarjeta.jpg?v="+encodeURIComponent(ed.generado); $("wa-edicion").innerHTML=WA_SVG+"Compartir el resumen";
+  $("n-temas").textContent=(ed.temas||[]).length; $("n-redes").textContent=(ed.redes||[]).length; $("n-videos").textContent=(ed.entrevistas||[]).length;
+  pintarFiltros(); pintarTemas(); pintarRedes(); pintarVideos();
+}
+
+function pintarFiltros(){
+  var cuenta={};(ED.temas||[]).forEach(function(t){(t.dirigentes||[]).forEach(function(p){cuenta[p]=(cuenta[p]||0)+1;});});
+  var nombres=Object.keys(cuenta).sort(function(a,b){return cuenta[b]-cuenta[a];});
+  if(nombres.length<2){$("filtros").innerHTML="";return;}
+  $("filtros").innerHTML='<button class="chip" aria-pressed="'+(!filtroPersona)+'" data-p="">Todos</button>'+nombres.map(function(n){return'<button class="chip" aria-pressed="'+(filtroPersona===n)+'" data-p="'+esc(n)+'">'+esc(n)+'</button>';}).join("");
+  [].forEach.call($("filtros").querySelectorAll("button"),function(b){b.onclick=function(){filtroPersona=b.dataset.p||null;pintarFiltros();pintarTemas();};});
+}
+
+function sigue(t){
+  if(!t.desde_hora||!t.vigente_desde||!ED.generado||t.vigente_desde.slice(0,16)>=ED.generado.slice(0,16))return"";
+  return'<span class="sigue">De la edición de las '+esc(t.desde_hora)+' h</span>';
+}
+function pintarTemas(){
+  var lista=(ED.temas||[]).filter(function(t){return!filtroPersona||(t.dirigentes||[]).indexOf(filtroPersona)>=0;});
+  if(!lista.length){$("temas").innerHTML='<p class="vacio">No hay temas para este filtro en la edición.</p>';return;}
+  var max=Math.max.apply(null,lista.map(function(t){return t.cantidad_notas||1;}));
+  $("temas").innerHTML=lista.map(function(t,i){
+    var princ=(t.principales||[]).map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener"><strong>'+logo(n.dominio)+esc(n.medio)+'</strong><span>'+esc(n.titulo)+'</span></a></li>';}).join("");
+    var otras=(t.otras||[]);
+    var otrasHtml=otras.length?'<details class="otras"><summary>También lo publicaron '+otras.length+' medios más</summary><ul>'+otras.map(function(n){return'<li><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+logo(n.dominio)+esc(n.medio)+'</a></li>';}).join("")+'</ul></details>':"";
+    var share="*"+t.titulo+"*\n"+(t.resumen||"")+"\n\n"+((t.principales||[])[0]?(t.principales[0].medio+": "+t.principales[0].url+"\n\n"):"")+"Clipping Renovador: "+SITIO;
+    return'<article class="tema'+(i===0&&!filtroPersona?" destacado":"")+'" data-tono="'+esc(t.tono||"neutro")+'">'+
+      '<div class="tema-cabeza">'+rostros(t.dirigentes)+'<div class="tema-meta">'+sigue(t)+'<span class="tono">'+esc(TONO[t.tono]||"Neutral")+'</span></div></div>'+
+      '<h3>'+esc(t.titulo)+'</h3><p class="resumen">'+resaltar(t.resumen,t.dirigentes)+'</p>'+
+      coberturaHtml(t,otras,max)+
+
+      '<ul class="fuentes">'+princ+'</ul>'+otrasHtml+
+      '<div class="acciones"><a class="wa" href="'+wa(share)+'" target="_blank" rel="noopener">'+WA_SVG+'Compartir</a></div></article>';
+  }).join("");
+}
+
+
+function coberturaHtml(t,otras,max){
+  var total=t.cantidad_notas||((t.principales||[]).length+otras.length);
+  var vistos={},logos=[];((t.principales||[]).concat(otras)).forEach(function(n){if(n.dominio&&!vistos[n.dominio]&&logos.length<9){vistos[n.dominio]=1;logos.push(n.dominio);}});
+  return'<div class="barra-tono" title="Cobertura relativa"><i style="width:'+Math.max(8,Math.round(100*total/max))+'%"></i></div>'+
+    '<div class="cobertura"><span class="pila">'+logos.map(function(d){return'<img loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain='+encodeURIComponent(d)+'&sz=64">';}).join("")+'</span><span>'+total+(total===1?" nota":" notas")+' sobre el tema</span></div>';
+}
+var tuitsCargados=false;
+function pintarRedes(){
+  var r=ED.redes||[];
+  $("redes").innerHTML=r.length?r.map(function(t){return'<div class="tarjeta">'+(t.nota?'<p class="nota">'+esc(t.nota)+'</p>':"")+
+    '<blockquote class="twitter-tweet" data-lang="es" data-dnt="true"'+(matchMedia("(prefers-color-scheme: dark)").matches?' data-theme="dark"':"")+'><a href="'+esc(t.url.replace("https://x.com","https://twitter.com"))+'">'+esc(t.autor||"Ver publicación")+'</a></blockquote></div>';}).join(""):'<p class="vacio">No hay publicaciones destacadas en esta edición.</p>';
+  tuitsCargados=false; if(!$("p-redes").hidden)cargarTuits();
+}
+function cargarTuits(){
+  if(tuitsCargados)return; tuitsCargados=true;
+  if(window.twttr&&twttr.widgets){twttr.widgets.load($("redes"));return;}
+  var s=document.createElement("script");s.src="https://platform.twitter.com/widgets.js";s.async=true;s.charset="utf-8";document.body.appendChild(s);
+}
+
+function pintarVideos(){
+  var v=ED.entrevistas||[];
+  $("videos").innerHTML=v.length?v.map(function(x){
+    var cuerpo=x.youtube?'<button class="video" data-id="'+esc(x.youtube)+'" aria-label="Reproducir: '+esc(x.titulo)+'"><img loading="lazy" alt="" src="https://i.ytimg.com/vi/'+esc(x.youtube)+'/hqdefault.jpg"><span class="play"><i></i></span></button>':"";
+    return'<div class="tarjeta">'+cuerpo+'<h3>'+(x.url?'<a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.titulo)+'</a>':esc(x.titulo))+'</h3><div class="de">'+esc([x.canal,x.duracion?x.duracion+" min":"",x.fecha_txt].filter(Boolean).join(", "))+'</div></div>';
+  }).join(""):'<p class="vacio">No hay entrevistas destacadas en esta edición.</p>';
+  [].forEach.call($("videos").querySelectorAll(".video"),function(b){b.onclick=function(){b.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+encodeURIComponent(b.dataset.id)+'?autoplay=1" title="Video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>';};});
+}
+
+function pintarCable(cr){
+  var corte=ED?new Date(ED.generado):null;
+  var notas=(cr.notas||[]).slice(0,60);
+  $("cable").innerHTML=notas.map(function(n){var d=new Date(n.fecha);
+    return'<li><time datetime="'+esc(n.fecha)+'">'+(d.toDateString()===new Date().toDateString()?hm(d):d.getDate()+"/"+(d.getMonth()+1))+'</time><div><a href="'+esc(n.url)+'" target="_blank" rel="noopener">'+esc(n.titulo)+'</a>'+(corte&&new Date(n.visto||n.fecha)>corte?'<span class="nuevo">nuevo</span>':"")+'<span class="de">'+esc(n.medio)+'</span></div></li>';}).join("");
+  var g=new Date(cr.generado); $("vivo").lastChild.innerHTML='<span class="largo">Última hora: </span>'+esc(hace(g));
+  $("pie-act").textContent="Último rastrillaje de medios: "+fechaLarga(g)+", "+hm(g)+" h.";
+}
+
+function pintarArchivo(ix){
+  $("archivo").innerHTML=(ix.ediciones||[]).map(function(e){return'<a href="?e='+encodeURIComponent(e.id)+'"><strong>'+esc(e.titulo)+'</strong><span>'+esc(e.temas||"")+' temas</span></a>';}).join("")||'<p class="vacio">El archivo empieza con esta edición.</p>';
+}
+
+
+var MODO=document.body.dataset.modo||"diario";
+function fechaCorta(iso){var d=new Date(iso+(iso.length===10?"T12:00:00":""));return d.getDate()+" de "+MESES[d.getMonth()];}
+
+function pintarEncuestas(data){
+  var l=(data.encuestas||[]).slice().sort(function(a,b){return a.fecha<b.fecha?1:-1;});
+  if(!l.length){$("encuestas").innerHTML='<p class="vacio">Todavía no hay encuestas registradas. Aparecen acá cuando un medio publica una que mide a Massa o al Frente Renovador.</p>';return;}
+  $("encuestas").innerHTML=l.map(function(e){
+    return'<article class="encuesta"><div class="quien">'+esc([e.consultora,fechaCorta(e.fecha),e.alcance].filter(Boolean).join(", "))+'</div>'+
+      '<h3>'+esc(e.titulo)+'</h3>'+(e.datos||[]).map(function(x){var v=Number(x.valor);
+        return'<div class="dato"><span>'+esc(x.etiqueta)+'</span><b>'+esc(String(x.valor).replace(".",","))+(x.unidad||"%")+'</b>'+((x.unidad||"%")==="%"?'<i><u style="width:'+Math.max(0,Math.min(100,v))+'%"></u></i>':"")+'</div>';}).join("")+
+      (e.fuente?'<a href="'+esc(e.fuente.url)+'" target="_blank" rel="noopener">'+logo(e.fuente.dominio||"")+'Fuente: '+esc(e.fuente.medio)+'</a>':"")+'</article>';}).join("");
+}
+
+function pintarAgenda(data){
+  var hoy=new Date();hoy.setHours(0,0,0,0);
+  var l=(data.eventos||[]).filter(function(e){return new Date(e.fecha+"T23:59:00")>=hoy;}).sort(function(a,b){return a.fecha>b.fecha?1:-1;});
+  if(!l.length){$("agenda").innerHTML='<li class="vacio" style="display:block">No hay actividades del Frente Renovador anunciadas por ahora.</li>';return;}
+  var CORTOS=["dom","lun","mar","mié","jue","vie","sáb"];
+  $("agenda").innerHTML=l.map(function(e){var d=new Date(e.fecha+"T12:00:00");
+    return'<li><div class="dia"><span>'+CORTOS[d.getDay()]+'</span><b>'+d.getDate()+'</b><span>'+MESES[d.getMonth()].slice(0,3)+'</span></div><div>'+
+      '<h3>'+esc(e.titulo)+'</h3>'+(e.detalle?'<p>'+resaltar(e.detalle,e.dirigentes)+'</p>':"")+
+      '<div class="de">'+esc([e.hora?e.hora+" h":"",e.lugar].filter(Boolean).join(", "))+(e.fuente?' · <a href="'+esc(e.fuente.url)+'" target="_blank" rel="noopener">'+esc(e.fuente.medio)+'</a>':"")+'</div></div></li>';}).join("");
+}
+
+var BUSCADOR=null;
+function cargarBuscador(){if(BUSCADOR)return Promise.resolve(BUSCADOR);return json("data/buscador.json").then(function(b){BUSCADOR=b.temas||[];return BUSCADOR;});}
+function buscar(q){
+  q=q.trim(); if(q.length<3){$("resultados").innerHTML="";return;}
+  cargarBuscador().then(function(lista){
+    var nq=normalizar(q), palabras=nq.split(/\s+/).filter(Boolean);
+    var hits=lista.filter(function(t){var hay=normalizar([t.t,t.r,(t.d||[]).join(" "),(t.n||[]).map(function(n){return n.ti+" "+n.m;}).join(" ")].join(" "));
+      return palabras.every(function(p){return hay.indexOf(p)>=0;});}).slice(0,40);
+    if(!hits.length){$("resultados").innerHTML='<p class="vacio">No hay temas que coincidan con "'+esc(q)+'". Probá con un apellido o una palabra clave.</p>';return;}
+    $("resultados").innerHTML='<p class="aviso" style="margin:0">'+hits.length+(hits.length===40?"+":"")+' temas encontrados</p>'+hits.map(function(t){
+      return'<article class="resultado"><div class="cuando">'+esc(fechaCorta(t.f))+' · <a href="?e='+encodeURIComponent(t.e)+'">ver edición</a></div><h3><a href="'+esc((t.n[0]||{}).u||"#")+'" target="_blank" rel="noopener">'+marcar(t.t,palabras)+'</a></h3><p>'+marcar(t.r,palabras)+'</p></article>';}).join("");
+  });
+}
+function normalizar(x){return(x||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();}
+function marcar(texto,palabras){var t=esc(texto),n=normalizar(t);var marcas=[];
+  palabras.forEach(function(p){var i=0;while((i=n.indexOf(p,i))>=0){marcas.push([i,i+p.length]);i+=p.length;}});
+  marcas.sort(function(a,b){return b[0]-a[0];});var out=t;marcas.forEach(function(m){out=out.slice(0,m[0])+"<mark>"+out.slice(m[0],m[1])+"</mark>"+out.slice(m[1]);});return out;}
+var tBus=null;$("q").addEventListener("input",function(e){clearTimeout(tBus);var v=e.target.value;tBus=setTimeout(function(){buscar(v);},180);});
+
+var pedida=new URLSearchParams(location.search).get("e");
+var base=MODO==="semanal"?"data/semanal/":"data/ediciones/";
+var fuente=pedida&&/^[0-9-]+$/.test(pedida)?base+pedida+".json":(MODO==="semanal"?"data/semanal/borrador.json":"data/edicion.json");
+json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO==="semanal"?"El primer Clipping Semanal sale el sábado":"La edición no está disponible";if(MODO==="semanal"){$("metricas").textContent="Lo más importante de la semana sobre Sergio Massa y el Frente Renovador. Sale todos los sábados.";$("wa-edicion").style.display="none";$("tarjeta").style.display="none";}$("claves").innerHTML=MODO==="semanal"?"<li>El resumen semanal se publica todos los sábados con lo más importante de la semana.</li>":"<li>No pudimos cargar la edición. Probá recargar en unos minutos.</li>";})
+  .then(function(){return json("data/crudo.json").then(pintarCable);}).catch(function(){});
+json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
+json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
+if(MODO!=="semanal")json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
+if(MODO==="semanal"){$("tarjeta").style.display="none";$("t-claves").textContent="Lo más importante de la semana";var l1=$("linea1");l1.textContent="CLIPPING SEMANAL";l1.setAttribute("x","104");l1.setAttribute("text-anchor","start");l1.setAttribute("textLength","792");l1.setAttribute("lengthAdjust","spacingAndGlyphs");$("marca").setAttribute("aria-label","Clipping Semanal Renovador");$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
+var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
+setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
+})();
+
+/* Bienvenida: una vez por día, se saltea con un toque */
+(function(){
+  if(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches)return;
+  var hoy=new Date().toDateString(),visto=null;
+  try{visto=localStorage.getItem("cr-intro");}catch(e){}
+  if(visto===hoy)return;
+  try{localStorage.setItem("cr-intro",hoy);}catch(e){}
+  var marca=document.getElementById("marca");if(!marca)return;
+  var intro=document.createElement("div");intro.id="intro";intro.setAttribute("aria-hidden","true");
+  var semanal=document.body.dataset.modo==="semanal";
+  intro.innerHTML='<div class="caja"><span class="hola">'+(semanal?"Bienvenidos al resumen de la semana":"Bienvenidos")+'</span></div><span class="saltar">Tocá para entrar</span>';
+  var copia=marca.cloneNode(true);copia.removeAttribute("id");
+  copia.querySelectorAll("[id]").forEach(function(n){n.removeAttribute("id");});
+  intro.firstChild.appendChild(copia);
+  document.body.appendChild(intro);
+  var cerrado=false;
+  function cerrar(){if(cerrado)return;cerrado=true;intro.classList.add("fuera");setTimeout(function(){intro.remove();},800);
+    marca.classList.add("girar");setTimeout(function(){marca.classList.remove("girar");},1300);}
+  intro.addEventListener("click",cerrar);intro.addEventListener("touchstart",cerrar,{passive:true});
+  document.addEventListener("keydown",cerrar,{once:true});
+  setTimeout(cerrar,2300);
+})();
+/* En el celular, tocar el encabezado hace girar los soles */
+document.querySelector(".cabecera").addEventListener("click",function(e){if(e.target.closest("a"))return;var m=document.getElementById("marca");m.classList.add("girar");setTimeout(function(){m.classList.remove("girar");},1300);});
+
+/* Copiar el link del clipping */
+(function(){
+  var b=document.getElementById("copiar");if(!b)return;
+  var url=location.origin+"/"+(document.body.dataset.modo==="semanal"?"semanal.html":"");
+  b.querySelector("span").textContent=url.replace(/^https?:\/\//,"").replace(/\/$/,"");
+  function listo(){b.classList.add("ok");document.getElementById("copiado").textContent="¡Copiado!";
+    setTimeout(function(){b.classList.remove("ok");document.getElementById("copiado").textContent="Copiar link";},2200);}
+  b.addEventListener("click",function(){
+    if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(url).then(listo,viejo);}else{viejo();}
+    function viejo(){var t=document.createElement("textarea");t.value=url;t.setAttribute("readonly","");t.style.position="fixed";t.style.opacity="0";
+      document.body.appendChild(t);t.select();try{document.execCommand("copy");listo();}catch(e){}t.remove();}
+  });
+})();
+</script>
+</body>
+</html>
