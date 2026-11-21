@@ -73,4 +73,5 @@ Además de Massa y los dirigentes que aparecen en el material, seguir a **Felipe
    - `claves`: 4 o 5 puntos que resuman la semana, en el mismo registro formal y sobrio.
    - `temas`: los 6 a 10 temas más importantes de la semana, cada uno con resumen de la semana completa (no del último día) y sus 2 o 3 mejores notas.
    - `entrevistas`: las mejores entrevistas de la semana (máximo 8). `redes`: los tuits más relevantes (máximo 8).
-3. Correr `python3 scripts/armar_edicion.py --semanal` y guardar con git como la diaria.
+3. Revisar `data/agenda.json`: que tenga las actividades del Frente Renovador y sus dirigentes anunciadas para la semana que empieza (se muestra también en el semanal). Sumar las que aparezcan en el material de la semana y borrar las pasadas.
+4. Correr `python3 scripts/armar_edicion.py --semanal` y guardar con git como la diaria.

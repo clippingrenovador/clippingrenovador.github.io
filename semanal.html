@@ -280,7 +280,7 @@ body[data-modo=semanal] .solo-diario{display:none}
       <button role="tab" aria-selected="false" aria-controls="p-redes" id="b-redes">En redes <b id="n-redes">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-videos" id="b-videos">Entrevistas <b id="n-videos">0</b></button>
       <button role="tab" aria-selected="false" aria-controls="p-encuestas" id="b-encuestas">Encuestas</button>
-      <button role="tab" aria-selected="false" aria-controls="p-agenda" id="b-agenda" class="solo-diario">Agenda</button>
+      <button role="tab" aria-selected="false" aria-controls="p-agenda" id="b-agenda">Agenda</button>
       <button role="tab" aria-selected="false" aria-controls="p-cable" id="b-cable" class="solo-diario">Última hora</button>
       <button role="tab" aria-selected="false" aria-controls="p-archivo" id="b-archivo">Archivo</button>
     </div>
@@ -513,7 +513,8 @@ json(fuente).then(pintarEdicion).catch(function(){$("fecha").textContent=MODO===
   .then(function(){return json("data/crudo.json").then(pintarCable);}).catch(function(){});
 json(base+"indice.json").then(pintarArchivo).catch(function(){pintarArchivo({});});
 json("data/encuestas.json").then(pintarEncuestas).catch(function(){pintarEncuestas({});});
-if(MODO!=="semanal")json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
+json("data/agenda.json").then(pintarAgenda).catch(function(){pintarAgenda({});});
+if(MODO==="semanal"){var av=document.querySelector("#p-agenda .aviso");if(av)av.textContent="Actividades del Frente Renovador y sus dirigentes anunciadas para la próxima semana.";}
 if(MODO==="semanal"){$("tarjeta").style.display="none";$("t-claves").textContent="Lo más importante de la semana";var l1=$("linea1");l1.textContent="CLIPPING SEMANAL";l1.setAttribute("x","104");l1.setAttribute("text-anchor","start");l1.setAttribute("textLength","792");l1.setAttribute("lengthAdjust","spacingAndGlyphs");$("marca").setAttribute("aria-label","Clipping Semanal Renovador");$("ir-semanal").textContent="Diario";$("ir-semanal").href="./";$("t-ediciones").textContent="Semanas anteriores";}
 var h=location.hash.slice(1); if(h&&$("b-"+h))abrir("b-"+h);
 setInterval(function(){json("data/crudo.json").then(pintarCable).catch(function(){});},10*60*1000);
