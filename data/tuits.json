@@ -1,13 +1,44 @@
 {
- "generado": "2026-11-20T20:07-03:00",
- "total": 41,
+ "generado": "2026-11-20T21:05-03:00",
+ "total": 43,
  "tuits": [
+  {
+   "id": "2123744862478500171",
+   "usuario": "GermanGomezMza",
+   "visto": "2026-11-20T21:05-03:00",
+   "url": "https://twitter.com/GermanGomezMza/status/2123744862478500171",
+   "citado_en": [
+    {
+     "medio": "InfoYa",
+     "titulo": "Cuestionan endeudamiento que pide la Provincia: \"No han administrado bien\"",
+     "nota_id": "2c4c51ec8af2"
+    }
+   ]
+  },
+  {
+   "id": "2123565245880750118",
+   "usuario": "AlexisGuerrera",
+   "visto": "2026-11-20T21:05-03:00",
+   "url": "https://twitter.com/AlexisGuerrera/status/2123565245880750118",
+   "citado_en": [
+    {
+     "medio": "La Política Online",
+     "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
+     "nota_id": "7b0fa285eda0"
+    }
+   ]
+  },
   {
    "id": "2123870406964576316",
    "usuario": "Kicillofok",
    "visto": "2026-11-20T18:11-03:00",
    "url": "https://twitter.com/Kicillofok/status/2123870406964576316",
    "citado_en": [
+    {
+     "medio": "Telégrafo",
+     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
+     "nota_id": "ed074699b723"
+    },
     {
      "medio": "Telégrafo",
      "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",

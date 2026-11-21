@@ -1,9 +1,52 @@
 {
- "generado": "2026-11-20T20:08-03:00",
- "total": 516,
+ "generado": "2026-11-20T21:06-03:00",
+ "total": 523,
  "nuevas_ultima_corrida": 23,
  "errores": [],
  "notas": [
+  {
+   "id": "852e224c9964",
+   "titulo": "Kicillof sin Plan B por la suspensión de las PASO en Nación",
+   "medio": "NOVA Bonaerense",
+   "medio_url": "https://www.novabonaerense.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3IyRjFhTUUxcExpMzJaQmFUN0ZGSDJFSUxlQlJxcWFTUWpUOTNPWGxuR3ZjdnJ4UmdKNmdaYTl2dVF4RTlSVUVRNUU0dVAzZXhZQmZWeHozYjdyR0xaMjlMNExvX0RJNXM2eFZFQ0JSTGV4aWFNR29XSVptTkpzRVln?oc=5",
+   "fecha": "2026-11-20T20:55-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?n=2026_11_20&id=92751&id_tiponota=51",
+   "revisada": true
+  },
+  {
+   "id": "2c4c51ec8af2",
+   "titulo": "Cuestionan endeudamiento que pide la Provincia: \"No han administrado bien\"",
+   "medio": "InfoYa",
+   "medio_url": "https://www.diarioinfoya.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnJ0Z3h5VlhYQlV4NFY4bUtEZGNEVmE1Z2JmU0Iyb2Z0b18yemd3a2ttVHp3RXRZclhOQ1hMRUNGZTQtc1hzejFDWHNYMUdmWlg5REdlSmUyUFRlOFBEWnk3a3JQN20wQWFiUkhaMm9mRFFDd0hLVE53WXBDMFFPa3BOclBsT2xPcjdYVGlZNkZuSWxWTmlNUG50RXJfSmE3RmNvOWdPdkU2YjgtendKalNVRdIBrAFBVV95cUxOX3U3dlAxNmQ4WHJ4aUhNMkZBbmFDV0paZ3hQWmdkbUkyQkl6am5qTEJhNWVPM1c1LWhzNFlBTDFTYmlPc2Z2Ym5uSDd6S2Zlb2wtNzVRUTBZQV8tUVRlMUxpUXBFZW5yZl9nQjRxUThyTzdUNGdMRm9UNlprVUR3QVhFV2QtdC1zVnJLVXVQYXZTWFI0bTZLSi1FNElsdklxTG8zbk9sY0JUNHZl?oc=5",
+   "fecha": "2026-11-20T20:50-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.diarioinfoya.com.ar/politica/cuestionan-endeudamiento-que-pide-la-provincia-no-han-administrado-bien/",
+   "revisada": true
+  },
+  {
+   "id": "ae95abfd83ad",
+   "titulo": "Golía participó del 2° Congreso Provincial de Agroecología en la sede de la UNNOBA",
+   "medio": "Municipalidad de Chacabuco",
+   "medio_url": "https://chacabuco.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXplZHhkUzNHOFAzZEoxRVR4cEd4cU1FUThTem5QZkFOMG9YX1M3MV9JY3A0Y19NX2xDRDZpa25fWndIMGUzZ0EzS2ZQMzlZS2lGdWhlOHZWbml4bzRrSUlla25rdGNPb19PcWRaeVVWblY5ZUUwVWVQSjZiYzlRZWRFRTZVRVR1RXhDTDN5VTJTenprQVNoLW00cmM4aWxuVlZWTGkwM0N6d0k?oc=5",
+   "fecha": "2026-11-20T20:28-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://chacabuco.gob.ar/golia-participo-del-2-congreso-provincial-de-agroecologia-en-la-sede-de-la-unnoba/",
+   "revisada": true
+  },
   {
    "id": "402c0f7155ba",
    "titulo": "Kicillof se aferra a las PASO en Buenos Aires para negociar con Massa y CFK",
@@ -17,6 +60,49 @@
    ],
    "visto": "2026-11-20T20:07-03:00",
    "url_original": "https://nuevodiariodesalta.com.ar/kicillof-se-aferra-a-las-paso-en-buenos-aires-para-negociar-con-massa-y-cfk/",
+   "revisada": true
+  },
+  {
+   "id": "9a35c44b37b9",
+   "titulo": "Hicieron una encuesta entre votantes libertarios: mirá cómo terminó Javier Milei",
+   "medio": "Tiempo de San Juan",
+   "medio_url": "https://www.tiempodesanjuan.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3pyeG1KQ0V0STY5M0VwQjE0QThfMDBFNXFYM2ZCb3RUUks4UVhROGliaUctVEF6QlBqTng3OEwtaExhWFpjbTYwaWZyMjgzaC1fVlJWbm1CTmlNY3lHa0w2QVBPeWVzNXFJbWVUdTV6NGdSV0dMUnBrTXBlTVNRbGJrdnZNT1UzbGItcGNLVF9vNnZ3d2w1QU5EYUhaRGp6RWhXYmN3bWtsallsd2pEczEzMXpzZGFMOHlQNmR4QUlzdDVXYk5vRGh6dw?oc=5",
+   "fecha": "2026-11-20T20:00-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.tiempodesanjuan.com/politica/hicieron-una-encuesta-entre-votantes-libertarios-mira-como-termino-javier-milei_1795211643",
+   "revisada": true
+  },
+  {
+   "id": "bde13b708ff7",
+   "titulo": "Golía sobre los 95 años de Democracia: “Significa parte de nuestra historia, de nuestra región, de nuestra provincia”.",
+   "medio": "Diario Democracia",
+   "medio_url": "https://www.diariodemocracia.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2llOFlESFJsWmQ5VTdfazdSd2t3eHdUeHNoakRlenJqd2kxcVhhYlVON0J6UFY4RHNkU01BVHJBZXBfejJjQnBHbmtlVlhld09fWHRGUUlSUVdoU19URzk4VEh5eG5EeTFsSmtiXzltNXdGZGlCZlNyblp6TENYMWhBQ1JXZmNPOWdlOFN1TTAxblR4RVJJNDVyLV9TLXFtWFV3RXBhNA?oc=5",
+   "fecha": "2026-11-20T19:54-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.diariodemocracia.com/ciudad/junin/348321-significa-parte-de-nuestra-historia-de-nuestra-reg/",
+   "revisada": true
+  },
+  {
+   "id": "7b0fa285eda0",
+   "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
+   "medio": "La Política Online",
+   "medio_url": "https://www.lapoliticaonline.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWG9HRlVfWWZXN0hzbERSSFdOVTVkMWpXRlpWMVJSWFlJRlcyQTcydG9GTkhwTUtvdHJLSTI0TGNHVEE3cERzYlhjMW5XUjBwVnNPbUtRODlRUk1yNko4bnhJRVUyTnVLSnV2dVpEdTJDNnlqbkFvRS13bFNNRDZGT1BpUVdxNXZkNjNVZlc4amFWWW1kdklVdGNZN0RkMkJQNV9nX2piZ0ZyblkyT3JEMGVBWFFOVUNuS1lzZkx4XzlqUU55TUM0a0pYTHVTcEZFYlAtWWxB?oc=5",
+   "fecha": "2026-11-20T19:41-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.lapoliticaonline.com/provincia/kicillof-maximo-y-massa-cruzaron-gestos-de-unidad-en-la-antesala-del-congreso-del-pj-bonaerense/",
    "revisada": true
   },
   {
@@ -91,6 +177,20 @@
    ],
    "visto": "2026-11-20T20:07-03:00",
    "url_original": "https://www.elobservador.com/argentina/politica/power-rankings-politico-las-paso-caer-milei-y-massa-activan-el-modo-full-campana-n6064610",
+   "revisada": true
+  },
+  {
+   "id": "882b8ea0c36d",
+   "titulo": "Martínez: vecinos del predio ex Cheeky entregaron un petitorio a Sebastián Galmarini y denunciaron que se incumple la medida cautelar",
+   "medio": "InfoBAN",
+   "medio_url": "https://www.infoban.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWU4zVmd0RmdiRWJ0YnM5c1ZrWkVxWWUyZjhMdmhhNC1CcUxCQzdJaHJCaUlxUDRjLWdIaHJ5blhrQXdVTzl4Ym9OMGZNdHBvZ0FwcUtEb1JlREp6LUk1T0tlbzdENDFvYWlIa3FGdlZXMTk3bnRzQ1pzTWE1cnAxZGdrUE1wejRVUFNPT3Y0Nzc4ZWoyblU2WTliT3djdmhCYU5XM29DRWpsVFk2Vlo4QXRVUnNNWmc4S2RBZjlQbGNfaWFWMnZmdHB0MlU1TVhqSUtSYzdfWV9wcnNSZ3MtZy1PQ1BURGZBQTE5aFdKMk5oR3lFNjdaczM0ZzJ1enNi?oc=5",
+   "fecha": "2026-11-20T18:13-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-20T21:05-03:00",
+   "url_original": "https://www.infoban.com.ar/20/11/2026/martinez-vecinos-del-predio-ex-cheeky-entregaron-un-petitorio-a-sebastian-galmarini-y-denunciaron-que-se-incumple-la-medida-cautelar/",
    "revisada": true
   },
   {
