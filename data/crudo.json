@@ -1,11 +1,54 @@
 {
- "generado": "2026-11-22T11:16-03:00",
- "total": 672,
- "nuevas_ultima_corrida": 25,
+ "generado": "2026-11-22T12:07-03:00",
+ "total": 676,
+ "nuevas_ultima_corrida": 19,
  "errores": [
-  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
  ],
  "notas": [
+  {
+   "id": "650fd4aa84c4",
+   "titulo": "Juan Manuel Urtubey pidió renovar el peronismo y marcó límites al liderazgo de Cristina Kirchner",
+   "medio": "617 News",
+   "medio_url": "https://617.news",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWJPTk1UcFNlM1RsZGNQNlJxWDR6eXRNTjBtem5SYlNDUlhZY1RfdmhEU1NsV21WUFJ6VzRUdXpKVTUwXzFmbmV5ekJFbThHZzZaZURrLTM2RlpTZmNZdXc4dWlYN2VOb2FxcUhzSkJySVZxbE1SdUVDNmdsZjVBUkpR?oc=5",
+   "fecha": "2026-11-22T11:57-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T12:06-03:00",
+   "url_original": "https://617.news/juan-manuel-urtubey-renovacion-peronismo-cristina-kirchner/",
+   "revisada": true
+  },
+  {
+   "id": "0bb721501943",
+   "titulo": "Milei busca frenar a Bullrich, Kicillof analiza adelantar las elecciones y Cristina Kirchner y Massa mueven sus fichas",
+   "medio": "InfoVeloz.com",
+   "medio_url": "https://www.infoveloz.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmUxdkp2eFdfSHdEOWU0X2pJRkR5MGlmUGJzbjBiQzdBMTNBc1lPTkxmNVpiTlBjb1BXVVFCSi1nc3o1TmNvWFVBLWlCS1pTZ2dDNVhXVTYyY2xROTBGb0EzX0xHRjNZZDduTE9XYmRlVTBadTZuRHVuWW14YlRhcW40STBHZ0ZpdmRMUkRNb09jQTMtMEMyNTVDbnFzSmNDVGJxV0lyNXNsbEJBaTN4SFVvR25ZRjR6SFB6WGFBcjJDdld2NWxodFVLMXQwdENEMGdvbnBENF82UlZ3THNCYkRIUkJDNWJySHc0?oc=5",
+   "fecha": "2026-11-22T11:54-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T12:06-03:00",
+   "url_original": "https://www.infoveloz.com/post/milei-busca-frenar-a-bullrich-kicillof-analiza-adelantar-las-elecciones-y-cristina-kirchner-y-massa-mueven-sus-fichas_286307",
+   "revisada": true
+  },
+  {
+   "id": "89c5d9ae3f45",
+   "titulo": "Infancias Libres de Etiquetas: qué quieren establecer cada 6 de mayo en PBA",
+   "medio": "NewsDigitales",
+   "medio_url": "https://www.newsdigitales.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2VvUEVJTWlhSW9reE9WTXNHT0dZakFoc05XSDZzYXlSSHBEM3B4Uk1DNHZ3eEg4UTNMYVZDeHZsYVFqdkVfYmFlWkJJRzlGd0hSWnhuTDJMNndwUWQzalpPNHRiMDRDV2pTQ0dtTUpwV0RjcEFNakJRTENXXzVJTVJWdElaUVVaSUpQb3RXcDhtbUdpUm9VWnk1SzJXZlJTelRLX3g4c3BrNjJSZzhmVkJORU01Sjlv?oc=5",
+   "fecha": "2026-11-22T11:30-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-22T12:06-03:00",
+   "url_original": "https://www.newsdigitales.com/nota/350419/infancias-libres-de-etiquetas-que-quieren-establecer-cada-6-de-mayo-en-pba/",
+   "revisada": true
+  },
   {
    "id": "e525aac3355a",
    "titulo": "San Fernando: el Municipio hará obras en cinco escuelas provinciales durante el verano",
@@ -59,6 +102,20 @@
    ],
    "visto": "2026-11-22T11:15-03:00",
    "url_original": "https://flipr.com.ar/buenos-aires/laprovinciaenvivo/massa-reune-apoyos-en-acto-del-pj-y-kicillof-confia-en-sus-chances-electorales/",
+   "revisada": true
+  },
+  {
+   "id": "a2784e6151fa",
+   "titulo": "El Gobierno negocia los votos en el Senado para suspender las PASO de 2027: qué cambios incluye la reforma electoral",
+   "medio": "Info del Estero",
+   "medio_url": "https://infodelestero.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUFWYTVuZm5XbE9WMk9reEJhLXh4R2ZFTnYtMjNfUFMtVmJxNW9BQUt3ZkRadDk3N1BjX25zLVdBZ3N4LTNPcjdDZHFvMk9WRmVMQzVFMy1UQkpjbkpIbm5obk5nT3REWVh3cE9RSTBSMlZWcG03WDNIdW1VNmZjZTlSSFZrd0hMSWFKVWZfNWhwV3FieDJ1NHM4S1RuM1UtbndRSVdGcDBzZmRUeFlWRGxuUU5nVFByUTVZNkhuMU1LRW1wZHVHLUlqTQ?oc=5",
+   "fecha": "2026-11-22T10:16-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T12:06-03:00",
+   "url_original": "https://infodelestero.com/2026/11/22/el-gobierno-negocia-los-votos-en-el-senado-para-suspender-las-paso-de-2027-que-cambios-incluye",
    "revisada": true
   },
   {
@@ -557,7 +614,8 @@
    "fecha": "2026-11-22T01:11-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-22T04:35-03:00",
    "url_original": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-con-las-paso-casi-afuera-massa-engrosa-apoyos-dentro-del-pj/amp",
@@ -702,6 +760,20 @@
    ],
    "visto": "2026-11-21T20:56-03:00",
    "url_original": "https://www.laprensa.com.ar/Visto-y-oido-578070.note.aspx",
+   "revisada": true
+  },
+  {
+   "id": "f15b313f0573",
+   "titulo": "Cómo imaginan los argentinos el país que desean y el perfil de quienes deberían construirlo",
+   "medio": "Tiempo Argentino",
+   "medio_url": "https://www.tiempoar.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlBhZ3VyZklfZWEybkplTDRCdXZzUDVFSzJZQWh4aEh2anc0eUF1eXJaS0gzbEc4eWQzWWlacFNYeWFVMFdlbFRlVFZscjhhc3NBV1dMQkdFMHotNlRLTnVnTTVGSkxXY0FmMUZqU3ZTdy1iR2w1YXZCbWpXLXRKcEp5ZWVKV3QtTXdYakJkZ3nSAZYBQVVfeXFMT0Q1SjY1ZjR3S0tFVWpnR1JhSFIwTzlZR1VfNFcxZWpsUUVESTZPMDlkQ3dBc2M2OXduS3I1Y0FickNpUDhpYTRBVnVYRFpGODMxNGNuOUo0TzJCSTJfazRQZDVRdkV4cGEyQ0dHSEFzY0h0dU56Yk5wdXFJSXJKYWI4Z1pVQktIQ0NaUktDY0RvbEwxRFNn?oc=5",
+   "fecha": "2026-11-21T20:14-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T12:06-03:00",
+   "url_original": "https://www.tiempoar.com.ar/ta_article/como-imaginan-los-argentinos-el-pais-que-desean/",
    "revisada": true
   },
   {
@@ -1553,7 +1625,8 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjEwMVlsR0Q0WFJQbU9aRDNCX2RDODBSZEN4WVRlZVYwNFhjQlhtWV9IUzIyc3c4dW03WnVVWWFUWlNCaEtvdHJYNWg4UUhTTGpUYXpyV25lOUt6VlJHM1hFNGxOMzh5UzI3UkdTZnBZQkN2WTBjV3BDUUI2RVJwQkRYV3ZjcGVselQ2eFdhaG1YdmhSdEg1LVVlOFNWUEd4T0JEZDdBOTdObGlYemEzM21TTEdYak9HWFVjOHVrRTBVX0M2?oc=5",
    "fecha": "2026-11-21T09:38-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-21T10:22-03:00",
    "url_original": "https://elargentinodiario.com.ar/politica/21/11/2026/con-las-paso-en-discusion-el-peronismo-debate-como-elegir-su-candidatura/",
@@ -9700,20 +9773,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://sanfernandonuestro.com.ar/el-frente-renovador-celebra-el-dia-de-la-militancia-en-el-teatro-otamendi/",
-   "revisada": true
-  },
-  {
-   "id": "7912cfeaa1dc",
-   "titulo": "San Fernando reunirá al massismo, el peronismo federal y referentes del cristinismo por el Día de la Militancia",
-   "medio": "NorteOnline",
-   "medio_url": "https://norteonline.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnUxX2JHaUI1aEJGM3E2bVk1eDdqb3hBRHJlQUUxYmE5Yk1fUld6U3FGTmJwRktMU2k3eXN3ZzF4Q3liVExsQ2xrdXU3cEt2c01PeGphT3hxTGR3cFdYaEJDWjVzRVA1MU1TT25PYURUMVNzTms1QzVCOFpocGlZRdIBiAFBVV95cUxQbHYxUHk3Nlp5V1JVQTl6TnhvdVl2eU1SOENTTnMwZHRmYjVpaFhQVEpRQkc4QWJiUUJOU1pWeVJEVy1wQWlmc2JpNHMyb0lHZXVjM2xwYUI3Z21aUjJyZVRVZDFfS2dvUHJFNUJ3QWYzY0ZpTGJlTHN4MkVzdVBobGZzZnVxSGZ0?oc=5",
-   "fecha": "2026-11-15T12:00-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://norteonline.com.ar/san-fernando-encuentro-peronista-dia-militancia/",
    "revisada": true
   }
  ]
