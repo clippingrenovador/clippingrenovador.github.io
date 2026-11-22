@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-22T02:19-03:00",
- "total": 634,
- "nuevas_ultima_corrida": 22,
+ "generado": "2026-11-22T03:15-03:00",
+ "total": 636,
+ "nuevas_ultima_corrida": 20,
  "errores": [],
  "notas": [
+  {
+   "id": "f3ffd0f6d429",
+   "titulo": "El tembladeral que desordena los planes de Javier Milei y los pactos de urgencia de Karina",
+   "medio": "Clarin.com",
+   "medio_url": "https://www.clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUZEVXRpNGdGOWE1WEJtR3VrZ1pWRzU3ZVR2R0lyM0VDUUlOVE5JSHhZZHYtWmhDTGE5eEJoUk9Iei1mRW0zY05IVmE1VElCVnYxUnJjVnZKcEJLRTVqWHZBYVlnMUNtUkM3YlpzQkxTSkNZR2RMdDdsRThUTDVraHJxcXVIekh2UzBtTUNTZ3IwZkJwUUYyUFpUb1JjZmtYQ1Q5M0Z6dkJyMEFrOXI5VmNzNGk?oc=5",
+   "fecha": "2026-11-22T02:43-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T03:14-03:00",
+   "url_original": "https://www.clarin.com/politica/tembladeral-desordena-planes-javier-milei-pactos-urgencia-karina_0_YnZbOaNe65.html",
+   "revisada": true
+  },
   {
    "id": "2a31815b6e7d",
    "titulo": "Cristina Kirchner expone su acuerdo con Massa, el camino paralelo de Kicillof y un futuro incierto sin las PASO",
@@ -13,7 +27,8 @@
    "fecha": "2026-11-22T01:59-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-22T02:17-03:00",
    "url_original": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/",
@@ -145,6 +160,20 @@
    ],
    "visto": "2026-11-21T22:33-03:00",
    "url_original": "https://www.eldia.com/opinion/el-desafio-doble-que-afronta-kicillof-y-la-disputa-con-un-punto-de-acuerdo-en-provincia-opinion_1795305836/amp",
+   "revisada": true
+  },
+  {
+   "id": "261a037432e7",
+   "titulo": "El desafío doble que afronta Kicillof y la disputa con un punto de acuerdo en Provincia | El Dia",
+   "medio": "Diario El Día de La Plata",
+   "medio_url": "https://www.eldia.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZENidUR3ZmZfVG9JWndoSjFhdkV3VWw3NjdXbDRNRW93OVIwdENVQVRRaGVVRVNwczVfZXc3RzVJUDZ2eGNqOEdzTDI5OWxMcVA0dzF0Ty0zTTJSVjhCMXdfcG9KYmhjU1BzWXFMOTFhaGJMd2FKWkpaaDVHLTF1ZFpuRVVTTjNjNzFfZ1BYeVBYLXJFQm9raTYxR1Z0empWeHV3SlhWUUZTaGxYbGEzMVVGSldUVENsM1d6eUFXb3VZdTBzTXl2N1E2d1hsdEEwcWc?oc=5",
+   "fecha": "2026-11-21T21:08-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T03:14-03:00",
+   "url_original": "https://www.eldia.com/opinion/el-desafio-doble-que-afronta-kicillof-y-la-disputa-con-un-punto-de-acuerdo-en-provincia-opinion_1795305836",
    "revisada": true
   },
   {
@@ -5224,7 +5253,9 @@
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzRWaS1ZbGxJOThDY1F1eWl4YXNvODlxUGpRQ3A3cXNNWWJFTjFkWjRMeXF6MWZXSEg0RE8xdERCWU9Bcml5TTUtdTFyLVBkdDRiMlA5UVFnTDJyNnpDVFpCXy1hWURqUVpFVnBOYUNXNkp3MDZtQjNIc2JMWEI3YTBvNWFUY0VsSmQ2N0EtMW0tUE1IZlFMeHZkNExaUEl6VktKSXdOVzRDa3V5NUN4cFJMRFFXV2VObFAxZVdFWkF1SkFBcXpGaG5vZE1qeTl0azJEdGZEcEJWYmVSN3RJQVgtWEQ3OWp5ZkEwSWdBWHROUQ?oc=5",
    "fecha": "2026-11-19T00:47-03:00",
    "busquedas": [
-    "\"Guillermo Michel\""
+    "\"Guillermo Michel\"",
+    "\"Sergio Massa\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.nueva-ciudad.com.ar/notas/202611/58580-el-peronismo-elige-a-guillermo-michel-para-el-consejo-de-la-magistratura-con-el-aval-de-cristina-y-massa.html",
