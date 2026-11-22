@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-22T10:21-03:00",
- "total": 53,
+ "generado": "2026-11-22T11:16-03:00",
+ "total": 54,
  "tuits": [
+  {
+   "id": "2122824681073865061",
+   "usuario": "Letra_P",
+   "visto": "2026-11-22T11:16-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122824681073865061",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "La grieta del peronismo en la pelea 2027",
+     "nota_id": "5a73bda049be"
+    }
+   ]
+  },
   {
    "id": "2123910508679983193",
    "usuario": "lafabricapodc",
@@ -60,6 +73,11 @@
      "medio": "La Nación",
      "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Axel Kicillof",
      "nota_id": "ff4882b1dc02"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "La grieta del peronismo en la pelea 2027",
+     "nota_id": "5a73bda049be"
     }
    ]
   },
