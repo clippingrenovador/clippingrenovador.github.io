@@ -1,11 +1,96 @@
 {
- "generado": "2026-11-22T12:07-03:00",
- "total": 676,
- "nuevas_ultima_corrida": 19,
- "errores": [
-  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-22T13:04-03:00",
+ "total": 683,
+ "nuevas_ultima_corrida": 22,
+ "errores": [],
  "notas": [
+  {
+   "id": "444803701b64",
+   "titulo": "Cristina Kirchner se alineó con Massa y estalló contra Kicillof: “Estoy harta de que Axel camine sobre mi cadáver”",
+   "medio": "www.diariovoces.com.ar",
+   "medio_url": "https://www.diariovoces.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORVMwaHA1UEZHVE1pU2pUMGtMNG9sV3VTZERxaW1RTmhHcDMxNXJGSFlpS3UzU2pDVTJDOGxpMUN1REMxVGlpQnNFTmpRamZlUllDNjZQQl84cEROV0VCVHJwR1JtR3JTbDctTzBqWVNQZkhRTFdRQ1RZLVlpM1NvTW9vd1kyemwwdi0yVnBCcmkxUWp5eEUzTHZLNjQtbVo4OC1vQVNNVlJ2ang0M0FlNTIzSFhLdXhLZ0pJVW15U2JUNnhtS1ZSUXJ1OXZlaGlteDdUZUJUSkFGRHZsYTdqdU9hZGJ1dEE?oc=5",
+   "fecha": "2026-11-22T12:57-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://www.diariovoces.com.ar/politica/cristina-kirchner-se-alineo-con-massa-y-estallo-contra-kicillof-estoy-harta-de-que-axel-camine-sobre-mi-cadaver/",
+   "revisada": true
+  },
+  {
+   "id": "d81940413e1f",
+   "titulo": "Urtubey rechazó una candidatura de Cristina Kirchner para 2027",
+   "medio": "El Zonda",
+   "medio_url": "https://www.diarioelzondasj.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTU4Z3c2WTJnd0xzNW9uR3cxYUFGbVhxVnlfVk1OcDF2eW5MSW1NUlVvdVZhTEl2a1h0NFNIOUthTWZaOGpQWEZ6VnBVTkpmRnBzUnpHaFZFRUdOZlI3RTQ1NENwdWgwV3B6cXFSZ1ZpQnViem55YWFxSW01a0JTcGNuYm53WFBva0w3ZkxDanJMaHc3ZzAtYkNFOFBkTnVndmx2bFRhS1dnUQ?oc=5",
+   "fecha": "2026-11-22T12:48-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://www.diarioelzondasj.com.ar/politica/urtubey-rechazo-una-candidatura-de-cristina-kirchner-para-2027",
+   "revisada": true
+  },
+  {
+   "id": "1fa34287ac74",
+   "titulo": "Peronismo dividido: la advertencia de Pichetto sobre Massa, Kicillof y Cristina",
+   "medio": "ANDigital",
+   "medio_url": "https://andigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVFhQjRsMVhxWWlTRlEzbmEwYzVWeTZBS0RiMUpCM096OGs1Mk83eWQ2cTlZZVV0RmtURlk4dHRHRDB4TVV0T2dVMXpLY1ZhVkcyeFJnZzYtNkdXLUJuaVhSY09SNjdOa1BjSGNRN3ZSbVljNFZ5SUdTMlUyZ19vSUlPeEw0Tk9OVlI3bGx6dkxoajFmM1lma1VwUEcxZ0lvS3A2Tmtubm5RcUVWUVNwU2Vnb2JUdw?oc=5",
+   "fecha": "2026-11-22T12:38-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://andigital.com.ar/nota/145128/peronismo-dividido-la-advertencia-de-pichetto-sobre-massa-kicillof-y-cristina/",
+   "revisada": true
+  },
+  {
+   "id": "c3a381c16098",
+   "titulo": "Tensión en el PJ: Cristina Kirchner cuestionó a Axel Kicillof y acelera un acuerdo político con Sergio Massa",
+   "medio": "Diario Río Negro",
+   "medio_url": "https://www.rionegro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR2NFWlc0RF9VZ3BiTDMtYzZzQ0RDWDlEQmM3OHR4ZzRhclpWUktGQmpRVElFcEpfOGZfbEY2U0M0NDBkNEJxM2MzOUdQLTlUY3RwekRHOUUxRFpENlR2dVB3UFAzRlk3R0g0STRHSU02X085a2stTzRENWJoRGJLRnA4Q2o2Q2VTVU4xMl9IbzM1SUVLLUUyb2VPdm1VaDVnbklJMy1CbDJySUcxWmRXYjUzNHRlaWtfc0JRWXBISDV5Y2N4bnhSWWwxVVR1MWU3clU1YTZIR0VmcUozSHNIeGRQQVoyUzFjaW5CaFJ1QzjSAfABQVVfeXFMUEdjRVpXNERfVWdwYkwzLWM2c0NEQ1g5REJjNzh0eGc0YXJaVlJLRkJqUVRJRXBKXzhmX2xGNlNDNDQwZDRCcTNjMzlHUC05VGN0cHpERzlFMURaRDZUdnVQd1BQM0ZZN0dINEk0R0lNNl9POWtrLU80RDViaERiS0ZwOENqNkNlU1VOMTJfSG8zNUlFSy1FMm9lT3ZtVWg1Z25JSTMtQmwycklHMVpkV2I1MzR0ZWlrX3NCUVlwSEg1eWNjeG54UllsMVVUdTFlN3JVNWE2SEdFZnFKM0hzSHhkUEFaMlMxY2luQmhSdUM4?oc=5",
+   "fecha": "2026-11-22T12:16-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://www.rionegro.com.ar/politica/tension-en-el-pj-cristina-kirchner-cuestiono-a-axel-kicillof-y-acelera-un-acuerdo-politico-con-sergio-massa-4808645/?amp=1",
+   "revisada": true
+  },
+  {
+   "id": "3282e1905aad",
+   "titulo": "Grabois bardeó al Perón hecho con IA que usó Massa",
+   "medio": "Bardeo.news",
+   "medio_url": "https://bardeo.news",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnBoOFp3bk9yTVdEZU5KUFFvTERvLVBhcW1IeFRORWIwTUZveFR5dlpnakQ4NmhQdnNVenR2MWFvbHhob2tqcEFfeTZfTzFWNUxNOUl3UU45N0hJQmFlZ0VtSE9nS1VNZFkxVU5oQmMwZ254dnJLSng3V2p4dVgwcHFEbjlnZEZVaGlQbTNuZTllSGhWVEV0NERBNi1uS1VpSGE5bGVlODfSAbcBQVVfeXFMTVRyVnc0SG5kdy1iOGxGLVdFY1Z6cUJTYXdpTUdzNXo2RC00SlRuUkgwa0dOQzJnNXRnVWp0eUdQZXNlcVBWSVp3cUktbnFmT1E5Uy1BcjhHVkpWR3dzckdCREhySGJmbHJVVzZYc0szZDQ5M0JLMk5IaUxUVkE4czRLdXN1U2hwYXBNbi1vUXRnc2FWR0hpWmxwQmZiRFhQcG1MaFZlOUxDTU5IaFFBOGNHX0hnNlBZ?oc=5",
+   "fecha": "2026-11-22T12:13-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://bardeo.news/politica/grabois-bardeo-al-peron-hecho-con-ia-que-uso-massa_a6b0303fccd25aee288756a37",
+   "revisada": true
+  },
+  {
+   "id": "78f2c28e5152",
+   "titulo": "Michel sobre la parálisis de las obras viales: “Frigerio es Milei, también con el desastre de las rutas”",
+   "medio": "0343 Noticias",
+   "medio_url": "https://0343.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRFRRcGpBVmxMdWRIMXZ6d0NoRFdQV21LUTZKalpjMDI3RVVid3BMTHNIVlVDUjk0c3B1cGdYdExtQXNhYmszeWFHUjlYUnkyb2xBSFJWYUtyMWFyZTdndDY0WHVBekROazlBU3hmWkhTMVJ6RjNITUJGWXVfN05oWmk4Nk02LVd4aThZTHd2TTU3Y0pGZHNGX2ZLOWVDQU5keExtSWlNQWdVWjVFRGNpMktMbHZHRFMxUHFLNUl5OWtlVTdTeDUyTTlTVnF0N3ZGRTJXTllUd2hoQQ?oc=5",
+   "fecha": "2026-11-22T12:13-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://0343.com.ar/entre-rios/michel-sobre-la-paralisis-de-las-obras-viales-frigerio-es-milei-tambien-con-el-desastre-de-las-rutas_1795360380",
+   "revisada": true
+  },
   {
    "id": "650fd4aa84c4",
    "titulo": "Juan Manuel Urtubey pidió renovar el peronismo y marcó límites al liderazgo de Cristina Kirchner",
@@ -439,6 +524,21 @@
    ],
    "visto": "2026-11-22T08:04-03:00",
    "url_original": "https://impactocastex.com.ar/politica/19604/cristina-kirchner-endurece-su-disputa-con-kicillof-y-se-acerca-a-massa",
+   "revisada": true
+  },
+  {
+   "id": "f896b1a977ea",
+   "titulo": "El RIGI bajo la lupa del peronismo: qué irregularidades buscan investigar y por qué reclaman auditorías",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWHZwWFJXeXRGUDdTdG5mUXEzZmJpUWJUM05IZTdmV1FmRnNsWnM1Rk5hR1pTb1A4WVdheVZYOHdWdXRqNGdUQzFRRUxDOUhfcDQ3UE5UdVd3SUZiWTZBYUNkYUFIOE9VdHB2RGhjQTZJY3RyeUlickR2YlJhSEMzLUlPNHhtVm50Z29rWFVBYTNkVjZObjZLMEo2WTZEVmxlZzkySzJvTEEwcnVBRGpkNlBmYXhMNnJDTHlrWNIBvAFBVV95cUxNWHZwWFJXeXRGUDdTdG5mUXEzZmJpUWJUM05IZTdmV1FmRnNsWnM1Rk5hR1pTb1A4WVdheVZYOHdWdXRqNGdUQzFRRUxDOUhfcDQ3UE5UdVd3SUZiWTZBYUNkYUFIOE9VdHB2RGhjQTZJY3RyeUlickR2YlJhSEMzLUlPNHhtVm50Z29rWFVBYTNkVjZObjZLMEo2WTZEVmxlZzkySzJvTEEwcnVBRGpkNlBmYXhMNnJDTHlrWA?oc=5",
+   "fecha": "2026-11-22T07:30-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\"",
+    "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T13:03-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603622/el-rigi-bajo-la-lupa-del-peronismo-que-irregularidades-buscan-investigar-y-por-q",
    "revisada": true
   },
   {
@@ -7327,7 +7427,12 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TG5sSnp2SW1Tb3RiMmVtbHhpZXFHS1VwMDZBSVRmM3RZb3o1enlVN3plVHlBUHRHZlN1M25pVjNWa21GMzBrMGJSbFp0WXhBSGpLd2duRHhpQWVlN2hwa2NlTmVuUWpzSWhTdGtxTTRNTFpGcHfSAXtBVV95cUxNSk53QWQ5Q0hEYnlEcEtTQmxPWDNHUHhrVmphYzJDNHh3YjJzaWhETlJqNXBkMUw1V0NLV0htbktWZjkxODJXbnk2VEFzVF9WZ3ZmSHlIX0Q5dWxCUkxBb0xDYVEwMWppcmJoaHpUTnlUNXl6RHBhNGVwYjg?oc=5",
    "fecha": "2026-11-17T21:41-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\"",
+    "\"Malena Galmarini\"",
+    "\"Sebastián Galmarini\"",
+    "\"Cecilia Moreau\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.tiempoar.com.ar/ta_article/massa-peronismo-no-kicillof/",
