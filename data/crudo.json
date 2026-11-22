@@ -1,11 +1,70 @@
 {
- "generado": "2026-11-22T07:07-03:00",
- "total": 644,
- "nuevas_ultima_corrida": 20,
- "errores": [
-  "\"Frente Renovador\": HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-22T08:05-03:00",
+ "total": 651,
+ "nuevas_ultima_corrida": 26,
+ "errores": [],
  "notas": [
+  {
+   "id": "1fce7ea2213a",
+   "titulo": "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0ZUWVoxVWxBZEF2UGNYenEzUkczSWNPSk1ucEpYdlVfOGZybVFBNk5yOXo1d3hFLUtSV2MwWENHY3ZmZDBsM3FBZzdyUll0R19zdG9mVmZWUVNHU0VMVG1lMnBhaG9EdXZNbGlYbG9nalh0QXlLZjYyNFlOUkdVdExUZHBxMlY1RUtQenB5X0NRcjEyckY2WGZ1SW9PWVJhVTg1N1VvSTlMNmNONU01Vm5lc25OMWNESzlxY2lqUkxsb1BrWkN4T3RxUVF5dF9NMWxXU2o2X3o2R0hLdV93?oc=5",
+   "fecha": "2026-11-22T07:36-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/la-estrategia-de-evitar-la-confrontacion-se-impone-en-el-kicillofismo-luego-de-quedar-afuera-del-nid22112026/",
+   "revisada": true
+  },
+  {
+   "id": "30baa4a7d08a",
+   "titulo": "Massa destacó a tres presidenciables en un acto de unidad peronista",
+   "medio": "Impacto Castex",
+   "medio_url": "https://impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFBnZDgxQjFZekZuSGtyOU1qUVBCdmp5bjJBOEQ2RHIyWE9TQUxYUnVhTkUtRGcxRG9SM2pwZXJadi1fbHo1RWlUYVgzalFjdTh4UVpxNUN5TVB4ZExHTnIwTHJQOUVEZWFjdU9sRjRPYUJDeHR1Zy1iMHd0V0xtOUlYMUg4M2xDa2ViS1pKVHNxRkZ1WEdtMEY2OV82SXpCMzNHczFDeXdoNTN0N3EwNHlRQQ?oc=5",
+   "fecha": "2026-11-22T07:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://impactocastex.com.ar/nacionales/19598/massa-destaco-a-tres-presidenciables-en-un-acto-de-unidad-peronista",
+   "revisada": true
+  },
+  {
+   "id": "4dcf93cd58fd",
+   "titulo": "Maquiavelinas: Pablo Garate debería pasarse al MDF",
+   "medio": "La Voz del Pueblo",
+   "medio_url": "https://www.lavozdelpueblo.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGJSUDR5QkFhdmYzdHllM1Z5VHlFa2xzZ2RzUWNfWXAtNDhDTmcwNkhSLTZueXNJdUs2YzQzeDc5QVdpX0FxSFlIZW1XX29oVWtQT2VDTWpMQ1lydWREeGdaSjVWb2JQcGozd2wyWkhvRk0tOTJiWlVNT216M1FWZU9xMXpIeUFkYkhv?oc=5",
+   "fecha": "2026-11-22T07:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://www.lavozdelpueblo.com.ar/maquiavelinas-pablo-garate-deberia-pasarse-al-mdf",
+   "revisada": true
+  },
+  {
+   "id": "23b3673129e3",
+   "titulo": "Cristina Kirchner endurece su disputa con Kicillof y se acerca a Massa",
+   "medio": "Impacto Castex",
+   "medio_url": "https://impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2t6OFlHNThObTlqalNWSUdBaDV5X1pQU2NhSmk0RjJ6TF9PUHBrNFA3MDJ0YnEwYUk1TDlNS1hkbXNabzA4bzJSTTZYQWUyVjJuaEd0ekFrY2dIU3EyZ2pDd2IyT28xTzVmeTNBVnZNalZfOVVZNUZad2FlTmwweURXdFhqMjFkWHBpOUhQbmZGLTBmTm9qYTdObVZkcEJYaG15TUIwdWoyWXBZQ2pmM0NneUc?oc=5",
+   "fecha": "2026-11-22T07:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://impactocastex.com.ar/politica/19604/cristina-kirchner-endurece-su-disputa-con-kicillof-y-se-acerca-a-massa",
+   "revisada": true
+  },
   {
    "id": "cf18dac2a54a",
    "titulo": "Kicillof evalúa suspender las PASO bonaerenses en medio de la interna",
@@ -14,7 +73,8 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFpDSHpSYldkN2dSb3RUY3labHZleXpCMmJIelFqMGp1TkFlSVA4bElRNzNPVU45RXJjRzJTTS1fTm9TTUFpbGpVYjlpX0hVc01ianpNM1pxbmd4bWt6bkU5NldtZTROXzFheFdoWGtZY0VhV01NeXl0UUI3NUVhVGVuU3ZoWXlHb1gxQTdHbmRudS1SSHpmRjBydWJEaU9TSXZRSEhyYnRJSmF1UmYycUxZWExDX1VlZmtkSHluZ3plWTg?oc=5",
    "fecha": "2026-11-22T06:06-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-22T07:06-03:00",
    "url_original": "https://www.identidadcorrentina.com.ar/noticia/46843_kicillof-evala-suspender-las-paso-bonaerenses-en-medio-de-la-interna.htm",
@@ -616,6 +676,20 @@
    "revisada": true
   },
   {
+   "id": "0bc05c9f5642",
+   "titulo": "Sorpresa en la última encuesta del consultor más anti K: Bullrich y Kicillof empatan en la cima y desplazan a Milei",
+   "medio": "Informate Salta",
+   "medio_url": "https://informatesalta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa3FneUYyX0drRnFoOGNkVXV6QWlJcHQxRjVvd3hLMnFfU2k4Ukw1YUt3bVZIbms4aEVnTGVnZVRQTTlweHR0bVViT1VxRlVqakZMZDkzRWg1ekxGRmNqMmYtVTg1eVV4Rjd3TjJRanFwMFVQNGZGdklIV2xBbjZ3TFVZQTk5YUE1REV3Wkw0T3VGQzU1aURsQ08wbGdFSDl6TmhzLVZ2ZG5vbmRWTzJaRndZdDRNckU5UkpIeG5wMmxvVTF3V0U2VDFfNEtuSGZ4TTlqcThrUFRXTHR0Z3FvQU1TblBzNUlDM2tEbDUxZDY2akVTR2cxaG5majRNM19LNVp3dUFVOWpKN3BYRFhWLTNnU0hGdG9WclNn0gGbAkFVX3lxTE1rcWd5RjJfR2tGcWg4Y2RVdXpBaUlwdDFGNW93eEsycV9TaThSTDVhS3dtVkhuazhoRWdMZWdlVFBNOXB4dHRtVWJPVXFGVWpqRkxkOTNFaDV6TEZGY2oyZi1VODV5VXhGN3dOMlFqcXAwVVA0ZkZ2SUhXbEFuNndMVVlBOTlhQTVERXdaTDRPdUZDNTVpRGxDTzBsZ0VIOXpOaHMtVnZkbm9uZFZPMlpGd1l0NE1yRTlSSkh4bnAybG9VMXdXRTZUMV80S25IZnhNOWpxOGtQVFdMdHRncW9BTVNuUHM1SUMza0RsNTFkNjZqRVNHZzFobmZqNE0zX0s1Wnd1QVU5ako3cFhEWFYtM2dTSEZ0b1ZyU2c?oc=5",
+   "fecha": "2026-11-21T16:26-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://informatesalta.com.ar/politica/sorpresa-en-la-ultima-encuesta-del-consultor-mas-anti-k--bullrich-y-kicillof-empatan-en-la-cima-y-desplazan-a-milei_a6b01f38ecd25aee2886886ad?output=amp",
+   "revisada": true
+  },
+  {
    "id": "7c4a45712a9e",
    "titulo": "“Voto anti-Milei Face ID\": la idea que crece en el peronismo para ordenar la feroz interna por las candidaturas",
    "medio": "Clarin.com",
@@ -659,6 +733,20 @@
    ],
    "visto": "2026-11-21T16:12-03:00",
    "url_original": "https://lu17.com/contenido/158665/interna-peronista-massa-suma-apoyos-pero-el-kirchnerismo-lo-desafia",
+   "revisada": true
+  },
+  {
+   "id": "0408aded485e",
+   "titulo": "PASO, economía y el miedo electoral de Milei",
+   "medio": "Identidad Correntina",
+   "medio_url": "https://www.identidadcorrentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeU5vUXByUlRlRTg0Q1otM3ZHREFobU15UGVtRThCWnRTYmoweURnOVdyRS1WWEFiM1JURktPdUgtYWxIVWpNUlZGeDY5QkNmcWFqd2NnMHBCUy1wZm9NdkVTY3F5RnFFT3BTUzZES2xZMFdzVWdWbXAxc3R1aWlka2thU2dPbDJzZDhUa0RET3JJVWwzT1IwcWxnRjgxNDV1?oc=5",
+   "fecha": "2026-11-21T15:04-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46793_paso-economa-y-el-miedo-electoral-de-milei.htm",
    "revisada": true
   },
   {
@@ -887,6 +975,20 @@
    "revisada": true
   },
   {
+   "id": "e39e2da6d9d8",
+   "titulo": "Los mercados fuerzan la suspensión de las PASO",
+   "medio": "esposta.com.ar",
+   "medio_url": "https://esposta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVJ0X2owMU1BNmxXVUNkV0RDbEduMGl6WGJ1N3FBbzV1UnRVNTNZay1GY19KeGdZZXhpRmxPRnQ1TndYUm9jN3QtUlcyWGEybk5CM2FteFgtTlRUTy1oOTNneFlNUVhOWmxhTHdDQjRwZTg3VU9oM2dFcVBKbERFT1o1eU11aXdOTEhNVQ?oc=5",
+   "fecha": "2026-11-21T11:53-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:04-03:00",
+   "url_original": "https://esposta.com.ar/contenido/4625/los-mercados-fuerzan-la-suspension-de-las-paso",
+   "revisada": true
+  },
+  {
    "id": "39b378544b20",
    "titulo": "El giro de Kicillof para enfrentar a Massa y a Cristina Kirchner en una elección interna",
    "medio": "TN",
@@ -1011,7 +1113,8 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGRLbU02a1BOSnZxSEhTd24zZUxETEw5LW1mbHpob0E3cHlSbks0MGxEbWZack1WZDQ5RlB4YU8xNGgySG0zYW1vMWw3TFBUeDA5UDNTQ0Ryb0RCMEtRb3llc2VxdUFMMTM2ckZENmJzZjlFV19fVHc1RzhUenM0TTJCNUdQX3Zlai1JclpGaUk2OV80SmwtRUlpUUpQOWJYY21mRVRaZXdjVXp4TmZnUW56TlR2dk9HNXlR?oc=5",
    "fecha": "2026-11-21T10:20-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-21T22:33-03:00",
    "url_original": "https://esposta.com.ar/contenido/4621/massa-se-mueve-fuerte-mientras-que-el-peronismo-se-debate-si-desaparecen-las-paso",
@@ -1128,7 +1231,8 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmZOc1pBS2lYT0pYUTN5R29CYTNzYTc0MGVWNVZ4NmNyblVGLXhnWGVwOXp5WlJ5TUxlUTgzb3czVzRTZnpiRTJkRjYzYjJmUi1Geks4MVVVSEduWHNmNlh6NmFHblpqRjFGTkstdkNObThtcVlRR3RUQTlvc01yRzhkd1Y4dkY1T1hTTDNNcGFjOFFMSHQ3RWJKUjNaaERzTXNZOUsxX3UyZnI5YVU00gGvAUFVX3lxTE82Zk5zWkFLaVhPSlhRM3lHb0JhM3NhNzQwZVY1Vng2Y3JuVUYteGdYZXA5enlaUnlNTGVRODNvdzNXNFNmemJFMmRGNjNiMmZSLUZ6SzgxVVVIR25Yc2Y2WHo2YUduWmpGMUZOSy12Q05tOG1xWVFHdFRBOW9zTXJHOGR3Vjh2RjVPWFNMM01wYWM4UUxIdDdFYkpSM1poRHNNc1k5SzFfdTJmcjlhVTQ?oc=5",
    "fecha": "2026-11-21T09:18-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-21T12:07-03:00",
    "url_original": "https://compactodiario.com.ar/sergio-massa-y-axel-kicillof-la-lucha-por-el-liderazgo-peronista-se-intensifica/",
