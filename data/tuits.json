@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-21T20:56-03:00",
- "total": 52,
+ "generado": "2026-11-21T22:33-03:00",
+ "total": 53,
  "tuits": [
+  {
+   "id": "2123910508679983193",
+   "usuario": "lafabricapodc",
+   "visto": "2026-11-21T22:33-03:00",
+   "url": "https://twitter.com/lafabricapodc/status/2123910508679983193",
+   "citado_en": [
+    {
+     "medio": "SL24",
+     "titulo": "Las idas y vueltas de Federico Pucciariello enfurecieron a Traferri y dejaron al peronismo sin candidato mientras Unidos y LLA cierran el acuerdo provincial",
+     "nota_id": "b7a2a741dce0"
+    }
+   ]
+  },
   {
    "id": "2123517703826612429",
    "usuario": "SergioMassa",

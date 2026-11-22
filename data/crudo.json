@@ -1,9 +1,51 @@
 {
- "generado": "2026-11-21T20:57-03:00",
- "total": 618,
+ "generado": "2026-11-21T22:34-03:00",
+ "total": 622,
  "nuevas_ultima_corrida": 21,
  "errores": [],
  "notas": [
+  {
+   "id": "b35ca98dbc83",
+   "titulo": "Hezbolá denuncia que más de 500 km² de territorio libanés siguen ocupados por Israel",
+   "medio": "LA17",
+   "medio_url": "https://lu17.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVA4ak1aajlXaEJVMklhckZVNWhsY184NUg5dmt6bWUxWWhCaXpMcEtIbmxlbjk0ZVkxT0UtbzI5NFpSQVRPbnB1dEZ2Y3QwdUJOakU3Y1IxSVdidHZxSmtYRzlIVDVyZ3lpRVR3VHJ4RVRrUmtpSUhuVkZELV9LRzZGV1JNV2VvT1dEOVJ3V2pvdmhxN3A0cFVjYXlXTHh2MUdDc05ESGp1VllfQ3NtWHk3eUZkd2VOSUE?oc=5",
+   "fecha": "2026-11-21T21:30-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-21T22:33-03:00",
+   "url_original": "https://lu17.com/contenido/158710/hezbola-denuncia-que-mas-de-500-km2-de-territorio-libanes-siguen-ocupados-por-israel",
+   "revisada": true
+  },
+  {
+   "id": "622893ca1e4e",
+   "titulo": "Máximo Kirchner llegó a un acuerdo con Kicillof y asumió al frente del Congreso del PJ",
+   "medio": "El Esquiu",
+   "medio_url": "https://www.elesquiu.com",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV2dYSDNuWEN2TWFnNWtkand6emZULWVCQVhWaE1FYlJEVVdlNEFJVXI1cG8tUHRYMjFFbTFya3Ffa2xQaHBJSjFLZ2JENWttV1RhNXo4Q05DRUlBQktNd3pLSUppWGY3TWczTWxSem0tMTFVOWlOX0xKbkRlVk9CdXp2aFlpNHNJRkNvSWdrYjhGM0NWVXdsWlZ6cDNWTmYxWV9VVVRMZzFObHJybGM2X18wN0lXU2xXNlVWQmRXcjZ1a01fcEFJMGZmQVVwVzJLTkFjOEhJWUtZMWc?oc=5",
+   "fecha": "2026-11-21T21:20-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-21T22:33-03:00",
+   "url_original": "https://www.elesquiu.com/politica/2026/11/21/maximo-kirchner-llego-a-un-acuerdo-con-kicillof-y-asumio-al-frente-del-congreso-del-pj-604305.html",
+   "revisada": true
+  },
+  {
+   "id": "b6a5f0a190c3",
+   "titulo": "El desafío doble que afronta Axel Kicillof y la disputa con un punto de acuerdo en Provincia",
+   "medio": "Diario El Día de La Plata",
+   "medio_url": "https://www.eldia.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2JyakttVmVEdjRLbno2c2w1RlVWdEZ3QjFKRnV0cGVBcHM5OGtrZ081clBtSUx6SjU2VHBCWW9LYzFxenZtaXEtUHA3MFcwaEttTlI4ZkotZUJzMUlMUmlxZHZxcmx1cDZ0V3BrVVJ5NDVUd1Vmbzc0Q0RlME5GUXp5M1hJd2hXeEg5SDUtcGZpNXpGRTNyUkNPamN1c3ZMMlNhX20wTVB5T19XOWFwY3R4YmpBOGNISS13ZjNoZk95c1V6dnJUZmVTcmphYmdEQ0JaUTdFcw?oc=5",
+   "fecha": "2026-11-21T21:10-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T22:33-03:00",
+   "url_original": "https://www.eldia.com/opinion/el-desafio-doble-que-afronta-kicillof-y-la-disputa-con-un-punto-de-acuerdo-en-provincia-opinion_1795305836/amp",
+   "revisada": true
+  },
   {
    "id": "ac1594a44a15",
    "titulo": "Visto y oído",
@@ -652,6 +694,20 @@
    ],
    "visto": "2026-11-21T11:16-03:00",
    "url_original": "https://exclusiva.com.ar/blog/2026/11/21/el-verdadero-riesgo-kuka/",
+   "revisada": true
+  },
+  {
+   "id": "caf988a38c15",
+   "titulo": "Massa se mueve fuerte mientras que el peronismo se debate si desaparecen las PASO",
+   "medio": "esposta.com.ar",
+   "medio_url": "https://esposta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGRLbU02a1BOSnZxSEhTd24zZUxETEw5LW1mbHpob0E3cHlSbks0MGxEbWZack1WZDQ5RlB4YU8xNGgySG0zYW1vMWw3TFBUeDA5UDNTQ0Ryb0RCMEtRb3llc2VxdUFMMTM2ckZENmJzZjlFV19fVHc1RzhUenM0TTJCNUdQX3Zlai1JclpGaUk2OV80SmwtRUlpUUpQOWJYY21mRVRaZXdjVXp4TmZnUW56TlR2dk9HNXlR?oc=5",
+   "fecha": "2026-11-21T10:20-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-21T22:33-03:00",
+   "url_original": "https://esposta.com.ar/contenido/4621/massa-se-mueve-fuerte-mientras-que-el-peronismo-se-debate-si-desaparecen-las-paso",
    "revisada": true
   },
   {
@@ -2313,7 +2369,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "massismo"
+    "massismo",
+    "\"Cecilia Moreau\""
    ],
    "visto": "2026-11-20T12:17-03:00",
    "url_original": "https://www.ambito.com/ambito-nacional/sin-paso-la-vista-el-frente-renovador-anticipa-acuerdo-unidad-el-peronismo-n6347483/amp",
