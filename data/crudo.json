@@ -1,9 +1,97 @@
 {
- "generado": "2026-11-22T13:04-03:00",
- "total": 683,
- "nuevas_ultima_corrida": 22,
+ "generado": "2026-11-22T14:06-03:00",
+ "total": 692,
+ "nuevas_ultima_corrida": 23,
  "errores": [],
  "notas": [
+  {
+   "id": "c69a845116d1",
+   "titulo": "«Harta»: Cristina endurece la pelea con Kicillof y se acerca a Massa",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDVDemVJRnZjLUVWcnI0SnZhQ2RPVllkMlpvSzUxTVo5TU5CcFo0WFppOUNyOV9rOFhxblQ1eHdxSG1yRW5fanY0YTFkZFZEdHJUZXBFVHBqaGdib2h4MzAweVdVMFlXRHhBMXJrN1B6dWFuX0Z4MGhxMU05ZU9oMDJCeEwxRFEtdXZTam53eWJ0b3IyRi1EQWljeFVsWGc?oc=5",
+   "fecha": "2026-11-22T13:39-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "encuesta \"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.infoplatense.com.ar/harta-cristina-endurece-la-pelea-con-kicillof-y-se-acerca-a-massa/",
+   "revisada": true
+  },
+  {
+   "id": "1daa5652e149",
+   "titulo": "¡Cristina Kirchner se acerca a Massa y profundiza la guerra con Kicillof!",
+   "medio": "NOVA Bonaerense",
+   "medio_url": "https://www.novabonaerense.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWl6LUU2amwwRUVlVEZXTkUxaU16MXJHdXFSM3Bldk1DYzJXU3FCaVYtYkdnRGtyck5pY2l1Rm1veF9IY3d6NlZwUGJ2VmVxMmFGUE5HMjlYM01NaERUVF9kb1d6UVJYVFFDSXY3NlczcU1BZENBYVNlV0VXd1dWZQ?oc=5",
+   "fecha": "2026-11-22T13:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?n=2026_11_22&id=92756&id_tiponota=4",
+   "revisada": true
+  },
+  {
+   "id": "5d61c6c19688",
+   "titulo": "Guerrera pidió unidad y confirmó el respaldo de los intendentes massistas a Kicillof",
+   "medio": "Codigo Baires",
+   "medio_url": "https://www.codigobaires.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUhELU1EZlZRaEtjVGthYURtVVMxa0RfcHJUVmlENXlqaTB4ajZxSmxGcG00dDZQeFBHaFB5Z1VmQW5MU2dvbVEtQ1p2LThzVVQ0SUtaVkpUM2c4SDFRaTdNZFhYc3FNUV9QclNEUnZyaG12TmdhTXhleC10VVpfY24yc2lhZzRiV3ZYRWF2WWRENzdaTU9BdWxsQURRZWtyQjhWOGNSTG5paFJGOV8waWM1c2dxUHpiWWNQTncwLU1Ja0pnZE5wajY2NTJKdVJs0gHUAUFVX3lxTE5wOU53V0kzcDRsWGZEYmdlaV9hSXlGLU9lM0FoV0x3Szl0REozVGduNjlZMVRuRk9uaXVHQ255eGx0YTdPSkg5QWp2OGQzVU5nYldpbUZoWnZTWDJOVnF3SGJOLTdVSGhkdTZ4UWlvWDFQXzRiNENoTExpaVhfWXUtd1R5WDkzenVJcGZDSkk0NDdvMXNfcDJ4NUhlMXhaSmhvbXpZeTAtZlNEVl83emZpY2V3Q2hvdlRldDYtcmh6RzFHUGczTUtOOGlnRXUzNXQwVWtx?oc=5",
+   "fecha": "2026-11-22T13:25-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.codigobaires.com.ar/2026-11-22/guerrera-pidio-unidad-y-confirmo-el-respaldo-de-los-intendentes-massistas-a-kicillof-252006/",
+   "revisada": true
+  },
+  {
+   "id": "f5ce6e25a9b8",
+   "titulo": "El peronismo y su enorme desafío",
+   "medio": "Página|12",
+   "medio_url": "https://www.pagina12.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TMTVmT0VGdUpLb1FOem9wX1VTUThnN25BS2ZBTmR2SjBOYWMtWGpCYkpPMW82M1FIT0c5UGVVRDZVbGd2ZzNsbjZWVDA3c1paaDN6SnFDRlRFRUI3ME5KTzJraXZsQWZKTk8yM1BuLWJUckpKcGhVT0V3RjA?oc=5",
+   "fecha": "2026-11-22T13:19-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.pagina12.com.ar/2026/11/22/el-peronismo-y-su-enorme-desafio/",
+   "revisada": true
+  },
+  {
+   "id": "980d3e5f8d24",
+   "titulo": "Juan Grabois destrozó al massismo por el video de Perón con IA: qué fue lo que dijo",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1ZrTnM2TlNMMi1raHFJNnlEb1RTcEpRX2JlWDVVdU5GdEhNTDFZMU5haUJJdV9heDBsXzlBN1p0Qm13LVA1OUZGdEJKNkNHWURPX3RIZjRmLTBYNHpUTzlrSXlBYThaLVZGMGMyd042X3VxaVQ4NldocG1oZUl5eWJrdHlGRERrUFpCeGVQT2VfRnNTR0haX2JR?oc=5",
+   "fecha": "2026-11-22T13:04-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://elintransigente.com/2026/11/22/juan-grabois-destrozo-massismo-video-peron-ia-fue-dijo/",
+   "revisada": true
+  },
+  {
+   "id": "6046abb9c07a",
+   "titulo": "Malpeli propone crear una línea para asistir la ludopatía",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdTZPUE9UT1N6VjR0MWR6R0tHY2t5bkN6QnFOLVFUX2VTMi15RlAwMnQ5NjhtSVJSNVFiUkU5cXBqS05ocWc2LUJTb2FyX1dnM2F1OWdYSzdsN09GQ28xcU9xazI1Y2tUa3FXVTF6S3ZyeU5YYWJB?oc=5",
+   "fecha": "2026-11-22T12:58-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://diputadosbsas.com.ar/malpeli-crear-linea-ludopatia-infantil/",
+   "revisada": true
+  },
   {
    "id": "444803701b64",
    "titulo": "Cristina Kirchner se alineó con Massa y estalló contra Kicillof: “Estoy harta de que Axel camine sobre mi cadáver”",
@@ -46,6 +134,20 @@
    ],
    "visto": "2026-11-22T13:03-03:00",
    "url_original": "https://andigital.com.ar/nota/145128/peronismo-dividido-la-advertencia-de-pichetto-sobre-massa-kicillof-y-cristina/",
+   "revisada": true
+  },
+  {
+   "id": "69869f83b624",
+   "titulo": "Urtubey cuestionó la suspensión de las PASO y dijo que Cristina Kirchner “no puede” ser la más competitiva",
+   "medio": "MendoVoz",
+   "medio_url": "https://www.mendovoz.com",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRndNeWtMU014VnQwUFBOZGNNbkVGNllnUTJRQVN4TVd6NnVHVHNSMV9WbXpoNjJxRHdZeXNUaVBpN2FnR0dJMVdDdFduNFRyelZQUnQ3eF8tWE9DX1ZoTzdsMFV2RHJyTm1Henh5UXM0Yy1wcU8zaGVTNUtiSDBfSjE1N3JfWmpaRThOQjNWLVNYb2ZLVEVuRWZ5WFlTcnVIcEJmTkQ3aG04TDRvOFhzbXJDaFlwUTRLeUVPWUNBdTZERHdMSmZxM3RpenlGVFRLQ001d3RYNE5saGM2NXVyMElmRDRuTGtjOVpmOVZUak8wYVBsZnBrY2VJSnZTYzN1TV85Vg?oc=5",
+   "fecha": "2026-11-22T12:30-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/22/urtubey-cuestiono-la-suspension-de-las-paso-y-dijo-que-cristina-kirchner-no-puede-ser-la-mas-competitiva-170907.html",
    "revisada": true
   },
   {
@@ -132,6 +234,20 @@
    ],
    "visto": "2026-11-22T12:06-03:00",
    "url_original": "https://www.newsdigitales.com/nota/350419/infancias-libres-de-etiquetas-que-quieren-establecer-cada-6-de-mayo-en-pba/",
+   "revisada": true
+  },
+  {
+   "id": "3864ad0bb4d7",
+   "titulo": "Michel volvió a criticar el estado de las rutas nacionales",
+   "medio": "R2820",
+   "medio_url": "https://www.r2820.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3Y1NnBTUzM2ekZlSEMtVzhQT2k5UllNdjFWZ2xfclBIRkExdlVuUlo0NFV5RDZDRXU3Y280a1VROXJ3M1JyU2J1MHFSQ1NpaFEtUVJNbDNJWE1ncTMzOHRDOXk1LWhQeWdVdXRKRW1Hc1JxZXhzMHo5c1haOGY5YmRZaElIS2h1SVdIaXV4VWppbjRZTDNsb1hYbXEyWEpqd2Q4bjA4Z0RqVEXSAbABQVVfeXFMTkRHQXVpbXNCSXZYTkM0VEIwZ20zaEVFY2VRWUVtY2M2OHZ5Z1ZKM1VmV3lvNFRIUFZkUDhmeXU5MDZJNDJsRDVLS2t0c3BIMTNDTlhCN2dVd3B0eVF0eGtBQkVZV3d2alFoQWFJZVBaRmtVU1BJYTJoMWlqdlVHcV9UdmdIMDBvekRjNnJ0OFJYNFBCX05nN1RPT24wbjJkS0lwUDNRZTZiSEdRYlY4dVI?oc=5",
+   "fecha": "2026-11-22T11:07-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T14:05-03:00",
+   "url_original": "https://www.r2820.com/noticias/2026/11/22/121980-michel-volvio-a-criticar-el-estado-de-las-rutas-nacionales",
    "revisada": true
   },
   {
@@ -286,6 +402,22 @@
    ],
    "visto": "2026-11-22T10:20-03:00",
    "url_original": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
+   "revisada": true
+  },
+  {
+   "id": "857492ba2d4c",
+   "titulo": "Kicillof y Grabois, un acuerdo en respuesta a la foto de Massa",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmhKb1hPM2oxYXdoU0xKOENvQW1zUDdwekZlLWJ5WjVRalE3WUM0U0VUN1BHWTBSUlBQLWFTQUV0ZHpseV9Yb2VkUnlRandTSDhET2duRkE3eHB3RUY0dndsUU9XcTd3UzFqM3lfVVV4bFpBZ240MVMtQkdXQTl1bkJmZkx2bHhseDZRNTFGVHNQV3Rac0FJOTREQQ?oc=5",
+   "fecha": "2026-11-22T09:40-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T14:04-03:00",
+   "url_original": "https://www.infoplatense.com.ar/kicillof-y-grabois-un-acuerdo-por-respuesta-a-la-foto-de-massa/",
    "revisada": true
   },
   {
@@ -535,7 +667,8 @@
    "fecha": "2026-11-22T07:30-03:00",
    "busquedas": [
     "\"Sebastián Galmarini\"",
-    "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Cecilia Moreau\""
    ],
    "visto": "2026-11-22T13:03-03:00",
    "url_original": "https://grupolaprovincia.com/amp/603622/el-rigi-bajo-la-lupa-del-peronismo-que-irregularidades-buscan-investigar-y-por-q",

@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-22T13:03-03:00",
- "total": 55,
+ "generado": "2026-11-22T14:05-03:00",
+ "total": 56,
  "tuits": [
+  {
+   "id": "2124254291284127844",
+   "usuario": "Csofianunes",
+   "visto": "2026-11-22T14:05-03:00",
+   "url": "https://twitter.com/Csofianunes/status/2124254291284127844",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Juan Grabois destrozó al massismo por el video de Perón con IA: qué fue lo que dijo",
+     "nota_id": "980d3e5f8d24"
+    }
+   ]
+  },
   {
    "id": "2123026901375836426",
    "usuario": "christiansanzok",
@@ -12,6 +25,11 @@
      "medio": "www.diariovoces.com.ar",
      "titulo": "Cristina Kirchner se alineó con Massa y estalló contra Kicillof: “Estoy harta de que Axel camine sobre mi cadáver”",
      "nota_id": "444803701b64"
+    },
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "¡Cristina Kirchner se acerca a Massa y profundiza la guerra con Kicillof!",
+     "nota_id": "1daa5652e149"
     }
    ]
   },
@@ -109,6 +127,11 @@
      "medio": "www.diariovoces.com.ar",
      "titulo": "Cristina Kirchner se alineó con Massa y estalló contra Kicillof: “Estoy harta de que Axel camine sobre mi cadáver”",
      "nota_id": "444803701b64"
+    },
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "¡Cristina Kirchner se acerca a Massa y profundiza la guerra con Kicillof!",
+     "nota_id": "1daa5652e149"
     }
    ]
   },
