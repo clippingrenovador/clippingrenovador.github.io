@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-22T08:05-03:00",
+ "generado": "2026-11-22T09:01-03:00",
  "total": 651,
- "nuevas_ultima_corrida": 26,
+ "nuevas_ultima_corrida": 18,
  "errores": [],
  "notas": [
+  {
+   "id": "07b893cbe2aa",
+   "titulo": "Kicillof entregará 120 viviendas en Tres Arroyos",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBybHBfWGZwQW0yXzc1bDR4VndQMzVUV05lS1U3a1pDX2tCU0UwNnJCS2prZ0tuQUFBOUE3Yk50RjBIRDVXZFBmQXdlZ0QyQ21tR1RFZ0tyLUhOeE5iMlVOeF9JX2hyNkFWQlZtRmViNG1KNFNGazQ2cUJWYw?oc=5",
+   "fecha": "2026-11-22T08:30-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:59-03:00",
+   "url_original": "https://diputadosbsas.com.ar/kicillof-entregara-viviendas-tres-arroyos/",
+   "revisada": true
+  },
+  {
+   "id": "d44001e57f02",
+   "titulo": "Reforma política y PASO 2027: las jugadas de Milei, Bullrich, Kicillof y Cristina Kirchner",
+   "medio": "Enterate Noticias",
+   "medio_url": "https://www.enteratenoticias.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNDVDNDRrdGpOdXVwZHd3eURZZ2lIYmdyMlZwTFNyVEdPTWNfbzNOOFNNRGpVSy04NVJuNzctcEl2NmIyR1ZVRmppNXdqclVKSmxOc2k1c3FyMGNiZjJqakFvcmQtLTFWWEZja09MSkxCdXF3SlpxRHY0Z0xzcGdYTzZuNUVrOGhjWFp6UUhCWnM5OVRPdlhXOHYxOG5YTHg5LW9zLWRLaVZ2N243T20zS1psNkZNTVlNMFNQU21ZSTBGbFF2eWh1UnRPRFdBWmJ5SndxZk9ybnpMTE1hUUpwdHlPVnpRX2o0c3RyMFVIcVZ6b25sOHZqRGRWT0RPckI0NHhpTktjTW0?oc=5",
+   "fecha": "2026-11-22T07:43-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T08:59-03:00",
+   "url_original": "https://www.enteratenoticias.com.ar/politica/reforma-politica-suspension-de-las-paso-y-tension-electoral-como-se-mueven-milei-bullrich-kicillof-y-cristina-kirchner-rumbo-a-2027/",
+   "revisada": true
+  },
   {
    "id": "1fce7ea2213a",
    "titulo": "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa",
@@ -1012,7 +1041,8 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmE1Q3ZLNVp6Z0dOTHMwWTltMzlTNndSZzUwVWdRejV1b0YyemV6Q0RxWWU3bE13WnlyUmNFSFAtRTY1RGk3ZUU0ZnZKN2phYXJ1V2VSWE9pSWRQQ2VLa3JBMEpVUlF6UWJra0JpMGJQc2FMaldGYzMzQlo1ZWFDVWlTTzNVT01ibzQxR2I3UFhjTWtfRjJPZW1ienBCUTlnMm0wb1kzWi1Edw?oc=5",
    "fecha": "2026-11-21T11:46-03:00",
    "busquedas": [
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-21T20:56-03:00",
    "url_original": "https://laverdadonline.com/massa-engrosa-apoyos-para-la-paritaria-del-pj-y-kicillof-confia-en-sus-chances/",
@@ -9377,34 +9407,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://chacodiapordia.com/el-frente-renovador-abrio-su-local-en-barranqueras-seguimos-haciendolo-crecer-en-todo-el-chaco/",
-   "revisada": true
-  },
-  {
-   "id": "cc1e04580445",
-   "titulo": "Marilina Bertoldi: “El riesgo puede ser enorme pero también es hermoso”",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDQ2YmxSaEU3eklhdDByRDZ1MEpGTjZyaENXOGFQTUxKY29RODE5cHF1VTVvUC1XZk1zNFdhRVBBU2M1bVlVeDNVeDRPV0dYelRxZ0dkbVBqNG9uTVBwbVlIREF2VUQxYWJiNWVIRm1oV2lJUGEwamhTcmVaaDFzNEZtTW5WRVNiaUVQVWpmcjhlNmhjMVZMd1F3QzEwam1PMXdYWDc0N196V0YwQ19yblRSZw?oc=5",
-   "fecha": "2026-11-15T08:44-03:00",
-   "busquedas": [
-    "\"Malena Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.perfil.com/sociedad/marilina-bertoldi-el-riesgo-puede-ser-enorme-pero-tambien-es-hermoso-auxpu0t5Q5yV",
-   "revisada": true
-  },
-  {
-   "id": "1312d1450a7c",
-   "titulo": "León, ¿y después?: el análisis de Cecilia Moreau",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEhMcTJZVFVxTVRfMGpKcWZqSW9ELVR1RXZGX0V2MHk4dUNPSUNvY2VhTlRIVTM2THBNSnN3eWY0WTNwOEZiYlhRRDF1eG1ncG5ZZHZEZU9hT3FjcGVVTUVWSFBsbV9XSUhFWXFOa1dyQVQ3UHdPQkYyN2Y2aDVTenM1bVdEc0ZQeW5fSmdXR2VNb0lzS09hUDBFdUF6YmNlOFhpcld0T0NLX3BrTGxBOEgzaWHSAcMBQVVfeXFMUFJxOEpOaWpBcFdNZDhWZGp1QVd6TDFtU3BrR0JTU3BlQ193WVhVS3NoLXFKZ2lzd3gxcEtqTnFsa3N0NkRFSzFFX28ySGpfV1lucWNOaDFGTEd5VHlQcUt5YkVNOHpTMTVRa05SdDNjOEdDRHJJQ21jOEoxTWc1VlRMenE4N21RSXl2UW5nanVXNUpGS2gtUDVKZ3pNMmR5RUE4MmdtZzAwUjJhZ29kbUhTbVJqR2JQMFAybU85MVdVV1hR?oc=5",
-   "fecha": "2026-11-15T08:24-03:00",
-   "busquedas": [
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://noticiasargentinas.com/politica/leon---y-despues---el-analisis-de-cecilia-moreau_a6af8c2fc108edb3b3313bf90",
    "revisada": true
   }
  ]
