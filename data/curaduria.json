@@ -1,42 +1,155 @@
 {
- "hora": "06",
+ "hora": "14",
  "claves": [
-  {"texto": "Según Clarín, Cristina Kirchner apura su acuerdo con Sergio Massa en medio de la tensión con el gobernador Axel Kicillof. Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo.", "fuentes": ["37b20e430bc8", "2a31815b6e7d"]},
-  {"texto": "Según El Tribuno, con las PASO casi descartadas, Massa suma apoyos dentro del PJ. Distintos medios analizan el impacto de la eliminación de las primarias en el peronismo.", "fuentes": ["e0a1c60b8620", "8ce08cae1306", "e929bc204f94"]},
-  {"texto": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador.", "fuentes": ["c39e46ffb1d1", "622893ca1e4e"]},
-  {"texto": "La diputada nacional Natalia de la Sota cuestionó al presidente Javier Milei por el ajuste a las provincias y se refirió a las elecciones de 2027.", "fuentes": ["92ed5636f2cc"]}
+  {
+   "texto": "Según Clarín y Diario Río Negro, Cristina Kirchner cuestionó al gobernador Axel Kicillof y acelera un acuerdo político con Sergio Massa.",
+   "fuentes": [
+    "37b20e430bc8",
+    "c3a381c16098"
+   ]
+  },
+  {
+   "texto": "Según La Nación, en el entorno del gobernador se impone la estrategia de evitar la confrontación, luego de quedar afuera del acto de Massa en San Fernando.",
+   "fuentes": [
+    "1fce7ea2213a"
+   ]
+  },
+  {
+   "texto": "El oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO de 2027, según MendoVoz e Info del Estero.",
+   "fuentes": [
+    "25c3565a7e38",
+    "a2784e6151fa"
+   ]
+  },
+  {
+   "texto": "El diputado nacional Guillermo Michel cuestionó al gobernador de Entre Ríos, Rogelio Frigerio, por la paralización de las obras viales.",
+   "fuentes": [
+    "0b72b9f5142b",
+    "78f2c28e5152"
+   ]
+  }
  ],
  "retirar": [],
  "temas": [
-  {"id": "massa-armado-formula-2027",
-   "titulo": "Según Clarín e Infobae, Cristina Kirchner expone su acuerdo con Massa",
-   "resumen": "Clarín informa que Cristina Kirchner apura su acuerdo con Sergio Massa en medio de la tensión con Axel Kicillof, e Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo. Según El Tribuno, con las PASO casi descartadas, Massa suma apoyos dentro del PJ. La Nación ya había señalado que Massa y Cristina Kirchner consolidan su alianza interna.",
-   "tono": "mixto", "dirigentes": ["Sergio Massa"],
-   "principales": ["37b20e430bc8", "2a31815b6e7d", "ff4882b1dc02"],
-   "otras": ["e0a1c60b8620", "505475a82d2b", "7cccf4ef04fd", "e0fa8f4847fa", "7c4a45712a9e", "93a1585e10ec", "de0629d2372f", "86989c43e548", "69e51c8b1b6c", "45cad97fa30e", "39b378544b20"]},
-  {"id": "peronismo-sin-paso",
-   "titulo": "El peronismo ante la eliminación de las PASO",
-   "resumen": "Letra P y qpasó analizan cómo la posible eliminación de las primarias impacta en el peronismo y en el oficialismo. Bardeo.news repasa el escenario sin PASO y menciona una llamada entre Massa y Kicillof.",
-   "tono": "neutro", "dirigentes": ["Sergio Massa"],
-   "principales": ["8ce08cae1306", "e929bc204f94", "a1f2dab32df1"],
-   "otras": ["a47acfcc94e2", "1128fecf6b87"]},
-  {"id": "sin-paso-la-interna",
-   "titulo": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense",
-   "resumen": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador Axel Kicillof. El Día analiza el doble desafío que afronta el gobernador. Sobre las PASO bonaerenses, Perfil informó que Kicillof planea mantenerlas, mientras que Radio Master Luján indica que analiza suspenderlas.",
-   "tono": "mixto", "dirigentes": ["Sergio Massa"],
-   "principales": ["c39e46ffb1d1", "b6a5f0a190c3", "250b2ff21bec"],
-   "otras": ["622893ca1e4e", "9810b4b0e9c3", "8572114e9fb4", "7cd64bf38bfe", "89e52748f6ac", "1f1ce72bae11", "b928033e121f", "77d9580083d2", "2a6c972afe5d"]},
-  {"id": "natalia-de-la-sota-cordoba",
-   "titulo": "Natalia de la Sota cuestionó a Milei por el ajuste a las provincias",
-   "resumen": "La diputada nacional cuestionó al presidente Javier Milei por el ajuste a las provincias y habló de las elecciones de 2027, según El Intransigente. Días atrás había sostenido en Perfil que no existe diálogo con el gobierno de Martín Llaryora.",
-   "tono": "positivo", "dirigentes": ["Natalia de la Sota"],
-   "principales": ["92ed5636f2cc", "2d701ef7614c", "91ad8fd422db"],
-   "otras": []}
+  {
+   "id": "massa-armado-formula-2027",
+   "titulo": "Según Clarín, Cristina Kirchner cuestionó a Kicillof y acelera su acuerdo con Massa",
+   "resumen": "Clarín y Diario Río Negro informan que Cristina Kirchner cuestionó a Axel Kicillof y acelera un acuerdo político con Sergio Massa; Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo. Según La Nación, en el entorno de Kicillof se impone la estrategia de evitar la confrontación tras quedar afuera del acto de San Fernando. El Tribuno señala que, con las PASO casi descartadas, Massa suma apoyos dentro del PJ.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "37b20e430bc8",
+    "1fce7ea2213a",
+    "2a31815b6e7d"
+   ],
+   "otras": [
+    "c3a381c16098",
+    "444803701b64",
+    "23b3673129e3",
+    "e0a1c60b8620",
+    "505475a82d2b",
+    "0bb721501943",
+    "e29423b7abda",
+    "a0ca45a006b7",
+    "51a0c2cb7041",
+    "30baa4a7d08a"
+   ]
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "El oficialismo busca suspender las PASO en el Senado esta semana",
+   "resumen": "Según MendoVoz, el oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO, e Info del Estero informa que el Gobierno negocia los votos y detalla los cambios de la reforma electoral. Letra P y qpasó analizan el impacto de la eliminación de las primarias en el peronismo, y Opinando San Nicolás repasa las opciones del peronismo para 2027 sin PASO.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "25c3565a7e38",
+    "a2784e6151fa",
+    "5a73bda049be"
+   ],
+   "otras": [
+    "8ce08cae1306",
+    "e929bc204f94",
+    "d71b9cab49a5",
+    "e2fdc6372877",
+    "d44001e57f02",
+    "a1f2dab32df1"
+   ]
+  },
+  {
+   "id": "michel-rutas-frigerio",
+   "titulo": "Guillermo Michel: “Frigerio es Milei, también con el desastre de las rutas”",
+   "resumen": "El diputado nacional Guillermo Michel cuestionó al gobernador de Entre Ríos, Rogelio Frigerio, por la paralización de las obras viales en la provincia. Días antes había anunciado que la Justicia Federal declaró admisible un amparo por las rutas nacionales que atraviesan Entre Ríos.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    "0b72b9f5142b",
+    "78f2c28e5152"
+   ],
+   "otras": []
+  },
+  {
+   "id": "massa-peron-ia",
+   "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
+   "resumen": "Juan Grabois criticó la imagen de Perón generada con inteligencia artificial que utilizó Sergio Massa, según Bardeo.news. InfoPlatense informa sobre un acuerdo entre Kicillof y Grabois que lee como respuesta a la foto de Massa en San Fernando.",
+   "tono": "negativo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "3282e1905aad",
+    "1d34f57c3e57"
+   ],
+   "otras": []
+  },
+  {
+   "id": "gestion-universidad-en-san",
+   "titulo": "Gestión: obras en cinco escuelas de San Fernando y actividades en Tres Arroyos",
+   "resumen": "El Municipio de San Fernando, que conduce Juan Andreotti, hará obras en cinco escuelas provinciales durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Juan Andreotti",
+    "Pablo Garate",
+    "Darío Golía"
+   ],
+   "principales": [
+    "e525aac3355a",
+    "3b5f2fb23155",
+    "c61da54202e3"
+   ],
+   "otras": [
+    "46994d945931",
+    "5a2a1253a778",
+    "83873b559481"
+   ]
+  }
  ],
  "redes": [
-  {"url": "https://x.com/marinadorotea/status/2124283570046841239", "autor": "@marinadorotea", "nota": "Marina Salzmann, sobre el deterioro del transporte."},
-  {"url": "https://x.com/DiegoGiuliano/status/2124137869727957250", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe."},
-  {"url": "https://x.com/MichelGuilleOK/status/2123913310810579161", "autor": "@MichelGuilleOK", "nota": "Amparo por las rutas nacionales de Entre Ríos."}
+  {
+   "url": "https://x.com/SergioMassa/status/2123517703826612429",
+   "autor": "@SergioMassa",
+   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok",
+   "nota": "Con o sin PASO, el peronismo irá unido."
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
+   "autor": "@FrenteRenovador",
+   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
+  }
  ],
  "entrevistas": []
 }
