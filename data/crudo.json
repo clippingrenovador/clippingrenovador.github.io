@@ -1,9 +1,197 @@
 {
- "generado": "2026-11-22T09:01-03:00",
- "total": 651,
- "nuevas_ultima_corrida": 18,
- "errores": [],
+ "generado": "2026-11-22T10:22-03:00",
+ "total": 664,
+ "nuevas_ultima_corrida": 26,
+ "errores": [
+  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "b3e6190a4c55",
+   "titulo": "LA GRAN INTERNA: SE PELEAN POR EL PODER, SE PONEN TRAMPAS Y DESPUÉS SE SACAN FOTOS DE UNIDAD",
+   "medio": "Mnews",
+   "medio_url": "https://mnews.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSTMyNGVscm54SFl1SlRZYjlabmNuMF9xdFNHYnZXRU12aTY1Z204RUNUSFprdjRhR0pSdVNYNEVXN19DNXNfTjNSZzYyVzVEbG9CZ2kyZldWYzVwVllUcG4wcjRYdnZhdWNvdGpGQkhaX2xPRmRVUU1qUHU5Q2U3Q0tITHRLZm4tOHRrRXFQdWFibHEzWFFWdWJ4WTU1bGJkNWJBUm1YYTdVRi04cG5xd2F6anR0RWppYkV3cS1CcjVnOGdqcHc?oc=5",
+   "fecha": "2026-11-22T10:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://mnews.com.ar/agentina/185221-LA-GRAN-INTERNA-SE-PELEAN-POR-EL-PODER-SE-PONEN-TRAMPAS-Y-DESPUeS-SE-SACAN-FOTOS-DE-UNIDAD",
+   "revisada": true
+  },
+  {
+   "id": "20688434d96b",
+   "titulo": "LAS PASO: ¡QUÉ MEMORIA SELECTIVA! CUANDO LES CONVENÍAN ERAN UN GASTO; AHORA SON LA DEMOCRACIA",
+   "medio": "Mnews",
+   "medio_url": "https://mnews.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOEQwb2g4R2ZXTkN0ZlRRbkk0cE1yN3FtRnpBanBaakVrV2VIWVZsNTZEU0M2bHU3WXp6X1BDOVJoUTJxaHFvT3ZyWUhiUVEwUV9NY3VHaHdEeEt4d1JuRzhyczg0UGhlRVJGMXhPZENMVnVxTU5fd1hIWWd6SWY3OXRNdnpDS05CZWpyb1hXT0E2LWhXRXhiVk8zY0czMzBCMDlqX3dmbnVNZ19PRTJVQkR6dTI2dUlNbGRqRk5xTThrbmpyUjhaQVpVaFBKRDg?oc=5",
+   "fecha": "2026-11-22T10:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://mnews.com.ar/agentina/185220-LAS-PASO-%C2%A1QUe-MEMORIA-SELECTIVA!-CUANDO-LES-CONVENiAN-ERAN-UN-GASTO;-AHORA-SON-LA-DEMOCRACIA",
+   "revisada": true
+  },
+  {
+   "id": "a52fa4010a27",
+   "titulo": "La casa de Raúl Alfonsín en Chascomús fue donada para convertirse en un espacio cultural",
+   "medio": "Ecos Diarios Necochea",
+   "medio_url": "https://elecos.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTRmMGFXUFJxSDlRWmRNR1RPZHlvMzVPMjF2YmlwLXFYT25Gcml4eXpNa29nV0hOSTNOLUY1cE9GVVRGNS0waEVEWkMydXUxeEZDX1Njek1PYUdFelhMalFVd0F3S0dORXRmWHJ2TkJ6X19BczBlY3k0VUZaa0tDYVA2QUhKZ0JibEl2cDdDVTlKRkJfUWNEcTBqSUpxdHlpOEMwVEkySTg2YVhrMXdv?oc=5",
+   "fecha": "2026-11-22T09:57-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T10:21-03:00",
+   "url_original": "https://elecos.com.ar/la-casa-de-raul-alfonsin-en-chascomus-fue-donada-para-convertirse-en-un-espacio-cultural",
+   "revisada": true
+  },
+  {
+   "id": "d71b9cab49a5",
+   "titulo": "Peronismo sin PASO: las opciones para las elecciones 2027",
+   "medio": "Opinando San Nicolás",
+   "medio_url": "https://www.opinandosannicolas.ar",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlBNWXdicElvOU1jaTUzOWZoV2wwTEZIM1JkTkVaU1VhTEQxZlg5ZWdsOUtfS2dZY0lrcGJ1YVVocml2cXNHb1dzSG1ralZuTXpmUHlXZlpEUGJ2ZHhPanhPbWJBNkREV0p1NTlnYUd2eTVFRWRyeGhpejZZb3hROEJmbw?oc=5",
+   "fecha": "2026-11-22T09:42-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
+   "revisada": true
+  },
+  {
+   "id": "1d34f57c3e57",
+   "titulo": "Kicillof y Grabois, un acuerdo por respuesta a la foto de Massa",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmhKb1hPM2oxYXdoU0xKOENvQW1zUDdwekZlLWJ5WjVRalE3WUM0U0VUN1BHWTBSUlBQLWFTQUV0ZHpseV9Yb2VkUnlRandTSDhET2duRkE3eHB3RUY0dndsUU9XcTd3UzFqM3lfVVV4bFpBZ240MVMtQkdXQTl1bkJmZkx2bHhseDZRNTFGVHNQV3Rac0FJOTREQQ?oc=5",
+   "fecha": "2026-11-22T09:38-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://www.infoplatense.com.ar/kicillof-y-grabois-un-acuerdo-por-respuesta-a-la-foto-de-massa/",
+   "revisada": true
+  },
+  {
+   "id": "b51fd4c54be3",
+   "titulo": "Tablero político de cara a 2027",
+   "medio": "Diario 3",
+   "medio_url": "https://www.diario3.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bzVpR3lsWnhxRXdfNU5ob29CS0kxZk9RS0FKX0p1bGFtb29IclJGLXN0Sk1ic0RUOXUtV3ZDd2pSWnlmYXJXWUZMbnc0bDVzUU1STEIyZzlJWE82YjFoNkVVZl95LXhaWHBj?oc=5",
+   "fecha": "2026-11-22T09:24-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://www.diario3.com.ar/tablero-politico-de-cara-a-2027/",
+   "revisada": true
+  },
+  {
+   "id": "e2fdc6372877",
+   "titulo": "Las “tres finales” que le quedan al Gobierno y el debate sobre las alternativas del peronismo sin las PASO",
+   "medio": "Tribuna de Periodistas",
+   "medio_url": "https://periodicotribuna.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkRuazFzMGlUNjZtc1Fuc1d1QThFMnVGTGhLVUNBLU9haC0xVFYySU5rN3NlSlRoSDlodDUxeXE4cnNGWVk1LTk1c09KaDFFQ1FYSGxvZF9fUWJWYlFRa2N4bWhuNHRHSDE1WlUzVVFvTnZWWDh3UWhJbWhCekZPQjdkTlV0WXhfay0wN0Y2MlZkd2xCQ2otd0hBYU91bXBnUmxWMTdCR0FOdFQwcTgtZGNuREhHVEIzRXQtaWE0N0h0N2tIR1hPX0tDZGUxMlQ0NE0w?oc=5",
+   "fecha": "2026-11-22T09:23-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://periodicotribuna.com.ar/las-tres-finales-que-le-quedan-al-gobierno-y-el-debate-sobre-las-alternativas-del-peronismo-sin-las-paso/",
+   "revisada": true
+  },
+  {
+   "id": "6821b4f520e2",
+   "titulo": "Nardini pidió que los intendentes tengan protagonismo en la Provincia y defendió las PASO",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcUJidmtSZHNlbWQ5WXA5WjNXOVpYX2lnUHMwbDBZUTFBS01kN3BSR3VITkVPdGV2MWprTUdyU2l4blB3am9GbHRFRWE4MFBoZm0wc0FFYktzRmdoOUtGYjBBX2o4em9TOWN4bFFhU2pTelZPVEt1YVN6bWFRNVRkT3BZY0hHTUY5bEJEaUNCM0tEbkZieTNncUhuUDZhMHFyYWR0RGxPa1RHMFJTb25feTJsaXZUTzFEWWFtY0pZSnZrQQ?oc=5",
+   "fecha": "2026-11-22T09:15-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T10:21-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/nardini-pidio-que-los-intendentes-tengan-protagonismo-en-la-provincia-y-defendio-las-paso",
+   "revisada": true
+  },
+  {
+   "id": "0b72b9f5142b",
+   "titulo": "Michel: “Frigerio es Milei, también con el desastre de las rutas”",
+   "medio": "Análisis Digital",
+   "medio_url": "https://www.analisisdigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPem5VNVk2anJkMHd0WFBvTkxaR1Btc2xHOGpIc2VqV2l4YXM0NzVmZlNXTTQ5RXRJekpPVkZXT3JvWGdpZ3NtMjJ4VHk4TkZKY0x0Q0VTOWh4dFB0VUVPZ2ZfU2lUUGdzdFg0cjNRcDFvWEZGTk9iNDczVUJwSXVSa1k5OTRiUlFrejV4bE84bkpxSGFaUVZwWnFOMEpTNll1c2xFV0dMWFF2Vm5jWUpmRjRvZGNaU2dSTnhYbw?oc=5",
+   "fecha": "2026-11-22T09:09-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T10:21-03:00",
+   "url_original": "https://www.analisisdigital.com.ar/provinciales/2026/11/22/michel-frigerio-es-milei-tambien-con-el-desastre-de-las-rutas",
+   "revisada": true
+  },
+  {
+   "id": "a0ca45a006b7",
+   "titulo": "El peronismo se divide entre Cristina Kirchner y Kicillof mientras la posible suspensión de las PASO complica la unidad",
+   "medio": "Diario Neuquino",
+   "medio_url": "https://diarioneuquino.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFlObzJCVzRwVkJMZDh4Nkd2SDMxYUtXNmpmV1Vpd0VFV19nT2l5WHZ4WGZTdHJIMDZoUzZENHhYNjN6UGltd2VWREVPdnd0MHJ5N0h2TFpRS0lfajFVc05WTFc4Y2hhcmtpSzJkeVhCc1dpeVJ5SmJJQy11bUp5NU5CV1lnOW5YT2U3N2ZIQ1JhWXNoMnpmTUdnNTJRa2hQaWFMcVB4OGJzMkp6cmpRN1UtY09IY21adVpDN3MxbkJ4R3Q5bXZBVUNad0pCaWZVd3hkblNpYXc3UUZmZFhqVHRCUHA?oc=5",
+   "fecha": "2026-11-22T09:08-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://diarioneuquino.com.ar/el-peronismo-se-divide-entre-cristina-kirchner-y-kicillof-mientras-la-posible-suspension-de-las-paso-complica-la-unidad/",
+   "revisada": true
+  },
+  {
+   "id": "fcc9f6c0a107",
+   "titulo": "Trece encuestas, un mismo mapa: Milei compite en primera vuelta y se complica en el ballotage",
+   "medio": "InfoPlatense",
+   "medio_url": "https://www.infoplatense.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVJ0c0cwMGJPZGM4c2M1OWJGLXd2aDJGc0ZPNWxaY0pTM3N0bXBqTHdPc25fMTdsWkxtQlBGZWxqVks2bi00RzhjaDBsaVZvSzNldmwyMnZMTTB3a2pad2g2eGlKQTRNaDVGTHBtU0JBd3NQdF9hcEVCbWxfZlRaazV1RFk0V2NuUXFWUm5kSHIxQWNMcnktNFB2S0VORzNOTC1r?oc=5",
+   "fecha": "2026-11-22T09:05-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://www.infoplatense.com.ar/encuestas-elecciones-2027-milei-kicillof-ballotage-trece-consultoras/",
+   "revisada": true
+  },
+  {
+   "id": "51a0c2cb7041",
+   "titulo": "Peronismo sin paz: el acto en San Fernando volvió a detonar la interna tras la ausencia de Axel Kicillof",
+   "medio": "Política y Medios",
+   "medio_url": "https://politicaymedios.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0VNTUQ3UHYxREowSWNlVG9iSmRVc1RQakZvSEYxUllKRExsV3o5Ym0zdUozZzFrX0l6czg2RDVJbWlNVUJaMzNhU2VVNjBsVkdacllBSUhseE5CcmZkWTdfb1p2YkFQdzE5TWVOTV9tdlc4NVF1RlhnSDV1WS1JOTFaZnFFd0VIbmRkYW42bjV4cXBwLUxNMGF2WkF0OHdyT0xyNHlZNnMzOWJCcHN4SWJNNEpsZ0xSeHdrLWFYRndiS19IcVJ2UFYwYkMtdFVPcEd3SXpXem53aVRfQXFB?oc=5",
+   "fecha": "2026-11-22T09:05-03:00",
+   "busquedas": [
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T10:21-03:00",
+   "url_original": "https://politicaymedios.com.ar/nota/24931/peronismo-sin-paz-el-acto-en-san-fernando-volvio-a-detonar-la-interna-tras-la-ausencia-de-axel-kicillof/",
+   "revisada": true
+  },
+  {
+   "id": "25c3565a7e38",
+   "titulo": "El oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO",
+   "medio": "MendoVoz",
+   "medio_url": "https://www.mendovoz.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGF3bnlUTllpVXdOWHloWFUzSVRWM0pqRDBQYXBQWnZwQmt6NlVfeDhwNmNHMnE5VWdaOE9hRlhVSHAyYjdSdDRRalRhQ3FlTzVrZ1Rwakl6ZkFVekJ4RUN4Nk9OVVJleWM3RzRvV1dvOTQwOGZ4d1BpV1lWa0hlV3lJcldfeGNaT3ZBb1dEdlY3ckQwYzlBS3VEQVF1bEZral9FX0YwNVE4U1liZXZlcXJZZDkwblRRZ0lkSndpaTQ2ZW9GdDhhcjZZX2Q2QkFJejY2TWN1V2hqeW91WmtTa0FYYw?oc=5",
+   "fecha": "2026-11-22T08:41-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T10:21-03:00",
+   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/22/el-oficialismo-busca-aprobar-este-jueves-en-el-senado-la-suspension-de-las-paso-170889.html",
+   "revisada": true
+  },
   {
    "id": "07b893cbe2aa",
    "titulo": "Kicillof entregará 120 viviendas en Tres Arroyos",
@@ -122,6 +310,22 @@
    ],
    "visto": "2026-11-22T06:06-03:00",
    "url_original": "https://www.clarin.com/politica/harta-axel-camine-cadaver-cristina-exploto-kicillof-apura-acuerdo-massa_0_iAU48CVV1C.html",
+   "revisada": true
+  },
+  {
+   "id": "8559745921c7",
+   "titulo": "Massa reunió a distintos sectores del peronismo en San Fernando",
+   "medio": "Economis",
+   "medio_url": "https://economis.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSV9peW1CeERCay1KSExmN1BTOVMyZU81UmQyV2tQNklGM25oZ25aVTMtdzJtcFpod2V2dnhaS0J0Y1liTzBsWGdfZUJUZ1A4Y1BMc0RRU252dDV4VWdfWVprOGN6Q2F3ZzVmZU84V0tTUmU5QzVhSUZnVk0wR29OX3o5c04wb0M5V0ZXRmhrY0drQQ?oc=5",
+   "fecha": "2026-11-22T05:45-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Sebastián Galmarini\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://economis.com.ar/massa-reunio-a-distintos-sectores-del-peronismo-en-san-fernando/",
    "revisada": true
   },
   {
@@ -937,7 +1141,8 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdLcWpxZXhHVDZnS3UyVWtHUUdoUldtTkhsNUNnZ2hFX29XLTZqeXRXeWpCZEJ0ZHNqOEItWjl0RWFRbklieHd4a1BsOFhkOTVkSzNQbVpyNkZMNHM1VW5rWFBpenpjSG9SUUZQTnFoanIxaE9yaGsweGc0RjJTbkZyTGFfNGYwZ3hpSFBCVGpnbURneVdyaHpwWm5Sa3JhOUNNTWgxTDZITy1DbW9PVWs2aDQwaW5LU0dXSFphQTFtZndn0gG8AUFVX3lxTE5QWllBazNQazJxT1dYVy1xLWN0NjFPSUpWUDhaemJUZ1VtXzdlSXlVWnhBbkVfVVNOcjZkR2dlTTh4UHA1eFhZamZuVDd2cDBUdE1GdGZiVkZCSHdfeDgzNTROVUk4ZmJhbElGeXBqd0tzZ2pKM28xOExOMU1jdUh6bmxlZEkxWXdrSUpBVzZydkRDdVduUFdnaFVVTXR3ejNaem9WdTkxYlJrRkp6aWdLbE5NTzZZNFlQYkVF?oc=5",
    "fecha": "2026-11-21T12:09-03:00",
    "busquedas": [
-    "encuesta \"Sergio Massa\""
+    "encuesta \"Sergio Massa\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-21T18:59-03:00",
    "url_original": "https://grupolaprovincia.com/contenido/603626/una-nueva-encuesta-revela-un-cambio-en-el-clima-politico-crece-la-identificacion",
@@ -1077,6 +1282,20 @@
    ],
    "visto": "2026-11-21T14:05-03:00",
    "url_original": "https://www.cronista.com/columnistas/kicillof-quedo-afuera-de-la-foto-y-el-peronismo-empezo-a-discutir-como-llegar-a-2027/",
+   "revisada": true
+  },
+  {
+   "id": "1020caf1f012",
+   "titulo": "Axel Kicillof quiere mantener las PASO para negociar con Massa y Cristina",
+   "medio": "Primera Página",
+   "medio_url": "https://primerapagina.info",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcXNHNWU0RVZQem1DZVpNZjZ3OEpONzlpcldtWUVXbDE3RjVhTkQ2ZDZLMkJEV1NrY2xfS2FlbTBPZ1hWVFluZHVTWUdINXJvbi1CSWxDUGJVX0FtYkozcnlyakRoRThEMkpCdXdiU0o5aUhlTHRuNGxyYWM2N1ZOYklsSHNPY1FFT05sRlBjSFhJMXVqVVh2MlVZNDZ5aU1NUzRidGFqWTBMSU5JUlRlU0c3YjR1NHVrNTl3MVVwNnVrbkNwWWJHTER0Sm9fd2xy0gHfAUFVX3lxTE5OOG5WdDc5S0o1U21CalhDTGZoSFVySzBQV29keUoyZXNvdVJHc1BLcjVpR2pmY2FOQXVrTTd5X3VkTVYxVlc3SEFWSURzczdRNzZ1MklCOFdjRDBQdl9WZjRjRngzaWtXcVRUMG5vU0lZMS16RktWMV9hLTJKSzgtaFIwMXpFTWg2UEZZaWFZYlVmZzAyRTF4UWFtRGQxdWRoUzNwblpFS3VoMms1OS0wZDBFV2hEVWpRcFVMempNWlhOZElSVmFxRzZ1cXlaTXlrb25KYUdFa3Q0WDk1b00?oc=5",
+   "fecha": "2026-11-21T11:15-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://primerapagina.info/politica/axel-kicillof-quiere-mantener-las-paso-para-negociar-con-massa-y-cristina_a6b01a50ecd25aee28864583c",
    "revisada": true
   },
   {
@@ -9379,34 +9598,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://norteonline.com.ar/san-fernando-encuentro-peronista-dia-militancia/",
-   "revisada": true
-  },
-  {
-   "id": "cfb9c8c027af",
-   "titulo": "El peronismo camina hacia un frente anti-Javier Milei",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLVl4Ukt5WnVsSE50ekZsYnIzaFdwZDBSTjkydnh2d2ZIZU0wZDdxa09lYzlZeTJDVlNJWFNjTVVYU1N6SWpjdWY1N0xBWEFKN0xJUGV5Wms3cEhrTG14T0g2dXgzNjREc1YxRktTNjV2ZlVtQnd0c2gwQmo1QkpJeFBTX0k1Tzh1cGtPbFhaM1RXUFMtRGfSAZsBQVVfeXFMTmw3UWhycGk0dV84ZDlqR0xvZ2ljRVJwdVVjbmlPU2kzODBEcWJiTWw2RU1tMldsZUFxSTZOcWlTaW9IMm1vSG1OR2tzZzZWdkN2VmRhVGdSZ1JDX3dmd0R4aVFOTGx4dUs0eHpwZFl4V0dYeXhOQ2tDbVN4cUdfSVNnTTJ4VnBremRXRWJFdmk2WU1mMXJyazVRa3M?oc=5",
-   "fecha": "2026-11-15T10:08-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.letrap.com.ar/politica/el-peronismo-camina-un-frente-anti-javier-milei-n5428225",
-   "revisada": true
-  },
-  {
-   "id": "789a66437cc4",
-   "titulo": "El Frente Renovador abrió su local en Barranqueras: “Seguimos haciéndolo crecer en todo el Chaco”",
-   "medio": "CHACODIAPORDIA.COM",
-   "medio_url": "https://chacodiapordia.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXhJdzBETWNwYnpJQlVXMXBZMm9vYmx5UjZIQzdaSmFXUTZOdjNiX2RIY2JSZ3lteUUzeUJSTEZiZlJYbVM4ZldLYktPaENJT1dzeUMzbWxubXJQMXoyejM2TWxuekcxM0ZRWXY3TldzdW1Wenl5YW9rSGlsSnpSQm03OGd4bzBMUm16cjRYRVdIbS1vR2pkUUhtWXRwMzJTNDRWUmpFNGNVTkFBbU1tbEVtZmpHZ1ZlaTBhXzk0TQ?oc=5",
-   "fecha": "2026-11-15T09:19-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://chacodiapordia.com/el-frente-renovador-abrio-su-local-en-barranqueras-seguimos-haciendolo-crecer-en-todo-el-chaco/",
    "revisada": true
   }
  ]
