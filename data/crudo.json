@@ -1,9 +1,53 @@
 {
- "generado": "2026-11-22T18:03-03:00",
- "total": 712,
- "nuevas_ultima_corrida": 19,
- "errores": [],
+ "generado": "2026-11-22T19:02-03:00",
+ "total": 714,
+ "nuevas_ultima_corrida": 14,
+ "errores": [
+  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
+  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "fc8d6d20d11d",
+   "titulo": "El Gobierno negocia la suspensión de las PASO y Massa propone una interna digital",
+   "medio": "Identidad Correntina",
+   "medio_url": "https://www.identidadcorrentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaktoMEY3OEw2RU95NEg0VHpRR3NOYTZ6eGlMUGpQVFhrTEJDcjFmcjhTdHBCTFFrLVBQUEVEOUgwUUJva3R2TXVyTExJT2hfUTBtMHVZNjdvQzNsUjE0UnFvZERNWWVtZ2VMQ0RHTVpyWUZzbzBBTlpHNUJQNVo3V1VsQm5YWWtObjgwaEdaTTBrV0dlS2NkNVBEaWpMMjBtR2pjcFhEQ0lucFhzVTl2TkNPMy1oRmlKUEVBNGE1anF3OTJ3eUVDVWlnaG1qNzBTR1lZ?oc=5",
+   "fecha": "2026-11-22T18:57-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T19:01-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46882_el-gobierno-negocia-la-suspensin-de-las-paso-y-massa-propone-una-interna-digital.htm",
+   "revisada": true
+  },
+  {
+   "id": "d032b7cd5342",
+   "titulo": "Ciudad Futura y su 2027 de filo kirchnerista",
+   "medio": "Rosario Nuestro",
+   "medio_url": "https://www.rosarionuestro.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNk9nc0dQQWI3aWQwdVlsOUxqRjNzbzNGVjdfdUFsREZkeXBUVjJpdXdKWnlaRjg5SEtOZ1BqaW01QkFNUnh5X1lFQVg2aFNWMDYwU1lPMndpRzA4WTF3MkNaazdDOUQ4ZFhaaXFxYU5nLUtGSFNObFRVQkxwaVEzcQ?oc=5",
+   "fecha": "2026-11-22T18:23-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T19:01-03:00",
+   "revisada": true
+  },
+  {
+   "id": "3511f54d981a",
+   "titulo": "Cristina contra Clarín por una supuesta frase suya contra Kicillof",
+   "medio": "Bardeo.news",
+   "medio_url": "https://bardeo.news",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFNmOUpKNU1BblF2YWNMcUNLTlBxY3VlQndRNGV2UXBsRGoyOTFZVDA4YnpLZlB2SWV5TEFQV2tRck9Ndkd0Y0p4UzJkSTUyN1RkOERZY282SW5OQU55TXdDOUlwTVhBZUd5dWplZFExMU00M1phQ0d5ZklJb1RPVE1UYVlNSW5aT1dZM1lNRnZQbFY5czh2ejlrMmFyaE1sUmJiN0RBdmI3VUM2VHZYWjJJSllUNXdkbXV4MkhB0gHMAUFVX3lxTE9CcFB3YjVHZm1RM3F6UGVPcHVVZUREQzEwME9rSERaSmdHMkw4Q2RoaFV2YzUxWXJIX1pyX2lodGlkR2JleVVDbllVVFhiVUNxR01XTHJDNEhYSm5scDJPNmxhcDdQTjdVbDR3WXVSRTBiME1lT2l5ZHZwV21vbzRndFZzT0JXYVRGSVRiZzdCM1pGU3NHR0xYQ3owMnNqTVZHajByS0RjdWllZU15eTdwN19RX3JVbGNZa2pqelhBM183b2VKNU9vM3NiVA?oc=5",
+   "fecha": "2026-11-22T18:13-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T19:01-03:00",
+   "url_original": "https://bardeo.news/politica/cristina-contra-clarin-por-una-supuesta-frase-suya-contra-kicillof_a6b0353c4cd25aee28878cce1",
+   "revisada": true
+  },
   {
    "id": "b4479bfff783",
    "titulo": "Urtubey: Cristina «hoy no puede» ser la dirigente más competitiva del PJ",
@@ -70,7 +114,8 @@
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOalVZTDRRUFpzNHZ0dDZZcDhFRnpFbzUxTzZaSWp5VDlUaHJEWnFCTzFPal9ZWDlXdXVfWXNkUndRSnNBb2hwVGtNSm9PaFVLNjM0QUtGSmk3QTM5S25kUjZITmZ2WmdFYmQzUWpVeVFhaEVHM1puUWt3VmtuVWl5ZS03MWczNTZLN3VKbnJSTU5GRkZ5TUhQbEQ5ZDhJR2prT0lUTl9EV0FGSlhzSlBGd3oyR05XQmNkNzdtWnI0WHAzaWQwRkdjbWQ1ZEE1Wjk2MDFRdlhDN1hxTGVsQXl1RFI1dnBBTFFZcU1VakNTb3NLc25pT19GYU9wb3B2TFBWVkVV0gGSAkFVX3lxTE1wZmV1aE5DSWVqLXB1QV9oN3pUM1NBYkxTU3lYN3hsYkhZdXF4bmtYdUNfYV9DMWo0UVpPOG9QMWMtZjFXM3gyVU41NGN3dEV5eVVKSGw3SXNLRm5fbGloa2QzUFZFWGlwSUpXeVpleHpBTUVoby1rNUtDc0xZazVVcW03UnhOTU90UzBKVDFzalNMenlDYnNXTkxaNTk5bXo4dVRVdEs5Q1NGT0Z3dGlfT3NNOHVMY29fWmItckN4ZFRPX05QRWQ3N1RFaS1abml2dmp4aVg4QUpEUzJCS29iQ3F4ZnNXM1RJcHJ1VGsyUEY4bUo0cEYtZTFsdWY3T2hoX0c0and5U0hPdERNQU4yT3c?oc=5",
    "fecha": "2026-11-22T15:51-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-22T18:02-03:00",
    "url_original": "https://elcanciller.com/politica/el-peronismo-ante-la-inminente-suspension-de-las-paso--cristina-kirchner-se-une-a-massa-para-competirle-a-kicillof_a6b0334ce5425bc9af38e5edf",
@@ -189,7 +234,8 @@
    "fecha": "2026-11-22T13:25-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "massismo"
    ],
    "visto": "2026-11-22T14:04-03:00",
    "url_original": "https://www.codigobaires.com.ar/2026-11-22/guerrera-pidio-unidad-y-confirmo-el-respaldo-de-los-intendentes-massistas-a-kicillof-252006/",
@@ -347,7 +393,8 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnBoOFp3bk9yTVdEZU5KUFFvTERvLVBhcW1IeFRORWIwTUZveFR5dlpnakQ4NmhQdnNVenR2MWFvbHhob2tqcEFfeTZfTzFWNUxNOUl3UU45N0hJQmFlZ0VtSE9nS1VNZFkxVU5oQmMwZ254dnJLSng3V2p4dVgwcHFEbjlnZEZVaGlQbTNuZTllSGhWVEV0NERBNi1uS1VpSGE5bGVlODfSAbcBQVVfeXFMTVRyVnc0SG5kdy1iOGxGLVdFY1Z6cUJTYXdpTUdzNXo2RC00SlRuUkgwa0dOQzJnNXRnVWp0eUdQZXNlcVBWSVp3cUktbnFmT1E5Uy1BcjhHVkpWR3dzckdCREhySGJmbHJVVzZYc0szZDQ5M0JLMk5IaUxUVkE4czRLdXN1U2hwYXBNbi1vUXRnc2FWR0hpWmxwQmZiRFhQcG1MaFZlOUxDTU5IaFFBOGNHX0hnNlBZ?oc=5",
    "fecha": "2026-11-22T12:13-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "massismo"
    ],
    "visto": "2026-11-22T13:03-03:00",
    "url_original": "https://bardeo.news/politica/grabois-bardeo-al-peron-hecho-con-ia-que-uso-massa_a6b0303fccd25aee288756a37",
@@ -866,7 +913,8 @@
    "fecha": "2026-11-22T07:36-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-22T08:04-03:00",
    "url_original": "https://www.lanacion.com.ar/politica/la-estrategia-de-evitar-la-confrontacion-se-impone-en-el-kicillofismo-luego-de-quedar-afuera-del-nid22112026/",
@@ -10288,20 +10336,6 @@
    ],
    "visto": "2026-11-20T02:29-03:00",
    "url_original": "https://www.quepensaschacabuco.com/entrada/golia-participo-de-una-multitudinaria-fiesta-de-la-tradicion--38097/",
-   "revisada": true
-  },
-  {
-   "id": "ae9f6ffaedba",
-   "titulo": "ConstruccConcejo Deliberante de Tigre: el massismo tira la pelota a las redes digitales",
-   "medio": "De norte a norte",
-   "medio_url": "https://denorteanorte.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2x0QkVWcnVvUl9XbzlwV0dpYl9ZZlFDY1lmZHhhT1l6N0YzV3JuUFFKeE90bGNVLVh6c3VsV3MtdHdzS3F3LTJoeXI0OGJYeDVwclpBei1tMHE2dnB3Tk1fNHNNS3UwT0FBLU92cTgxSHNyX2cweFdUZDNOUndMcXMxUDNIanM5cHNEVmMxZnczUDVlWFpJQlVuMC1PRWFrRGtJSHF2RQ?oc=5",
-   "fecha": "2026-11-15T18:12-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://denorteanorte.com/concejo-deliberante-de-tigre-el-massismo-tira-la-pelota-a-las-redes-digitales/",
    "revisada": true
   }
  ]
