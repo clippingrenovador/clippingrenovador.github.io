@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-22T14:59-03:00",
- "total": 697,
- "nuevas_ultima_corrida": 18,
+ "generado": "2026-11-22T16:15-03:00",
+ "total": 704,
+ "nuevas_ultima_corrida": 21,
  "errores": [],
  "notas": [
+  {
+   "id": "0e501329c1c5",
+   "titulo": "La posible suspensión de las PASO abre interrogantes en la provincia de Buenos Aires y profundiza las tensiones en la Ciudad",
+   "medio": "TN",
+   "medio_url": "https://tn.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYWxaeWd3bDFLcTVNLWpRRzVDWHlLMU5oRWliN0FyQ2k1ZHViOHp2MmtyNXdleEZMWGhXdjRBNDduMTJYa01QVVpCQkhabWVvdzF6WHZyUzEwal9XazVEajRteS1YaG5vV1RsMFNYV091dld6RUlLRXpjb05mbHlGemtFVkJwMWFYZ2lQQ2RrWnVuSUtFV2dlOGpRaGRtN0EzT1AxbU9uX29Jb0lveUZQT1VtS0NtZEg1UW1vUWx4eXlPTVYtTzZkUVh3V2Rhb1FCNElLMzZMeUJiRDcybzRwREFHVTdsOFRNXzZtUjFqMm5vVU5FMHfSAYoCQVVfeXFMTmRuUjc4MmVNT1cwdGlFbFk3N3hVQ2REWm40NkxLeWxQcUktWmtDSW53aXRXenRBa3dtc2RtTWxla2U3SnU2eHNuWTk2YldoandUTHZ3d0pWRmpFMGd4SmdDcDc0Nmt3LVRhUW9BR2FDbG9KZi1NVjJlR3F5WVpWSWdrUDhsYXRGYUw1N3ViOWJZZEZpYVpiY3kyel81Z0xPNExRaVdJUHhoUWdoNlJ1cHVoYzBrUFdiSzFnOVczcEhkWVhadFFCMmsyU1BMRzNTX3B4NV8zalZkQjVXLUJMYXBDOTVGX2ZPSGJoMGFNZEVfQVJzNWtuNjcxTWZ0NHd2bzNWeVcyemI5MFE?oc=5",
+   "fecha": "2026-11-22T15:49-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
+   "revisada": true
+  },
+  {
+   "id": "c64f8f57bdce",
+   "titulo": "Milei acelera en el Congreso mientras crece la tensión económica y política",
+   "medio": "Identidad Correntina",
+   "medio_url": "https://www.identidadcorrentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSWxIMlRDRmlZOEhQN2V4UV9hb05hRDd2MV80a3hfWE95a1RkM0JNYzZacHcycUZCZVpzdG9vZ1NwOEQxc2hjT1pfdmpFY2xiWlhDSDlXVC1NR19pQWE1SEtBNlJSYkw3T3A2SzBkZVV5Y0MtdGQwenNkMV9yTEdDaEF1NmlpZmVNa0dhNTl4bUlVbG5PODdDMkVMVGdpNEFxdWdaazY3cFBOd2VqMWJFSzVyaGdRSmdCU0VWR04yWjBpbGhhUGhJYw?oc=5",
+   "fecha": "2026-11-22T15:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46874_milei-acelera-en-el-congreso-mientras-crece-la-tensin-econmica-y-poltica.htm",
+   "revisada": true
+  },
   {
    "id": "04b6ae730627",
    "titulo": "Cristina Kirchner liquidó a Axel Kicillof: \"Estoy harta de que camine sobre mi cadáver\"",
@@ -119,6 +148,20 @@
    ],
    "visto": "2026-11-22T14:04-03:00",
    "url_original": "https://elintransigente.com/2026/11/22/juan-grabois-destrozo-massismo-video-peron-ia-fue-dijo/",
+   "revisada": true
+  },
+  {
+   "id": "3dcf05019b78",
+   "titulo": "El plan de Javier Milei para las elecciones de 2027: las PASO, la interna del PJ y la disputa por las alianzas",
+   "medio": "Lmneuquen.com",
+   "medio_url": "https://www.lmneuquen.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMm55ZWJXUVNDb25ieUVjbHlSNU1fanpGNG50VHYyQWVBQ0ZIeDd0VmZIbU54Nlpka05PU3dzV3o2djdOakRNcHU4WVh0UmJId3NEWklsYjQ4cnJjMXh5VXJEOC1FQXU5UGpCb1hFY3lhM1V4TWdsZGVhbU9KWHNadm9jSEVDVzZfOE1YS1NXWno2SXI0OGF2QTljV3JJRFMzSTFUODhGV3JGZ25tOW02OHRHd2dOaWdoVnNlc19IMkUyc3p0bkxfX25fR25qODYydnQw0gHTAUFVX3lxTE4ybnllYldRU0NvbmJ5RWNseVI1TV9qekY0bnRUdjJBZUFDRkh4N3RWZkhtTng2WmRrTk9Td3NXejZ2N05qRE1wdThZWHRSYkh3c0RaSWxiNDhycmMxeHlVckQ4LUVBdTlQakJvWEVjeWEzVXhNZ2xkZWFtT0pYc1p2b2NIRUNXNl84TVhLU1daejZJcjQ4YXZBOWNXcklEUzNJMVQ4OEZXckZnbm05bTY4dEd3Z05pZ2hWc2VzX0gyRTJzenRuTF9fbl9Hbmo4NjJ2dDA?oc=5",
+   "fecha": "2026-11-22T13:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://www.lmneuquen.com/pais/el-plan-javier-milei-las-elecciones-2027-las-paso-la-interna-del-pj-y-la-disputa-las-alianzas-n1262191/amp",
    "revisada": true
   },
   {
@@ -251,6 +294,21 @@
    "revisada": true
   },
   {
+   "id": "7cecbefc6eeb",
+   "titulo": "La nueva política es poliamorosa",
+   "medio": "RosarioPlus",
+   "medio_url": "https://www.rosarioplus.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVBhNmhUaUJSVExBaDVOV2J6Sjk2Y2tFb3ZaZnVGc1Q0cjlGRTcyaHZLX21OSmxmX0VwdWZDMVVMLVpwT0ROQWhwTWZXWm5tSEZ0LTZEQkx3ZTRFVWkwMzduOV82bk5YN2pIem5GOGlhS2VLU3MxU0JSMDE0bmUzU2pzRWswR21seUpNR0VZZTg4eDBUMHE0NmRuN1FsMFJjMXdTc2NSazZPZ9IBuAFBVV95cUxOSC1kNTRLM2ZIcjFmOV9hUlpRMnZQQWY2UGk2c2FrR0hCVmVVQkRQcEJkRDdmSWR2N0NhekJqbVAzQXBrSXYwUzhtX2plSzdfaDdiRWJYc1l4Yk01YkVuVGdYQXM2Qm5md1lMNDhOcEZpcUMxb01sRHRETW5nMDVvU01PZnczUGhNRm9iZWZ2Tlp6aHdpNTVjcTNjVDhjaEloSVFveGMzamRsa3hzMXZKUGRmMEpSMzJl?oc=5",
+   "fecha": "2026-11-22T12:00-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://www.rosarioplus.com/actualidad/politica/la-nueva-politica-es-poliamorosa_a6b03028ecd25aee2887551e1",
+   "revisada": true
+  },
+  {
    "id": "650fd4aa84c4",
    "titulo": "Juan Manuel Urtubey pidió renovar el peronismo y marcó límites al liderazgo de Cristina Kirchner",
    "medio": "617 News",
@@ -319,6 +377,20 @@
    ],
    "visto": "2026-11-22T11:15-03:00",
    "url_original": "https://www.quepasaweb.com.ar/san-fernando-el-municipio-hara-obras-cinco-escuelas-provinciales-durante-el-verano-szn1/",
+   "revisada": true
+  },
+  {
+   "id": "056f050d60c5",
+   "titulo": "Reforma electoral: el Gobierno enfrenta tres desafíos en el Congreso y analiza el riesgo de un peronismo unido",
+   "medio": "https://www.lapapa.com.ar/",
+   "medio_url": "https://lapapa.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ3RMZ3FkNVJJX1IyTmRlemg2REQ2ekQySXNBU0xYbmg5dG5hVXVpcnhzTFY3dXNYUVFDNGctR09iRUdyQmNRdWtjTE50SG8wNVdKRGNhcW5JSGVuNmVVdnk5S3pLb1BlV1lkQVYtTFAxb2RvMFIxeGd1YkZmTUJCMnNVSzBsZFFvWmRnU3A3OUdCdlB6MF81NlhuWG5EUGROS0gxdmp0aE8xZWRienRnOEN2VnZjemp6MzN3OU5GUXhyMVE3MHg5dmNoNnRKZjdVTlM0SmxzS3pGZw?oc=5",
+   "fecha": "2026-11-22T10:39-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://lapapa.com.ar/nota/23016/reforma-electoral-el-gobierno-enfrenta-tres-desafios-en-el-congreso-y-analiza-el-riesgo-de-un-peronismo-unido",
    "revisada": true
   },
   {
@@ -458,6 +530,20 @@
     "\"Sergio Massa\""
    ],
    "visto": "2026-11-22T10:20-03:00",
+   "url_original": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
+   "revisada": true
+  },
+  {
+   "id": "a2eed9e0dddc",
+   "titulo": "Sin las PASO, el peronismo analiza cómo definir sus candidaturas para 2027",
+   "medio": "Opinando San Nicolás",
+   "medio_url": "https://www.opinandosannicolas.ar",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlBNWXdicElvOU1jaTUzOWZoV2wwTEZIM1JkTkVaU1VhTEQxZlg5ZWdsOUtfS2dZY0lrcGJ1YVVocml2cXNHb1dzSG1ralZuTXpmUHlXZlpEUGJ2ZHhPanhPbWJBNkREV0p1NTlnYUd2eTVFRWRyeGhpejZZb3hROEJmbw?oc=5",
+   "fecha": "2026-11-22T09:42-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
    "url_original": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
    "revisada": true
   },
@@ -638,6 +724,20 @@
    ],
    "visto": "2026-11-22T11:15-03:00",
    "url_original": "https://www.cronista.com/economia-politica/elecciones-2027-por-primera-vez-los-opositores-superan-a-los-indefinidos-y-milei-cae-en-dos-escenarios-de-balotaje/",
+   "revisada": true
+  },
+  {
+   "id": "774c3d3670eb",
+   "titulo": "Kicillof y su equipo eligen la calma tras la ausencia en el acto de Massa",
+   "medio": "Compacto Diario",
+   "medio_url": "https://compactodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDN5MXRwMS03VG15R3BCaU96QS1nYVJkZ0cxREZZOTRhcGtZaVN1YXA3MFRtcmVVd1RpdTFyRE5aSm4zQlBaYzNoem8zRlZaWlJYbU01NjJzRlotbjBnRVBJZnE5aW5MbVpSMjV6cElaNlY1RE9mWUVvbzRRMTR6OVZ1YzFNN3ZPc2tPRVVoemY3WWhQSUw2dXdJX2RNTDljY0dxZVY0RdIBpwFBVV95cUxQRDN5MXRwMS03VG15R3BCaU96QS1nYVJkZ0cxREZZOTRhcGtZaVN1YXA3MFRtcmVVd1RpdTFyRE5aSm4zQlBaYzNoem8zRlZaWlJYbU01NjJzRlotbjBnRVBJZnE5aW5MbVpSMjV6cElaNlY1RE9mWUVvbzRRMTR6OVZ1YzFNN3ZPc2tPRVVoemY3WWhQSUw2dXdJX2RNTDljY0dxZVY0RQ?oc=5",
+   "fecha": "2026-11-22T08:18-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T16:13-03:00",
+   "url_original": "https://compactodiario.com.ar/kicillof-y-su-equipo-eligen-la-calma-tras-la-ausencia-en-el-acto-de-massa/",
    "revisada": true
   },
   {
