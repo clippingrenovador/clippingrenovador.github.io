@@ -1,66 +1,207 @@
 {
- "id": "2026-11-21-22",
- "generado": "2026-11-21T21:33-03:00",
- "hora": "22",
+ "id": "2026-11-22-06",
+ "generado": "2026-11-22T06:10-03:00",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense. Según La Nación, la designación se concretó tras un acuerdo con el gobernador Axel Kicillof.",
+   "texto": "Según Clarín, Cristina Kirchner apura su acuerdo con Sergio Massa en medio de la tensión con el gobernador Axel Kicillof. Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo.",
+   "fuentes": [
+    {
+     "medio": "Clarín",
+     "url": "https://www.clarin.com/politica/harta-axel-camine-cadaver-cristina-exploto-kicillof-apura-acuerdo-massa_0_iAU48CVV1C.html"
+    },
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/"
+    }
+   ]
+  },
+  {
+   "texto": "Según El Tribuno, con las PASO casi descartadas, Massa suma apoyos dentro del PJ. Distintos medios analizan el impacto de la eliminación de las primarias en el peronismo.",
+   "fuentes": [
+    {
+     "medio": "El Tribuno",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-con-las-paso-casi-afuera-massa-engrosa-apoyos-dentro-del-pj/amp"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409/amp"
+    },
+    {
+     "medio": "qpasó",
+     "url": "https://qpaso.ar/noticias/eldiarioar/politica/peronismo-frente-eliminacion-paso-ahora_1_13681752.html"
+    }
+   ]
+  },
+  {
+   "texto": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador.",
    "fuentes": [
     {
      "medio": "La Nación",
      "url": "https://www.lanacion.com.ar/politica/tras-un-acuerdo-con-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-nid21112026/"
     },
     {
-     "medio": "Nexofin",
-     "url": "https://www.nexofin.com/notas/1303001-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-en-pleno-juicio-por-los-sauces-y-hotesur-n-/"
+     "medio": "El Esquiu",
+     "url": "https://www.elesquiu.com/politica/2026/11/21/maximo-kirchner-llego-a-un-acuerdo-con-kicillof-y-asumio-al-frente-del-congreso-del-pj-604305.html"
     }
    ]
   },
   {
-   "texto": "Según La Nación, Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre el gobernador. TN informa que Massa busca liderar el armado del peronismo para 2027.",
+   "texto": "La diputada nacional Natalia de la Sota cuestionó al presidente Javier Milei por el ajuste a las provincias y se refirió a las elecciones de 2027.",
    "fuentes": [
     {
-     "medio": "La Nación",
-     "url": "https://www.lanacion.com.ar/politica/peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-nid21112026/"
-    },
-    {
-     "medio": "TN",
-     "url": "https://tn.com.ar/politica/2026/11/21/el-pj-se-reorganiza-para-2027-y-massa-busca-liderar-el-armado-mientras-javier-milei-negocia-concesiones-con-los-gobernadores/"
-    }
-   ]
-  },
-  {
-   "texto": "El Frente Renovador continúa su organización en Tierra del Fuego: según La Licuadora TDF, Damián Loffler fue presentado como referente en la provincia.",
-   "fuentes": [
-    {
-     "medio": "www.lalicuadoratdf.com.ar",
-     "url": "https://www.lalicuadoratdf.com.ar/2026/11/massa-acelera-el-armado-federal-del-frente-renovador-rumbo-a-2027-loly-loffler-referente-massista-en-tierra-del-fuego/"
-    },
-    {
-     "medio": "Clarin.com",
-     "url": "https://www.clarin.com/politica/massa-acelera-armado-federal-frente-renovador-rumbo-2027-rearmo-partido-bendijo-hombre-tierra-fuego_0_8uBTR8SCA2.html"
-    }
-   ]
-  },
-  {
-   "texto": "En gestión, Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando y Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos.",
-   "fuentes": [
-    {
-     "medio": "REALPOLITIK",
-     "url": "https://realpolitik.com.ar/nota/75375/san-fernando-juan-andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas/"
-    },
-    {
-     "medio": "Ecos Diarios Necochea",
-     "url": "https://elecos.com.ar/el-intendente-de-tres-arroyos-pablo-garate-participo-de-actividades-por-la-soberania-y-la-educacion"
+     "medio": "El Intransigente",
+     "url": "https://elintransigente.com/2026/11/22/natalia-sota-cuestiono-javier-milei-ajuste-provincias-hablo-2027/"
     }
    ]
   }
  ],
  "temas": [
   {
+   "id": "massa-armado-formula-2027",
+   "titulo": "Según Clarín e Infobae, Cristina Kirchner expone su acuerdo con Massa",
+   "resumen": "Clarín informa que Cristina Kirchner apura su acuerdo con Sergio Massa en medio de la tensión con Axel Kicillof, e Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo. Según El Tribuno, con las PASO casi descartadas, Massa suma apoyos dentro del PJ. La Nación ya había señalado que Massa y Cristina Kirchner consolidan su alianza interna.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Clarín",
+     "titulo": "\"Estoy harta de que Axel camine sobre mi cadáver\": Cristina explotó contra Kicillof y apura su acuerdo con Massa",
+     "url": "https://www.clarin.com/politica/harta-axel-camine-cadaver-cristina-exploto-kicillof-apura-acuerdo-massa_0_iAU48CVV1C.html",
+     "fecha": "2026-11-22T06:01-03:00",
+     "dominio": "clarin.com"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Cristina Kirchner expone su acuerdo con Massa, el camino paralelo de Kicillof y un futuro incierto sin las PASO",
+     "url": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/",
+     "fecha": "2026-11-22T01:59-03:00",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Axel Kicillof",
+     "url": "https://www.lanacion.com.ar/politica/peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-nid21112026/",
+     "fecha": "2026-11-21T18:48-03:00",
+     "dominio": "lanacion.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "El Tribuno",
+     "url": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-con-las-paso-casi-afuera-massa-engrosa-apoyos-dentro-del-pj/amp",
+     "dominio": "eltribuno.com"
+    },
+    {
+     "medio": "PINAMAR 24",
+     "url": "https://www.pinamar24.com.ar/nota/2211202603104225/cristina-kirchner-y-sergio-massa-consolidan-su-acuerdo-mientras-kicillof-avanza-con-un-armado-propio",
+     "dominio": "pinamar24.com.ar"
+    },
+    {
+     "medio": "Informe Digital",
+     "url": "https://informedigital.com.ar/pulseda-interna-en-el-peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-kicillof/",
+     "dominio": "informedigital.com.ar"
+    },
+    {
+     "medio": "TN",
+     "url": "https://tn.com.ar/politica/2026/11/21/el-pj-se-reorganiza-para-2027-y-massa-busca-liderar-el-armado-mientras-javier-milei-negocia-concesiones-con-los-gobernadores/",
+     "dominio": "tn.com.ar"
+    },
+    {
+     "medio": "Clarin.com",
+     "url": "https://www.clarin.com/politica/voto-anti-milei-face-id-idea-crece-peronismo-ordenar-feroz-interna-candidaturas_0_SpCL5tolNx.html",
+     "dominio": "clarin.com"
+    },
+    {
+     "medio": "LA17",
+     "url": "https://lu17.com/contenido/158665/interna-peronista-massa-suma-apoyos-pero-el-kirchnerismo-lo-desafia",
+     "dominio": "lu17.com"
+    },
+    {
+     "medio": "Bardeo.news",
+     "url": "https://bardeo.news/politica/sin-paso-a-la-vista--massa-suma-aliados-y-kicillof-se-planta-como-favorito_a6b01ce5ecd25aee28866b340",
+     "dominio": "bardeo.news"
+    },
+    {
+     "medio": "HolaSalta Noticias",
+     "url": "https://holasalta.com/post/el-peronismo-busca-reorganizarse-para-2027-mientras-el-gobierno-nacional-enfrenta-tensiones/",
+     "dominio": "holasalta.com"
+    },
+    {
+     "medio": "DameNoticias",
+     "url": "https://www.damenoticias.com/nota/660235-el-peronismo-busca-reorganizarse-para-2027-en-medio-de-las-negociaciones-de-milei-con-los-gobernadores",
+     "dominio": "damenoticias.com"
+    },
+    {
+     "medio": "MDZ Online",
+     "url": "https://www.mdzol.com/politica/2026/11/21/massa-arma-un-frente-opositor-sin-definir-candidato-y-kicillof-quiere-disputar-el-liderazgo-en-las-paso-1996957.html",
+     "dominio": "mdzol.com"
+    },
+    {
+     "medio": "TN",
+     "url": "https://tn.com.ar/politica/2026/11/21/el-plan-de-kicillof-para-enfrentar-a-massa-en-la-provincia-y-la-nueva-disputa-con-maximo-kirchner-por-las-alianzas-electorales/",
+     "dominio": "tn.com.ar"
+    }
+   ],
+   "cantidad_notas": 14,
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "El peronismo ante la eliminación de las PASO",
+   "resumen": "Letra P y qpasó analizan cómo la posible eliminación de las primarias impacta en el peronismo y en el oficialismo. Bardeo.news repasa el escenario sin PASO y menciona una llamada entre Massa y Kicillof.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Letra P",
+     "titulo": "La guerra por las PASO desnuda a Javier Milei y al peronismo",
+     "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409/amp",
+     "fecha": "2026-11-22T00:00-03:00",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "qpasó",
+     "titulo": "El peronismo frente a la eliminación de las PASO: ¿y ahora qué?",
+     "url": "https://qpaso.ar/noticias/eldiarioar/politica/peronismo-frente-eliminacion-paso-ahora_1_13681752.html",
+     "fecha": "2026-11-22T00:00-03:00",
+     "dominio": "qpaso.ar"
+    },
+    {
+     "medio": "Bardeo.news",
+     "titulo": "El futuro sin PASO, la teoría de los cuartos y la llamada entre Massa y Kicillof",
+     "url": "https://bardeo.news/politica/el-futuro-sin-paso--la-teoria-de-los-cuartos-y-la-llamada-entre-massa-y-kicillof_a6b025bbfcd25aee2886f283d",
+     "fecha": "2026-11-22T01:29-03:00",
+     "dominio": "bardeo.news"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Inforama - Catamarca",
+     "url": "https://inforama.com.ar/opinion/2026/11/22/comenzo-el-operativo-huevos-en-todas-las-canastas-del-peronismo/",
+     "dominio": "inforama.com.ar"
+    },
+    {
+     "medio": "La Gaceta",
+     "url": "https://www.lagaceta.com.ar/nota/1163627/opinion/paso-paso.html",
+     "dominio": "lagaceta.com.ar"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
    "id": "sin-paso-la-interna",
    "titulo": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense",
-   "resumen": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador Axel Kicillof. InfoPlatense describe una semana en la que Massa armó su foto en San Fernando y Kicillof eligió un acto de gestión. Sobre las PASO bonaerenses, Perfil informó que el gobernador planea mantenerlas, mientras que Radio Master Luján indica que analiza suspenderlas.",
+   "resumen": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador Axel Kicillof. El Día analiza el doble desafío que afronta el gobernador. Sobre las PASO bonaerenses, Perfil informó que Kicillof planea mantenerlas, mientras que Radio Master Luján indica que analiza suspenderlas.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
@@ -74,11 +215,11 @@
      "dominio": "lanacion.com.ar"
     },
     {
-     "medio": "InfoPlatense",
-     "titulo": "Panorama político: Massa armó su foto, Kicillof eligió la gestión y Máximo asume por Zoom",
-     "url": "https://www.infoplatense.com.ar/panorama-politico-massa-armo-su-foto-kicillof-eligio-la-gestion-y-maximo-asume-por-zoom/",
-     "fecha": "2026-11-21T13:00-03:00",
-     "dominio": "infoplatense.com.ar"
+     "medio": "Diario El Día de La Plata",
+     "titulo": "El desafío doble que afronta Axel Kicillof y la disputa con un punto de acuerdo en Provincia",
+     "url": "https://www.eldia.com/opinion/el-desafio-doble-que-afronta-kicillof-y-la-disputa-con-un-punto-de-acuerdo-en-provincia-opinion_1795305836/amp",
+     "fecha": "2026-11-21T21:10-03:00",
+     "dominio": "eldia.com"
     },
     {
      "medio": "radio master lujan",
@@ -89,6 +230,16 @@
     }
    ],
    "otras": [
+    {
+     "medio": "El Esquiu",
+     "url": "https://www.elesquiu.com/politica/2026/11/21/maximo-kirchner-llego-a-un-acuerdo-con-kicillof-y-asumio-al-frente-del-congreso-del-pj-604305.html",
+     "dominio": "elesquiu.com"
+    },
+    {
+     "medio": "InfoPlatense",
+     "url": "https://www.infoplatense.com.ar/panorama-politico-massa-armo-su-foto-kicillof-eligio-la-gestion-y-maximo-asume-por-zoom/",
+     "dominio": "infoplatense.com.ar"
+    },
     {
      "medio": "Nexofin",
      "url": "https://www.nexofin.com/notas/1303001-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-en-pleno-juicio-por-los-sauces-y-hotesur-n-/",
@@ -125,97 +276,46 @@
      "dominio": "0264noticias.com.ar"
     }
    ],
-   "cantidad_notas": 10,
-   "vigente_desde": "2026-11-21T21:33-03:00",
-   "desde_hora": "22",
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
   },
   {
-   "id": "massa-armado-formula-2027",
-   "titulo": "Según La Nación, Massa y Cristina Kirchner consolidan su alianza interna",
-   "resumen": "La Nación sostiene que Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre Axel Kicillof. TN informa que el peronismo se reorganiza para 2027 y que Massa busca liderar el armado, mientras LA17 señala que suma apoyos pero el kirchnerismo lo desafía. Clarín describe la idea de un \"voto anti-Milei\" para ordenar la interna por las candidaturas.",
-   "tono": "mixto",
+   "id": "natalia-de-la-sota-cordoba",
+   "titulo": "Natalia de la Sota cuestionó a Milei por el ajuste a las provincias",
+   "resumen": "La diputada nacional cuestionó al presidente Javier Milei por el ajuste a las provincias y habló de las elecciones de 2027, según El Intransigente. Días atrás había sostenido en Perfil que no existe diálogo con el gobierno de Martín Llaryora.",
+   "tono": "positivo",
    "dirigentes": [
-    "Sergio Massa"
+    "Natalia de la Sota"
    ],
    "principales": [
     {
-     "medio": "La Nación",
-     "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Axel Kicillof",
-     "url": "https://www.lanacion.com.ar/politica/peronismo-massa-y-cristina-kirchner-consolidan-su-alianza-interna-y-vuelcan-la-presion-sobre-axel-nid21112026/",
-     "fecha": "2026-11-21T18:48-03:00",
-     "dominio": "lanacion.com.ar"
+     "medio": "El Intransigente",
+     "titulo": "Natalia de la Sota cuestionó a Javier Milei por el ajuste a las provincias y habló de 2027",
+     "url": "https://elintransigente.com/2026/11/22/natalia-sota-cuestiono-javier-milei-ajuste-provincias-hablo-2027/",
+     "fecha": "2026-11-22T02:27-03:00",
+     "dominio": "elintransigente.com"
     },
     {
-     "medio": "TN",
-     "titulo": "El peronismo se reorganiza para 2027 y Sergio Massa busca liderar el armado mientras Javier Milei negocia concesiones con los gobernadores en medio de las tensiones políticas",
-     "url": "https://tn.com.ar/politica/2026/11/21/el-pj-se-reorganiza-para-2027-y-massa-busca-liderar-el-armado-mientras-javier-milei-negocia-concesiones-con-los-gobernadores/",
-     "fecha": "2026-11-21T17:30-03:00",
-     "dominio": "tn.com.ar"
+     "medio": "Perfil",
+     "titulo": "Natalia de la Sota: \"Hoy no hay diálogo con la Provincia; primero hace falta voluntad\"",
+     "url": "https://www.perfil.com/cordoba/natalia-de-la-sota-hoy-no-hay-dialogo-con-la-provincia-primero-hace-falta-voluntad-aFXD44x4LHcL",
+     "fecha": "2026-11-20T18:45-03:00",
+     "dominio": "perfil.com"
     },
     {
-     "medio": "Clarin.com",
-     "titulo": "“Voto anti-Milei Face ID\": la idea que crece en el peronismo para ordenar la feroz interna por las candidaturas",
-     "url": "https://www.clarin.com/politica/voto-anti-milei-face-id-idea-crece-peronismo-ordenar-feroz-interna-candidaturas_0_SpCL5tolNx.html",
-     "fecha": "2026-11-21T16:08-03:00",
-     "dominio": "clarin.com"
+     "medio": "Perfil",
+     "titulo": "Tévez toma partido por Natalia de la Sota en medio de la presión de Massa sobre el PJ de Llaryora",
+     "url": "https://www.perfil.com/cordoba/tevez-toma-partido-por-natalia-de-la-sota-en-medio-de-la-presion-de-massa-sobre-el-pj-de-llaryora-akWfj4C66KgO",
+     "fecha": "2026-11-20T16:04-03:00",
+     "dominio": "perfil.com"
     }
    ],
-   "otras": [
-    {
-     "medio": "LA17",
-     "url": "https://lu17.com/contenido/158665/interna-peronista-massa-suma-apoyos-pero-el-kirchnerismo-lo-desafia",
-     "dominio": "lu17.com"
-    },
-    {
-     "medio": "Bardeo.news",
-     "url": "https://bardeo.news/politica/sin-paso-a-la-vista--massa-suma-aliados-y-kicillof-se-planta-como-favorito_a6b01ce5ecd25aee28866b340",
-     "dominio": "bardeo.news"
-    },
-    {
-     "medio": "HolaSalta Noticias",
-     "url": "https://holasalta.com/post/el-peronismo-busca-reorganizarse-para-2027-mientras-el-gobierno-nacional-enfrenta-tensiones/",
-     "dominio": "holasalta.com"
-    },
-    {
-     "medio": "Mnews",
-     "url": "https://mnews.com.ar/politica/185215-El-PJ-se-reorganiza-para-2027-y-Massa-busca-liderar-el-armado-mientras-Javier-Milei-negocia-concesiones-con-los-gobernadores",
-     "dominio": "mnews.com.ar"
-    },
-    {
-     "medio": "DameNoticias",
-     "url": "https://www.damenoticias.com/nota/660235-el-peronismo-busca-reorganizarse-para-2027-en-medio-de-las-negociaciones-de-milei-con-los-gobernadores",
-     "dominio": "damenoticias.com"
-    },
-    {
-     "medio": "MDZ Online",
-     "url": "https://www.mdzol.com/politica/2026/11/21/massa-arma-un-frente-opositor-sin-definir-candidato-y-kicillof-quiere-disputar-el-liderazgo-en-las-paso-1996957.html",
-     "dominio": "mdzol.com"
-    },
-    {
-     "medio": "TN",
-     "url": "https://tn.com.ar/politica/2026/11/21/el-plan-de-kicillof-para-enfrentar-a-massa-en-la-provincia-y-la-nueva-disputa-con-maximo-kirchner-por-las-alianzas-electorales/",
-     "dominio": "tn.com.ar"
-    },
-    {
-     "medio": "» Cholila Online",
-     "url": "https://cholilaonline.ar/2026/11/tension-maxima-en-el-pj-massa-suma-apoyos-y-kicillof-mide-fuerzas.html",
-     "dominio": "cholilaonline.ar"
-    },
-    {
-     "medio": "Radio LV11",
-     "url": "https://www.radiolv11.com.ar/noticia/kicillof-mueve-sus-fichas-para-2027-y-crece-la-interna-con-massa-y-maximo-kirchner",
-     "dominio": "radiolv11.com.ar"
-    },
-    {
-     "medio": "Identidad Correntina",
-     "url": "https://www.identidadcorrentina.com.ar/noticia/46769_peronismo-en-revisin-las-internas-massa-kicillof-y-el-desafo-milei.htm",
-     "dominio": "identidadcorrentina.com.ar"
-    }
-   ],
-   "cantidad_notas": 13,
-   "vigente_desde": "2026-11-21T21:33-03:00",
-   "desde_hora": "22",
+   "otras": [],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
    "sumado": "2026-11-20T22:48-03:00"
   },
   {
@@ -512,87 +612,33 @@
    "vigente_desde": "2026-11-21T08:13-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T22:48-03:00"
-  },
-  {
-   "id": "natalia-de-la-sota-cordoba",
-   "titulo": "Natalia de la Sota: “Hoy no hay diálogo con la Provincia”",
-   "resumen": "La diputada cordobesa sostuvo que no existe diálogo con el gobierno de Martín Llaryora y que primero hace falta voluntad política. Carlos Tévez expresó públicamente su apoyo en medio de la tensión con el PJ provincial.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    {
-     "medio": "Perfil",
-     "titulo": "Natalia de la Sota: \"Hoy no hay diálogo con la Provincia; primero hace falta voluntad\"",
-     "url": "https://www.perfil.com/cordoba/natalia-de-la-sota-hoy-no-hay-dialogo-con-la-provincia-primero-hace-falta-voluntad-aFXD44x4LHcL",
-     "fecha": "2026-11-20T18:45-03:00",
-     "dominio": "perfil.com"
-    },
-    {
-     "medio": "Perfil",
-     "titulo": "Tévez toma partido por Natalia de la Sota en medio de la presión de Massa sobre el PJ de Llaryora",
-     "url": "https://www.perfil.com/cordoba/tevez-toma-partido-por-natalia-de-la-sota-en-medio-de-la-presion-de-massa-sobre-el-pj-de-llaryora-akWfj4C66KgO",
-     "fecha": "2026-11-20T16:04-03:00",
-     "dominio": "perfil.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 2,
-   "vigente_desde": "2026-11-20T22:48-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T22:48-03:00"
-  },
-  {
-   "id": "giuliano-santa-fe",
-   "titulo": "Diego Giuliano: PASO, emergencia política y seguridad en Santa Fe",
-   "resumen": "En Urbana BA, Giuliano defendió las primarias y afirmó que el oficialismo le teme a las urnas. En Santa Fe planteó que la provincia atraviesa una emergencia política y cuestionó el paquete de seguridad del gobernador Pullaro por el riesgo de nulidades en las causas.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Diego Giuliano"
-   ],
-   "principales": [
-    {
-     "medio": "La Noticia Web",
-     "titulo": "En Urbana BA, Giuliano defendió las PASO y lanzó: «Le tienen miedo a la urna»",
-     "url": "https://www.lanoticiaweb.com.ar/en-urbana-ba-giuliano-defendio-las-paso-y-lanzo-le-tienen-miedo-a-la-urna/",
-     "fecha": "2026-11-20T19:27-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "Aire de Santa Fe",
-     "titulo": "Diego Giuliano: Estamos en una emergencia política que obliga a dar respuestas extraordinarias",
-     "url": "https://www.airedesantafe.com.ar/actualidad/diego-giuliano-estamos-una-emergencia-politica-que-obliga-dar-respuestas-extraordinarias-n677512",
-     "fecha": "2026-11-20T13:30-03:00",
-     "dominio": "airedesantafe.com.ar"
-    },
-    {
-     "medio": "Sin Mordaza",
-     "titulo": "Giuliano cuestionó el paquete de seguridad de Pullaro: \"Una ley no puede beneficiar a los delincuentes\"",
-     "url": "https://sinmordaza.com/noticia/526078-giuliano-cuestiono-el-paquete-de-seguridad-de-pullaro-una-ley-no-puede-beneficiar-a-los-delincuentes.html",
-     "fecha": "2026-11-20T13:42-03:00",
-     "dominio": "sinmordaza.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "CFIN Noticias",
-     "url": "https://www.cfin.com.ar/politica/diego-giuliano-criticas-pullaro-deuda-santa-fe/",
-     "dominio": "cfin.com.ar"
-    },
-    {
-     "medio": "Novedades del Sur",
-     "url": "https://novedadesdelsur.com.ar/contenido/94820/diego-giuliano-advierte-sobre-emergencia-politica-y-deuda-en-santa-fe",
-     "dominio": "novedadesdelsur.com.ar"
-    }
-   ],
-   "cantidad_notas": 5,
-   "vigente_desde": "2026-11-20T22:48-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T14:51-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/marinadorotea/status/2124283570046841239",
+   "autor": "@marinadorotea",
+   "nota": "Marina Salzmann, sobre el deterioro del transporte.",
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe.",
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
+   "autor": "@MichelGuilleOK",
+   "nota": "Amparo por las rutas nacionales de Entre Ríos.",
+   "vigente_desde": "2026-11-22T06:10-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-20T22:48-03:00"
+  },
   {
    "url": "https://x.com/MichelGuilleOK/status/2124230822983356687",
    "autor": "@MichelGuilleOK",
@@ -640,22 +686,6 @@
    "vigente_desde": "2026-11-21T08:13-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2123944776139428350",
-   "autor": "@marinadorotea",
-   "nota": "Marina Salzmann, sobre las horas que pierden los trabajadores del oeste en el transporte.",
-   "vigente_desde": "2026-11-20T22:48-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T22:48-03:00"
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
-   "autor": "@MichelGuilleOK",
-   "nota": "La Justicia admitió el amparo de Guillermo Michel por las rutas nacionales de Entre Ríos.",
-   "vigente_desde": "2026-11-20T22:48-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T22:48-03:00"
   }
  ],
  "entrevistas": [
@@ -705,8 +735,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 75,
-  "medios": 56,
+  "notas_analizadas": 84,
+  "medios": 64,
   "temas": 10
  }
 }
