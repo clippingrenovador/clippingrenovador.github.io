@@ -1,177 +1,52 @@
 {
- "hora": "14",
+ "hora": "22",
  "claves": [
-  {
-   "texto": "El PJ bonaerense realiza este sábado su congreso partidario. Según DataClave y Diario Anticipos, Máximo Kirchner será designado presidente del Congreso del partido.",
-   "fuentes": [
-    "89e52748f6ac",
-    "7cd64bf38bfe"
-   ]
-  },
-  {
-   "texto": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Axel Kicillof en La Plata y pidió unidad en el peronismo.",
-   "fuentes": [
-    "1f1ce72bae11"
-   ]
-  },
-  {
-   "texto": "Según TN y Perfil, ante la posible suspensión de las PASO nacionales, el gobernador evalúa mantener las primarias en la Provincia para definir candidaturas en una interna.",
-   "fuentes": [
-    "39b378544b20",
-    "8efdbf702e31"
-   ]
-  },
-  {
-   "texto": "Cecilia Moreau reiteró que, con o sin PASO, el peronismo irá unido a la elección. Juan Andreotti detalló las cinco escuelas de San Fernando que serán renovadas.",
-   "fuentes": [
-    "73c742facabb",
-    "c7aa7b5c889e"
-   ]
-  }
+  {"texto": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense. Según La Nación, la designación se concretó tras un acuerdo con el gobernador Axel Kicillof.", "fuentes": ["c39e46ffb1d1", "8572114e9fb4"]},
+  {"texto": "Según La Nación, Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre el gobernador. TN informa que Massa busca liderar el armado del peronismo para 2027.", "fuentes": ["ff4882b1dc02", "e0fa8f4847fa"]},
+  {"texto": "El Frente Renovador continúa su organización en Tierra del Fuego: según La Licuadora TDF, Damián Loffler fue presentado como referente en la provincia.", "fuentes": ["718f86c3fa82", "c852c18e0925"]},
+  {"texto": "En gestión, Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando y Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos.", "fuentes": ["3b5f2fb23155", "c61da54202e3"]}
  ],
  "retirar": [],
  "temas": [
-  {
-   "id": "sin-paso-la-interna",
-   "titulo": "Congreso del PJ bonaerense y PASO: la discusión por las candidaturas de 2027",
-   "resumen": "El PJ bonaerense realiza este sábado su congreso partidario y, según DataClave, Máximo Kirchner será designado presidente del Congreso del partido. TN y Perfil informan que Kicillof evalúa mantener las PASO en la Provincia para competir en una interna, mientras MDZ sostiene que Massa arma un frente opositor sin definir candidato. El Cronista señala que el peronismo empezó a discutir cómo llegar a 2027.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "39b378544b20",
-    "89e52748f6ac",
-    "8efdbf702e31"
-   ],
-   "otras": [
-    "45cad97fa30e",
-    "bcd8de8677c7",
-    "7cd64bf38bfe",
-    "0c63dbc8e1ee",
-    "762013da1cc4",
-    "01c37242cdbc",
-    "b928033e121f",
-    "77d9580083d2",
-    "4682a095bc2f",
-    "b6fb776871d8",
-    "250b2ff21bec",
-    "d7a0823e28ce",
-    "7b0fa285eda0",
-    "369a1776d772",
-    "d4acb9b05402",
-    "b0ab9197ae08",
-    "a9ee4dc0aaba",
-    "8cb88f734a31",
-    "66053672bed9",
-    "852e224c9964",
-    "c5e431352ace",
-    "f1e3ab8cc762",
-    "1f667aa40337",
-    "599f28e4fa54",
-    "402c0f7155ba"
-   ]
-  },
-  {
-   "id": "san-fernando-reordena-el",
-   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
-   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa",
-    "Alexis Guerrera",
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "1f1ce72bae11",
-    "ab00192983fb",
-    "ced4bbfd43aa"
-   ],
-   "otras": [
-    "798fa27100f2",
-    "0e072cb13b4f",
-    "d1e551eac8d2",
-    "4de08fa663d6",
-    "47607e29b920",
-    "ac5a556b9c95",
-    "78ef112c5d60",
-    "6924eb102826",
-    "4c59c5e66fae",
-    "57fbd70d76f7"
-   ]
-  },
-  {
-   "id": "cecilia-moreau-va-a",
+  {"id": "sin-paso-la-interna",
+   "titulo": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense",
+   "resumen": "Máximo Kirchner asumió la presidencia del Congreso del PJ bonaerense; según La Nación, tras un acuerdo con el gobernador Axel Kicillof. InfoPlatense describe una semana en la que Massa armó su foto en San Fernando y Kicillof eligió un acto de gestión. Sobre las PASO bonaerenses, Perfil informó que el gobernador planea mantenerlas, mientras que Radio Master Luján indica que analiza suspenderlas.",
+   "tono": "mixto", "dirigentes": ["Sergio Massa"],
+   "principales": ["c39e46ffb1d1", "9810b4b0e9c3", "250b2ff21bec"],
+   "otras": ["8572114e9fb4", "7cd64bf38bfe", "89e52748f6ac", "1f1ce72bae11", "b928033e121f", "77d9580083d2", "2a6c972afe5d"]},
+  {"id": "massa-armado-formula-2027",
+   "titulo": "Según La Nación, Massa y Cristina Kirchner consolidan su alianza interna",
+   "resumen": "La Nación sostiene que Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre Axel Kicillof. TN informa que el peronismo se reorganiza para 2027 y que Massa busca liderar el armado, mientras LA17 señala que suma apoyos pero el kirchnerismo lo desafía. Clarín describe la idea de un \"voto anti-Milei\" para ordenar la interna por las candidaturas.",
+   "tono": "mixto", "dirigentes": ["Sergio Massa"],
+   "principales": ["ff4882b1dc02", "e0fa8f4847fa", "7c4a45712a9e"],
+   "otras": ["93a1585e10ec", "de0629d2372f", "86989c43e548", "e21a334f9bdc", "69e51c8b1b6c", "45cad97fa30e", "39b378544b20", "4682a095bc2f", "01c37242cdbc", "12285d3a83ff"]},
+  {"id": "el-frente-renovador-arma",
+   "titulo": "El Frente Renovador suma estructura en las provincias",
+   "resumen": "Según La Licuadora TDF, Damián Loffler fue presentado como referente del Frente Renovador en Tierra del Fuego, donde Alejandro Deanes quedó al frente del partido. En Río Negro, el vicegobernador Pedro Pesatti evalúa ser candidato a gobernador por el Frente Renovador.",
+   "tono": "positivo", "dirigentes": ["Sergio Massa", "Alejandro Deanes", "Pedro Pesatti"],
+   "principales": ["718f86c3fa82", "df24d520af64", "d214658a0550"],
+   "otras": ["c852c18e0925"]},
+  {"id": "gestion-universidad-en-san",
+   "titulo": "Gestión: escuelas en San Fernando y actividades por la soberanía en Tres Arroyos",
+   "resumen": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
+   "tono": "positivo", "dirigentes": ["Juan Andreotti", "Pablo Garate", "Darío Golía"],
+   "principales": ["3b5f2fb23155", "c61da54202e3", "83873b559481"],
+   "otras": ["46994d945931", "5a2a1253a778"]},
+  {"id": "cecilia-moreau-va-a",
    "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
-   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias, y llamó a construir un frente contra el Gobierno de Javier Milei. También cuestionó el proyecto de Presupuesto. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    "a1632ef81952",
-    "b0345b304894",
-    "c0d46adcdf12"
-   ],
-   "otras": [
-    "73c742facabb",
-    "99e9d9cbf2b8",
-    "efa31e7b432b",
-    "6fb3218f269c",
-    "1fac97724d02",
-    "e1feda9da338",
-    "92fcfd32e28f",
-    "7ebd72f9444d",
-    "7f73794a5d6b",
-    "b559f17df80d"
-   ]
-  },
-  {
-   "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: escuelas en San Fernando, nueva fiscalía en Chacabuco y el reclamo vecinal en Martínez",
-   "resumen": "Juan Andreotti anunció cuáles son las cinco escuelas de San Fernando que serán renovadas de forma integral durante el verano. Darío Golía inauguró junto a Conte Grand la nueva Fiscalía Descentralizada de Chacabuco. Sebastián Galmarini sumó su apoyo al reclamo de la Asamblea Cheeky por el predio de Martínez, y Pablo Garate acompañó actos escolares por el Día de la Soberanía en Tres Arroyos.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti",
-    "Darío Golía",
-    "Sebastián Galmarini",
-    "Pablo Garate"
-   ],
-   "principales": [
-    "c7aa7b5c889e",
-    "83873b559481",
-    "fd58ac22c9ab"
-   ],
-   "otras": [
-    "5a2a1253a778",
-    "3423a4d75f90",
-    "bf021e29b6f3",
-    "d935989ebdc9",
-    "f900f928ae5f",
-    "e9b6b874053d",
-    "7f26dc382791",
-    "882b8ea0c36d",
-    "b5b888e4e0fe",
-    "11c080b93de5",
-    "d6e4b8d0a755",
-    "0851b0e47330",
-    "9eb26b1d72d4"
-   ]
-  }
+   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
+   "tono": "positivo", "dirigentes": ["Cecilia Moreau"],
+   "principales": ["c0d46adcdf12", "73c742facabb"],
+   "otras": []},
+  {"id": "guillermo-michel-se-suma",
+   "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
+   "resumen": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en el Consejo de la Magistratura. Según Perfil, el peronismo se queda con seis integrantes en el organismo.",
+   "tono": "positivo", "dirigentes": ["Guillermo Michel"],
+   "principales": ["b40e355e4a62", "54a52a66974c", "d38e33357443"],
+   "otras": []}
  ],
  "redes": [
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124144573446303919",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano advirtió sobre el endeudamiento de Santa Fe."
-  }
+  {"url": "https://x.com/MichelGuilleOK/status/2124230822983356687", "autor": "@MichelGuilleOK", "nota": "Guillermo Michel, sobre las rutas nacionales en Entre Ríos."}
  ],
- "entrevistas": [
-  {
-   "video_id": "L9dBSGtbhqM"
-  },
-  {
-   "video_id": "oFEeRoHKfdI"
-  }
- ]
+ "entrevistas": []
 }
