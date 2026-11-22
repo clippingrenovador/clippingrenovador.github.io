@@ -284,6 +284,24 @@ def rastrillar_tuits(notas_nuevas):
     print(f"Tuits: {revisadas} notas revisadas, {errores} sin poder abrir, {len(tuits)} tuits guardados")
 
 
+def procesar_busqueda(consulta, por_id, lista_nuevas):
+    nuevas = 0
+    for nota in leer_feed(consulta):
+        if not nota["titulo"]:
+            continue
+        if nota["id"] in por_id:
+            previa = por_id[nota["id"]]
+            if nota["busqueda"] not in previa.get("busquedas", []):
+                previa.setdefault("busquedas", []).append(nota["busqueda"])
+            continue
+        nota["busquedas"] = [nota.pop("busqueda")]
+        nota["visto"] = datetime.now(ART).isoformat(timespec="minutes")
+        por_id[nota["id"]] = nota
+        lista_nuevas.append(nota)
+        nuevas += 1
+    return nuevas
+
+
 def main():
     try:
         rastrillar_videos()
@@ -294,25 +312,25 @@ def main():
         previas = json.loads(CRUDO.read_text(encoding="utf-8")).get("notas", [])
     por_id = {n["id"]: n for n in previas}
 
-    nuevas, errores, lista_nuevas = 0, [], []
-    for consulta in BUSQUEDAS:
-        try:
-            for nota in leer_feed(consulta):
-                if not nota["titulo"]:
-                    continue
-                if nota["id"] in por_id:
-                    previa = por_id[nota["id"]]
-                    if nota["busqueda"] not in previa.get("busquedas", []):
-                        previa.setdefault("busquedas", []).append(nota["busqueda"])
-                    continue
-                nota["busquedas"] = [nota.pop("busqueda")]
-                nota["visto"] = datetime.now(ART).isoformat(timespec="minutes")
-                por_id[nota["id"]] = nota
-                lista_nuevas.append(nota)
-                nuevas += 1
-        except Exception as e:  # una busqueda caida no frena al resto
-            errores.append(f"{consulta}: {e}")
-        time.sleep(1.5)
+    nuevas, lista_nuevas, fallos = 0, [], {}
+    pendientes = list(BUSQUEDAS)
+    for vuelta in range(3):  # las busquedas bloqueadas (429) se reintentan con pausa
+        if not pendientes:
+            break
+        if vuelta:
+            time.sleep(45 * vuelta)
+        fallidas = []
+        for consulta in pendientes:
+            try:
+                nuevas += procesar_busqueda(consulta, por_id, lista_nuevas)
+                fallos.pop(consulta, None)
+            except Exception as e:  # una busqueda caida no frena al resto
+                fallos[consulta] = f"{consulta}: {e}"
+                if "429" in str(e) or "timed out" in str(e).lower():
+                    fallidas.append(consulta)
+            time.sleep(2.5)
+        pendientes = fallidas
+    errores = list(fallos.values())
 
     try:
         rastrillar_tuits(sorted((n for n in por_id.values() if not n.get("revisada")), key=lambda n: n["fecha"], reverse=True))
