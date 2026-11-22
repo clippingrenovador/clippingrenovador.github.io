@@ -1,9 +1,25 @@
 {
- "generado": "2026-11-22T06:07-03:00",
- "total": 643,
- "nuevas_ultima_corrida": 21,
- "errores": [],
+ "generado": "2026-11-22T07:07-03:00",
+ "total": 644,
+ "nuevas_ultima_corrida": 20,
+ "errores": [
+  "\"Frente Renovador\": HTTP Error 429: Too Many Requests"
+ ],
  "notas": [
+  {
+   "id": "cf18dac2a54a",
+   "titulo": "Kicillof evalúa suspender las PASO bonaerenses en medio de la interna",
+   "medio": "Identidad Correntina",
+   "medio_url": "https://www.identidadcorrentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFpDSHpSYldkN2dSb3RUY3labHZleXpCMmJIelFqMGp1TkFlSVA4bElRNzNPVU45RXJjRzJTTS1fTm9TTUFpbGpVYjlpX0hVc01ianpNM1pxbmd4bWt6bkU5NldtZTROXzFheFdoWGtZY0VhV01NeXl0UUI3NUVhVGVuU3ZoWXlHb1gxQTdHbmRudS1SSHpmRjBydWJEaU9TSXZRSEhyYnRJSmF1UmYycUxZWExDX1VlZmtkSHluZ3plWTg?oc=5",
+   "fecha": "2026-11-22T06:06-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T07:06-03:00",
+   "url_original": "https://www.identidadcorrentina.com.ar/noticia/46843_kicillof-evala-suspender-las-paso-bonaerenses-en-medio-de-la-interna.htm",
+   "revisada": true
+  },
   {
    "id": "37b20e430bc8",
    "titulo": "\"Estoy harta de que Axel camine sobre mi cadáver\": Cristina explotó contra Kicillof y apura su acuerdo con Massa",
