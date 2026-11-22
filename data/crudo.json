@@ -1,12 +1,29 @@
 {
- "generado": "2026-11-22T19:02-03:00",
- "total": 714,
- "nuevas_ultima_corrida": 14,
+ "generado": "2026-11-22T20:02-03:00",
+ "total": 718,
+ "nuevas_ultima_corrida": 15,
  "errores": [
-  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
-  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
+  "\"Sergio Massa\": HTTP Error 429: Too Many Requests",
+  "\"Jóvenes FR\": HTTP Error 429: Too Many Requests",
+  "\"Juventud del Frente Renovador\": HTTP Error 429: Too Many Requests",
+  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
+  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
+  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
  ],
  "notas": [
+  {
+   "id": "4eb57524cd27",
+   "titulo": "El peronismo se encamina hacia una interna entre Massa y Kicillof: qué opciones tiene para definir candidato sin PASO",
+   "medio": "TN",
+   "medio_url": "https://tn.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTR5TUcyb0ZKaVRmLWlMaUhpLWVNcXJtTF9PcTQyc2FCdDA1MkJEUWRuTk5iTkFmbnVMTHUzcjBOQjNZSmZnVkp1T1ZtVDgybWFNWjNTc0Y4ZHIzUGdHdl9jRUNTd3VoRXZxdFAzbkNQVXEtajQ5QzRtRnd3VFgtLTZ5WHJzR1Y3STU0SU83LV8tekFNSVRKWGRQcU1BTFNHaWtxOXEzN1BPLXZ6ZldTV053anhMR28yZjhRRHBraUQ5LVo3ZEhaTkVBRDdvdW1aWHlUUGNWaGtvWXVXTE9ZT1Btak1Fd9IB-gFBVV95cUxNLWQ5RTZCa3FpZEtldERVbnVHUDhQNXNVaUg5cUtHSEFMVVlWVmMyQkFhTWRVZnRGbHBiYWlleEJQeU1IQ19ORmNHQS1raTdWTDFkX3hQazZNcWFCc2ZWMTdKLVdKazFvcDk1NXc4VnI5UmhBNjVVa0cyRG55T2lFUV9LRUxFdEY0TWVQTWRWSU5CVUl6WjBYYnV6RzYybVhNYkdCLUstSkpsQkFBZXVkZWwyWXFabnprNWJRMDZHRHZ1bUFBV0V1VmVSVlJfOFJBT0FaeFFsOV9lTlRxZEt3QUtkSW4zeFNDOUJDeWx2bFhHaDlCVHdRRWVn?oc=5",
+   "fecha": "2026-11-22T19:20-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:01-03:00",
+   "revisada": true
+  },
   {
    "id": "fc8d6d20d11d",
    "titulo": "El Gobierno negocia la suspensión de las PASO y Massa propone una interna digital",
@@ -133,6 +150,19 @@
    ],
    "visto": "2026-11-22T16:13-03:00",
    "url_original": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
+   "revisada": true
+  },
+  {
+   "id": "7e16ff88c9b1",
+   "titulo": "El PJ bonaerense selló una tregua interna y designó a Máximo Kirchner al frente del Congreso partidario",
+   "medio": "El Teclado",
+   "medio_url": "https://www.elteclado.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd250MGdTTHc1V0tKcVZqcThRdXV3eDZEbk1pd2Zzd0xtSkRKMWZJMl9YR3RCSnhaVnV1UndiazgwWkxvbnVHTWhhaDJMSWxSQjlCRjhXbENwOWV3ODNNMUZlYUhuTVBhRGladThFb0hldDh1Mnc2UXk2UFlOTlZlbkJiTDBJRTdfU2ZlYkJDLWJKaExwbnRpbktUWHItaDVZSlBHb2hnejJ4U0d3QmZMYnhpMlRGVS1oZVMxTXhTRkx1cTRRVjM5d2k5amxCOWxXdFQyM2xjMlZuR2dyQkNWOVZn0gHnAUFVX3lxTE43ZzItU2dHbDB3bVI4d0g3Q05SWjg1VVAwLVdUZFZWcXR5QnlWMGptSXd3M1FuN2lPREFLM0F5VEZTVnRiam5IQzg0ZkxUSDJBRHZMMi1KcFpRTlh1dnZJTHlUX2J6SVEwNXdGR1hadk5Jb0hQdTJ5Smg4VmFpRXBseWFidlhpVkdwYk5VQ3FjTlRaUTlYOU9GS3FsT0NPMnpZTTRCRjZ5ZVJONzVLd2lLY0NSTWljQWtDbUNVUEwyUzlBUk56Y09QVzhSQmpIUHByRVB6dDZfcTduemNqOEFYN0ZsYjZHTQ?oc=5",
+   "fecha": "2026-11-22T15:31-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:01-03:00",
    "revisada": true
   },
   {
@@ -357,6 +387,20 @@
    "revisada": true
   },
   {
+   "id": "6acd448ea4dc",
+   "titulo": "Massa suma respaldos dentro del PJ y crece la tensión con Kicillof por las PASO de 2027",
+   "medio": "Voces Criticas - Salta",
+   "medio_url": "https://www.vocescriticas.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEZwOTVvLXBqRE5rcHY2RXplR0Z2djM4Zl9YS3ZXNnZyTktTNFBEckFIek96YmllNDAyOEc0RUJObDlaeWgyN2gyLWtvN0kyMTdGd2twTDR0bXBZNEJMYXRWbG5OUW85aVdHdGJ5bnp3alNWODV6Uk9GRE9PRm95RTI4blQ3ZWtCcllCVlMtWlZ0TjF5MlJPdlIxY0U4MlV3LUROQWszRGZtMHh3d2h2TFBZY2dvNl9SMERZaGxpSDdRMnpjWVJ5TW1BUVJjak5VLUpCd3dpTGZKZGs20gHiAUFVX3lxTE83Xy1LOWN4d1ZTdDJPaVpvVVJHZHQ4YzJTQkNKZUtVLURRVU5tQTEyU0dFVm5CZDBld2k0Nm9EQl9SSWxQVDg3WEVCLXhFVDhfeU1yNmhvYjJKTFZMeDBTN0hwQ1p4OHMxTXM0LUUxTjJmai1GeF9RSWFnUG5rVkc4SUtNMkxySlpxenNfaVNnMTMyWFRoSE9NYW1TMXdJcWgwMHRzRVhxbmp5QkF0bUJsR0VJUjBxSXhkSGtfVGtxNHh6Y0E3OXZFc3RKcUg2Yk5RWTNudERKV1A1eDlwdDhCS0E?oc=5",
+   "fecha": "2026-11-22T12:29-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:01-03:00",
+   "url_original": "https://www.vocescriticas.com/noticias/2026/11/22/227346-massa-suma-respaldos-dentro-del-pj-y-crece-la-tension-con-kicillof-por-las-paso-de-2027",
+   "revisada": true
+  },
+  {
    "id": "c3a381c16098",
    "titulo": "Tensión en el PJ: Cristina Kirchner cuestionó a Axel Kicillof y acelera un acuerdo político con Sergio Massa",
    "medio": "Diario Río Negro",
@@ -441,6 +485,20 @@
    ],
    "visto": "2026-11-22T16:13-03:00",
    "url_original": "https://www.rosarioplus.com/actualidad/politica/la-nueva-politica-es-poliamorosa_a6b03028ecd25aee2887551e1",
+   "revisada": true
+  },
+  {
+   "id": "994745be471a",
+   "titulo": "El cálculo político de Milei detrás de la suspensión de las PASO: reelección, divisiones del PJ y control de las listas",
+   "medio": "TN",
+   "medio_url": "https://tn.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU25mak9iUlV6NnZKZUIzQU1VUHh1UGo2M0xiaUxNWS1CX2pJLTkxeXFBUUZpSVl4Q3RkOERLSGdfYlNKS3p3ZmhsWnAyUEtKeTBpRlJsUmRkLXBHajVjcjFWMldNbjljd2lUV1drSzhxRVgyRTltcTJpclRXYXVfdUxkMk5HdFJUbk5hMWoyYy1iME10cC1EQWdlamNZQ21BSWp4aW5hNHNOQnR5ajBVY25CNzNnSWw0WEJUUG5LOXVNNThxWml3dVdTdll2QTRNbjBDREZsVVFKdzJxMHJ4aXBZVWdZUGw2OC1LQ9IBgAJBVV95cUxOazRuVEpVMklMZ2xnNGtnVzBQbzVELS1LNHpVZW5ZUlV6X1ZCc0ZqVXlGZ1VaZnlvQ0F2ZUNzOTBQcW1iN25tREd3TTl1cWNlOWJFWXBRZk5GRDBVRXltaG1FWC1rNWZySmRNZ1BLYWZnTWUySGI2dHJzV2lWQzBoazQ2Q1JET1I1WmNmLVQydy1uOF9RZ1pNRkh4OElmNGlIdFd1SDNwNlpPVTBRV1piMS1Oa0hWakRmNTBfc3Z2cWlxYTZiSWtDaGswbnpiN0V6dXEyNXMxcnFCeGhRaENQRkJZb3FZNnEtTy1qbmF1RVRRdUhSZEhHY3dORUJfU0Nv?oc=5",
+   "fecha": "2026-11-22T11:58-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:01-03:00",
+   "url_original": "https://tn.com.ar/politica/2026/11/22/el-calculo-politico-de-milei-detras-de-la-suspension-de-las-paso-reeleccion-divisiones-del-pj-y-control-de-las-listas/",
    "revisada": true
   },
   {
@@ -887,6 +945,19 @@
    ],
    "visto": "2026-11-22T16:13-03:00",
    "url_original": "https://compactodiario.com.ar/kicillof-y-su-equipo-eligen-la-calma-tras-la-ausencia-en-el-acto-de-massa/",
+   "revisada": true
+  },
+  {
+   "id": "58a415213968",
+   "titulo": "La economía que pide la gente: salarios, empleo y menos ajuste",
+   "medio": "Sitio Andino",
+   "medio_url": "https://www.sitioandino.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXhEajZQR0U1X2VrME1CQXNTd25lbmRsSnlWMFFlNXRkT2Y2dlhNbmcxeFB2THpNakhhR0g1bmNMb0ktQ0lxd01ZS21Va0dqdl9SR0JFUnpiRUhoNnYyOUI3WmZzazkySVFRanhQbVhVVTZpRkFubVJ5UzJaRVhjeWt5aDlOTG8wcUJWc2JpcWt2ak5WNEZjZncyRHhSVXpidUhoOHVGT1o5ZElmd3fSAbMBQVVfeXFMUDdxWXFHWHRETTFJeVM2U0pHM242R2d1OUV1c3hGRHRrR2oxTHRjTi02TXdBLU1ybGRoX3VteUx3RkpjOWpUdHZ6RENDd0RFOE5Td0NYVnlIZEpXSVhrcExiWUhYcS1WcVZmQktxellVMHg2aTBKQ0ljLU5xTVBYVWh0b0dvcGVTU19nZU1uR2ZTS2JCUm9sOXludHFxYWlzWUo0TGpCVGx4RlZlY1lkdnpaR1E?oc=5",
+   "fecha": "2026-11-22T08:01-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T20:01-03:00",
    "revisada": true
   },
   {
@@ -10322,20 +10393,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.infoban.com.ar/15/11/2026/el-massismo-reunira-a-dirigentes-del-peronismo-en-san-fernando-en-medio-de-la-disputa-por-2027/",
-   "revisada": true
-  },
-  {
-   "id": "e7932fe4df7a",
-   "titulo": "Golia participó de una multitudinaria Fiesta de La Tradición",
-   "medio": "Que Pensas Chacabuco",
-   "medio_url": "https://www.quepensaschacabuco.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0o4Q3g2V0NUT0dfODNySXMxVlNZZ2xDaTAtcV9ybFB4YWxkMkcwM0Z1VUZTcks3NFhfdkZ0T2RsYlViSzRKT1NaTlVTM3E4dk9iQ0JNYktZX2RoMWFXREFJdXZ2aGtfU0pKc0xLU3dKdG4zaVdWd0c5aW03dEZrSUY1UktRZXE0QU5FWjZUMGNEVUl2WERWNlByUm9Fa0FuLTFWT3YxQnR3cG11Y1FKTQ?oc=5",
-   "fecha": "2026-11-15T19:56-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.quepensaschacabuco.com/entrada/golia-participo-de-una-multitudinaria-fiesta-de-la-tradicion--38097/",
    "revisada": true
   }
  ]
