@@ -1,9 +1,51 @@
 {
- "generado": "2026-11-21T22:34-03:00",
- "total": 622,
- "nuevas_ultima_corrida": 21,
+ "generado": "2026-11-22T00:10-03:00",
+ "total": 627,
+ "nuevas_ultima_corrida": 23,
  "errores": [],
  "notas": [
+  {
+   "id": "1128fecf6b87",
+   "titulo": "Paso a PASO",
+   "medio": "La Gaceta",
+   "medio_url": "https://www.lagaceta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfdlJSbDlCN2tnTkQxbnRFZU1YbnVsVUl2NE5CbE1raE1Td1dBbm92MEdjbE5wV1lHQm1lekNOeFhlc3dlSFlZT2Z2clZ2dlVUOG1rclZJWi1RRExpZDVFV25STUwyY0FQR0NLS0EyNHk?oc=5",
+   "fecha": "2026-11-22T00:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T00:09-03:00",
+   "url_original": "https://www.lagaceta.com.ar/nota/1163627/opinion/paso-paso.html",
+   "revisada": true
+  },
+  {
+   "id": "13861fd83846",
+   "titulo": "Pasado",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vb2c3MWNsaThxNS1ySWpiU1NwYnRWZmdORDh2OGR4Y1lHNnhELV9GcEJydWpWWDFmQlF5VkY3NXFWc1JBUExhdWJjcTFUQlBJQXFWN3Nac3JsSDJVY2g3Z09vamU?oc=5",
+   "fecha": "2026-11-22T00:02-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T00:09-03:00",
+   "url_original": "https://www.perfil.com/columnistas/pasado-awJg18r0xrLc",
+   "revisada": true
+  },
+  {
+   "id": "37f510c2ff93",
+   "titulo": "Un Guernica político y un mercado implacable",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXg3bk82TVhZOWhHUkVnWVFiREVXMlQ5ckVmODA0bnBrdnRWSmp4bG83cm5KVlVRc09wd09kRlNiZHA2OGtObFFHV2kwZHU4TEkxLV9sRUJlMWNqSGJrUEg2cDgza2twdVByM2JPOTYxYUxmUm1HaGR4bmM2Wlp6ZkVOa2hQQlpROUQwODBPdXg3ZkxhbHRtTm1n?oc=5",
+   "fecha": "2026-11-21T22:50-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T00:09-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/un-guernica-politico-y-un-mercado-implacable-nid21112026/",
+   "revisada": true
+  },
   {
    "id": "b35ca98dbc83",
    "titulo": "Hezbolá denuncia que más de 500 km² de territorio libanés siguen ocupados por Israel",
@@ -206,6 +248,20 @@
    ],
    "visto": "2026-11-21T18:00-03:00",
    "url_original": "https://mnews.com.ar/politica/185215-El-PJ-se-reorganiza-para-2027-y-Massa-busca-liderar-el-armado-mientras-Javier-Milei-negocia-concesiones-con-los-gobernadores",
+   "revisada": true
+  },
+  {
+   "id": "9d7be3cb8cfd",
+   "titulo": "Argentina LNG: adjudicaciones de caños y ductos generaron ahorros millonarios",
+   "medio": "LA17",
+   "medio_url": "https://lu17.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWlTMDE2NWJGa1ZJdU0wSmpEUzgwcHIyNnI1cXN5XzhHbjd0VWtXbEpkQnFZWU9reEU3elF3Z0RXZ2FpRFYwYU4zOGVfTUtVaVdfcVdZWWJkT3V0TmIwbGlmM0NMRWRWbVk2eV9HbFUtTXY0SnZIVVFqYjFnMWRFcHVtN3RSLWdKbENxbndweHhLb04zdTVkTl9QamhxbjRGeFRKVXdoZlVWVk5FSm9j?oc=5",
+   "fecha": "2026-11-21T17:43-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T00:09-03:00",
+   "url_original": "https://lu17.com/contenido/158702/argentina-lng-adjudicaciones-de-canos-y-ductos-generaron-ahorros-millonarios",
    "revisada": true
   },
   {
@@ -757,6 +813,20 @@
    "revisada": true
   },
   {
+   "id": "be8bccbaba2f",
+   "titulo": "Tesla ya vende sus autos en Argentina: los precios arrancan en 41.590 dólares",
+   "medio": "Info del Estero",
+   "medio_url": "https://infodelestero.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXdfMER6U0lUVXpiRnpEQ3JZQ2tYUk9USk1yc2FiaTVaUWE4MGlocUpwYm52Ml9OMG9adkp5RHNsSEozRHN1VkJxMzFEcDUwU1lvR1lFbXgyRWwzbEpjU1FWa2NIekFuWllwNk43XzhRLUt3Q1NnbEZfNk1JTWotZTdFREtjaDVJMWtkYXdCUUVCNHdVYTg3MUZlaXE5RlI4eDhIZ1lkaUNKQ2JzWTdlMllESQ?oc=5",
+   "fecha": "2026-11-21T09:55-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-22T00:09-03:00",
+   "url_original": "https://infodelestero.com/2026/11/20/tesla-ya-vende-sus-autos-en-argentina-los-precios-arrancan-en-41-590-dolares",
+   "revisada": true
+  },
+  {
    "id": "b6fb776871d8",
    "titulo": "Con las PASO en discusión, el peronismo debate cómo elegir su candidatura",
    "medio": "El Argentino Diario",
@@ -1031,7 +1101,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "massismo"
+    "massismo",
+    "\"Cecilia Moreau\""
    ],
    "visto": "2026-11-21T07:08-03:00",
    "url_original": "https://www.perfil.com/politica/interna-del-pj-kicillof-planea-mantener-las-paso-bonaerenses-aM3Ol0k1FqKD",
