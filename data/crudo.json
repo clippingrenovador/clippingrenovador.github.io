@@ -1,9 +1,53 @@
 {
- "generado": "2026-11-22T03:15-03:00",
- "total": 636,
- "nuevas_ultima_corrida": 20,
+ "generado": "2026-11-22T04:37-03:00",
+ "total": 641,
+ "nuevas_ultima_corrida": 23,
  "errores": [],
  "notas": [
+  {
+   "id": "a47acfcc94e2",
+   "titulo": "Comenzó el operativo “Huevos en todas las canastas” del peronismo",
+   "medio": "Diario Inforama - Catamarca",
+   "medio_url": "https://inforama.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGtDTkkyX3ZXQS1SX1h1S1NSOVBPNFZZTjRvMG5vZHltMXA5VnlfcTNZZEgyNF9WYlFqVkpuTHVXTzZzRFpuUFJIVjlCRjlMZWhQQzM1YnZCWjJkcG5oQ0xSUnRGdXVQUVJGYmVmZEJlMzFRdGxFNVIzaW5Dc1VXazFucGR2XzdsNS1LS2tBdVRvRllQSnNqb1lPamlibXlqV25LeTVoZHpxSjQ?oc=5",
+   "fecha": "2026-11-22T03:56-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T04:35-03:00",
+   "url_original": "https://inforama.com.ar/opinion/2026/11/22/comenzo-el-operativo-huevos-en-todas-las-canastas-del-peronismo/",
+   "revisada": true
+  },
+  {
+   "id": "062f65ffcec5",
+   "titulo": "Milei en su trampa: el desorden político y una economía en recesión apuntalan la desconfianza",
+   "medio": "Infobae",
+   "medio_url": "https://www.infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlgxSXBBVm5RVXN0cGpaMmxOZG9lM3kxQjRHeTJOWVJsNVEzY0Y4WGNnZ2xvYkswRmNpeU5UWWRVVFQxcWRwSFlacVJaTjR4N19qd1JENlgtZkFNeW9FTXlNUmR5M2VwQllmQ0V1aE5rcjVqdUQyY3dScDEyd2EtNmRXZlo5MkhwMkp3Nzd4V2FtVVVjTmNrRGM2SERocE5DRmV3QW8yOHlhUzlzcmF1OWtKSDluUnV4QkpEU1cyVENxOGRRbWlXdXRsOVhEZksyeUo00gHuAUFVX3lxTE1BVHdPZjFuaXRGSzdsVkN6QnFzQXR0OU1IN1BULWF5UkRqNGRqMk1ZRk9nT3BRQ1k3dS1Uam03REN2MXVFZHlpLWJWMHZ6NHduZ1R2YzNVWEhHTjc1VC1aTGtkZ3htWDNYZVpOd3RZMHkyNWtEanpjbjlyOWRwTWlJZUJjMDdUeXZJUXFBSzJxUWhlWUdBbFBfbFVTdHliSEoxSXVsYXJCeF9OTUh0aHJuVFRFendnWTY0VHJxeF9JNjZHZ0tuMElZc0lLYVNFakNFclFuMldhUXlJTkhNMUp0d1E1OTFnSElMeUl6OXc?oc=5",
+   "fecha": "2026-11-22T03:54-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T04:35-03:00",
+   "url_original": "https://www.infobae.com/politica/2026/11/22/milei-en-su-trampa-el-desorden-politico-y-una-economia-en-recesion-apuntalan-la-desconfianza/",
+   "revisada": true
+  },
+  {
+   "id": "505475a82d2b",
+   "titulo": "Cristina Kirchner y Sergio Massa consolidan su acuerdo mientras Kicillof avanza con un armado propio",
+   "medio": "PINAMAR 24",
+   "medio_url": "https://www.pinamar24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWFNQMTAxWTh0bTBkaGFvSm5DQzY1NHJBaVJnYmxvbFNTb09USmZucUx5WkE2UFozQ3Bkc3g1Vm9pVXk2Z2JNTkFnZFFjSjFWM0tpN05PNnhUZDQ5aUJVZkt6V29lZVgxQ2thRXZnSzhrTlRuNHdFLTRVZFRGSjNHd1Y5cm8wdVdvTDJvbkRzenJyV1Jha01kVXJrYm9yY1lUZExzbUR6TDQ4M29LSzY0ZHZCNHhDektYeTZrdnRwWE1VUGk3MUVqOWhYZmlTNUtOQThwU3ZYM2FIRTJPN0Y2X2tEeEp2UQ?oc=5",
+   "fecha": "2026-11-22T03:46-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T04:35-03:00",
+   "url_original": "https://www.pinamar24.com.ar/nota/2211202603104225/cristina-kirchner-y-sergio-massa-consolidan-su-acuerdo-mientras-kicillof-avanza-con-un-armado-propio",
+   "revisada": true
+  },
   {
    "id": "f3ffd0f6d429",
    "titulo": "El tembladeral que desordena los planes de Javier Milei y los pactos de urgencia de Karina",
@@ -16,6 +60,20 @@
    ],
    "visto": "2026-11-22T03:14-03:00",
    "url_original": "https://www.clarin.com/politica/tembladeral-desordena-planes-javier-milei-pactos-urgencia-karina_0_YnZbOaNe65.html",
+   "revisada": true
+  },
+  {
+   "id": "92ed5636f2cc",
+   "titulo": "Natalia de la Sota cuestionó a Javier Milei por el ajuste a las provincias y habló de 2027",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDM2M3p1S2J2cFNyam8zeU9DZWd0SVBrRG44U25yRWJKV1RCVkRneVdGMFZqNHh4M2hEaE53dVJLSXd4UWhFSm8tWUlTYnhQTWxLa0JaVWhYY2E0X1ZaZkpCdmh6SFFzeV8xT2xxemdtMExjZGFtdE9CbktfbVdhSGF0THIxMUIwaWVxRmRwQjZBa0JfZjRRMlUxVXd5aEVEdjJFQ1g4MA?oc=5",
+   "fecha": "2026-11-22T02:27-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T04:35-03:00",
+   "url_original": "https://elintransigente.com/2026/11/22/natalia-sota-cuestiono-javier-milei-ajuste-provincias-hablo-2027/",
    "revisada": true
   },
   {
@@ -47,6 +105,21 @@
    ],
    "visto": "2026-11-22T02:17-03:00",
    "url_original": "https://bardeo.news/politica/el-futuro-sin-paso--la-teoria-de-los-cuartos-y-la-llamada-entre-massa-y-kicillof_a6b025bbfcd25aee2886f283d",
+   "revisada": true
+  },
+  {
+   "id": "e0a1c60b8620",
+   "titulo": "Con las Paso casi afuera, Massa engrosa apoyos dentro del PJ",
+   "medio": "El Tribuno",
+   "medio_url": "https://www.eltribuno.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTk40aE9TbFNXRkNINzJnQ3hFWGZHMzV2cUg0NEZrbnN3bjlnU1lMbEZMREZfb3gwbW9tX1BzWDdHRndENHRTWEthN19NTXFxNVdRUDZkTkw1a1B4Zl9lUnhtN1BMNk9PYkZaRk43aEtZM2VZZkpjdjVHVmd5Wi1pekZXWUpZeS1GSkQwSVh5Q1QwSlFFNm9OelVsSWtydjBoZXZXX1AzX2RpRTFXbUE5YUhUZ2JpckN10gG4AUFVX3lxTFBOTjRoT1NsU1dGQ0g3MmdDeEVYZkczNXZxSDQ0Rmtuc3duOWdTWUxsRkxERl9veDBtb21fUHNYN0dGd0Q0dFNYS2E3X01NcXE1V1FQNmROTDVrUHhmX2VSeG03UEw2T09iRlpGTjdoS1kzZVlmSmN2NUdWZ3laLWl6RldZSll5LUZKRDBJWHlDVDBKUUU2b056VWxJa3J2MGhldldfUDNfZGlFMVdtQTlhSFRnYmlyQ3U?oc=5",
+   "fecha": "2026-11-22T01:11-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T04:35-03:00",
+   "url_original": "https://www.eltribuno.com/nacionales/2026-11-22-0-0-0-con-las-paso-casi-afuera-massa-engrosa-apoyos-dentro-del-pj/amp",
    "revisada": true
   },
   {
