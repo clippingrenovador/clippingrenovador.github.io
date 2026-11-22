@@ -1,9 +1,52 @@
 {
- "generado": "2026-11-22T14:06-03:00",
- "total": 692,
- "nuevas_ultima_corrida": 23,
+ "generado": "2026-11-22T14:59-03:00",
+ "total": 697,
+ "nuevas_ultima_corrida": 18,
  "errores": [],
  "notas": [
+  {
+   "id": "04b6ae730627",
+   "titulo": "Cristina Kirchner liquidó a Axel Kicillof: \"Estoy harta de que camine sobre mi cadáver\"",
+   "medio": "qpasó",
+   "medio_url": "https://qpaso.ar",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOC15dnFpcHVzOTNGTlB6SUVSaGQwSlRsU1Z2TzBkZ2lyOXFDUjZsZGVpMTVTQ3ZOQ3hmNWFhVVpzQjJzM2hYMUZMSHlpVnJqZ09aRU5GWG1nNmMzQUhRWFFnZWs0SXE0U0tpMlZfQlJWUmQxZ3hkUUFMZVR2MHo4YTJSaWhTWHVRLTQtN2o0T2hSUlhJZlpjUzZMYnRRMGZ1aXRrbTNLRUJERjRxWnZabWhJcGNINGVKNGEw?oc=5",
+   "fecha": "2026-11-22T14:57-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T14:58-03:00",
+   "url_original": "https://qpaso.ar/noticias/derechadiario/politica/cristina-kirchner-liquido-axel-kicillof-estoy-harta-que-camine-cadaver",
+   "revisada": true
+  },
+  {
+   "id": "8280edad8bc5",
+   "titulo": "Milei acelera la carrera electoral en medio de las tensiones económicas y políticas",
+   "medio": "Diario El Día de La Plata",
+   "medio_url": "https://www.eldia.com",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV2NJZktJMmREVVI0R1EwQmNsSlZqcGpzQk9WWjY2TlZ5bk5qU29TbGJLN1E4U05sdWI5NlBCaTRhV3I1dlZ0MVdtVXVibnhCVy11RmpaNUplc2N0RE8tUUcyTlYyaVRtQmllQlpaU1ZleVlzM2xIcjFPTF93WkwtR1RCRmFuTV94ekZnSEhzSW1mQnFLbU5yc2VLLU9zM2tFWkJKQUR4RXYtcHExeTJIaFRrdG55OGtKRWdOYkxBVW9naUdWdjd3Rk9SYmhCRy1Keko1amVYaFZzU1JQalhuWUczbkp3cm95YTNuNA?oc=5",
+   "fecha": "2026-11-22T13:59-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T14:58-03:00",
+   "url_original": "https://www.eldia.com/politica-y-economia/milei-acelera-la-carrera-electoral-en-medio-de-las-tensiones-economicas-y-politicas-politica-y-economia_1795366787",
+   "revisada": true
+  },
+  {
+   "id": "0f412a8961f3",
+   "titulo": "El peronismo y una idea tecnológica para resolver la interna y las candidaturas",
+   "medio": "La Tecla",
+   "medio_url": "https://www.latecla.info",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEpRa3k4S2lORGozYlMxaXNCcmdRRDZmNU12YXE2SkpoR0ozMWRUQTFidVI0RkthdUJnRkxBbHZ5UWRaYXFpb2k2RkZyWDNKQnRHVVlPYnJpbFhjUFdJVkRqTW5FTWdvVm43WUhMY2IzR0lpQ0V1b2lSRlJEM2hCVXhtQnJ4UzBBbnM2aERsWkVENW4yYXY1b3ZMcTJnU0xuSlI3c2t4bTNPQ3djRE8xUw?oc=5",
+   "fecha": "2026-11-22T13:52-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T14:58-03:00",
+   "url_original": "https://www.latecla.info/171356-el-peronismo-y-una-idea-tecnologica-para-resolver-la-interna-y-las-candidaturas",
+   "revisada": true
+  },
   {
    "id": "c69a845116d1",
    "titulo": "«Harta»: Cristina endurece la pelea con Kicillof y se acerca a Massa",
@@ -163,6 +206,20 @@
    ],
    "visto": "2026-11-22T13:03-03:00",
    "url_original": "https://www.rionegro.com.ar/politica/tension-en-el-pj-cristina-kirchner-cuestiono-a-axel-kicillof-y-acelera-un-acuerdo-politico-con-sergio-massa-4808645/?amp=1",
+   "revisada": true
+  },
+  {
+   "id": "d3a0f13d00b3",
+   "titulo": "Tensión interna y estrategia electoral: el Gobierno bonaerense le bajó el tono al acto peronista en San Fernando y ratificó su rechazo a la suspensión de las PASO",
+   "medio": "HOY ROJAS",
+   "medio_url": "https://hoyrojas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5heDFibHlFd2tZcHdBU1BjeE9jeDhsU1NOVEFhZml0RUxfU0FLaEM2cGpTZnNrYndBdUlWUXRXZmk4QWV5Sno1OUk5b09sRW10bXd5UUc0SFpUZzBpbDNyaGVkbWNVTVE?oc=5",
+   "fecha": "2026-11-22T12:14-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-22T14:58-03:00",
+   "url_original": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52279",
    "revisada": true
   },
   {
@@ -533,7 +590,8 @@
     "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
     "\"Sergio Massa\"",
     "massismo",
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-22T10:21-03:00",
    "url_original": "https://politicaymedios.com.ar/nota/24931/peronismo-sin-paz-el-acto-en-san-fernando-volvio-a-detonar-la-interna-tras-la-ausencia-de-axel-kicillof/",
@@ -714,7 +772,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Sebastián Galmarini\"",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-22T10:20-03:00",
    "url_original": "https://economis.com.ar/massa-reunio-a-distintos-sectores-del-peronismo-en-san-fernando/",
@@ -1035,6 +1094,20 @@
    ],
    "visto": "2026-11-21T19:59-03:00",
    "url_original": "https://www.lanacion.com.ar/politica/tras-un-acuerdo-con-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-nid21112026/",
+   "revisada": true
+  },
+  {
+   "id": "8bbda77366ce",
+   "titulo": "Harineras y malos olores en el Puerto: Cheppi propuso trasladar las plantas, \"El lugar ideal es el Parque Industrial\"",
+   "medio": "LU9 | Mar del Plata",
+   "medio_url": "https://www.lu9mardelplata.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWdwUW9GSUEtaDRDeUNBV01oTUxjakJoRmZxVkgzNmFVTWxmaUtoXzljSkhQZGNMS2FWQWVVMC1UdXBBRW5GRlNLLWk0NWd4SHV2NWxuZmVEZTRlendTUkU5bE5penZMVFc0U09QVjhrSE5VQkU1ejZfd3dQazJZc0N2ejRHRC14eHNDZ1lJS2FKenBBd3RBS3NRMXhMNDJNbHVxZHE2WldZSEZRMk9sOHluRkZsQy00MGFLNVdFMFExNy0ydnlvZmJJa2FjNTBZcHB1dnoyNXEzbVBGUi1pVw?oc=5",
+   "fecha": "2026-11-21T19:28-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T14:58-03:00",
+   "url_original": "https://www.lu9mardelplata.com.ar/harineras-y-malos-olores-en-el-puerto-cheppi-propuso-trasladar-las-plantas-el-lugar-ideal-es-el-parque-industrial",
    "revisada": true
   },
   {
@@ -6071,7 +6144,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "\"Diego Giuliano\""
+    "\"Diego Giuliano\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://politicadesantafe.com/no-fue-solo-un-acto-la-jugada-politica-que-empieza-a-tomar-forma-para-2027/",
