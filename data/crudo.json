@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-22T16:15-03:00",
- "total": 704,
- "nuevas_ultima_corrida": 21,
+ "generado": "2026-11-22T17:05-03:00",
+ "total": 707,
+ "nuevas_ultima_corrida": 18,
  "errores": [],
  "notas": [
+  {
+   "id": "7b4513d5525e",
+   "titulo": "Milei, Kicillof y las elecciones: una encuesta reveló qué pasaría en un balotaje",
+   "medio": "El Argentino Diario",
+   "medio_url": "https://elargentinodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0xPcTc0SUJUMUgyWGRzVF9NX3NLVHdMYkZTYkh5OENUdjUzYUxySmJ4cHhSaXpyTmp4WFYzMmFjdEhZb2lIWmZtTHN5QUF1cURMVjRYUjNidFJCU3JaN0lzendwZEtBc1ZDUUpfTmJSUmNWWXBEbElXd0JkNXNhci1XU3BhT3NteDh6WDN3ZVEwTGJ0bDkyLU9UTzVEeDhJczB1SXE5YUF0YWprNUdEMVJDSklLZERVTEtJRzZIemlzQjFxTVVqaG5NSEE?oc=5",
+   "fecha": "2026-11-22T16:55-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T17:04-03:00",
+   "url_original": "https://elargentinodiario.com.ar/politica/22/11/2026/milei-kicillof-y-las-elecciones-una-encuesta-revelo-que-pasaria-en-un-balotaje/",
+   "revisada": true
+  },
+  {
+   "id": "e8cc076ebbc6",
+   "titulo": "Sin las PASO, el peronismo busca cómo definir sus candidatos y se profundiza la interna por 2027",
+   "medio": "MejorInformado.com",
+   "medio_url": "https://www.mejorinformado.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1ZGRTNPVEUtQmJVNzdRN1l6ZnF2RGNyQjM5cEc2VUR3TGY5Uk1lSWVLLUxhQjBYTHVxMGRpQjROVGxpU0JYS0I0WFo5Zlg1MUJVdDJIZWVKVHRJQ3NKWDNiS3QzeXpDeTBnVXJ3bWJCTURJX3FXalFKVzRrX1c1VU5WTTItUS10MEV3QzVuRnZKbGEwZ2VDQVdVMjFRZTNfTFRRYjhGbDBDR3hxeUVpU1JqRkdkSEnSAbcBQVVfeXFMTldWRkUzT1RFLUJiVTc3UTdZemZxdkRjckIzOXBHNlVEd0xmOVJNZUllSy1MYUIwWEx1cTBkaUI0TlRsaVNCWEtCNFhaOWZYNTFCVXQySGVlSlR0SUNzSlgzYkt0M3l6Q3kwZ1Vyd21iQk1ESV9xV2pRSlc0a19XNVVOVk0yLVEtdDBFd0M1bkZ2SmxhMGdlQ0FXVTIxUWUzX0xUUWI4RmwwQ0d4cXlFaVNSakZHZEhJ?oc=5",
+   "fecha": "2026-11-22T16:52-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T17:04-03:00",
+   "url_original": "https://www.mejorinformado.com/nacionales/paso-peronismo-busca-definir-candidatos-profundiza-interna-2027_1795377005",
+   "revisada": true
+  },
   {
    "id": "0e501329c1c5",
    "titulo": "La posible suspensión de las PASO abre interrogantes en la provincia de Buenos Aires y profundiza las tensiones en la Ciudad",
@@ -86,7 +115,8 @@
    "busquedas": [
     "\"Sergio Massa\"",
     "\"Frente Renovador\"",
-    "encuesta \"Frente Renovador\""
+    "encuesta \"Frente Renovador\"",
+    "encuesta \"Sergio Massa\""
    ],
    "visto": "2026-11-22T14:04-03:00",
    "url_original": "https://www.infoplatense.com.ar/harta-cristina-endurece-la-pelea-con-kicillof-y-se-acerca-a-massa/",
@@ -158,7 +188,8 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMm55ZWJXUVNDb25ieUVjbHlSNU1fanpGNG50VHYyQWVBQ0ZIeDd0VmZIbU54Nlpka05PU3dzV3o2djdOakRNcHU4WVh0UmJId3NEWklsYjQ4cnJjMXh5VXJEOC1FQXU5UGpCb1hFY3lhM1V4TWdsZGVhbU9KWHNadm9jSEVDVzZfOE1YS1NXWno2SXI0OGF2QTljV3JJRFMzSTFUODhGV3JGZ25tOW02OHRHd2dOaWdoVnNlc19IMkUyc3p0bkxfX25fR25qODYydnQw0gHTAUFVX3lxTE4ybnllYldRU0NvbmJ5RWNseVI1TV9qekY0bnRUdjJBZUFDRkh4N3RWZkhtTng2WmRrTk9Td3NXejZ2N05qRE1wdThZWHRSYkh3c0RaSWxiNDhycmMxeHlVckQ4LUVBdTlQakJvWEVjeWEzVXhNZ2xkZWFtT0pYc1p2b2NIRUNXNl84TVhLU1daejZJcjQ4YXZBOWNXcklEUzNJMVQ4OEZXckZnbm05bTY4dEd3Z05pZ2hWc2VzX0gyRTJzenRuTF9fbl9Hbmo4NjJ2dDA?oc=5",
    "fecha": "2026-11-22T13:04-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-22T16:13-03:00",
    "url_original": "https://www.lmneuquen.com/pais/el-plan-javier-milei-las-elecciones-2027-las-paso-la-interna-del-pj-y-la-disputa-las-alianzas-n1262191/amp",
@@ -1169,6 +1200,20 @@
    "revisada": true
   },
   {
+   "id": "2ad28c120b6c",
+   "titulo": "Hipótesis de fractura: ¿qué sucede si se fragmenta el escenario electoral?",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGVrQ1pQR2stWHdtcV9JXzVqVVdCY0JfTTlGbUctS1VYYmhXZWdDYzlCeEZQX0VNRkhJSDdnZGpYckhuUTVVNjQ3XzFZVUg2MWRnTkNyUHRFVFZJQ1lxUUUtM1pfcDlkNU9Qa0YxV1FBWXBRX1RyTm9TRzMydTFPVlRGVXprQS13dnFfUzREdmNIZnU2QXNOTVIwZ19Mb0lzUGRwSmhwczY0SjZNc3BvRlBfYU1FZw?oc=5",
+   "fecha": "2026-11-21T19:59-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T17:04-03:00",
+   "url_original": "https://www.perfil.com/cordoba/hipotesis-de-fractura-que-sucede-si-se-fragmenta-el-escenario-electoral-awT8Y5N8CozY",
+   "revisada": true
+  },
+  {
    "id": "a6161d5cc871",
    "titulo": "Sáenz mira a 2027: la re-reelección en Salta y la ambición nacional",
    "medio": "Página|12",
@@ -1208,6 +1253,20 @@
    ],
    "visto": "2026-11-22T14:58-03:00",
    "url_original": "https://www.lu9mardelplata.com.ar/harineras-y-malos-olores-en-el-puerto-cheppi-propuso-trasladar-las-plantas-el-lugar-ideal-es-el-parque-industrial",
+   "revisada": true
+  },
+  {
+   "id": "ffc760362c2d",
+   "titulo": "Máximo Kirchner se quedó con el Congreso del PJ bonaerense: cómo se repartieron los cargos",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56N0JXLUVLZ3VraGFYNy1KUnFhZExwb1llRkpGcmJqZmY1ZS05ZkVLSlE4cFZjX1piZnVzenlYQm1ndTY5RkZ0aW04R3BGRlF5eGs5cmRIV2dDUjJIZjNHSVVVZ004NXdmeFlrcVBpc2llSU9qc0RreVVB?oc=5",
+   "fecha": "2026-11-21T19:15-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T17:04-03:00",
+   "url_original": "https://diputadosbsas.com.ar/pj-bonaerense-maximo-kirchner-congreso-2/",
    "revisada": true
   },
   {
@@ -10171,20 +10230,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://denorteanorte.com/concejo-deliberante-de-tigre-el-massismo-tira-la-pelota-a-las-redes-digitales/",
-   "revisada": true
-  },
-  {
-   "id": "29bdde78de7f",
-   "titulo": "El Frente Renovador celebra el Día de la Militancia en el Teatro Otamendi",
-   "medio": "San Fernando Nuestro",
-   "medio_url": "https://sanfernandonuestro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaklHU2I4dVFnZFV4eE9scDdfRVNtbExLSno1YThUUFFXdGMwMHU3VG1lVnI5c3o1V3Y0THIwM3R5OVhqY0J5MDlYMlV1SDVSdG90T1pjM0Q3NEs1b1EwbmR1UGlGNndrZnoyX3MwSVVPU3A5RVBqVDRpUGNoNUxtQUpMSnZkaWk2WTJybDR3azhsajFYSy1qN1lyck14TGs3YXNvTnNyMW9hNFBJ?oc=5",
-   "fecha": "2026-11-15T16:56-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://sanfernandonuestro.com.ar/el-frente-renovador-celebra-el-dia-de-la-militancia-en-el-teatro-otamendi/",
    "revisada": true
   }
  ]
