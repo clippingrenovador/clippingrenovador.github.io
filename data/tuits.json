@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T19:13-03:00",
- "total": 60,
+ "generado": "2026-11-23T20:16-03:00",
+ "total": 61,
  "tuits": [
+  {
+   "id": "2124972486945096059",
+   "usuario": "SebasGalmarini",
+   "visto": "2026-11-23T20:16-03:00",
+   "url": "https://twitter.com/SebasGalmarini/status/2124972486945096059",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Sebastian Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
+     "nota_id": "0a21806a4a04"
+    }
+   ]
+  },
   {
    "id": "2124912743719330128",
    "usuario": "GugaLusto",

@@ -1,9 +1,51 @@
 {
- "generado": "2026-11-23T19:14-03:00",
- "total": 759,
- "nuevas_ultima_corrida": 14,
+ "generado": "2026-11-23T20:16-03:00",
+ "total": 754,
+ "nuevas_ultima_corrida": 17,
  "errores": [],
  "notas": [
+  {
+   "id": "277f50eb7508",
+   "titulo": "Quintela recorre el país y no desiste de ser candidato a presidente por el PJ",
+   "medio": "Eduardo German",
+   "medio_url": "https://eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkJVUXZWdmVPQnE4VFc0U3JlWEhQd1FFT29ZQzFrT21vcGZzcDVReGE4Q3pHRGNYSVAtZzhUNlVHMkdJUkM2a0hmN3JIYlpXZDJWTE9FSzkzQTQ1WWJvLWRVZmlNRVRJWlVUZU9rOF9ZMWYxWWxiS0VxRmxXUnBRS0JlYmNfUE9ZaXRzeWhHdjExX0Z0aUVwRmR5M1kyOXhJ?oc=5",
+   "fecha": "2026-11-23T19:52-03:00",
+   "busquedas": [
+    "\"Jóvenes FR\""
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "url_original": "https://eduardogerman.com/2026/11/23/quintela-recorre-el-pais-candidato-presidente-pj-barranqueras/",
+   "revisada": true
+  },
+  {
+   "id": "57c9cdc0e326",
+   "titulo": "Chascomús: los laosianos vivieron Loy Krathong, la fiesta de Luz, Gratitud y Buenos Deseos",
+   "medio": "Criterio Online",
+   "medio_url": "https://www.criterioonline.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTBUT2JxdW5ta04xd1ZOR1VMd2c2enY4NlJycDQ1ckVNT3FFZEJkXzJhbWpoOWg2OHYyR093NEh6UmRzVVJPOFN4V01RNWVCYV9mUHNJanpBMGw3Rl8wQ0xralEtRlpJeDR1NmJtTEJ6N0FtS09CaHNiTHhLdEVQMnA3TW13SWM2U0RRTTZRSmpwZHVwWXpqbDJIZWRNMVRmNEFTOUNwWnBZX0x0S29vekZNYnI3RGs2OTBrSm9ZMWpqem5VOUE?oc=5",
+   "fecha": "2026-11-23T19:41-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "revisada": true
+  },
+  {
+   "id": "0a21806a4a04",
+   "titulo": "Sebastian Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXBvb0lydDF1N3Y0WFRydGxyQmFaM1RIOXBiV0NSWkttalRCdmVmSDJZaTEzMWFsMmg2OV82SUNrMGp1bVlocGc3YzdMMTNkcEhoNnI5RkEwbE1CREdTcmYzMFI2MmRqT3R0cFhpNmZSRWlCSzFUQkZVTHdiSXlCeUpsSGt3SkdfSktNelVfdDZFRFB1cG5UUFVITTdsclEtRThxdzJFd2twZ3VVUUxXZkRYWHFONWd0?oc=5",
+   "fecha": "2026-11-23T19:15-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "url_original": "https://elintransigente.com/2026/11/23/sebastian-galmarini-cuestiono-crecimiento-urbano-sin-planificacion-san-isidro/",
+   "revisada": true
+  },
   {
    "id": "2f5f215587ee",
    "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
@@ -60,6 +102,34 @@
    ],
    "visto": "2026-11-23T19:12-03:00",
    "url_original": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
+   "revisada": true
+  },
+  {
+   "id": "9621a4e43877",
+   "titulo": "Encuestas en España: el PP lidera, Vox crece y la derecha supera la mayoría de 176 escaños en casi todos los sondeos",
+   "medio": "El Destape",
+   "medio_url": "https://www.eldestapeweb.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUc4a2RsS1ExYWFPc3Nxa1E0T0R5dWdFNzg3dTV3N181X2V3VUItYjdRSDRDOVNIT0Y3TnZmelVoeXIxMFRXb0R1R0xfV1IyLWlvVy14S0JvU0RhNUlXQmtmM09Yb3lFU05TM3ZybnpwTmJrbDg5QnNrWi1KcmNFeW55bGsxLXdWbHI1aWhjZ1ExdnNRYkpsVVA1aHplMUlWdHNRUm9Eb1h2NUJlU3p3bDJjcFFfUWxUaVNKbUlOalE3US11TXVJUS1nMU1iOTNfal9nWGhCMUY4amlYWVYyaXd6QWfSAfgBQVVfeXFMT2ZxdFFReUF4VHFwM2FNMXBYdXMzTTZYQmpRVktJTDVLamxOUzVhTWpYQUpjakxwMWJ5MFQ5MkxKSmxYRDdmVmhEN3J3SkxfQ0pBWmMxazR5eVJZNy1USEtyRGFPSDVPLUN1clA2Vmh4b0ZkSTI4UVJqZmZGUTducFdoTnF1bmdWX0FGY1pEZVlnYUhpcy1jX3VwUWRHWGFOanhCNXhDOVZTR3BpWEpRaExKa0V0eVA1bHcyY2Z5RXhrcl9WUHNpUVZyejJCU29nMldMTXJkTm9aR1lCMHlBTXMtT3pmdDZUeGk5d0p3VnU2TUtPcFF1SnY?oc=5",
+   "fecha": "2026-11-23T17:39-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "url_original": "https://www.eldestapeweb.com/internacionales/encuestas-espana-pp-lidera-vox-crece-derecha-supera-mayoria-176-escanos-casi-todos-sondeos-20261123173654",
+   "revisada": true
+  },
+  {
+   "id": "cd87041c2b62",
+   "titulo": "Kicillof y Massa: La lucha por el liderazgo peronista se intensifica en las provincias",
+   "medio": "Compacto Diario",
+   "medio_url": "https://compactodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakZfRnY0NzYwYUQtU1JYbE9yR2JpZ0RCc2I5aDRQXzVTNUFnTk9VSjljOVpib2R5dmFtazl4RlV4alcxcW5od1pNczNvNnZONzVxYy1sS2JrRk16c0ZFMmtDVm9GeHBQcmVaVy1HRnR6UTdMb0pTTjhJMFhRSUNJX2V1eE9MYVdEQVBLLThRMXloRVdJZGtZcUpiX3pKSk41ZGdhSjExZ0gxYVNVTHNKUTNGdEhETnZmTEp6VUZVb9IBvwFBVV95cUxOakZfRnY0NzYwYUQtU1JYbE9yR2JpZ0RCc2I5aDRQXzVTNUFnTk9VSjljOVpib2R5dmFtazl4RlV4alcxcW5od1pNczNvNnZONzVxYy1sS2JrRk16c0ZFMmtDVm9GeHBQcmVaVy1HRnR6UTdMb0pTTjhJMFhRSUNJX2V1eE9MYVdEQVBLLThRMXloRVdJZGtZcUpiX3pKSk41ZGdhSjExZ0gxYVNVTHNKUTNGdEhETnZmTEp6VUZVbw?oc=5",
+   "fecha": "2026-11-23T17:18-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "url_original": "https://compactodiario.com.ar/kicillof-y-massa-la-lucha-por-el-liderazgo-peronista-se-intensifica-en-las-provincias/?amp=1",
    "revisada": true
   },
   {
@@ -710,6 +780,21 @@
    ],
    "visto": "2026-11-22T22:41-03:00",
    "url_original": "https://www.diariojornada.com.ar/427497/politica/de_boca_en_boca_y_satirita",
+   "revisada": true
+  },
+  {
+   "id": "b25236850860",
+   "titulo": "El peronismo empieza a delinear su armado electoral para 2027: qué opciones tiene para definir candidato sin PASO",
+   "medio": "Tucumán Despierta",
+   "medio_url": "https://tucumandespierta.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkdYTkYtVnByM3dqWWZFTk9qRl85RkxQMlN5RzItSTBYT0U3cXpGT0ZmeERGdk1XdVhLM3VDT2FsQUxOWE5zS0FSQW81WG5uNDcwR3cxRnhTY3JvU2xSU19ITDlzZEt5Z3lTWjlHVjA3aE9SWWdwSFFGS0FFbFdvSlYtZWU2SWFvZ0tkdVUwY1E2aUdhUUJ0YzJIRW8xbUdVWE91aGxwMzRDTkNTX0NRaTlXZ05JelZ4dXBTd0FnWkRuQVprcElSZVUzb25kVG9xbEVxVmtHV1kxUQ?oc=5",
+   "fecha": "2026-11-22T21:11-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-23T20:15-03:00",
+   "url_original": "https://tucumandespierta.com/el-peronismo-empieza-a-delinear-su-armado-electoral-para-2027-que-opciones-tiene-para-definir-candidato-sin-paso/",
    "revisada": true
   },
   {
@@ -10842,160 +10927,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.diariodecuyo.com.ar/politica/cristina-kirchner-y-sergio-massa-acordaron-impulsar-un-candidato-el-consejo-la-magistratura-n6588796",
-   "revisada": true
-  },
-  {
-   "id": "3e01a158dd74",
-   "titulo": "Cristina Kirchner impulsa a Guillermo Michel para abroquelar al PJ en el Consejo de la Magistratura",
-   "medio": "Ambito",
-   "medio_url": "https://www.ambito.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFk3cVVZUzFRcGFWWDZnVHZ0S3gzZG5lUmNXRUlBcXgtR0xMaTBiZDZhUVgwclFuclRFbWRIWW01dUJpWUUtbGFtMjVrOUVhUldNaDJiX2JmX2JLdmdKeFFTYTJRVjBKRGNtZVVnaDBCbG5rd0RfYW91VEVyenlJczN5NENqWml0OWZ0RUhKLXpaV1R1YjhOV0NjWkJPZFNHMTRXNWtuckw5dWNEQmgwN1RuSXk0eDhhQjVxRDRTaXNuSGRHa1HSAcsBQVVfeXFMUHpIRS1zS3VON0pxZmcyUlpRM09PWHFkeVk2Wng5c0JvdDc4VWZFZVM4emRIRUMtVTZBS0xyMVNEY25xc1MxWXJPcFBVMHdyZmpxS0FhRUZiTFRyTmNPR0lZN1otS3hpcC1memh0SDFvbUdId3JnRE1iZGx6N2xNNHhYZURWcXUtdUF1b2JMaGt4N1N5bE9mLVBhT0lZTzFYTFVlQU9RLXJVb3lXTGdRb3VTNEVPdGlQa0JyOEZONFlKTHhQa3I3R1BxQjQ?oc=5",
-   "fecha": "2026-11-16T20:10-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.ambito.com/politica/cristina-kirchner-impulsa-guillermo-michel-abroquelar-al-pj-el-consejo-la-magistratura-n6345930",
-   "revisada": true
-  },
-  {
-   "id": "c351b4c1c005",
-   "titulo": "Guillermo Michel será representante del peronismo en la Magistratura",
-   "medio": "HolaSalta Noticias",
-   "medio_url": "https://holasalta.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmtfcXN0ZlpHSEdjMmtaRXV1LTNoVzRlOGpibEVFTEVCd0JuNjU0U3VtWHJDSU85d1BRX2tDYVhNS2p1dkFXOVFDNXN3TUlleWkyNF9pMktkNWxQUTd1RjMyRjExQTZERGxuME51bXM3RU83elZvZWVMMy1hcWpPeW5GYjhFUjRIRFFQLVBCQUE1cThBelpSa01mb05fVVZMRkhHSGV2ekU3aTRFbVpwVXpZQQ?oc=5",
-   "fecha": "2026-11-16T19:59-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://holasalta.com/post/consejo-de-la-magistratura-el-peronismo-impulsa-a-guillermo-michel-como-representante/",
-   "revisada": true
-  },
-  {
-   "id": "d3c793e04355",
-   "titulo": "Consejo de la Magistratura: CFK apadrina a Guillermo Michel y pone a una camporista de suplente",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ29Pa05EWGpuOWdFblEwUFByTHRUTzFueHFjeUdpVE1wTFN4TGgxaDBwS3pyTzh5cmJkRnY1NWtTWldUSGF2VFBwQ2RoMHJ0cE9FajN1anRPaVRNanh0LXBmb1d2ZVFJZjE1SG5abnB3RVZGbmJyeWhhR3I4dWl2ODFxSHhTMHdtNzAzc1QwcVhMSVhINzlVRlpmQ0JGOEJyTmlRZW5BcFFqQ2FEanM2U3VUSWNxMGR1Z3RhOENpM0xrNnJrUkcw0gHMAUFVX3lxTE51eUxzOW8tRE8yYUFQRVFzOExkVlZFV1lPa2ZDelBtUkNPNTRTdVRmTUFHMnZlTmk2Y0VvV3RNRGZjTGQ2UUM5OEhHR2xTcVBJeGRtUVVTYjVrZXduVnZiQ2ZITldjSTJQVXlfSTdodmJUWWx4NFdkd0ZKWFRxckFQazNPdlpVN0tkcXJIVVBRaDZNN3lpNGR2ZGVWM0NyWEJBaldNSFAtVW5YeDdpYTZxaDJSYk9wZ191ZktVUUV0UWRzMTZtLTRqS21MLQ?oc=5",
-   "fecha": "2026-11-16T19:56-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.letrap.com.ar/congreso/consejo-la-magistratura-cfk-apadrina-guillermo-michel-y-pone-una-camporista-suplente-n5428266",
-   "revisada": true
-  },
-  {
-   "id": "b972fead8965",
-   "titulo": "Consejo de la Magistratura: CFK apadrina a Guillermo Michel y pone a Lucía Cámpora de suplente",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWZMM2tfT204QlFPT1lHMWRZSU55NVMyc0FDdlFkTXI5WXlURi1lWE1ObTlsYmJlV2phbTNUbEx3WWEtcXMxLURKQ00xOHozYVdDRU12ZTAzYW81T2lWR01ESHMtVU1JeDZwQ1ZjeFVpR0wza0g1ZmZrM0w4ZlVrS1JpQ2EwOExMbEoyTzRCaTNzNFo0S2c5WHEtbXNQaVRzamp2ZlNzYWxLd1I4a0hxejJSaU1lTHNPR0ZmamRQUmo5bTFoU1HSAcsBQVVfeXFMTnEzVTV6eVdzLXRCTnBMV0RUd2lLa3pldnVkUUVCc3hrdnFZVVhtMVQ0V3hWNWdHYmlOWEhkLXgyMDdqWjJrNmlGSWJUVDAzWFJWVVFUbklpczJhWnpMVHpSaFBkNFZ3MXBiMDJYTlI2dk03clUtcS02OFl4Y2txempObVpzYVljOXdocUNlTWVZZGd3dkRnS0I1dlZhcVNQNzVlN3Ntd25rS3BoR0g0M3V4bGFXZmk0Y3hTSUhiTENzTXpxT21NTzRUTzg?oc=5",
-   "fecha": "2026-11-16T19:56-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.letrap.com.ar/congreso/consejo-la-magistratura-cfk-apadrina-guillermo-michel-y-pone-lucia-campora-suplente-n5428266",
-   "revisada": true
-  },
-  {
-   "id": "f1af536950d7",
-   "titulo": "Cristina Kirchner impulsa a Guillermo Michel para representar al peronismo en el Consejo de la Magistratura",
-   "medio": "C5N",
-   "medio_url": "https://www.c5n.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHBlWmhEM0NJeGlHTkdDNmdHNEdObnR1dWYwS0FFSnlyNnhLdkxIUmpackNoWFpYRDNwQnJtQ2dUaEpHc2xYMDRhVDk3NXp5c1BnRFk1VEhidUc4aGJ2d0syRWUzSFhackNySDNqMkFCRVdQNE1qSXVQSE5XaTlhdWFnckZJdE9RaWNENk9qSVdqN3pJdDR1V0R5N0t0ek4wcFdBOHBwdUpzenB4Q0ctZzNUMzd6VXlVWHZDcS1uNHhtd0M0U3VuSkVab9IB0AFBVV95cUxNVk5FRWo5NkNZaEs5MlVnX0tnZVpqUUZuWjRiNjlLTEtRLVZmMlpBZUtCbEJVaERSZDd1QWpvRS1GSXNtSjBUUlFqYTNBS3lPZnM1Wm1kRjA0Z3dNdnJmZGhJY2dzejN0NUluODdnX29CbEVIWEpiXzkwV2F1UWNWS055ak04QjRaQWV2bjB6Y05WQkhjbW0yZTBHa0JmU0xuWUJNaDRlMHQ0cnZGYi1IM1JJWlU3Ym5NNDFla2stcmxZV0F1V2dHeHhCZDZ5STJD?oc=5",
-   "fecha": "2026-11-16T19:43-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.c5n.com/politica/cristina-kirchner-impulsa-guillermo-michel-representar-al-peronismo-el-consejo-la-magistratura-n254518",
-   "revisada": true
-  },
-  {
-   "id": "06f7ad4693b0",
-   "titulo": "El massismo y el Peronismo Federal se acercan y buscan desplazar a Axel Kicillof de las elecciones de 2027",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQWI1eEtUNUViYVl1ZVlfc1BIVlFkV2pPLXh2QzBTUjN0QmVNOGZreElQOXU2ODFqb3pTX2dsdWlseExLSWpzRFVOR3g5TmhHaGxYUF9ydWlkTU51TVYxVXNWM1NKemowTTlMWkowYzNmQTE2cFpRRk1sLVczOXE1cm1VM3NfTHhBM1F1WmhPVng3QWstWnBrU1NiR0I1bi1VSTFzSzJOanRUMzlROXNKSEE4N3VMcVhYNXV1RFJjT2MxMkdkYUxlcWJjS0FsTEdwSlRfS0tXc1poVmJ5aEd6NThHeGktWmxJZzYzTDhKejFZMS05LUxnTXRMYVVyMFE?oc=5",
-   "fecha": "2026-11-16T19:41-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.perfil.com/noticias/amp/politica/el-massismo-y-el-peronismo-federal-se-acercan-y-buscan-desplazar-a-axel-kicillof-de-las-elecciones-de-2027-a7JRV7t8x6Xz.phtml",
-   "revisada": true
-  },
-  {
-   "id": "d9ab32b7bb45",
-   "titulo": "El PJ Federal, el Frente Renovador y la Liga de Intendentes reunirán al peronismo",
-   "medio": "Diario Resumen",
-   "medio_url": "https://diarioresumen.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1p3NW1lWng1VV9xTmtmU3ljc09fa09rOXdqdUdIcklsMTktX2duNGVrcEFOaFRySE01V2tjanNCOVh2OGozNlAtamQtNkY1TEFfUlNoNHlFYnd5OXhORFlRY3hIQ2wyWlhvaUY4aE1TWEpIUTk2eUFyNEhCTGFkV2hqcHJUYl82NUNfTFZhTzV3X2xVdktjU2FGWDhwLU5PV2MtbEROOTduNE5KamROV0tjMGPSAbQBQVVfeXFMT29adzVtZVp4NVVfcU5rZlN5Y3NPX2tPazl3anVHSHJJbDE5LV9nbjRla3BBTmhUckhNNVdrY2pzQjlYdjhqMzZQLWpkLTZGNUxBX1JTaDR5RWJ3eTl4TkRZUWN4SENsMlpYb2lGOGhNU1hKSFE5NnlBcjRIQkxhZFdoanByVGJfNjVDX0xWYU81d19sVXZLY1NhRlg4cC1OT1djLWxETjk3bjROSmpkTldLYzBj?oc=5",
-   "fecha": "2026-11-16T19:35-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://diarioresumen.com.ar/amp/el-pj-federal-el-frente-renovador-y-la-liga-de-intendentes-reuniran-al-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "133b10d1ff1e",
-   "titulo": "El Frente Renovador, el Peronismo Federal y la Liga de Intendentes se acercan con miras a 2027",
-   "medio": "Diagonales",
-   "medio_url": "https://www.diagonales.com",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUhGb09ybzFvNDBEaFVhVW1GaG14RS1iOWNBWXg0LVprenlydUlRY00ydUNjMmFNNlBEYjdlcGRVTGNxN3IzbFg2T0VfNm84dkcwdkdEYmwxQ2ZCNHdaQkU5U2FrSS1FSDRERFd4dFpIQ1pXRHBxNS1nbmlwN2g2QVBtdlNYYmpzcGdUY3RKbnMydGVhZVEzWXJRUHB3cGdfMDh1Ul9CNEpxLTBoc1U2ZWZqeURxaXlvR2dXVl9RbmhpMjBsUlptVUpKXzkydjA5cWY5b2otak9iVFR0OWtrTk9iaXNWaEJQTkV3TURn0gH8AUFVX3lxTE9yRjRXSmJYLTRrVENQZmUydFFtNnVSd0gwVnRYREhTTzJxcFVTdHJZZWRuSDc1MmV3b1diZkxIcGFSRTlRLUEycnZJSkw1dHNGUUc0TXpHaVZ3V256STE2YjdHWnJOcEhWX25SaVJvZkdJbzN0MFFJMC0wTWRSVjVHLXZMWHRNZjhwWE1aMVVSVEJKS1ZtZmgwUU5JX1BWaFBNM05LOUxqQ2sxWXRFYTRlU2ZXaEY5N0FDekF6LS1JSEdmekRnVnR0S1RadXh2X2RQT1hKc011UUtUeS1rRHlfZjNlQVJjVVA2SUF4Q2h4N2ROMVNvTWI3SGMwUg?oc=5",
-   "fecha": "2026-11-16T19:27-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.diagonales.com/provincia/el-frente-renovador--el-peronismo-federal-y-la-liga-de-intendentes-se-acercan-con-miras-a-2027_a6afb68b842fa9d9e6e2a7417",
-   "revisada": true
-  },
-  {
-   "id": "d38e33357443",
-   "titulo": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en la Magistratura",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2l5ejdBaTBNb3ktMmNzazd1WHdMZDlPT2pfQWFqSk9yTjY3dS04dmN1cmxEdkg0QWlob0J5RXNVc1VDQmk0MFNON0MtZWN2TXJlc2tDX2xxeUk2a2x3aVVRM2cwVmVXU1l6VlplYU53MUFoYldRM3c2c21rRndycVRYY0xQSTVSZ2R6dWRSVjhxNnNjSTdvLUZTYmFqWldJTmk0VlZDdnJNZlQwb0xZZ0NsVkFDQlNOZ3Z3cGx0X1BVRDNxYnJGSUIyMmdRQlXSAc8BQVVfeXFMUE9peXo3QWkwTW95LTJjc2s3dVh3TGQ5T09qX0FhakpPck42N3UtOHZjdXJsRHZINEFpaG9CeUVzVXNVQ0JpNDBTTjdDLWVjdk1yZXNrQ19scXlJNmtsd2lVUTNnMFZlV1NZelZaZWFOdzFBaGJXUTN3NnNta0Z3cnFUWGNMUEk1UmdkenVkUlY4cTZzY0k3by1GU2JhalpXSU5pNFZWQ3ZyTWZUMG9MWWdDbFZBQ0JTTmd2d3BsdF9QVUQzcWJyRklCMjJnUUJV?oc=5",
-   "fecha": "2026-11-16T19:24-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutouno.com/politica/cristina-kirchner-impulsa-guillermo-michel-representar-al-bloque-diputados-la-magistratura-n6345921",
-   "revisada": true
-  },
-  {
-   "id": "cebee8171e80",
-   "titulo": "Sergio Massa",
-   "medio": "Informe Digital",
-   "medio_url": "https://informedigital.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRMWxFZnhDUHdkaWFzLVAwVnBSUTVSWUwtNVZCUldIXzNQbEw3N21kRUdzTTZpUF82NkR3b185U0pOLVdSbEs2TXdqT3RTNzhJZG4zWmtYdS1vcGR5RVMwUw?oc=5",
-   "fecha": "2026-11-16T19:18-03:00",
-   "busquedas": [
-    "\"Malena Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://informedigital.com.ar/facetag/sergio-massa/",
-   "revisada": true
-  },
-  {
-   "id": "090d346f61f7",
-   "titulo": "Cristina eligió a Michel",
-   "medio": "Informe Digital",
-   "medio_url": "https://informedigital.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZEY2Q0ZBOVViTXR6emJhRFpLY2treGlRMzFTTGZRNjZTazZ2WmxVQTJVQU93MXRTT1JxQmJhNGZfclBzZEJqbm1SZno4ZndaQXdEVU41SExPT1JEUjJYMkNwbVhGZw?oc=5",
-   "fecha": "2026-11-16T19:18-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://informedigital.com.ar/cristina-eligio-a-michel/",
    "revisada": true
   }
  ]
