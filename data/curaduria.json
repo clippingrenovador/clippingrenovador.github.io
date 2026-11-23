@@ -1,33 +1,30 @@
 {
- "hora": "22",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Según La Nación, Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre el gobernador Axel Kicillof.",
+   "texto": "Según El Tribuno, Sergio Massa y Cristina Kirchner se acercan y toman distancia del gobernador Axel Kicillof. Identidad Correntina sostiene que ese acercamiento reordena la interna peronista.",
    "fuentes": [
-    "7adc98cf62cd",
-    "7cccf4ef04fd"
+    "56529e8cf2d7",
+    "99a5a1c57c9f"
    ]
   },
   {
-   "texto": "Clarín atribuyó a Cristina Kirchner una frase crítica contra el gobernador. Según Bardeo.news, la expresidenta cuestionó a Clarín por esa supuesta frase.",
+   "texto": "Máximo Kirchner respondió a Clarín por la nota que atribuyó a Cristina Kirchner una frase crítica contra el gobernador.",
    "fuentes": [
-    "37b20e430bc8",
-    "3511f54d981a"
+    "3c332641d61c"
    ]
   },
   {
-   "texto": "Ante la posible suspensión de las PASO, TN analiza las opciones del peronismo para definir candidaturas e Identidad Correntina informa que Massa propone una interna digital.",
+   "texto": "Ante la posible suspensión de las PASO, El Liberal informa que el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027.",
    "fuentes": [
-    "4eb57524cd27",
-    "fc8d6d20d11d",
-    "0f412a8961f3"
+    "5750800e3eab",
+    "d301af84bd07"
    ]
   },
   {
-   "texto": "El oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO de 2027, según MendoVoz e Info del Estero.",
+   "texto": "El diputado nacional Guillermo Michel denunció la venta de AySA a un precio irrisorio, según Medios del Aire.",
    "fuentes": [
-    "25c3565a7e38",
-    "a2784e6151fa"
+    "925c0eac6877"
    ]
   }
  ],
@@ -35,18 +32,23 @@
  "temas": [
   {
    "id": "massa-armado-formula-2027",
-   "titulo": "Según La Nación, Massa y Cristina Kirchner consolidan su alianza interna",
-   "resumen": "La Nación e Informe Digital informan que Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre Axel Kicillof. Clarín había atribuido a la expresidenta una frase crítica contra el gobernador; según Bardeo.news, Cristina Kirchner cuestionó a Clarín por esa supuesta frase. El Tribuno señala que, con las PASO casi descartadas, Massa suma apoyos dentro del PJ.",
+   "titulo": "Massa y Cristina Kirchner se acercan y toman distancia de Kicillof",
+   "resumen": "Según El Tribuno, Sergio Massa y Cristina Kirchner se acercan y toman distancia de Axel Kicillof; La Nación e Informe Digital informan que consolidan su alianza interna, e Identidad Correntina sostiene que el acercamiento reordena la interna peronista. Clarín había atribuido a la expresidenta una frase crítica contra el gobernador; Cristina Kirchner cuestionó esa publicación, según Bardeo.news, y Máximo Kirchner respondió a Clarín, según HaceInstantes.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "7adc98cf62cd",
-    "37b20e430bc8",
-    "3511f54d981a"
+    "56529e8cf2d7",
+    "ff4882b1dc02",
+    "3c332641d61c"
    ],
    "otras": [
+    "99a5a1c57c9f",
+    "37b20e430bc8",
+    "3511f54d981a",
+    "b6a22f5984c2",
+    "09ed5ab82bf0",
     "7cccf4ef04fd",
     "c3a381c16098",
     "2a31815b6e7d",
@@ -63,128 +65,67 @@
   },
   {
    "id": "peronismo-sin-paso",
-   "titulo": "Sin PASO: el peronismo busca cómo definir candidaturas y Massa propone una interna digital",
-   "resumen": "Según MendoVoz, el oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO. TN analiza las opciones del peronismo para definir su candidato sin primarias, en una interna entre Massa y Kicillof, e Identidad Correntina informa que Massa propone una interna digital; La Tecla también describe una propuesta tecnológica para resolver las candidaturas. Según MDZ, la estrategia electoral de Javier Milei genera diferencias internas en el oficialismo por el temor a Massa.",
+   "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
+   "resumen": "El Liberal informa que el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, y Cholila Online repasa el armado de Massa, Kicillof y las opciones para elegir candidato. TN analiza las alternativas sin primarias e Identidad Correntina informa que Massa propone una interna digital. Según MDZ, la estrategia electoral de Javier Milei genera diferencias internas en el oficialismo por el temor a Massa.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
+    "5750800e3eab",
     "4eb57524cd27",
-    "fc8d6d20d11d",
-    "25c3565a7e38"
+    "fc8d6d20d11d"
    ],
    "otras": [
+    "d301af84bd07",
+    "25c3565a7e38",
     "0f412a8961f3",
     "fefac16db9b7",
     "a2784e6151fa",
     "e8cc076ebbc6",
     "0e501329c1c5",
-    "b18da5ed6f8c",
+    "15a7f4806847",
     "994745be471a",
     "a2eed9e0dddc",
     "8ce08cae1306"
    ]
   },
   {
-   "id": "el-frente-renovador-arma",
-   "titulo": "El Frente Renovador suma estructura en las provincias",
-   "resumen": "Según La Licuadora TDF, Damián Loffler fue presentado como referente del Frente Renovador en Tierra del Fuego, donde Alejandro Deanes quedó al frente del partido. En Río Negro, el vicegobernador Pedro Pesatti evalúa ser candidato a gobernador por el Frente Renovador.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa",
-    "Alejandro Deanes",
-    "Pedro Pesatti"
-   ],
-   "principales": [
-    "718f86c3fa82",
-    "df24d520af64",
-    "d214658a0550"
-   ],
-   "otras": [
-    "c852c18e0925"
-   ]
-  },
-  {
-   "id": "cecilia-moreau-va-a",
-   "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
-   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    "c0d46adcdf12",
-    "73c742facabb"
-   ],
-   "otras": []
-  },
-  {
-   "id": "guillermo-michel-se-suma",
-   "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
-   "resumen": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en el Consejo de la Magistratura. Según Perfil, el peronismo se queda con seis integrantes en el organismo.",
+   "id": "michel-aysa",
+   "titulo": "Guillermo Michel denunció la venta de AySA",
+   "resumen": "Según Medios del Aire, el diputado nacional Guillermo Michel denunció la venta de AySA a un precio irrisorio.",
    "tono": "positivo",
    "dirigentes": [
     "Guillermo Michel"
    ],
    "principales": [
-    "b40e355e4a62",
-    "54a52a66974c",
-    "d38e33357443"
+    "925c0eac6877"
    ],
    "otras": []
   },
   {
-   "id": "san-fernando-reordena-el",
-   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
-   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
-   "tono": "mixto",
+   "id": "gestion-universidad-en-san",
+   "titulo": "Gestión: comenzó la obra de la Universidad Nacional del Delta y obras en escuelas de San Fernando",
+   "resumen": "Juan Andreotti recorrió las obras de construcción de la Universidad Nacional del Delta en San Fernando, cuyo municipio hará además obras en cinco escuelas provinciales durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
+   "tono": "positivo",
    "dirigentes": [
-    "Sergio Massa",
-    "Alexis Guerrera",
-    "Natalia de la Sota"
+    "Juan Andreotti",
+    "Pablo Garate",
+    "Darío Golía"
    ],
    "principales": [
-    "1f1ce72bae11",
-    "ab00192983fb",
-    "ced4bbfd43aa"
+    "66b3de74b1d3",
+    "e525aac3355a",
+    "3b5f2fb23155"
    ],
    "otras": [
-    "5d61c6c19688",
-    "798fa27100f2",
-    "0e072cb13b4f",
-    "d1e551eac8d2",
-    "4de08fa663d6",
-    "47607e29b920",
-    "ac5a556b9c95",
-    "78ef112c5d60",
-    "6924eb102826",
-    "4c59c5e66fae",
-    "57fbd70d76f7"
+    "c61da54202e3",
+    "46994d945931",
+    "5a2a1253a778",
+    "83873b559481"
    ]
   }
  ],
- "redes": [
-  {
-   "url": "https://x.com/felipemromeroo/status/2124637984813150284",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero invitó al ciclo de formación política con el gobernador de La Rioja, Ricardo Quintela."
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2124627915770036596",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel propone una campaña nacional para detectar el Trastorno del Desarrollo del Lenguaje."
-  }
- ],
- "entrevistas": [
-  {
-   "video_id": "OBD695QwnYw"
-  },
-  {
-   "video_id": "L9dBSGtbhqM"
-  },
-  {
-   "video_id": "oFEeRoHKfdI"
-  }
- ]
+ "redes": [],
+ "entrevistas": []
 }
