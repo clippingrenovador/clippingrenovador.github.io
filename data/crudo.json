@@ -1,8 +1,34 @@
 {
- "generado": "2026-11-23T09:20-03:00",
- "total": 755,
- "nuevas_ultima_corrida": 20,
- "errores": [],
+ "generado": "2026-11-23T10:49-03:00",
+ "total": 751,
+ "nuevas_ultima_corrida": 0,
+ "errores": [
+  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "massismo: HTTP Error 503: Service Unavailable",
+  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
+  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
+  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
+  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
+ ],
  "notas": [
   {
    "id": "1d062110c22b",
@@ -10875,63 +10901,6 @@
     "massismo"
    ],
    "visto": "2026-11-20T02:28-03:00",
-   "revisada": true
-  },
-  {
-   "id": "23d3c249a463",
-   "titulo": "Día de la Militancia: el massismo prepara foto con el peronismo federal para enfrentar a Kicillof",
-   "medio": "ANDigital",
-   "medio_url": "https://andigital.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZGIxUWJxSjhiNWljeHRVanA0UG5pRVlybU16TVc2eHlHQnZ1UFZWNXE1d1haNE55QmtDRGlmTVdwWTEwVlhWSnU2RFdoSkc4V1RmcmZsUVpkMU9nNVVHU1B5c2JPb19jQkU2TkRZNHBOOTNjSmtaS1UybDdRQ1NCRmFHU3FlcXRNNmtrMElHa0hUMERDbFhIX0tLaUZwWmpfbUQ4VVAwdDkxOTNXck9UUzlfYVpNVElZYjZPVWc0ZWIyRUhHOC1vX0ZfY1lsOVE?oc=5",
-   "fecha": "2026-11-16T10:35-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://andigital.com.ar/nota/144981/dia-de-la-militancia-el-massismo-prepara-foto-con-el-peronismo-federal-para-enfrentar-a-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "8f23b1c1f171",
-   "titulo": "Golía participará de una jornada de Salud con el ministro Kreplak",
-   "medio": "Chacabuco en Red",
-   "medio_url": "https://chacabucoenred.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEJ6REVGdDJfQ1FNVktBdHpqTXZtRDJkc0U2ZENxaElNb0lTY1lGeS1nZWJIZ2prN2RiVDRlQk5kY1M3ZlI0d2tkYkEzNFpxNV84bFdfeVFkTHpSQ2RlSFNOZ3Iwd3JuamRrMVBzV3AtSHV0YmhxaWU3R1Jtd0dTZUhYR1BxWWRuckJmVmxKRGRJaTNRcXZvSg?oc=5",
-   "fecha": "2026-11-16T10:15-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://chacabucoenred.com/golia-participara-de-una-jornada-de-salud-con-el-ministro-kreplak/",
-   "revisada": true
-  },
-  {
-   "id": "312018b8fc72",
-   "titulo": "Golía participará de una reunión del Consejo Provincial de Salud con Kreplak",
-   "medio": "Infonoroeste",
-   "medio_url": "https://infonoroeste.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbUhwclZSdjBZeVpTMktrZlRENTdIVVJHeWQySlQ5TDFUUy1zbXpCMmNhZjZ1ekVJRWFtUmFTQVdFN2gyMXZwLW43aURGdmdWQ2REdldRNVhKWmtEdFZrMTNnQXhMLUYtYnNIYk0xRlhINWpxTTFkMkplR1dmanUxcHlBNEVxVGhsUDB1N3Q5dXRGcFVjazRldFY2WFlKRDBQRTFadHVDNVFYZ1FYQ05wMTEzSlhfR0E?oc=5",
-   "fecha": "2026-11-16T09:47-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://infonoroeste.com.ar/nota/55647/golia-participara-de-una-reunion-del-consejo-provincial-de-salud-con-kreplak/",
-   "revisada": true
-  },
-  {
-   "id": "c021504e2f3b",
-   "titulo": "El peronismo federal y el Frente Renovador de Sergio Massa se juntan mientras se define el futuro de las PASO",
-   "medio": "Ambito",
-   "medio_url": "https://www.ambito.com",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU2dWSmo1Q3BCN3ltN1B4Q1hSR3ZKdjNIVU1MY092alI0WmdDVjJVX1V0a19kb1VDU0UyRHVjc2t2azJTQ18tc243TXMtMWRweHh6aFhEMjJCQXBSZFNBRjVxcTY3Rm1HSUJEWndtWEYxOE42WlFha3ZKZXRnZm90ZTRIOGhRS0RaZXN1WWZqX0sxaFJEemtWTHkzRENWcklJWGxoSGJQb0pWVW1kUzBSZjgzQkwzeWh0cl9RS0JUall0NDBscnB4RUNuV1RwZXU3cXBfbFhUMlY1U0U10gHiAUFVX3lxTE9Oa0kyTW5xVExBRWpERXpyWHVrQUFGYnRZZjNzM2pqckRkU0ExQnNXMkFib1ZlVTVRel8tc3U1UFkzLWNpN0haX2tjUlZWaU9LT0IzeWpvTFloMVN1V1kzb0IyalVldTBreEc3WGtGTXZNXzZyVWRJRVJEbW9FQXFMT3VxaDl0THZrQmR3eEdZSlBRNTZPSFdvZEVCWk03X1FyejJISEV5YXZrMEFBS2hnYlpLUWZwLVJDdlBCMzVjeVE0M2FJRTBHU2FDWlRCWHcxSFNiUXgwWVRTVm80c1daa2c?oc=5",
-   "fecha": "2026-11-16T09:32-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.ambito.com/politica/el-peronismo-federal-y-el-frente-renovador-sergio-massa-se-juntan-mientras-se-define-el-futura-las-paso-n6345594",
    "revisada": true
   }
  ]
