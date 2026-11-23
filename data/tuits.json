@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T14:25-03:00",
- "total": 58,
+ "generado": "2026-11-23T16:26-03:00",
+ "total": 59,
  "tuits": [
+  {
+   "id": "2123487743724429358",
+   "usuario": "manujove",
+   "visto": "2026-11-23T16:26-03:00",
+   "url": "https://twitter.com/manujove/status/2123487743724429358",
+   "citado_en": [
+    {
+     "medio": "Agencia NOVA",
+     "titulo": "El pacto en el Senado para dinamitar las PASO, el terror de Caputo a Cristina y el salvavidas oculto a Massa",
+     "nota_id": "4398d075327a"
+    }
+   ]
+  },
   {
    "id": "2123819912011370916",
    "usuario": "Letra_P",
