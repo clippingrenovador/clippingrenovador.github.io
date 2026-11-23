@@ -1,35 +1,179 @@
 {
- "generado": "2026-11-23T10:49-03:00",
- "total": 751,
- "nuevas_ultima_corrida": 0,
- "errores": [
-  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "massismo: HTTP Error 503: Service Unavailable",
-  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
-  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
-  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
-  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
- ],
+ "generado": "2026-11-23T12:30-03:00",
+ "total": 758,
+ "nuevas_ultima_corrida": 24,
+ "errores": [],
  "notas": [
+  {
+   "id": "9377dc2c0952",
+   "titulo": "El massismo busca crear una línea gratuita de asistencia para casos de ludopatía infantil",
+   "medio": "Cronos noticias",
+   "medio_url": "https://infocronos.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVFXQlotQXc5MURabUN0MnlaaVNXcjJDNzhsa3d3SEZRT09TeXk0MUV3SHczTG9JTzJPa0YwalJjeEF1ZEUyVlhfT1dSMHpJc2xoWmFVZzFGQzB2aFhoMzVZZi1JVUNtRHI3ZGFTSkNwRG5TRXZiSXV6bFFDLWN3b0RKOGFLbUhqZVVCQTRralBxUGJvcmdEWWVHNGhkQ3pWdXdPTWl1YlpkTWhfeTN6cGRZMjJTUEFTdUdtNmdrN05LdlNzRXc?oc=5",
+   "fecha": "2026-11-23T12:27-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://infocronos.com.ar/nota/59006/el-massismo-busca-crear-una-linea-gratuita-de-asistencia-para-casos-de-ludopatia-infantil/",
+   "revisada": true
+  },
+  {
+   "id": "8bea4027e80b",
+   "titulo": "Los oídos de Axel Kicillof, el candidato en construcción",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmxtOGVMdndoamhTbm5DVkhSMzVFRDVXYXVQU3hqNkdPanJDOTdDeDZSZ1BsQVF1NGNqV2FTWVRLRU5Mb0FpY3hhWDJQTmNjVEZDNVJPbExXa3drNE1pbkxpbi1ZYWtRdFlLZ3VXTU45NGxWcHZwWVVSS0V4SEYtRVpncm4yTlFSZFpERWg2RTR1TE5MaExabtIBngFBVV95cUxPZDNIdlRQa0swTFhhZzZRUVhIODEtbG9LalItRENGV3F3QS0tVFpPTE5mRnpCLWl1NVhQY0F4TjBQbllqUWh6OUl2UXlTR1ZTUm0teXlKZm85VGFfc1J6RlBNUnN4TUhPR1pWbXJMTW9iR1BJLXpzZjZJcF9ZVXQzaFBrbmRva3ZpNjRqck9sb3NITDhMZEl1Mm9MOFZKQQ?oc=5",
+   "fecha": "2026-11-23T12:02-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/los-oidos-axel-kicillof-el-candidato-construccion-n5428256",
+   "revisada": true
+  },
+  {
+   "id": "3479edb273b5",
+   "titulo": "ENCUESTAS. Los dos mano a mano que inquietan a Milei: resultados sorprendentes",
+   "medio": "El Destape",
+   "medio_url": "https://www.eldestapeweb.com",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWkdRSGVvNHdiSGIyaVppVi1YeXp0Um9NR0c5djc5dTh4dWdJQmNDQjM4SVk2VDBmdXU2d2FVYllPVnFGYmdoOHFwVE4yUzZhMF9GSXdRSUFCOFltajUzbThQZVJvSTEweTdwckY4UXFqdFNxQS1ybVVaaEtEd1lGRUdwNjkyVDBMdnE3N2ZCanNTUXdVaVY2aWJDZGR5SjFCc2ZKbGdLbXpNV016dUFRVkVsREFyLTc0cWl5TzVnNElnZ0V0OEh1Y0U5WU51NjRMR29Wb3FjWTNqNTZaT1NCdlVtQktfRDVteC03WHo1X05yV3VDYmc?oc=5",
+   "fecha": "2026-11-23T12:01-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
+   "revisada": true
+  },
+  {
+   "id": "228604af7302",
+   "titulo": "El futuro sin PASO, la teoría de los cuartos y la llamada entre Massa y Kicillof - Por Manu Jove",
+   "medio": "NotiAR",
+   "medio_url": "https://www.notiar.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUTFDall2ZEV5bHMySGZvMjU2bzBQVmZLRE0tdWVLUjlLSkU1SGRZdE0tdFpTcnlRUDdZampVaXNLdkotV3pWYWF1RXZyMFVOb2xTc3RjdDdUZi1pLWFsMFNQUkc0TWUtLTRhZ3pwdWh0MlljSU45czhrUFg5Vk1GX2JWcHNGc291bTNCbXJZb0dMbmMtQ0s1VEJfRTJSR2JOQzJPekRncUJLV3ZaUU1OOEZ2WVJKSEVpMmpPWTBvNkNkUXB3S2JTOEhIWExzT3gyaW95T2V5ZXczNndBWkE?oc=5",
+   "fecha": "2026-11-23T10:15-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.notiar.com.ar/index.php/politica/143755-el-futuro-sin-paso-la-teoria-de-los-cuartos-y-la-llamada-entre-massa-y-kicillof-por-manu-jove",
+   "revisada": true
+  },
+  {
+   "id": "ed5aab0badfb",
+   "titulo": "NUEVO ARTÍCULO",
+   "medio": "PINAMAR 24",
+   "medio_url": "https://www.pinamar24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54LWxMOVJPOUQySmMybUthY1oyWGM3MWxrcE5BcE5TZElfaVdUMkZqMGt5SGdmXzI2SEFWUHZ3U0xYZHZCWjY2TlhXdnExeEdMbFNaV3FSUU5pbEdtLUFSMmpuTV9IYm1HbVZRX3hsZ2pnT28?oc=5",
+   "fecha": "2026-11-23T10:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.pinamar24.com.ar/nota/2311202610465714/nuevo-art-culo",
+   "revisada": true
+  },
+  {
+   "id": "3998b63e8631",
+   "titulo": "Héroe de Malvinas: buscan homenajear en CABA al comodoro Carlos Alfredo Rinke",
+   "medio": "NewsDigitales",
+   "medio_url": "https://www.newsdigitales.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFzOUVWZkw2WkRnX1N3QmhZNWhUVVhhLXdBQi1SVTl4ZEltQnRVaVM4MVdtVzluWFN5RlllNHN6RzJBcmJWOE5aSlhLSWlfLVpmTTd2Ylo3RUtkSjdOU05Ha2VEcThiclI4ZlVaQWUzYWdJZTljaWtqekZRSnJJcm45TjE0N3cxX3ZacTZBM1NsR1B1cS1oWlFlV3FFUWtHTURLU2I3T2lGWmF2S3Y2ZVB3NFR2RFBCRzU0?oc=5",
+   "fecha": "2026-11-23T10:00-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.newsdigitales.com/nota/350708/heroe-de-malvinas-buscan-homenajear-en-caba-al-comodoro-carlos-alfredo-rinke/",
+   "revisada": true
+  },
+  {
+   "id": "6f001a449643",
+   "titulo": "Julio Bárbaro, un peronista con cicatrices",
+   "medio": "El Economista - Últimas noticias económicas y financieras",
+   "medio_url": "https://eleconomista.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMVZ0Z0NFdmhYNXE0b2FiUTB3YzBfNk80N2hNTnVlTDcxbmlwUlh3RENjZHhQQzVGS25KU19UV0ltbkhVX2NUdVE0bkFYZzRvX0gtYUtlWFVVTXU4LUdyRF9IdkMxbEhIWjZYY1BOZldFRTFOWnE1Q3lZc2QxX0JWd050TFXSAYoBQVVfeXFMTlRlOWJkang0WkFlcGxTazBoZDBPMk93bVFxQXZlYmJnbC1jMjdhRU40dGRHVjF5UE52WmFzUkpFMUt0RmQ0QmhabkZCUGlHRlplblJsaG9fVXpuemkwUmJvNnU4UG5JNkQtTkhDV2dUYzVjVmtRbVFYR3I3MG92a2lWdUJYV2hXLVJB?oc=5",
+   "fecha": "2026-11-23T09:49-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://eleconomista.com.ar/politica/julio-barbaro-peronista-cicatrices-n99841",
+   "revisada": true
+  },
+  {
+   "id": "3c193fbb6764",
+   "titulo": "EN ESTE “PERONISMO” TODO ES ARTIFICIAL",
+   "medio": "INFOBER",
+   "medio_url": "https://infoberdigital.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzM3OG5kcXFMUXI2eEpSclZxeGlfTDdZMlZGV2ZBa3NMLVlhcTFfWU1MWDFwX2Y2eHVlampDZl9NMng2b0RzdUQ3REhuVXZCbDdmcV9QYU52czdsN3YxN3VGQjRBLTQ5d2ZJX2FCQ2dIZmNfa0hIWTJXVHlOZnFReg?oc=5",
+   "fecha": "2026-11-23T09:45-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://infoberdigital.com/2026/11/23/en-este-peronismo-todo-es-artificial/",
+   "revisada": true
+  },
+  {
+   "id": "3faa39da168f",
+   "titulo": "El massismo pide crear una línea gratuita para atender casos de ludopatía infantil",
+   "medio": "25 Digital",
+   "medio_url": "https://www.25digital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUG1KM21RMVRMbUdfTmRoRjhRVUJWV25UN3RJbmVrelduVkJfb1pfWWV6SW9wZGhSNTMxU18tZHlDU1RFUkNfa1AwZWtuTzJhUERXaVFXWFhicjQybG1QVmRSaHpwTkJ0MnFoU094UzFNc3Q1dE1ELWFJNUZXUmVBR0FiUUJzVXgxYXJHNEEyT1E1TEZfRmhJcTJpRlpFSXpIMU91c3ZNYlVGX29CcUpMR3A0cEY1OWo3ODl4OTVuZ0lMRklfQmQtQlpOY1RLQQ?oc=5",
+   "fecha": "2026-11-23T09:40-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.25digital.com.ar/index.php/2026/11/23/el-massismo-pide-crear-una-linea-gratuita-para-atender-casos-de-ludopatia-infantil/",
+   "revisada": true
+  },
+  {
+   "id": "eaf633fe6535",
+   "titulo": "El peronismo empieza a definir su futuro: Cristina con Massa y Kicillof, camino propio",
+   "medio": "Diario El Día de La Plata",
+   "medio_url": "https://www.eldia.com",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjdQOExNSmxGSFNiODJJRm1jZUt6cGJna1YwLXBfNTB4U2pQb3ZNYjlwV2lzWE5yMmQxMWZJMENkbnJXdnRyZmxRN0dERnFmaWlwZzE1aURxSDFGMmxSZkVURWtGWlp3ZjVSeElWeUtjU0ZCdDNuYjZCb1dfa2xDcVNxcEhXV0JBOUFJVDh2Y09WXzU2ZTNYdGFNOU5nSmJCbHV1dENQWkhWbWRYNW5xSEl4WFNwU1RYV0hJTTlvWlJMVjlBbTNRM0VZYlZkdnp4aVhuaG1sYVNSSnZaY0VVSDBkV1BMS3hwWTVadXdR?oc=5",
+   "fecha": "2026-11-23T09:38-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.eldia.com/politica-y-economia/el-peronismo-empieza-a-definir-su-futuro-cristina-con-massa-y-kicillof-camino-propio-politica-y-economia_1795437498",
+   "revisada": true
+  },
+  {
+   "id": "6f9170016130",
+   "titulo": "Milei y el peronismo: tiempo de descuento para un choque en la montaña rusa - Por Diego Genoud",
+   "medio": "NotiAR",
+   "medio_url": "https://www.notiar.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1lybU5DWUdJcDc4YzQ4V3hfczB5dHpfZUoxNElWMmlPSEVxdlFWRW9DWk4xWkVNVWdTOHczVmdhMDlVUm9BVXRONmQwSnFjaUJqZy1yRVVBTXJQNGxzWE5lc1NGNGtGOWNLeEpHYmg3d1hsSGM0TER1YXBLc1paU1FWTFdCMlNxWFNmLU9oYjhmNVZLSGp3cFJtb2hPbGdRaTFVYnBaWGhsTXl2cmQ0cVVEWnUtQjNwcnpxSW1oZ2VLUjBiSXhRcnVHZEhGSkp1NnZ2cFpETUxoZw?oc=5",
+   "fecha": "2026-11-23T09:26-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.notiar.com.ar/index.php/opinion/143752-milei-y-el-peronismo-tiempo-de-descuento-para-un-choque-en-la-montana-rusa-por-diego-genoud",
+   "revisada": true
+  },
+  {
+   "id": "c135c1dfbb42",
+   "titulo": "“Rechazo la propuesta de homenaje a Mario Santucho, quien atentó contra las instituciones estatales en el periodo democrático 1973/76\"",
+   "medio": "Gente de Salta",
+   "medio_url": "https://www.gentedesalta.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdVdGMXoxeTM4aWo4bWxVTFdpdEpFU2xUbm9SbExOLXYyNVVXNnJxODZuVk9pVHpTaWQwYVRuZFJBel80bGVmNjlxc3JIN1RZOWY2SDZVT2dLZWY0M0VUSkM5Z0NiRFJsRW1LR3lneHZmeW4tOEVpc2RvTmFKM3V5U19uU3ZTN1hzbnJZM1Q1b1N2eUdCSW16ZmJ0ZGtIYUwwYlNnTWNWa1o0Y1l6NVhZLUJxMjBEQWZOUHBtSC1ZR21YOTVTUzdJTjZ3Unpmb2M5VXVEaFNWVjdGc3NPVkhkYkpXNU3SAeoBQVVfeXFMT0NBVERrTFY3OVZ3MzVIcGxpdXhOYkRVN3NTUGJLMWRUZ0l6Mkh2TzdfTmpZa0ZMTTd5Q2YxSEs5RkdTRGZyWVg1TnNCTXJBWW5fc3lBZlFRZ1l6TnM0V2d5Y2h4NWlRam1PYVBnTk5nNXZBajY3Qy1hdWpZLTB0Vm0tc1RybHUyZXZLWldtNXdpVUwyQUZKUW9QM0FkRGR1dUJyaU5MUWpvMkxYdlM5VUhLN3ZGeFI5VE9LZl8yZnpURG92TWY1YjJ0cnVTTjVOMllpLXdldmpuUXhHalQ4bVZXOG5JYmlvNTBn?oc=5",
+   "fecha": "2026-11-23T09:17-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.gentedesalta.com/politica/rechazo-propuesta-homenaje-mario-santucho-quien-atento-instituciones-estatales-periodo-democratico-197376-n14237",
+   "revisada": true
+  },
   {
    "id": "1d062110c22b",
    "titulo": "Timerman: “En estas condiciones, Milei no gana el balotaje”",
@@ -71,6 +215,20 @@
    ],
    "visto": "2026-11-23T09:18-03:00",
    "url_original": "https://tsnnecochea.com.ar/locales/el-lema-del-acto-fue-peron-nos-une-nosotros-creemos-que-ese-es-el-camino-243036/",
+   "revisada": true
+  },
+  {
+   "id": "de53bc051e4e",
+   "titulo": "Presupuesto y reforma electoral: el oficialismo sale a buscar votos en el Congreso",
+   "medio": "Memo.com.ar",
+   "medio_url": "https://www.memo.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnFXUVBsRW9CUEtyRHY1cDI4Y3FQWXBWdkowc0VGaFJvU3RtVHRHLVkwMmlmaDlaMk10cDM4VHBLNkV5dkJ5UjIyRVl0MFd6Njh0Znk1N2NPNTVPMkNwbnpQd3NFaEFlcTJxN3RmYm9HaHhLQXZSU0ZGQzVDUjE3dFpkY1ZsbkRZcXE3OEFn0gG3AUFVX3lxTE1RSjVwZHR1WUZqcFpveWpTR0pNSW1xR0RZeUp3U2N4MHpTVUhfdEQ4cE1uY1AzZXJlT3JSMFNaTWQ0NkxRVkZTUEV4ejIzVFRibnpac1hReGpxV3NnRldpMDRUQWR2RzdMZHhZRUctQmpNMldiX1QyQXBBTXYwaXdCVHpqSTdfMVNtOVZFTUctRUJSRl9SYUo1QTJiaGVqc01QUG5FS1YzbmtWY0Rka05fNjVmQW9sZw?oc=5",
+   "fecha": "2026-11-23T08:11-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://www.memo.com.ar/poder/presupuesto-2027-y-reforma-electoral-milei-busca-votos/",
    "revisada": true
   },
   {
@@ -262,6 +420,20 @@
    ],
    "visto": "2026-11-23T01:34-03:00",
    "url_original": "https://www.mediosdelaire.com.ar/d/noticias/diputado-michel-denuncio-la-venta-de-aysa-a-precio-irrisorio-22421/",
+   "revisada": true
+  },
+  {
+   "id": "cbb291450f3d",
+   "titulo": "OPINIÓN | Una Paradoja : a voto sin PASO, más tensión financiera?",
+   "medio": "https://patagonia24.com.ar/",
+   "medio_url": "https://patagonia24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzBJdHlyX0FKQzNQd2pPVVNQOHFuSU00ZXlHeHJJekgzSUlmWU9FYlpTcVJ1Z2N0MXNZbDFyZVFYLVhCZm83N3RJa0dhendmazVock9WRDJrN09YZFlXVFZfcURWMjdyQjcwOHRERTZ0YTRUaUNCSHdCUzJNUjZaTWdlU3dVUDhPNkFlb0o1NkZSSnROdnpHUHhLTQ?oc=5",
+   "fecha": "2026-11-23T00:10-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T12:28-03:00",
+   "url_original": "https://patagonia24.com.ar/contenido/22522/paradoja-a-mas-votos-sin-paso-mas-tension-financiera",
    "revisada": true
   },
   {
@@ -677,7 +849,8 @@
    "fecha": "2026-11-22T15:51-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-22T18:02-03:00",
    "url_original": "https://elcanciller.com/politica/el-peronismo-ante-la-inminente-suspension-de-las-paso--cristina-kirchner-se-une-a-massa-para-competirle-a-kicillof_a6b0334ce5425bc9af38e5edf",
@@ -867,7 +1040,10 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkFCdjBqdXJYVXVJZFZSOUVnQjNyTzNvSWdKQWMxcTRHRXNwakQ2N181enE0OHItWlpiekNfcHdwNWVzVEwyRkZ0RU5NZHMwTng3a1M2eVVBTUxlcjdJQUJFUDZpcC1DWUVCSzFtX0o2VEtRVE05QVljUlZHWWZvNEJEV29iVEVWaS1FWHVSY25JZFAxZ0FST2xxd3BaaWtLOFdr?oc=5",
    "fecha": "2026-11-22T13:04-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-23T01:33-03:00",
    "url_original": "https://www.diariodemocracia.com/nacionales/348387-massa-suma-apoyos-para-pelear-en-el-pj-y-kicillof/",
@@ -954,7 +1130,8 @@
    "fecha": "2026-11-22T12:29-03:00",
    "busquedas": [
     "\"Frente Renovador\"",
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "massismo"
    ],
    "visto": "2026-11-22T20:01-03:00",
    "url_original": "https://www.vocescriticas.com/noticias/2026/11/22/227346-massa-suma-respaldos-dentro-del-pj-y-crece-la-tension-con-kicillof-por-las-paso-de-2027",
@@ -10802,105 +10979,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://infocronos.com.ar/nota/58872/bianco-picanteo-al-massismo-y-a-la-campora-por-el-proyecto-para-regular-las-apuestas-online/",
-   "revisada": true
-  },
-  {
-   "id": "c3e736e63106",
-   "titulo": "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
-   "fecha": "2026-11-16T12:25-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lanacion.com.ar/politica/peronismo-massa-confluye-con-el-peronismo-federal-y-toma-forma-una-corriente-interna-para-enfrentar-nid16112026/",
-   "revisada": true
-  },
-  {
-   "id": "6fb3f16364ee",
-   "titulo": "Massa reúne al peronismo federal y desafía al MDF con un armado propio",
-   "medio": "La Tecla",
-   "medio_url": "https://www.latecla.info",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRhUGZxLWhpeFhhQWhwakdxNEQzVS15cXZVYlMwMUVSQnp4QnpGNl9OeUw1ckxBX2c2STV6akVFUE9paW1qT2JNQ0pGcEY2b28teE9ybnZ0ZTZ6RWZwOFE5VmYtWV9mMUluUEpqR2g4VDBQdHcxUTQ4T2ZicXFTWV81QmdCVV9jbnFiTXg1cmFpSHp0c05ZQTJfNHFkcWdnU09PYw?oc=5",
-   "fecha": "2026-11-16T12:15-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.latecla.info/171190-massa-reune-al-peronismo-federal-y-desafia-al-mdf-con-un-armado-propio",
-   "revisada": true
-  },
-  {
-   "id": "b551d6a119e0",
-   "titulo": "Peronismo Federal y massismo se unen y marcan distancia de Kicillof",
-   "medio": "Diario El Norte - San Nicolás",
-   "medio_url": "https://diarioelnorte.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHN3dlR2bmlodVFCRkhxM1dXTTJmRDFWQ2F3amh5ZjZFRlExVTBiUS03WGd0SF9ZWXVwUHlvRG0tTF9mSWU5b09NOW93Q01BVndsUDVPTHlqdGtrVHo5ZWRXdWJKVEJFcmxqMFlCb2pLdEZIMkhsLUFDSkVJRGFzRFNsc0l5UTJlTkFST0twQUhfN09wcGFaMkJ6US0yUQ?oc=5",
-   "fecha": "2026-11-16T12:07-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://diarioelnorte.com.ar/peronismo-federal-y-massismo-se-unen-y-marcan-distancia-de-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "9fa76abaeac0",
-   "titulo": "El massismo y el Peronismo Federal unen fuerzas",
-   "medio": "» Cholila Online",
-   "medio_url": "https://cholilaonline.ar",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnhVdUlBMk5SUEI1cldBUl9nNHNGYllLSzl5cnIzQjR0ckxYc1dkOUNFeEdraW5UWWZlMnlGWUo2c3h4ZFZnaWpoTGN5QlNSM2JmS2x0Z3loNG9xRFhYLTZOOFpoZ0tKaDdCc2lDaWpWOURGV1c4TkZDRFBBMWZVZHBaUkNxYjhkaEV6TDZn?oc=5",
-   "fecha": "2026-11-16T12:06-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://cholilaonline.ar/2026/11/el-massismo-y-el-peronismo-federal-unen-fuerzas.html",
-   "revisada": true
-  },
-  {
-   "id": "8395df3e5380",
-   "titulo": "El Día de la Militancia reunirá a Sergio Massa y referentes del peronismo en el Teatro Otamendi de San Fernando",
-   "medio": "Alternativa en Papel",
-   "medio_url": "https://alternativaenpapel.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1BSNld2eDVGTEtGdDB3clUzVnRGT2F1dHhUTEhJV090S0lhaFRCTS1tZEdLTFNudHVDUGlrTDRCU3JOaUNFNjlWbW5sSDh4YTlDMGhTRVlPR1NqenAtYVAyTmlaYloxR0R2LUlwU2d5d0hrVkM1NkJSSTRGTGJvT0VLZHM2bUhKNFRqSDRMOUpoZ1J6QzNOeGNqbXVmdzF5Z1FpcnplbXYzeVctb0k2c20xZTJOdXl6RXdvc2twZDVUamRVNnZPQ0xVUVQ0WldXQVE5NjZiWDVNSXJWODAwNEFwcVhIM0gxNEFYcmRB?oc=5",
-   "fecha": "2026-11-16T11:34-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://alternativaenpapel.com.ar/2026/11/16/el-dia-de-la-militancia-reunira-a-sergio-massa-y-referentes-del-peronismo-en-el-teatro-otamendi-de-san-fernando/",
-   "revisada": true
-  },
-  {
-   "id": "eebcbf9876a3",
-   "titulo": "Massa no espera a CFK y preparara una candidatura presidencial alternativa a Kicillof",
-   "medio": "El Ágora Digital",
-   "medio_url": "https://elagora.digital",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlJka2x6Z05sbWlkTlB6MUc2NHRIR3JKenp3ZXhvOWtWZnRKYTl2WDdjOHlONDJnVXFCVl9Ock8yTE1lWHZIeXZRRHNVcjhGUmZFQUpQRmNfZzd0dzE3WktqOHBNU3hCdHI2cTZwOEpYTE82U1dOLURGWERva0RyZ1RhX0N5VndFdy1jQkZmUVBKN09x?oc=5",
-   "fecha": "2026-11-16T11:19-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elagora.digital/argentina/sergio-massa-acuerdo-peronismo-federal-acto-candidatura/",
-   "revisada": true
-  },
-  {
-   "id": "5589d58b9ded",
-   "titulo": "El Peronismo Federal y el massismo celebran juntos el Día de la Militancia y se muestran como alternativa a Kicillof",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNem9yRHlfeUFySDdoY0dXM25aWUxGeDdBLTJpMnNDS2dCM0ZOR1BiZW9UWXRrZUhhOFhGTUpEb2d1cFctZi1LZU8yLXhNRTRxd216NWdvR3ZXaDZPVElLVkFBak1TRVNKYjJXTVMwYjlIWXlmZnNTcllIRUxCTnVCVVgyUXF3TVFmUGE2MEpMYXVBN2N0TFAyX0hyVTR1RE1YTXVvbjJaQi1Dbno1cTNQUl9xUXZLOHZ1NGJZeW5zOWtOaUdheldiUW5PZWxQcGk5THVPbU9FQWo1dzlBbWM3UF83amZlX3VpMDZVdjlQSE5YSXJITEczcUZFS0lIT0Z2dUZhM1lhekNHcWVEVUZJ0gGeAkFVX3lxTE5vcHhSNHhTTmFqZ3pLSndld19jemhsRl9ubWhoZk5Id1l0NzMwb1FCdUFZcHJSZW5GUTVKQzhDcFV0Q1k1dExmN1ItN3VZaUlIY1ctOTVhZldSQnprRTVTRWk3c245a09qOW9oOUtLZFBrbWJuUm9UQ2VGbnpOYWJYNlBFY2o4Ny1Ja3NCTmJOSmVoc0JPbHFJZUROYVRLZ3RsNU45MThqcmJsekVBQ3QyenJKQnBJRFRTLXRjT2t2eTU0SGRGUWpETnIwTG0yQmFYR1A5ZFAteW9ob0M3UjRyRVo5T2FPRkRYX0x6cVI0ckdlSm5Samc5OHItWm01LVJCQzlrVFBPbncwU3J6SjFvUGw4VmZSbE1nenMtcnc?oc=5",
-   "fecha": "2026-11-16T11:11-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
    "revisada": true
   }
  ]

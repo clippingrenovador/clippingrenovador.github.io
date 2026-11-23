@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-23T10:49-03:00",
- "total": 56,
+ "generado": "2026-11-23T12:29-03:00",
+ "total": 58,
  "tuits": [
+  {
+   "id": "2123819912011370916",
+   "usuario": "Letra_P",
+   "visto": "2026-11-23T12:29-03:00",
+   "url": "https://twitter.com/Letra_P/status/2123819912011370916",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Los oídos de Axel Kicillof, el candidato en construcción",
+     "nota_id": "8bea4027e80b"
+    }
+   ]
+  },
+  {
+   "id": "2121238429073654017",
+   "usuario": "Letra_P",
+   "visto": "2026-11-23T12:29-03:00",
+   "url": "https://twitter.com/Letra_P/status/2121238429073654017",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Los oídos de Axel Kicillof, el candidato en construcción",
+     "nota_id": "8bea4027e80b"
+    }
+   ]
+  },
   {
    "id": "2124254291284127844",
    "usuario": "Csofianunes",
