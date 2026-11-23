@@ -1,16 +1,111 @@
 {
- "generado": "2026-11-22T20:02-03:00",
- "total": 718,
- "nuevas_ultima_corrida": 15,
- "errores": [
-  "\"Sergio Massa\": HTTP Error 429: Too Many Requests",
-  "\"Jóvenes FR\": HTTP Error 429: Too Many Requests",
-  "\"Juventud del Frente Renovador\": HTTP Error 429: Too Many Requests",
-  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
-  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests",
-  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 429: Too Many Requests"
- ],
+ "generado": "2026-11-22T21:00-03:00",
+ "total": 726,
+ "nuevas_ultima_corrida": 20,
+ "errores": [],
  "notas": [
+  {
+   "id": "4d97f6c51d6a",
+   "titulo": "Crece la interna del peronismo: Cristina Kirchner se distancia de Kicillof y avanza en un acuerdo con Massa",
+   "medio": "Diario Neuquino",
+   "medio_url": "https://diarioneuquino.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTTY2MjNqUk8zT0NjaVdaUU01cmFpQUxMMHRaVjBiZ3k2aFlncU41aUZQS3R4VzByal8wZjNIanA2T2lSSDRwLXpDTXZwbFNDdWFuU09SdUhrZ1B6aTh6UXAySi1GekFUYzdSZldZZldXOTA1clp1WDlNSHJyUzBvSm5CVzZFVHpuUVEzRWtqV0V1MFlhZkpVRVJrMU9zMkJiNS0ydEVhWWlPTHZTU3BrWnRQMXJKZUxVS0VwZDdSMFdZUGlobm9sNGdNb25VUGVDWDJB?oc=5",
+   "fecha": "2026-11-22T20:43-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://diarioneuquino.com.ar/crece-la-interna-del-peronismo-cristina-kirchner-se-distancia-de-kicillof-y-avanza-en-un-acuerdo-con-massa/",
+   "revisada": true
+  },
+  {
+   "id": "12d2d21ae0cd",
+   "titulo": "Argentina 2027: cómo es el líder ideal y cuál es el país deseado",
+   "medio": "Clarin.com",
+   "medio_url": "https://www.clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0NuSFJBMGgxdENnU1ZjLXYwU2N5UkZwUXVCMjczNWJJejlqa25DVlZQMHpTMFg3SV9JQzUyTXJaYWZFTEtiVk5EaDFvVF9LakMySzRfVVdaWTl6a0lmOWdSX3UyMlp3cTRPa0lBZ0FHU0NZUlQ0NGYwUExMX3dPTjEzRDJxeDRvR3lKR0FxV3ZfZw?oc=5",
+   "fecha": "2026-11-22T20:36-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://www.clarin.com/opinion/argentina-2027-lider-ideal-pais-deseado_0_mt55lsrxli.html",
+   "revisada": true
+  },
+  {
+   "id": "b18da5ed6f8c",
+   "titulo": "Interna peronista: Massa y Kicillof definen estrategias ante el 2027",
+   "medio": "HolaSalta Noticias",
+   "medio_url": "https://holasalta.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXYzOS1yOXAtWXg3Q0NlU045Vk5oanBJWXZRZDhzdmZ6TUxCdGZkcDBDemU3NEJ3UG5vQmFYTVN2ZXBhY284cm1GLUZtaTByY21YbldMSmk4b3BzczJnTXRhSC1HcHhTUko5ZEE3V2lfRzlSdnFPR0p2TW1YTGVobFdHQXV6OUxucnVfcXdQRURITWV0M25vY0VkSXlVMThjQmNjNFBPTWVMOVRFa3V4bGFPSGZtc3JIQzRpdzZRMA?oc=5",
+   "fecha": "2026-11-22T20:35-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://holasalta.com/post/interna-peronista-massa-y-kicillof-definen-estrategias-ante-una-posible-suspension-de-las-paso/",
+   "revisada": true
+  },
+  {
+   "id": "650a2034b763",
+   "titulo": "Quintela vuelve a la escena nacional desde La Rioja, con 2027 en el horizonte",
+   "medio": "Eduardo German",
+   "medio_url": "https://eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHpaYnJWWE1DdjZSX1dqMjFYclpjLUJFdkZ2bThOX0NSQzNKNlhmUk4wZ2Jta1QyTnU5aVVkUHZJT2MyN3dXclZhU2kybkxNT3BySGNuWTZFY0ZJVl9pd0R6OWJhLWFiamJwNGNINXpuRDhfcWlINEtZTHlHNVpVSW9zb0ptLU5wdnl5bFJMVGlZRHlDbmlzZ1VCWVhhVUNzdDZIUWtOOUNiLXlPM3JqUzZUYmk?oc=5",
+   "fecha": "2026-11-22T20:26-03:00",
+   "busquedas": [
+    "\"Jóvenes FR\"",
+    "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://eduardogerman.com/2026/11/22/quintela-vuelve-a-la-escena-nacional-desde-la-rioja-con-2027-en-el-horizonte/",
+   "revisada": true
+  },
+  {
+   "id": "c9f219451721",
+   "titulo": "La dupla Kirchner-Massa se consolida en la interna justicialista",
+   "medio": "Radio Cafayate",
+   "medio_url": "http://www.radiocafayate.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZjdpalo2Y0VpbU5iNXVFd0FGZ0xwOUZJZlBxTk8xbkRzUTROYmxJNHhCZXpkUFE1NHplSjc4X2FjRlBhaXJrNEd0bjNCQQ?oc=5",
+   "fecha": "2026-11-22T20:17-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "http://www.radiocafayate.com/?p=78010",
+   "revisada": true
+  },
+  {
+   "id": "b69bea4bba68",
+   "titulo": "Loy Krathong: la fiesta de luz, gratitud y buenos deseos que iluminó la laguna de Chascomús",
+   "medio": "El Cronista | Chascomús",
+   "medio_url": "https://www.elcronista.ar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQy1XeDU5ek80a3IxZnpWMno5UnZISWQ3bEQxdHpzNElHWUtTYkZYc2pRb1FfTjlZY0ZpRWZKODRPU21Ra3VuSzdjTGhCWUQ5anFWdG8wUkZIVWFMY3M0RV9ja3VVd2JkckhrYmhXa3VTRHMwT050dW15Z0N3RDlkaVBPbEhfQ1FmQmdOdkJWN3JQN1RUdy1vQjc1RlEzNEpQYTFpcjdnV2pMOTQ4d2p4RUlzSjFtUQ?oc=5",
+   "fecha": "2026-11-22T20:06-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://www.elcronista.ar/loy-krathong-la-fiesta-de-luz-gratitud-y-buenos-deseos-que-ilumino-la-laguna-de-chascomus",
+   "revisada": true
+  },
+  {
+   "id": "fefac16db9b7",
+   "titulo": "La apuesta electoral de Javier Milei genera una grieta interna por el temor a Sergio Massa",
+   "medio": "MDZ Online",
+   "medio_url": "https://www.mdzol.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONWZhZTNJXzdjeGhla0xZZUlqOVRuQVpQNHpVU1BXVE1sV1YzLWpIWTF5YjZoalhtcHl0WEVUa21teFdBdWI4TUxvVEJ4NlhubkdBWmpNUUg2OXdKOGlMYkp0VkJ1ZzhqQy1rM1J3VkVRVkZ4ZHRLY1RHZllZUDFPNldYNTZ1aTdCcWNLTHBRN3VFRUljbG1VTEN4QnFqMTNKRXpkRldPVEJfcHI2SEV0M0hyOUlqUVAyT0w4NG9abW1aLVMzTzlvNEdveWY1ZzFoc29UUVF6ckI3WFFZbkE?oc=5",
+   "fecha": "2026-11-22T19:46-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://www.mdzol.com/politica/2026/11/22/la-apuesta-electoral-de-javier-milei-genera-una-grieta-interna-por-el-temor-a-sergio-massa-1997166.html",
+   "revisada": true
+  },
   {
    "id": "4eb57524cd27",
    "titulo": "El peronismo se encamina hacia una interna entre Massa y Kicillof: qué opciones tiene para definir candidato sin PASO",
@@ -19,7 +114,8 @@
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTR5TUcyb0ZKaVRmLWlMaUhpLWVNcXJtTF9PcTQyc2FCdDA1MkJEUWRuTk5iTkFmbnVMTHUzcjBOQjNZSmZnVkp1T1ZtVDgybWFNWjNTc0Y4ZHIzUGdHdl9jRUNTd3VoRXZxdFAzbkNQVXEtajQ5QzRtRnd3VFgtLTZ5WHJzR1Y3STU0SU83LV8tekFNSVRKWGRQcU1BTFNHaWtxOXEzN1BPLXZ6ZldTV053anhMR28yZjhRRHBraUQ5LVo3ZEhaTkVBRDdvdW1aWHlUUGNWaGtvWXVXTE9ZT1Btak1Fd9IB-gFBVV95cUxNLWQ5RTZCa3FpZEtldERVbnVHUDhQNXNVaUg5cUtHSEFMVVlWVmMyQkFhTWRVZnRGbHBiYWlleEJQeU1IQ19ORmNHQS1raTdWTDFkX3hQazZNcWFCc2ZWMTdKLVdKazFvcDk1NXc4VnI5UmhBNjVVa0cyRG55T2lFUV9LRUxFdEY0TWVQTWRWSU5CVUl6WjBYYnV6RzYybVhNYkdCLUstSkpsQkFBZXVkZWwyWXFabnprNWJRMDZHRHZ1bUFBV0V1VmVSVlJfOFJBT0FaeFFsOV9lTlRxZEt3QUtkSW4zeFNDOUJDeWx2bFhHaDlCVHdRRWVn?oc=5",
    "fecha": "2026-11-22T19:20-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-22T20:01-03:00",
    "revisada": true
@@ -63,6 +159,21 @@
    ],
    "visto": "2026-11-22T19:01-03:00",
    "url_original": "https://bardeo.news/politica/cristina-contra-clarin-por-una-supuesta-frase-suya-contra-kicillof_a6b0353c4cd25aee28878cce1",
+   "revisada": true
+  },
+  {
+   "id": "227e31021e78",
+   "titulo": "Crece la interna en el PJ: Urtubey descartó una candidatura de Cristina Kirchner y pidió dejar atrás el \"hiperpersonalismo\"",
+   "medio": "Diario Río Negro",
+   "medio_url": "https://www.rionegro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMkZEYmZEVU5QT3o0Y0hURjlvX3kxaGpsNmtadU9GRGt0UWxKRFRKaVY3Z0hTZTZLOWlCcXJiVENTNXBtcFFFNHFRWmdRSklWRmxrN0ZjRDByMU4xYmpZSVZVdFAzQlhPQjVBbTdQLUh4bmlObS16eHQ0Ym9tZFg3dFFaYmllZXNTV20tM1JyMUViSV9Zd2RKN0J2d1ozT3RyaVVXZmFxVFdMeHlQaHFLNFhYeTREQm14dlVOYkQyX0puWnFEN2ZsSnd4OGZkRXc3bm1LemhFVkU5NS1jUnpncUIxclgzZHBKSUNkM0tHN041SE9sQVZBcndB0gGCAkFVX3lxTE1iRGd2VVZ1SWhlQjdkeGtwaUJNNHpFTDhMd0ZMaVlqcTNxcnBOS0pNbm9XS3BoOEdYN3BJd3I4bl9NZGc2T3gtdnV4RkNLVE1oNUp5STd5cnZUSFFiY3ZmTVdJcWw2WFNGR1FfcE1oankxRjRycklyamQ1SndkZnppckdlWGJWek5BY0R0TWVnQ3VFdkFxT2tqcDU5eHAxdWdjellfRGc2eDM3RHYwVk1yWGl3UGlndEdTTWRQRHgxUWUyaVRJVm9obk5tS0JJaURfdEc3RUxQQUZVMWI5c3Z0N2ttMEhjMzYyYkNDQ250Z244NTNJMzlkMjE2bWRkVXBOUQ?oc=5",
+   "fecha": "2026-11-22T18:12-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-22T20:59-03:00",
+   "url_original": "https://www.rionegro.com.ar/politica/crece-la-interna-en-el-pj-urtubey-descarto-una-candidatura-de-cristina-kirchner-y-pidio-dejar-atras-el-hiperpersonalismo-4808949/",
    "revisada": true
   },
   {
