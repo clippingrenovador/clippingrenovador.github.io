@@ -1,30 +1,29 @@
 {
- "hora": "06",
+ "hora": "14",
  "claves": [
   {
-   "texto": "Según El Tribuno, Sergio Massa y Cristina Kirchner se acercan y toman distancia del gobernador Axel Kicillof. Identidad Correntina sostiene que ese acercamiento reordena la interna peronista.",
+   "texto": "Cristina Kirchner y Máximo Kirchner desmintieron la frase contra el gobernador Axel Kicillof que les atribuyó Clarín. Según El Día de La Plata, la expresidenta se alinea con Sergio Massa y el gobernador avanza por un camino propio.",
    "fuentes": [
-    "56529e8cf2d7",
-    "99a5a1c57c9f"
+    "d61524d97436",
+    "eaf633fe6535"
    ]
   },
   {
-   "texto": "Máximo Kirchner respondió a Clarín por la nota que atribuyó a Cristina Kirchner una frase crítica contra el gobernador.",
+   "texto": "Ante la posible suspensión de las PASO, Sergio Massa impulsa una interna virtual con reconocimiento facial para definir las candidaturas del peronismo.",
    "fuentes": [
-    "3c332641d61c"
+    "3eb461447649"
    ]
   },
   {
-   "texto": "Ante la posible suspensión de las PASO, El Liberal informa que el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027.",
+   "texto": "El Frente Renovador propone crear una línea gratuita de asistencia para casos de ludopatía infantil.",
    "fuentes": [
-    "5750800e3eab",
-    "d301af84bd07"
+    "3faa39da168f"
    ]
   },
   {
-   "texto": "El diputado nacional Guillermo Michel denunció la venta de AySA a un precio irrisorio, según Medios del Aire.",
+   "texto": "El consultor Raúl Timerman sostuvo que, en las condiciones actuales, el presidente Javier Milei no gana el balotaje.",
    "fuentes": [
-    "925c0eac6877"
+    "1d062110c22b"
    ]
   }
  ],
@@ -32,18 +31,21 @@
  "temas": [
   {
    "id": "massa-armado-formula-2027",
-   "titulo": "Massa y Cristina Kirchner se acercan y toman distancia de Kicillof",
-   "resumen": "Según El Tribuno, Sergio Massa y Cristina Kirchner se acercan y toman distancia de Axel Kicillof; La Nación e Informe Digital informan que consolidan su alianza interna, e Identidad Correntina sostiene que el acercamiento reordena la interna peronista. Clarín había atribuido a la expresidenta una frase crítica contra el gobernador; Cristina Kirchner cuestionó esa publicación, según Bardeo.news, y Máximo Kirchner respondió a Clarín, según HaceInstantes.",
+   "titulo": "Massa y Cristina Kirchner se acercan; desmienten la frase atribuida contra Kicillof",
+   "resumen": "El Día de La Plata señala que el peronismo empieza a definir su futuro, con Cristina Kirchner junto a Sergio Massa y Axel Kicillof por un camino propio; NewsDigitales informa que Massa suma respaldos en el PJ mientras el gobernador se afirma como favorito para 2027. Cristina y Máximo Kirchner desmintieron la frase contra Kicillof que les atribuyó Clarín, según InfoPlatense. NotiAR menciona una llamada entre Massa y Kicillof.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "56529e8cf2d7",
-    "ff4882b1dc02",
-    "3c332641d61c"
+    "eaf633fe6535",
+    "797e08960457",
+    "d61524d97436"
    ],
    "otras": [
+    "56529e8cf2d7",
+    "ff4882b1dc02",
+    "3c332641d61c",
     "99a5a1c57c9f",
     "37b20e430bc8",
     "3511f54d981a",
@@ -60,13 +62,16 @@
     "1daa5652e149",
     "444803701b64",
     "505475a82d2b",
-    "1fce7ea2213a"
+    "1fce7ea2213a",
+    "228604af7302",
+    "0a779d665c79",
+    "6f9170016130"
    ]
   },
   {
    "id": "peronismo-sin-paso",
    "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
-   "resumen": "El Liberal informa que el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, y Cholila Online repasa el armado de Massa, Kicillof y las opciones para elegir candidato. TN analiza las alternativas sin primarias e Identidad Correntina informa que Massa propone una interna digital. Según MDZ, la estrategia electoral de Javier Milei genera diferencias internas en el oficialismo por el temor a Massa.",
+   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24, mientras Memo señala que el oficialismo busca votos en el Congreso para el Presupuesto y la reforma electoral.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
@@ -74,9 +79,10 @@
    "principales": [
     "5750800e3eab",
     "4eb57524cd27",
-    "fc8d6d20d11d"
+    "3eb461447649"
    ],
    "otras": [
+    "fc8d6d20d11d",
     "d301af84bd07",
     "25c3565a7e38",
     "0f412a8961f3",
@@ -87,21 +93,38 @@
     "15a7f4806847",
     "994745be471a",
     "a2eed9e0dddc",
-    "8ce08cae1306"
+    "8ce08cae1306",
+    "de53bc051e4e"
    ]
   },
   {
-   "id": "michel-aysa",
-   "titulo": "Guillermo Michel denunció la venta de AySA",
-   "resumen": "Según Medios del Aire, el diputado nacional Guillermo Michel denunció la venta de AySA a un precio irrisorio.",
+   "id": "ludopatia-infantil-linea",
+   "titulo": "El Frente Renovador propone una línea gratuita de asistencia por ludopatía infantil",
+   "resumen": "Según 25 Digital y Cronos Noticias, el Frente Renovador impulsa la creación de una línea telefónica gratuita para atender casos de ludopatía infantil.",
    "tono": "positivo",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
+   "dirigentes": [],
    "principales": [
-    "925c0eac6877"
+    "3faa39da168f",
+    "9377dc2c0952"
    ],
    "otras": []
+  },
+  {
+   "id": "encuestas-2027-balotaje",
+   "titulo": "Encuestas: los escenarios de balotaje que preocupan al Gobierno",
+   "resumen": "El Destape publica dos escenarios de segunda vuelta que inquietan a Javier Milei. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje; Perfil difundió un sondeo sobre los atributos que los argentinos esperan de un presidente.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "3479edb273b5",
+    "1d062110c22b"
+   ],
+   "otras": [
+    "5623656fac18",
+    "4f83e9537395"
+   ]
   },
   {
    "id": "gestion-universidad-en-san",
@@ -122,10 +145,90 @@
     "c61da54202e3",
     "46994d945931",
     "5a2a1253a778",
-    "83873b559481"
+    "83873b559481",
+    "921d5075a478"
+   ]
+  },
+  {
+   "id": "san-fernando-reordena-el",
+   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
+   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa",
+    "Alexis Guerrera",
+    "Natalia de la Sota"
+   ],
+   "principales": [
+    "1f1ce72bae11",
+    "ab00192983fb",
+    "ced4bbfd43aa"
+   ],
+   "otras": [
+    "5d61c6c19688",
+    "798fa27100f2",
+    "0e072cb13b4f",
+    "d1e551eac8d2",
+    "4de08fa663d6",
+    "47607e29b920",
+    "ac5a556b9c95",
+    "78ef112c5d60",
+    "6924eb102826",
+    "4c59c5e66fae",
+    "57fbd70d76f7",
+    "5b08c5cfbf0b"
    ]
   }
  ],
- "redes": [],
- "entrevistas": []
+ "redes": [
+  {
+   "url": "https://x.com/SergioMassa/status/2123517703826612429",
+   "autor": "@SergioMassa",
+   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+   "autor": "@ceciliamoreauok",
+   "nota": "Con o sin PASO, el peronismo irá unido."
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
+   "autor": "@FrenteRenovador",
+   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2124283570046841239",
+   "autor": "@marinadorotea",
+   "nota": "Marina Salzmann, sobre el deterioro del transporte."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe."
+  },
+  {
+   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
+   "autor": "@MichelGuilleOK",
+   "nota": "Amparo por las rutas nacionales de Entre Ríos."
+  }
+ ],
+ "entrevistas": [
+  {
+   "video_id": "HbpWLzHNpN8"
+  },
+  {
+   "video_id": "G7pC6FGk1Yc"
+  },
+  {
+   "video_id": "Qex8w_pmieE"
+  },
+  {
+   "video_id": "PZ4kI9wtH2Y"
+  }
+ ]
 }
