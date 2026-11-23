@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T18:12-03:00",
- "total": 59,
+ "generado": "2026-11-23T19:13-03:00",
+ "total": 60,
  "tuits": [
+  {
+   "id": "2124912743719330128",
+   "usuario": "GugaLusto",
+   "visto": "2026-11-23T19:13-03:00",
+   "url": "https://twitter.com/GugaLusto/status/2124912743719330128",
+   "citado_en": [
+    {
+     "medio": "La Nación",
+     "titulo": "Lousteau, Monzó, Michel, Di Tullio, Ferraro y Katopodis confluirán en un foro anti Milei en la UBA",
+     "nota_id": "58fa89aec7d5"
+    }
+   ]
+  },
   {
    "id": "2123487743724429358",
    "usuario": "manujove",

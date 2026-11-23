@@ -1,9 +1,39 @@
 {
- "generado": "2026-11-23T18:13-03:00",
- "total": 761,
- "nuevas_ultima_corrida": 15,
+ "generado": "2026-11-23T19:14-03:00",
+ "total": 759,
+ "nuevas_ultima_corrida": 14,
  "errores": [],
  "notas": [
+  {
+   "id": "2f5f215587ee",
+   "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
+   "medio": "REALPOLITIK",
+   "medio_url": "https://realpolitik.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1YteUhNV0FEelk1c3pfTmt5aUNjUlNXbUFlQTV3N1JCMTFzUklOTDYwVVcyV005YURGY1M5SWFZVm5QdVhpZDdHTDJkbU5kbmdKX0loZUdTTTFkQ0xFMDVubXVMLVJ5WllvTjMzV25saGN6dnQ5VWtCS2ZHV0YtLWpaQzZvZkFzWk5GUWJFZlNwTGxrVHZZSUQyRkw4SF9SeW9NN2xvWm80OHowVWN1ZFlUVWV4d09GYXBQd3I5amVPMFk?oc=5",
+   "fecha": "2026-11-23T19:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-23T19:12-03:00",
+   "url_original": "https://realpolitik.com.ar/nota/75366/diego-giuliano-si-massa-se-va-a-lanzar-a-presidente-lo-va-a-hacer-con-todas-las-letras/",
+   "revisada": true
+  },
+  {
+   "id": "58fa89aec7d5",
+   "titulo": "Lousteau, Monzó, Michel, Di Tullio, Ferraro y Katopodis confluirán en un foro anti Milei en la UBA",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDBYdWhSaHRYS2lTWElyeFlybXZnR3FSMW9VOEEyM3lKZUlOR0F2RVAtUXNvMWMzcGpGeFRwaEtIeW1GT2wxeGRrUkNxRlllSGdWR1BGdVE2bmNMb0ZSckRfZ0Q3ZUJuclJ1S0dnQmFOcXRPUnZMbTdndms1ekZ3cXUxbHJYekk4bEpfVjVYVkF3eHJJLWdsRHRfWklMUWZhSThaM2JVSVVTWk5UMVhQdzBCRmdIS21YdmtmOFRrYW5xX2pMWDdtbWZZT1lnUQ?oc=5",
+   "fecha": "2026-11-23T18:26-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-23T19:13-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/lousteau-monzo-michel-di-tullio-ferraro-y-katopodis-en-un-foro-anti-milei-en-la-uba-nid23112026/",
+   "revisada": true
+  },
   {
    "id": "a6473b3cc528",
    "titulo": "Kicillof supera a Milei por seis puntos en un balotaje",
@@ -16,6 +46,20 @@
    ],
    "visto": "2026-11-23T18:11-03:00",
    "url_original": "https://impactocastex.com.ar/politica/19771/kicillof-supera-a-milei-por-seis-puntos-en-un-balotaje",
+   "revisada": true
+  },
+  {
+   "id": "5236774d0476",
+   "titulo": "Encuestas elecciones Argentina 2027: qué dicen todos los sondeos de noviembre sobre Javier Milei, Axel Kicillof y el balotaje",
+   "medio": "El Destape",
+   "medio_url": "https://www.eldestapeweb.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOclBlMjRUdVFqMXR4TE1TY2hZNDc2X2hpOEMyekY4aUV3cE1BclVfRXFCQ3lPN0pFVjRBQkozZnVrNldGMjJNX1Brc3U1SHZKR08wV2U5ZUZaUVByZGZNWElwVTlyZE1meDlZSDBBTXRCcDNocElHa3dGZzJaOUcyY1FFLXhsV1I3dXV1UThZb1hzNWpBVzItU0U2TlNkT0UxcFVDS3V0RHEyNWo4V0NRaDdXb0V1SDU2ZFVRZi02VW9kSE9lckQyQjFTLVJoNXZTdDVyb1VlbGZ2a09EeHdFbzNmSDZWVHVLclHSAf4BQVVfeXFMTjBSck5QTEY0QWxmemhEQXBmZWMzYWtaVEhpVk1vMUh1VFBHb2tucENGSFhRUE9UNnVQa3Y4TkxVOVFQQ0t2YWNIVW94YkNKOFF6LXdFd3czRWNub0FybG5HVnJuQjhmMDdxeFRwLTBjenhOVWtueWpoOEhERW9QOFVJOHVHNEE0VldaMlMxQTg4SDN2N3h6d3Zsa2NzZUxLRnlNUmQyU0lCMnczQ3puSktnc2lUbk5hUEdGeU4yWTlVejI3X2dzTmxjR0tiQkRZaFFzRTVfNUw5VTdMS0FEUGFVb3RKNmpCMFJlTUUtYUppZlVZazNUb0RoT0lRZ2c?oc=5",
+   "fecha": "2026-11-23T17:46-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T19:12-03:00",
+   "url_original": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
    "revisada": true
   },
   {
@@ -10952,77 +10996,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://informedigital.com.ar/cristina-eligio-a-michel/",
-   "revisada": true
-  },
-  {
-   "id": "e23c7bbd9500",
-   "titulo": "Sebastián Galmarini apuntó contra Milei por los cambios electorales: “Se derrumbó su imagen”",
-   "medio": "La Noticia Web",
-   "medio_url": "https://www.lanoticiaweb.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnpGc05ZSzhFUXpOTTNQdzc3NXlXX05oVXJsczlPWExUQml5aEFwTDJINW5HLTFacUtGRV9QOGtwZkdIaDVqZGxUOWxoOHkzdlJjR1J3dE5iUmNoZUZkMjFvUXRUTGRqN1pTRmlCcjNITkxsZFhLT3RJakQ2dW5lbWtrTU1NQ2wwR2xnVDgzRmhhaWhuMFR1NU8zMWw4aDI4UmZLbk1iR2wzLWVGYkhJb25qa0sxYmVBRTZ2emZUVQ?oc=5",
-   "fecha": "2026-11-16T18:57-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-apunto-contra-milei-por-los-cambios-electorales-se-derrumbo-su-imagen/",
-   "revisada": true
-  },
-  {
-   "id": "bb3b718b5948",
-   "titulo": "La interna peronista explota el Día de la militancia y Massa desafía a Kicillof | 16 de noviembre de 2026",
-   "medio": "Hoy Día Córdoba",
-   "medio_url": "https://hoydia.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnd2bDhtaWpUN3F1RFZhMkVUZFZPV3VTVnhpRjktMm1TSkxYblhZdlJSZUtwTU5vYWNxd3dWZERUZ0tXd25kcWVoY24wNDBoZlVQU1NzeVhQZU1PRTJ2YzUzVW9mU2JJb3h4R21aV21DaDhOeDhBMHVoRzlJTXBadkRvaHNKazFuSFpiMDliRTJtcnJvcUxwdXVGYUhfQzdTejEzaFhlNDNNbnMta0xiR0tsbDRUMDY00gG-AUFVX3lxTE5Pa0FnaGF2NFhaSW12em9vV3FqX2U1V0lRdDJGWVc0OXd6bnJJeVduVGpYb25NRmt3cVR6TE1Ea3phbWpaczJ3TVIxUjViR0tfYmJjenQtcEZLRXNRYlV1RmU5akhodkJWQ01yTlNSV29xMGtwaUsyQmlZdDBYMjFGZURiSEFrdGtXWlY5R3FoemFlbktMU1ZyOTVRR1NnTkc2SFE1V0xGY2xqVmtvSzY1RFNtanVudGJ2Y292UGc?oc=5",
-   "fecha": "2026-11-16T18:55-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://hoydia.com.ar/politica/nacional/la-interna-peronista-explota-el-dia-de-la-lealtad-y-massa-desafia-a-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "7ea1846e576c",
-   "titulo": "El kicillofismo relativiza la foto justicialista que prepara Massa y sigue su armado propio de cara a 2027",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY09HMDZ1M1dncFBnY3ROSU1JNUREYWZWTTZzQUpzOXNoYjFGMHlWMVJsU3JLWUFVTDBmYjhvSFpfZGdpSGFOZmYwOHlGN1o5d1BITUt6cWJ1MnNCeUwwRFFvaUlRSFZHbTRPa1BYZlYyYUFVV1c5V2VSSEJTdFU1MjN6VS1PM1IxRFczZF9CdjMzWTRqUWZYdDhrdHBiMG5zU2ZtOF9CNW9lSE9UUVhIZ1h0dW5UY1BFbHJQNXNSZW56S0xXR3Jpd3J3ZURUekJnZlpiTEw4X2Y?oc=5",
-   "fecha": "2026-11-16T18:53-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lanacion.com.ar/politica/el-kicillofismo-relativiza-la-foto-justicialista-que-prepara-massa-y-sigue-su-armado-propio-nid16112026/",
-   "revisada": true
-  },
-  {
-   "id": "b2fece46679e",
-   "titulo": "Galmarini criticó a Milei por cambios electorales",
-   "medio": "elconurbano.com.ar",
-   "medio_url": "https://elconurbano.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNThuWG0wNHRPRUVnMG5ncmUzaEdXQ09QUVU5UjkyWFVmZHlLWTVZUDVqMTVRdW81cUJicXNHUDlaRi1jM2FMckhZVlp2YzBYbzRRelZpVjAxUnZ6N3BDdGh0U0U2Sm5OanAzc21xMnNNWk9iQi1Ic1lVMXVfb2IxQi1qaFhGVkpQczhUZHFXdkJCOUZzcHN1bXVzbER3VmVvMFV0eG5iZWpGWFVqbVVIUVRSVVNQVV95YWs1a2EwMTY?oc=5",
-   "fecha": "2026-11-16T18:53-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elconurbano.com.ar/sebastian-galmarini-apunto-contra-milei-por-los-cambios-electorales-se-derrumbo-su-imagen/83788/",
-   "revisada": true
-  },
-  {
-   "id": "2a18b20bf2e2",
-   "titulo": "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo",
-   "medio": "Clarin.com",
-   "medio_url": "https://www.clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTZ3aHJJb0tMSzItZmd1ZlB3YVZYdmQ4M3BPelRCb3V4dGVRRzQ5NVdyMUlDY2Y3NDBxb3MxUjZzRWo0dEJvdDFwM1lRMFFhYUd1Y1JtSGFfYkNCRDdMakhoN0NFemlNdU1WV1lDVXB5V0ZDWUtwQkJVUi1IY3NOTlVLYkJmTkpQOG1vR1U1U19YSldIQTFMMHRqdlVTWFV5Y1dmR2dPX2dxNWtrMzJEekNKa3VuQ1gzdTRzU19vX0o?oc=5",
-   "fecha": "2026-11-16T18:17-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.clarin.com/politica/cristina-elige-magistratura-diputado-cercano-massa-descoloca-kirchnerismo_0_wzC8aerViH.html",
    "revisada": true
   }
  ]
