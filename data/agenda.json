@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T02:52-03:00",
+ "actualizado": "2026-11-22T21:40-03:00",
  "eventos": [
   {
    "fecha": "2026-11-25",
@@ -13,6 +13,20 @@
    "fuente": {
     "medio": "Enfoque Misiones",
     "url": "https://enfoquemisiones.com/sergio-massa-llegara-a-misiones-el-25-de-noviembre-y-se-reunira-con-passalacqua-y-sectores-productivos/"
+   }
+  },
+  {
+   "fecha": "2026-11-25",
+   "hora": "18:00",
+   "titulo": "Ciclo de formación política con Ricardo Quintela",
+   "detalle": "Encuentro abierto al público con el gobernador de La Rioja, anunciado por Felipe Romero (Jóvenes FR CABA).",
+   "lugar": "México 430, CABA",
+   "dirigentes": [
+    "Felipe Romero"
+   ],
+   "fuente": {
+    "medio": "X (@felipemromeroo)",
+    "url": "https://x.com/felipemromeroo/status/2124637984813150284"
    }
   }
  ]

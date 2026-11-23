@@ -1,17 +1,26 @@
 {
- "hora": "14",
+ "hora": "22",
  "claves": [
   {
-   "texto": "Según Clarín y Diario Río Negro, Cristina Kirchner cuestionó al gobernador Axel Kicillof y acelera un acuerdo político con Sergio Massa.",
+   "texto": "Según La Nación, Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre el gobernador Axel Kicillof.",
    "fuentes": [
-    "37b20e430bc8",
-    "c3a381c16098"
+    "7adc98cf62cd",
+    "7cccf4ef04fd"
    ]
   },
   {
-   "texto": "Según La Nación, en el entorno del gobernador se impone la estrategia de evitar la confrontación, luego de quedar afuera del acto de Massa en San Fernando.",
+   "texto": "Clarín atribuyó a Cristina Kirchner una frase crítica contra el gobernador. Según Bardeo.news, la expresidenta cuestionó a Clarín por esa supuesta frase.",
    "fuentes": [
-    "1fce7ea2213a"
+    "37b20e430bc8",
+    "3511f54d981a"
+   ]
+  },
+  {
+   "texto": "Ante la posible suspensión de las PASO, TN analiza las opciones del peronismo para definir candidaturas e Identidad Correntina informa que Massa propone una interna digital.",
+   "fuentes": [
+    "4eb57524cd27",
+    "fc8d6d20d11d",
+    "0f412a8961f3"
    ]
   },
   {
@@ -20,136 +29,162 @@
     "25c3565a7e38",
     "a2784e6151fa"
    ]
-  },
-  {
-   "texto": "El diputado nacional Guillermo Michel cuestionó al gobernador de Entre Ríos, Rogelio Frigerio, por la paralización de las obras viales.",
-   "fuentes": [
-    "0b72b9f5142b",
-    "78f2c28e5152"
-   ]
   }
  ],
  "retirar": [],
  "temas": [
   {
    "id": "massa-armado-formula-2027",
-   "titulo": "Según Clarín, Cristina Kirchner cuestionó a Kicillof y acelera su acuerdo con Massa",
-   "resumen": "Clarín y Diario Río Negro informan que Cristina Kirchner cuestionó a Axel Kicillof y acelera un acuerdo político con Sergio Massa; Infobae sostiene que la expresidenta expone ese acuerdo mientras el gobernador sigue un camino paralelo. Según La Nación, en el entorno de Kicillof se impone la estrategia de evitar la confrontación tras quedar afuera del acto de San Fernando. El Tribuno señala que, con las PASO casi descartadas, Massa suma apoyos dentro del PJ.",
+   "titulo": "Según La Nación, Massa y Cristina Kirchner consolidan su alianza interna",
+   "resumen": "La Nación e Informe Digital informan que Sergio Massa y Cristina Kirchner consolidan su alianza interna y trasladan la presión sobre Axel Kicillof. Clarín había atribuido a la expresidenta una frase crítica contra el gobernador; según Bardeo.news, Cristina Kirchner cuestionó a Clarín por esa supuesta frase. El Tribuno señala que, con las PASO casi descartadas, Massa suma apoyos dentro del PJ.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
+    "7adc98cf62cd",
     "37b20e430bc8",
-    "1fce7ea2213a",
-    "2a31815b6e7d"
+    "3511f54d981a"
    ],
    "otras": [
+    "7cccf4ef04fd",
     "c3a381c16098",
-    "444803701b64",
-    "23b3673129e3",
+    "2a31815b6e7d",
     "e0a1c60b8620",
+    "4d97f6c51d6a",
+    "c9f219451721",
+    "7bff59e3e09b",
+    "c69a845116d1",
+    "1daa5652e149",
+    "444803701b64",
     "505475a82d2b",
-    "0bb721501943",
-    "e29423b7abda",
-    "a0ca45a006b7",
-    "51a0c2cb7041",
-    "30baa4a7d08a"
+    "1fce7ea2213a"
    ]
   },
   {
    "id": "peronismo-sin-paso",
-   "titulo": "El oficialismo busca suspender las PASO en el Senado esta semana",
-   "resumen": "Según MendoVoz, el oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO, e Info del Estero informa que el Gobierno negocia los votos y detalla los cambios de la reforma electoral. Letra P y qpasó analizan el impacto de la eliminación de las primarias en el peronismo, y Opinando San Nicolás repasa las opciones del peronismo para 2027 sin PASO.",
-   "tono": "neutro",
+   "titulo": "Sin PASO: el peronismo busca cómo definir candidaturas y Massa propone una interna digital",
+   "resumen": "Según MendoVoz, el oficialismo busca aprobar este jueves en el Senado la suspensión de las PASO. TN analiza las opciones del peronismo para definir su candidato sin primarias, en una interna entre Massa y Kicillof, e Identidad Correntina informa que Massa propone una interna digital; La Tecla también describe una propuesta tecnológica para resolver las candidaturas. Según MDZ, la estrategia electoral de Javier Milei genera diferencias internas en el oficialismo por el temor a Massa.",
+   "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "25c3565a7e38",
-    "a2784e6151fa",
-    "5a73bda049be"
+    "4eb57524cd27",
+    "fc8d6d20d11d",
+    "25c3565a7e38"
    ],
    "otras": [
-    "8ce08cae1306",
-    "e929bc204f94",
-    "d71b9cab49a5",
-    "e2fdc6372877",
-    "d44001e57f02",
-    "a1f2dab32df1"
+    "0f412a8961f3",
+    "fefac16db9b7",
+    "a2784e6151fa",
+    "e8cc076ebbc6",
+    "0e501329c1c5",
+    "b18da5ed6f8c",
+    "994745be471a",
+    "a2eed9e0dddc",
+    "8ce08cae1306"
    ]
   },
   {
-   "id": "michel-rutas-frigerio",
-   "titulo": "Guillermo Michel: “Frigerio es Milei, también con el desastre de las rutas”",
-   "resumen": "El diputado nacional Guillermo Michel cuestionó al gobernador de Entre Ríos, Rogelio Frigerio, por la paralización de las obras viales en la provincia. Días antes había anunciado que la Justicia Federal declaró admisible un amparo por las rutas nacionales que atraviesan Entre Ríos.",
+   "id": "el-frente-renovador-arma",
+   "titulo": "El Frente Renovador suma estructura en las provincias",
+   "resumen": "Según La Licuadora TDF, Damián Loffler fue presentado como referente del Frente Renovador en Tierra del Fuego, donde Alejandro Deanes quedó al frente del partido. En Río Negro, el vicegobernador Pedro Pesatti evalúa ser candidato a gobernador por el Frente Renovador.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa",
+    "Alejandro Deanes",
+    "Pedro Pesatti"
+   ],
+   "principales": [
+    "718f86c3fa82",
+    "df24d520af64",
+    "d214658a0550"
+   ],
+   "otras": [
+    "c852c18e0925"
+   ]
+  },
+  {
+   "id": "cecilia-moreau-va-a",
+   "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
+   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    "c0d46adcdf12",
+    "73c742facabb"
+   ],
+   "otras": []
+  },
+  {
+   "id": "guillermo-michel-se-suma",
+   "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
+   "resumen": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en el Consejo de la Magistratura. Según Perfil, el peronismo se queda con seis integrantes en el organismo.",
    "tono": "positivo",
    "dirigentes": [
     "Guillermo Michel"
    ],
    "principales": [
-    "0b72b9f5142b",
-    "78f2c28e5152"
+    "b40e355e4a62",
+    "54a52a66974c",
+    "d38e33357443"
    ],
    "otras": []
   },
   {
-   "id": "massa-peron-ia",
-   "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
-   "resumen": "Juan Grabois criticó la imagen de Perón generada con inteligencia artificial que utilizó Sergio Massa, según Bardeo.news. InfoPlatense informa sobre un acuerdo entre Kicillof y Grabois que lee como respuesta a la foto de Massa en San Fernando.",
-   "tono": "negativo",
+   "id": "san-fernando-reordena-el",
+   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
+   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
+   "tono": "mixto",
    "dirigentes": [
-    "Sergio Massa"
+    "Sergio Massa",
+    "Alexis Guerrera",
+    "Natalia de la Sota"
    ],
    "principales": [
-    "3282e1905aad",
-    "1d34f57c3e57"
-   ],
-   "otras": []
-  },
-  {
-   "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: obras en cinco escuelas de San Fernando y actividades en Tres Arroyos",
-   "resumen": "El Municipio de San Fernando, que conduce Juan Andreotti, hará obras en cinco escuelas provinciales durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti",
-    "Pablo Garate",
-    "Darío Golía"
-   ],
-   "principales": [
-    "e525aac3355a",
-    "3b5f2fb23155",
-    "c61da54202e3"
+    "1f1ce72bae11",
+    "ab00192983fb",
+    "ced4bbfd43aa"
    ],
    "otras": [
-    "46994d945931",
-    "5a2a1253a778",
-    "83873b559481"
+    "5d61c6c19688",
+    "798fa27100f2",
+    "0e072cb13b4f",
+    "d1e551eac8d2",
+    "4de08fa663d6",
+    "47607e29b920",
+    "ac5a556b9c95",
+    "78ef112c5d60",
+    "6924eb102826",
+    "4c59c5e66fae",
+    "57fbd70d76f7"
    ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+   "url": "https://x.com/felipemromeroo/status/2124637984813150284",
+   "autor": "@felipemromeroo",
+   "nota": "Felipe Romero invitó al ciclo de formación política con el gobernador de La Rioja, Ricardo Quintela."
   },
   {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-   "autor": "@ceciliamoreauok",
-   "nota": "Con o sin PASO, el peronismo irá unido."
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
-   "autor": "@FrenteRenovador",
-   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
+   "url": "https://x.com/MichelGuilleOK/status/2124627915770036596",
+   "autor": "@MichelGuilleOK",
+   "nota": "Guillermo Michel propone una campaña nacional para detectar el Trastorno del Desarrollo del Lenguaje."
   }
  ],
- "entrevistas": []
+ "entrevistas": [
+  {
+   "video_id": "OBD695QwnYw"
+  },
+  {
+   "video_id": "L9dBSGtbhqM"
+  },
+  {
+   "video_id": "oFEeRoHKfdI"
+  }
+ ]
 }
