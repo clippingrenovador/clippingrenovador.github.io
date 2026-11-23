@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-23T00:20-03:00",
- "total": 733,
- "nuevas_ultima_corrida": 13,
+ "generado": "2026-11-23T01:35-03:00",
+ "total": 736,
+ "nuevas_ultima_corrida": 12,
  "errores": [],
  "notas": [
+  {
+   "id": "925c0eac6877",
+   "titulo": "DIPUTADO MICHEL DENUNCIÓ LA VENTA DE AYSA A PRECIO IRRISORIO",
+   "medio": "Medios del Aire",
+   "medio_url": "https://www.mediosdelaire.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFJaQmtrWjlIZldQM09jd2ZqRWJjcV9KNEM4cjlqcGRpZS1kSk1VVEJpSld4RHBRZ0tVUGtycVVJaTNjMUVnRDVsZGM4ZWZ6WjJ0NVJRWlZIVXB4dkN2ZFJVUVl1REFWVE9ja0JKOVk2TWE0Y3Fya2RhMFE2RmZScGVlWmtTQ0JtYW9jb3JGVW1vOWZMbVYxdHRhTlpidllTaWJnQUV4Q0E1REZsNmZqUA?oc=5",
+   "fecha": "2026-11-23T00:58-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-23T01:34-03:00",
+   "url_original": "https://www.mediosdelaire.com.ar/d/noticias/diputado-michel-denuncio-la-venta-de-aysa-a-precio-irrisorio-22421/",
+   "revisada": true
+  },
   {
    "id": "5750800e3eab",
    "titulo": "El peronismo busca una estrategia común para definir sus candidaturas de cara a 2027",
@@ -557,6 +571,20 @@
    "revisada": true
   },
   {
+   "id": "90e425a08835",
+   "titulo": "Massa suma apoyos para pelear en el PJ y Kicillof confía en sus chances",
+   "medio": "Diario Democracia",
+   "medio_url": "https://www.diariodemocracia.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkFCdjBqdXJYVXVJZFZSOUVnQjNyTzNvSWdKQWMxcTRHRXNwakQ2N181enE0OHItWlpiekNfcHdwNWVzVEwyRkZ0RU5NZHMwTng3a1M2eVVBTUxlcjdJQUJFUDZpcC1DWUVCSzFtX0o2VEtRVE05QVljUlZHWWZvNEJEV29iVEVWaS1FWHVSY25JZFAxZ0FST2xxd3BaaWtLOFdr?oc=5",
+   "fecha": "2026-11-22T13:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-23T01:33-03:00",
+   "url_original": "https://www.diariodemocracia.com/nacionales/348387-massa-suma-apoyos-para-pelear-en-el-pj-y-kicillof/",
+   "revisada": true
+  },
+  {
    "id": "6046abb9c07a",
    "titulo": "Malpeli propone crear una línea para asistir la ludopatía",
    "medio": "Diputados Bonaerenses",
@@ -713,6 +741,21 @@
    ],
    "visto": "2026-11-22T18:02-03:00",
    "url_original": "https://mnews.com.ar/politica/185231-Como-impacta-la-suspension-de-las-PASO-en-Milei-Bullrich-y-el-peronismo",
+   "revisada": true
+  },
+  {
+   "id": "35e92b050736",
+   "titulo": "Con las PASO en riesgo, Massa engrosa apoyos para la paritaria del PJ",
+   "medio": "La Voz de Tandil",
+   "medio_url": "https://www.lavozdetandil.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDVXN3NTM1lMbFBfYnZhSlFmeHFjaHQyM054cjlqSVVRMFViX1R5WVNIVXI4MXp6d0otTDJHaXhSeHJKWHBRM3JXTkNibjVpcnBDNFVUNnNwR0JXcVowZDRrRWJfalVuWHNrTjRvc1l3c29nQVJEcWNnX2tBbDJFUU5TZkt0ckQ0VTQ3NnkydDNwSENjWGYwYkUtUzRWT2Q2Q2NWUHh6dGJQeDd2YTBNTGRzdEE?oc=5",
+   "fecha": "2026-11-22T12:02-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-23T01:33-03:00",
+   "url_original": "https://www.lavozdetandil.com.ar/nota-con-las-paso-en-riesgo--massa-engrosa-apoyos-para-la-paritaria-del-pj-126747",
    "revisada": true
   },
   {
