@@ -1,177 +1,33 @@
 {
- "hora": "22",
- "claves": [
-  {
-   "texto": "Según La Nación, la disputa interna del peronismo se extiende a las provincias: el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027.",
-   "fuentes": [
-    "c94454a76024"
-   ]
-  },
-  {
-   "texto": "Una encuesta de Analogías difundida por El Destape indica que, en un balotaje, Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4.",
-   "fuentes": [
-    "7d3ba4124022"
-   ]
-  },
-  {
-   "texto": "El diputado nacional Diego Giuliano afirmó que, si Sergio Massa decide lanzarse como candidato a presidente, lo hará \"con todas las letras\".",
-   "fuentes": [
-    "2f5f215587ee"
-   ]
-  },
-  {
-   "texto": "Guillermo Michel participará junto a Martín Lousteau, Emilio Monzó, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis de un foro opositor al Gobierno en la UBA, según La Nación.",
-   "fuentes": [
-    "58fa89aec7d5"
-   ]
-  }
- ],
- "retirar": [
-  "gestion-universidad-en-san",
-  "michel-aysa",
-  "Qex8w_pmieE",
-  "https://www.youtube.com/watch?v=Qex8w_pmieE"
- ],
- "temas": [
-  {
-   "id": "interna-provincias-gobernadores",
-   "titulo": "La interna peronista llega a las provincias: Kicillof y Massa buscan sumar gobernadores",
-   "resumen": "La Nación informa que la interna del peronismo también se disputa en las provincias, donde el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027. Compacto Diario describe una intensificación de la disputa por el liderazgo peronista en el interior.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "c94454a76024",
-    "cd87041c2b62"
-   ],
-   "otras": [
-    "c91742fabbdf"
-   ]
-  },
-  {
-   "id": "encuestas-2027-balotaje",
-   "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
-   "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. El Destape también repasa los sondeos de noviembre sobre Milei, Kicillof y la segunda vuelta. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "7d3ba4124022",
-    "5236774d0476",
-    "1d062110c22b"
-   ],
-   "otras": [
-    "3479edb273b5",
-    "a6473b3cc528",
-    "5623656fac18",
-    "4f83e9537395"
-   ]
-  },
-  {
-   "id": "giuliano-candidatura-massa",
-   "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
-   "resumen": "En declaraciones publicadas por Realpolitik, el diputado nacional Diego Giuliano se refirió a una eventual candidatura presidencial de Sergio Massa y afirmó que, si se lanza, lo hará \"con todas las letras\".",
-   "tono": "positivo",
-   "dirigentes": [
-    "Diego Giuliano",
-    "Sergio Massa"
-   ],
-   "principales": [
-    "2f5f215587ee"
-   ],
-   "otras": []
-  },
-  {
-   "id": "foro-uba-michel",
-   "titulo": "Guillermo Michel, en un foro opositor a Milei en la UBA",
-   "resumen": "La Nación informa que Martín Lousteau, Emilio Monzó, Guillermo Michel, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis confluirán en un foro contra el Gobierno en la UBA. LA17 señala que la oposición analizará los casos de Brasil y Francia para construir una alternativa a Milei en 2027. La Izquierda Diario critica el encuentro \"Coordinar para Ganar\" entre peronistas, radicales y ex PRO.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
-   "principales": [
-    "58fa89aec7d5",
-    "23121e46c637"
-   ],
-   "otras": [
-    "0221c6ffa53c"
-   ]
-  },
-  {
-   "id": "peronismo-sin-paso",
-   "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
-   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24. Agencia NOVA analiza un acuerdo en el Senado para eliminar las PASO, y Provincia Noticias plantea que una PASO bonaerense podría definir al candidato presidencial del peronismo.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "5750800e3eab",
-    "4eb57524cd27",
-    "3eb461447649"
-   ],
-   "otras": [
-    "4398d075327a",
-    "ed836401410b",
-    "fc8d6d20d11d",
-    "d301af84bd07",
-    "25c3565a7e38",
-    "0f412a8961f3",
-    "fefac16db9b7",
-    "a2784e6151fa",
-    "e8cc076ebbc6",
-    "0e501329c1c5",
-    "15a7f4806847",
-    "994745be471a",
-    "a2eed9e0dddc",
-    "8ce08cae1306",
-    "de53bc051e4e"
-   ]
-  },
-  {
-   "id": "massa-peron-ia",
-   "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
-   "resumen": "Juan Grabois volvió a cuestionar el acto en el que Sergio Massa utilizó una imagen de Perón generada con inteligencia artificial; según La Noticia Web, lo calificó como \"una falta de respeto a la memoria histórica\". El Intransigente y Bardeo.news también recogieron sus críticas.",
-   "tono": "negativo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "c77ba61bcdaa",
-    "980d3e5f8d24",
-    "3282e1905aad"
-   ],
-   "otras": [
-    "07dcd17704e1"
-   ]
-  },
-  {
-   "id": "galmarini-san-isidro",
-   "titulo": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
-   "resumen": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro, según El Intransigente. En sus redes planteó que el desarrollo urbano y la inversión inmobiliaria deben coordinarse con el cuidado del ambiente.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Sebastián Galmarini"
-   ],
-   "principales": [
-    "0a21806a4a04"
-   ],
-   "otras": []
-  }
- ],
- "redes": [
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático."
-  },
-  {
-   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro."
-  }
- ],
- "entrevistas": []
+  "hora": "06",
+  "claves": [
+    {"texto": "Según Infobae, el PJ comenzó a discutir cómo ordenar sus candidaturas sin PASO y cómo conservar la unidad.", "fuentes": ["4f278d6666a9"]},
+    {"texto": "Según La Noticia 1, en medio de la interna, el gobernador Axel Kicillof encabeza un acto en La Plata y Alexis Guerrera busca tender puentes.", "fuentes": ["91f1f87bb1d4"]},
+    {"texto": "Según La Nación, la disputa interna del peronismo se extiende a las provincias: el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027.", "fuentes": ["c94454a76024"]},
+    {"texto": "Una encuesta de Analogías difundida por El Destape indica que, en un balotaje, Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4.", "fuentes": ["7d3ba4124022"]}
+  ],
+  "retirar": [],
+  "temas": [
+    {"id": "peronismo-sin-paso", "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
+     "resumen": "Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad. El Liberal y TN señalan que el peronismo busca una estrategia común para definir candidaturas de cara a 2027, y Pinamar 24 informa que Sergio Massa impulsa una interna virtual con reconocimiento facial. Provincia Noticias plantea que una PASO bonaerense podría definir al candidato presidencial.",
+     "tono": "mixto", "dirigentes": ["Sergio Massa"],
+     "principales": ["4f278d6666a9", "5750800e3eab", "4eb57524cd27"],
+     "otras": ["3eb461447649", "4398d075327a", "ed836401410b", "fc8d6d20d11d", "d301af84bd07", "25c3565a7e38", "0f412a8961f3", "fefac16db9b7", "a2784e6151fa", "e8cc076ebbc6", "0e501329c1c5", "15a7f4806847", "994745be471a", "a2eed9e0dddc", "8ce08cae1306", "de53bc051e4e"]},
+    {"id": "san-fernando-reordena-el", "titulo": "Después de San Fernando: Kicillof encabeza un acto en La Plata y Guerrera tiende puentes",
+     "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión en La Plata y pidió unidad en el peronismo. Según La Noticia 1, Alexis Guerrera busca tender puentes en medio de la interna, y Política del Sur recoge un mensaje de Rasquetti al gobernador: \"Tenemos que juntarnos más\".",
+     "tono": "mixto", "dirigentes": ["Sergio Massa", "Alexis Guerrera"],
+     "principales": ["91f1f87bb1d4", "1f1ce72bae11", "ab00192983fb"],
+     "otras": ["8d9feb577c49", "ced4bbfd43aa", "5d61c6c19688", "798fa27100f2", "0e072cb13b4f", "d1e551eac8d2", "4de08fa663d6", "47607e29b920", "ac5a556b9c95", "78ef112c5d60", "6924eb102826", "4c59c5e66fae", "57fbd70d76f7", "5b08c5cfbf0b"]},
+    {"id": "massa-peron-ia", "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
+     "resumen": "Juan Grabois volvió a cuestionar el acto en el que Sergio Massa utilizó una imagen de Perón generada con inteligencia artificial; según La Noticia Web, lo calificó como \"una falta de respeto a la memoria histórica\". El Intransigente y Bardeo.news recogieron sus críticas, y Ámbito volvió sobre el tema en su columna de trascendidos.",
+     "tono": "negativo", "dirigentes": ["Sergio Massa"],
+     "principales": ["c77ba61bcdaa", "980d3e5f8d24", "3282e1905aad"],
+     "otras": ["cb709096d11a", "07dcd17704e1"]}
+  ],
+  "redes": [
+    {"url": "https://x.com/SebasGalmarini/status/2125036152683999377", "autor": "@SebasGalmarini", "nota": "Sebastián Galmarini sobre el debate por el homenaje a Santucho en la Facultad de Ciencias Sociales de la UBA."},
+    {"url": "https://x.com/MichelGuilleOK/status/2125010370397909095", "autor": "@MichelGuilleOK", "nota": "Guillermo Michel sobre la transparencia presupuestaria de Entre Ríos y la gestión provincial en salud."},
+    {"url": "https://x.com/felipemromeroo/status/2125097957716308030", "autor": "@felipemromeroo", "nota": "Felipe Romero sobre la explicación oficial de la inflación y los condicionantes del gobierno anterior."}
+  ],
+  "entrevistas": [{"video_id": "L9dBSGtbhqM"}]
 }
