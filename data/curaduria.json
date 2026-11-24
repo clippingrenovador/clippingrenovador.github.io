@@ -1,33 +1,171 @@
 {
-  "hora": "06",
+  "hora": "14",
   "claves": [
-    {"texto": "Según Infobae, el PJ comenzó a discutir cómo ordenar sus candidaturas sin PASO y cómo conservar la unidad.", "fuentes": ["4f278d6666a9"]},
-    {"texto": "Según La Noticia 1, en medio de la interna, el gobernador Axel Kicillof encabeza un acto en La Plata y Alexis Guerrera busca tender puentes.", "fuentes": ["91f1f87bb1d4"]},
-    {"texto": "Según La Nación, la disputa interna del peronismo se extiende a las provincias: el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027.", "fuentes": ["c94454a76024"]},
-    {"texto": "Una encuesta de Analogías difundida por El Destape indica que, en un balotaje, Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4.", "fuentes": ["7d3ba4124022"]}
+    {
+      "texto": "Según Medios del Aire, Fernando Galmarini afirmó que Cristina Kirchner respaldará una eventual candidatura presidencial de Sergio Massa en 2027.",
+      "fuentes": [
+        "67747e0ea668"
+      ]
+    },
+    {
+      "texto": "El gobernador Axel Kicillof reúne a intendentes en La Plata; según Punto Capital, el sector de Sergio Massa busca recomponer la unidad del peronismo.",
+      "fuentes": [
+        "0937299e3f07"
+      ]
+    },
+    {
+      "texto": "Según Infobae, el PJ comenzó a discutir cómo ordenar sus candidaturas sin PASO y cómo conservar la unidad.",
+      "fuentes": [
+        "4f278d6666a9",
+        "8cb5dcc2d255"
+      ]
+    },
+    {
+      "texto": "Cristina Kirchner, Axel Kicillof y Sergio Massa, entre otros referentes del PJ, celebraron el triunfo electoral de Lula da Silva.",
+      "fuentes": [
+        "9fa7b4d17f18"
+      ]
+    }
   ],
   "retirar": [],
   "temas": [
-    {"id": "peronismo-sin-paso", "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
-     "resumen": "Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad. El Liberal y TN señalan que el peronismo busca una estrategia común para definir candidaturas de cara a 2027, y Pinamar 24 informa que Sergio Massa impulsa una interna virtual con reconocimiento facial. Provincia Noticias plantea que una PASO bonaerense podría definir al candidato presidencial.",
-     "tono": "mixto", "dirigentes": ["Sergio Massa"],
-     "principales": ["4f278d6666a9", "5750800e3eab", "4eb57524cd27"],
-     "otras": ["3eb461447649", "4398d075327a", "ed836401410b", "fc8d6d20d11d", "d301af84bd07", "25c3565a7e38", "0f412a8961f3", "fefac16db9b7", "a2784e6151fa", "e8cc076ebbc6", "0e501329c1c5", "15a7f4806847", "994745be471a", "a2eed9e0dddc", "8ce08cae1306", "de53bc051e4e"]},
-    {"id": "san-fernando-reordena-el", "titulo": "Después de San Fernando: Kicillof encabeza un acto en La Plata y Guerrera tiende puentes",
-     "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión en La Plata y pidió unidad en el peronismo. Según La Noticia 1, Alexis Guerrera busca tender puentes en medio de la interna, y Política del Sur recoge un mensaje de Rasquetti al gobernador: \"Tenemos que juntarnos más\".",
-     "tono": "mixto", "dirigentes": ["Sergio Massa", "Alexis Guerrera"],
-     "principales": ["91f1f87bb1d4", "1f1ce72bae11", "ab00192983fb"],
-     "otras": ["8d9feb577c49", "ced4bbfd43aa", "5d61c6c19688", "798fa27100f2", "0e072cb13b4f", "d1e551eac8d2", "4de08fa663d6", "47607e29b920", "ac5a556b9c95", "78ef112c5d60", "6924eb102826", "4c59c5e66fae", "57fbd70d76f7", "5b08c5cfbf0b"]},
-    {"id": "massa-peron-ia", "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
-     "resumen": "Juan Grabois volvió a cuestionar el acto en el que Sergio Massa utilizó una imagen de Perón generada con inteligencia artificial; según La Noticia Web, lo calificó como \"una falta de respeto a la memoria histórica\". El Intransigente y Bardeo.news recogieron sus críticas, y Ámbito volvió sobre el tema en su columna de trascendidos.",
-     "tono": "negativo", "dirigentes": ["Sergio Massa"],
-     "principales": ["c77ba61bcdaa", "980d3e5f8d24", "3282e1905aad"],
-     "otras": ["cb709096d11a", "07dcd17704e1"]}
+    {
+      "id": "massa-armado-formula-2027",
+      "titulo": "Galmarini afirma que Cristina Kirchner respaldará una candidatura de Massa",
+      "resumen": "Según Medios del Aire, Fernando Galmarini afirmó que Cristina Kirchner respaldará una eventual candidatura presidencial de Sergio Massa para 2027. Cadena de Radios analiza el acuerdo entre Cristina Kirchner y Massa y el camino paralelo de Axel Kicillof. El Día de La Plata ya había señalado a Cristina junto a Massa y a Kicillof por un camino propio; Cristina y Máximo Kirchner desmintieron la frase contra Kicillof que les atribuyó Clarín.",
+      "tono": "mixto",
+      "dirigentes": [
+        "Sergio Massa"
+      ],
+      "principales": [
+        "67747e0ea668",
+        "632be493111f",
+        "eaf633fe6535"
+      ],
+      "otras": [
+        "797e08960457",
+        "d61524d97436"
+      ]
+    },
+    {
+      "id": "san-fernando-reordena-el",
+      "titulo": "Kicillof reúne a intendentes en La Plata y el FR busca recomponer la unidad",
+      "resumen": "Punto Capital informa que el gobernador Axel Kicillof reúne a intendentes en La Plata y que el sector de Sergio Massa busca recomponer la unidad del peronismo. Massa había confirmado que los intendentes que le responden acompañarán al gobernador en el acto, y según La Noticia 1, Alexis Guerrera busca tender puentes en medio de la interna. HOY Rojas repasa los actos del Día de la Militancia, entre ellos el del FR en alianza federal.",
+      "tono": "mixto",
+      "dirigentes": [
+        "Sergio Massa",
+        "Alexis Guerrera"
+      ],
+      "principales": [
+        "0937299e3f07",
+        "91f1f87bb1d4",
+        "1f1ce72bae11"
+      ],
+      "otras": [
+        "ab00192983fb",
+        "f671b9d4a680"
+      ]
+    },
+    {
+      "id": "peronismo-sin-paso",
+      "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
+      "resumen": "Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad; La Noticia Web y La Voz 90.1 también recogen el debate sobre la herramienta para dirimir candidaturas. Pinamar 24 informa que Sergio Massa impulsa una interna virtual con reconocimiento facial. ANDigital sostiene que lo complicado es ser el candidato del peronismo.",
+      "tono": "mixto",
+      "dirigentes": [
+        "Sergio Massa"
+      ],
+      "principales": [
+        "4f278d6666a9",
+        "8cb5dcc2d255",
+        "4eb57524cd27"
+      ],
+      "otras": [
+        "7a839132930d",
+        "5256e2501a13",
+        "5750800e3eab"
+      ]
+    },
+    {
+      "id": "lula-triunfo-pj",
+      "titulo": "Cristina, Kicillof y Massa celebraron el triunfo de Lula",
+      "resumen": "Diario La Vanguardia informa que Cristina Kirchner, Axel Kicillof, Sergio Massa y otros referentes del PJ celebraron el triunfo electoral de Lula da Silva en Brasil.",
+      "tono": "neutro",
+      "dirigentes": [
+        "Sergio Massa"
+      ],
+      "principales": [
+        "9fa7b4d17f18"
+      ],
+      "otras": []
+    },
+    {
+      "id": "encuestas-2027-balotaje",
+      "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
+      "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. Revista Noticias publicó un sondeo según el cual Patricia Bullrich y Kicillof superan a Milei en imagen positiva, y Noticias Urbanas difundió una encuesta sobre cómo imaginan los argentinos a su próximo presidente.",
+      "tono": "positivo",
+      "dirigentes": [
+        "Sergio Massa"
+      ],
+      "principales": [
+        "7d3ba4124022",
+        "c70358245221",
+        "5236774d0476"
+      ],
+      "otras": [
+        "60ee3f651d32",
+        "1d062110c22b"
+      ]
+    },
+    {
+      "id": "katia-blanc-resistencia",
+      "titulo": "Katia Blanc, dispuesta a ser candidata a intendenta de Resistencia",
+      "resumen": "HDP Noticias informa que la diputada provincial del FR Katia Blanc dijo no tener ningún problema en ser candidata a intendenta de Resistencia.",
+      "tono": "positivo",
+      "dirigentes": [
+        "Katia Blanc"
+      ],
+      "principales": [
+        "e65a64aaa606"
+      ],
+      "otras": []
+    }
   ],
   "redes": [
-    {"url": "https://x.com/SebasGalmarini/status/2125036152683999377", "autor": "@SebasGalmarini", "nota": "Sebastián Galmarini sobre el debate por el homenaje a Santucho en la Facultad de Ciencias Sociales de la UBA."},
-    {"url": "https://x.com/MichelGuilleOK/status/2125010370397909095", "autor": "@MichelGuilleOK", "nota": "Guillermo Michel sobre la transparencia presupuestaria de Entre Ríos y la gestión provincial en salud."},
-    {"url": "https://x.com/felipemromeroo/status/2125097957716308030", "autor": "@felipemromeroo", "nota": "Felipe Romero sobre la explicación oficial de la inflación y los condicionantes del gobierno anterior."}
+    {
+      "url": "https://x.com/SergioMassa/status/2123517703826612429",
+      "autor": "@SergioMassa",
+      "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
+    },
+    {
+      "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
+      "autor": "@ceciliamoreauok",
+      "nota": "Con o sin PASO, el peronismo irá unido."
+    },
+    {
+      "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
+      "autor": "@FrenteRenovador",
+      "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
+    },
+    {
+      "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
+      "autor": "@DiegoGiuliano",
+      "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
+    },
+    {
+      "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
+      "autor": "@DiegoGiuliano",
+      "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe."
+    }
   ],
-  "entrevistas": [{"video_id": "L9dBSGtbhqM"}]
+  "entrevistas": [
+    {
+      "video_id": "HbpWLzHNpN8"
+    },
+    {
+      "video_id": "G7pC6FGk1Yc"
+    },
+    {
+      "video_id": "PZ4kI9wtH2Y"
+    }
+  ]
 }
