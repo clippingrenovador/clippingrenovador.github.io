@@ -1,8 +1,34 @@
 {
- "generado": "2026-11-24T16:26-03:00",
- "total": 729,
- "nuevas_ultima_corrida": 27,
- "errores": [],
+ "generado": "2026-11-24T18:20-03:00",
+ "total": 719,
+ "nuevas_ultima_corrida": 0,
+ "errores": [
+  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "massismo: HTTP Error 503: Service Unavailable",
+  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
+  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
+  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
+  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
+ ],
  "notas": [
   {
    "id": "a3de9ee7b25b",
@@ -10436,148 +10462,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.surenio.com.ar/massa-suma-a-tierra-del-fuego-a-la-reorganizacion-federal-del-frente-renovador/",
-   "revisada": true
-  },
-  {
-   "id": "eac01bc6fa31",
-   "titulo": "Massa reordena el Frente Renovador en Tierra del Fuego",
-   "medio": "Diario El Norte - San Nicolás",
-   "medio_url": "https://diarioelnorte.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVllyU21WRWJWaXRoelZ6VXpGOWMtWlZ1X2ZYMGlfZmRMeFZiTTFoWTQ5bXd1aW9KV2V5LXpVRnZGWG9ObnY1TFA1NjhlZXZsaThnNnBObjczSFlzUkxKLUQ2V08zbTZZQlVlUk5LTW94bENDTFlOTTRBbnNkOGhkcnYwSEhrY3Jta3dFLQ?oc=5",
-   "fecha": "2026-11-17T18:11-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://diarioelnorte.com.ar/massa-reordena-el-frente-renovador-en-tierra-del-fuego/",
-   "revisada": true
-  },
-  {
-   "id": "125e4b35b92f",
-   "titulo": "Encuesta rumbo a 2027: crece el rechazo al modelo de Milei, pero la disputa electoral sigue abierta entre Kicillof y Massa",
-   "medio": "https://diariolapluma.com.ar/",
-   "medio_url": "https://diariolapluma.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYlFDb0EzeUZZSjhQZDFLVzExcjRwTjFPREhTYWx5RWhyRlBUMzZBUkZLMWc0SGFSN3lmRmxScUhqQkdpQlQ2ZmptTTNPdXVBc0FsQ09ZQ2tZUHVOdUR2MUVCQnI3SlNxTzhxVW5ZdlFtQkFPRV8xMFZ6aXp3MDBnM21ZOXNOZHZDVjlSdmw5b1R5Z25MeXBpWVZtRXZ2ek1MOGY1OHQ2ejhHODNZdU1TZFU3clMzZjNTXzJ5RERueGtXWkZkdnlPTGpOdXBOUlZOdElVUi12ZUkyNGRqZTNaaWdjRUs?oc=5",
-   "fecha": "2026-11-17T17:56-03:00",
-   "busquedas": [
-    "encuesta Massa"
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://diariolapluma.com.ar/encuesta-rumbo-a-2027-crece-el-rechazo-al-modelo-de-milei-pero-la-disputa-electoral-sigue-abierta-entre-kicillof-y-massa/",
-   "revisada": true
-  },
-  {
-   "id": "df9f91cf0f3a",
-   "titulo": "Axel Kicillof toma distancia de la cumbre peronista que impulsa Sergio Massa y se acelera el quiebre en el PJ",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNU5wT2Q3ajBCQm5XdVNvNW5EUExMeWdpUlJ0ZDRsSGRvZnU5Wmg4TW1WemYxb2ZkdjlTY3IwcTVwWmNqT3BLVGNORl8xbUlCMjN5c0cwOWdFXy1QVVk3bXBrQ0szUGYtbFhwWHJqNnZOb2VOdXFYd2hINjJYUHFDMFpYU25lb2JnblRDR3IwNENabUVfNXJhYlhFT3NlY2Etc1o5V1E2eWlxMmpoamsxVFA4bzM1T3hvQjN1WjJPWU1RS2FHSlFaX2tESWd4aVYtLUFXM1R1ZEVhX2czUHQtZ0kzS2c?oc=5",
-   "fecha": "2026-11-17T17:48-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lanacion.com.ar/politica/axel-kicillof-toma-distancia-de-la-cumbre-peronista-que-impulsa-sergio-massa-y-se-acelera-el-quiebre-nid17112026/",
-   "revisada": true
-  },
-  {
-   "id": "704fc4d9e5b9",
-   "titulo": "El peronismo se reunió en San Fernando para avanzar en un frente nacional anti-Milei",
-   "medio": "La Nueva Provincia",
-   "medio_url": "https://www.lanueva.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVUdKRDFrWURYSFNRTjNIX1dyMmo3TVNGUUYweEY3RnNGS3kwUkhoMGJNLWpVUTlwSFE2UThPRHM0RHFjTWZoeFJRclVTRGVCM2dwYW45d1JDbkRMNUVFUG9ubGU3U2hYQTI0Wm91dkdyYUJ2aTVaN3Vua0xGOEZ4SXdSRkI1NnV0Z1hnQy02R1lzRERVS3RjTm9hVVhjMmdaa0RZalZ3dEJsTW1OcDdyRTQtSzlCQUxnSlRraDhlYjB3cExwMmFBMG1CcTQ?oc=5",
-   "fecha": "2026-11-17T17:23-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lanueva.com/nota/2026-11-17-21-21-0-el-peronismo-se-reunio-en-san-fernando-para-avanzar-en-un-frente-nacional-anti-milei",
-   "revisada": true
-  },
-  {
-   "id": "14f3319ce0e3",
-   "titulo": "El intendente Andreotti, en el camino de Francisco y León, celebró la cultura del encuentro",
-   "medio": "Diario Lo Nuestro",
-   "medio_url": "https://www.diariolonuestro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQUpLb2FzMGQ2Q0JIak1BUGJqY1ZJaVhmQWF2NUwyYkhUbUwzUFZocDF6TW9ueVh4dFVxSVVRNE5GVHV3cFRBWUQ4MzBndkFCSExIaWRVa0dTVnZ3X014Z0N2YUFTVXVUSXBDeVV4c3BfLXpIYnN3Q2I3eWJKdFg1UE11NnlXSm8zOGRVNDhrWFZVS3Q4X1Q1OXlsdlRKVEg4YkZUdEJuWjlyTGFON0RhUHFqTHJfaDlMTWFzNkF4QnM4MDV6ckJoblBMVU1qRGoyYjVYVERWSU9UQXVzbVdR?oc=5",
-   "fecha": "2026-11-17T17:16-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.diariolonuestro.com.ar/single-post/el-intendente-andreotti-en-el-camino-de-francisco-y-le%C3%B3n-celebr%C3%B3-la-cultura-del-encuentro",
-   "revisada": true
-  },
-  {
-   "id": "94aeab784e66",
-   "titulo": "Sebastián Galmarini criticó al Gobierno de Milei y reclamó unidad en el peronismo",
-   "medio": "ImpulsoBaires",
-   "medio_url": "https://www.impulsobaires.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUdNa1FkdXotM0hJT1NRZ2ZsUVljSDlDYUJaQWt4Vk5SVnRETm5vVEtFM3p2RjZubURxWWVEMlR4M1R2Rm1NdHdHdzRTS2ktT1d5dTZBdWZVUFRtTHlUdW5ZMlpTS2p6Z3BLdGZZN19uX0k2NFdtdElNejRtaU9YQ2wwZFUzdUtYRExuaXU2cG95QkNIajV1bzFJNGxodnNnamZFQ0lqZHZ5YlFEa0g0OWQxRXc4ejBPcWRacFdydjNVcXF4R1E?oc=5",
-   "fecha": "2026-11-17T17:09-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.impulsobaires.com.ar/nota/326606/sebastian-galmarini-critico-al-gobierno-de-milei-y-reclamo-unidad-en-el-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "3668f4692377",
-   "titulo": "Nueva cumbre peronista con Sergio Massa en el centro",
-   "medio": "Fenix951",
-   "medio_url": "https://www.fenix951.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vdEdRX1dPTURqNDZFN1FiMWxuQkYtSDIteHRjQkRhWjRBaVhLTWUyaDl6VHJVTmJoWERRQkl5eTF5eE5WMnFxUjJzY2Z2cTdyTGpkbHNSZGtmaVB2Z0E?oc=5",
-   "fecha": "2026-11-17T16:56-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.fenix951.com.ar/noticia.php?id=360683",
-   "revisada": true
-  },
-  {
-   "id": "4929f429f9ea",
-   "titulo": "Peronismo sin paz: el acto en San Fernando vuelve a detonar la interna",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTV9rZkNPRlBqd1dQSjE1NnRSVEF0bjdHWlg0NGJBOEtNaFRsckY2SkpHUGNma21LVGJyd010TnR5Xy1xanpIaERJd3pSenpYamZXZEpYRkZxWm1YdFNQVkZvMHZpVUJRdWVubFF0UFRrdTZLYVJwV1E4cm5Tb0tSbjlVT25aSGFqS1ZfMFUtU0hrb2o2WEo4VklyLXAyVmtnSTVaY2UtX2XSAa4BQVVfeXFMTlFfblNnWWJJY2hOYVl6VUw4eGZ5RGUwd3V4Vmd3QTBXQXdtR1RJbHRtcXRGYWFEd0Vra2VEeGxvV09qS19MS1YyV1pXeVpyTDJ0amktT0p4WlFlMVpzWV9fQk1EY1JMaWtqa0RqeXd3WHpaeF92SGRzMDRES1dVRVJXbjRQblhxbFNnUzNnMjJ1dFpzRFNBdEdaSy1vMlpad3ZIdkQzSlZFZkhmaHpR?oc=5",
-   "fecha": "2026-11-17T16:48-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.letrap.com.ar/politica/peronismo-paz-el-acto-san-fernando-vuelve-estallar-la-interna-n5428284",
-   "revisada": true
-  },
-  {
-   "id": "2cf9128b97ff",
-   "titulo": "Líderes de la CGT irán a la cumbre de Sergio Massa y lanza planes de miniparos contra el Gobierno",
-   "medio": "El Destape",
-   "medio_url": "https://www.eldestapeweb.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZThpSUtkcTBDUG0zUHRRLThWalJLZnlNV3YzYlBEWjFYS1RYVWNxOFQ2dDU1Q2l4YWxRU2VvVG92ckR5ZzNCX3JuVFE3YmtuelpEUWpCRGlxMUtpejd6RU9LZWhuY2t5RnYzR0tpNzhGVTEtUFZ4S2c0TWIzWjBqSTh1SkJrZ2tSTzhnSndMTmlhM1JhWTdGemhhOExsTVFaanVfbWYtWmJ6b044aVFxRFdNVUw2cDNteVRJODl30gHSAUFVX3lxTE1sNm1ISWl1OEVLZ0JBYjU3bldTVGNGLTJhTXJaZmFHN2ZTcENnSWZRUDk1TzJHYkRZQjlMT0FySFNtN3AwRU5RbktGcUJLUzB6aGxtc1Bjam9vR0lyRlg2WUEtQ3lzLXo5M05GYnBuZF9YYUdnNkg1eVJ5dGpsMmFYUmNUZ2pkWHpEbEpEVUhCRktid1dUWFpzZk4tZzNSaVhiT1V2YkdzM20zODRtMTRhV2JkYjRVMzZNbGNKN19wYnpQY2FiWlZpcnE1MVo0ZExLZw?oc=5",
-   "fecha": "2026-11-17T16:45-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.eldestapeweb.com/politica/lideres-cgt-iran-cumbre-sergio-massa-lanza-planes-miniparos-gobierno-20261117164356",
-   "revisada": true
-  },
-  {
-   "id": "60d44d236f51",
-   "titulo": "Cristina Kirchner acordó con Massa sumar a Guillermo Michel al Consejo de la Magistratura",
-   "medio": "Flipr.news",
-   "medio_url": "https://flipr.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamZOR0JoN29Xc0FHV2ZXNWtJb3lDc0JOMGNvZjI2NlRkQzJ3c2xlWEZwRVo0UkJCbG1LYTF5bmJ0ZDYxTWQxaTNDZ3g5Zjk0dmI3Y3FjUjVEZHVIdEVRbmlvbDg2dXVwMUVkbFBtaVhlRGJyWmxUdmVzS19sTXI0XzRtN1VDMGdFRjFnV3JRMnU2azJvYm5saWJZZHpHUGlrcXJhYTFXZktRRFJHTy1LRmp6SE4tRVFzZlh6REwxWHE4MEdiUmt3UlR0bkRTNDYwcGd1cDdzblc5MUw4?oc=5",
-   "fecha": "2026-11-17T16:27-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://flipr.com.ar/nacionales/politica/iprofesional/cristina-kirchner-acordo-con-massa-sumar-a-guillermo-michel-al-consejo-de-la-magistratura/",
    "revisada": true
   }
  ]
