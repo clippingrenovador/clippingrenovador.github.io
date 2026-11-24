@@ -50,6 +50,14 @@ def _clave(seccion, x):
     return x.get("url") or x.get("youtube") or ""
 
 
+def fecha_tuit(x):
+    """Fecha de publicacion de un tuit a partir de su id (los ids de X llevan la hora adentro)."""
+    m = re.search(r"status/(\d+)", x.get("url", ""))
+    if not m:
+        return 0
+    return (int(m.group(1)) >> 22) + 1288834974657
+
+
 def edicion_anterior(nuevo_id):
     """La ultima edicion publicada con otro id (si se rearma la misma edicion, se compara con la previa)."""
     ix = DATOS / "ediciones" / "indice.json"
@@ -87,6 +95,15 @@ def continuidad(nuevo, anterior, ahora, retirar=()):
                 x.pop("destacado", None)
                 arrastre.append(x)
         arrastre.sort(key=lambda x: x.get("vigente_desde", ""), reverse=True)
+        if seccion == "redes":
+            # Los tuits salen 24 h despues de haber entrado al clipping, aunque se los vuelva a incluir,
+            # y se ordenan por fecha de publicacion (el mas nuevo arriba).
+            todos = [x for x in nuevo[seccion] + arrastre
+                     if ahora - datetime.fromisoformat(x.get("sumado") or x.get("vigente_desde") or ahora.isoformat())
+                     < timedelta(hours=VIGENCIA_HORAS)]
+            todos.sort(key=fecha_tuit, reverse=True)
+            nuevo[seccion] = todos[:TOPES[seccion]]
+            continue
         nuevo[seccion] = (nuevo[seccion] + arrastre)[:TOPES[seccion]]
 
 

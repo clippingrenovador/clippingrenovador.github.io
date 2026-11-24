@@ -1,6 +1,6 @@
 {
  "id": "2026-11-24-14",
- "generado": "2026-11-24T13:34-03:00",
+ "generado": "2026-11-24T17:24-03:00",
  "hora": "14",
  "claves": [
   {
@@ -89,7 +89,7 @@
     }
    ],
    "cantidad_notas": 5,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T22:48-03:00"
   },
@@ -138,7 +138,7 @@
     }
    ],
    "cantidad_notas": 5,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T04:58-03:00"
   },
@@ -191,7 +191,7 @@
     }
    ],
    "cantidad_notas": 6,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-22T06:10-03:00"
   },
@@ -214,9 +214,9 @@
    ],
    "otras": [],
    "cantidad_notas": 1,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
-   "sumado": "2026-11-24T13:34-03:00"
+   "sumado": "2026-11-24T17:24-03:00"
   },
   {
    "id": "encuestas-2027-balotaje",
@@ -262,7 +262,7 @@
     }
    ],
    "cantidad_notas": 5,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
   },
@@ -285,9 +285,9 @@
    ],
    "otras": [],
    "cantidad_notas": 1,
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
-   "sumado": "2026-11-24T13:34-03:00"
+   "sumado": "2026-11-24T17:24-03:00"
   },
   {
    "id": "massa-peron-ia",
@@ -459,44 +459,12 @@
  ],
  "redes": [
   {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante.",
-   "vigente_desde": "2026-11-24T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-   "autor": "@ceciliamoreauok",
-   "nota": "Con o sin PASO, el peronismo irá unido.",
-   "vigente_desde": "2026-11-24T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
-   "autor": "@FrenteRenovador",
-   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno.",
-   "vigente_desde": "2026-11-24T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T13:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria.",
-   "vigente_desde": "2026-11-24T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T13:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe.",
-   "vigente_desde": "2026-11-24T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T06:10-03:00"
+   "url": "https://x.com/felipemromeroo/status/2125097957716308030",
+   "autor": "@felipemromeroo",
+   "nota": "Felipe Romero sobre la explicación oficial de la inflación y los condicionantes del gobierno anterior.",
+   "vigente_desde": "2026-11-24T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-24T05:34-03:00"
   },
   {
    "url": "https://x.com/SebasGalmarini/status/2125036152683999377",
@@ -515,25 +483,17 @@
    "sumado": "2026-11-24T05:34-03:00"
   },
   {
-   "url": "https://x.com/felipemromeroo/status/2125097957716308030",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero sobre la explicación oficial de la inflación y los condicionantes del gobierno anterior.",
-   "vigente_desde": "2026-11-24T05:34-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-24T05:34-03:00"
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático.",
+   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro.",
    "vigente_desde": "2026-11-23T21:35-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-23T21:35-03:00"
   },
   {
-   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro.",
+   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
+   "autor": "@MichelGuilleOK",
+   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático.",
    "vigente_desde": "2026-11-23T21:35-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-23T21:35-03:00"
@@ -547,7 +507,7 @@
    "fecha_txt": "hace 3 h",
    "duracion": "11:58",
    "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
   },
@@ -558,7 +518,7 @@
    "fecha_txt": "hace 1 h",
    "duracion": "16:48",
    "url": "https://www.youtube.com/watch?v=G7pC6FGk1Yc",
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
   },
@@ -569,7 +529,7 @@
    "fecha_txt": "Transmitido hace 45 min",
    "duracion": "11:51",
    "url": "https://www.youtube.com/watch?v=PZ4kI9wtH2Y",
-   "vigente_desde": "2026-11-24T13:34-03:00",
+   "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
   },
@@ -586,8 +546,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 57,
-  "medios": 44,
+  "notas_analizadas": 75,
+  "medios": 58,
   "temas": 11
  }
 }
