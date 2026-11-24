@@ -1,77 +1,108 @@
 {
- "hora": "14",
+ "hora": "22",
  "claves": [
   {
-   "texto": "Cristina Kirchner y Máximo Kirchner desmintieron la frase contra el gobernador Axel Kicillof que les atribuyó Clarín. Según El Día de La Plata, la expresidenta se alinea con Sergio Massa y el gobernador avanza por un camino propio.",
+   "texto": "Según La Nación, la disputa interna del peronismo se extiende a las provincias: el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027.",
    "fuentes": [
-    "d61524d97436",
-    "eaf633fe6535"
+    "c94454a76024"
    ]
   },
   {
-   "texto": "Ante la posible suspensión de las PASO, Sergio Massa impulsa una interna virtual con reconocimiento facial para definir las candidaturas del peronismo.",
+   "texto": "Una encuesta de Analogías difundida por El Destape indica que, en un balotaje, Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4.",
    "fuentes": [
-    "3eb461447649"
+    "7d3ba4124022"
    ]
   },
   {
-   "texto": "El Frente Renovador propone crear una línea gratuita de asistencia para casos de ludopatía infantil.",
+   "texto": "El diputado nacional Diego Giuliano afirmó que, si Sergio Massa decide lanzarse como candidato a presidente, lo hará \"con todas las letras\".",
    "fuentes": [
-    "3faa39da168f"
+    "2f5f215587ee"
    ]
   },
   {
-   "texto": "El consultor Raúl Timerman sostuvo que, en las condiciones actuales, el presidente Javier Milei no gana el balotaje.",
+   "texto": "Guillermo Michel participará junto a Martín Lousteau, Emilio Monzó, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis de un foro opositor al Gobierno en la UBA, según La Nación.",
    "fuentes": [
-    "1d062110c22b"
+    "58fa89aec7d5"
    ]
   }
  ],
- "retirar": [],
+ "retirar": [
+  "gestion-universidad-en-san",
+  "michel-aysa",
+  "Qex8w_pmieE",
+  "https://www.youtube.com/watch?v=Qex8w_pmieE"
+ ],
  "temas": [
   {
-   "id": "massa-armado-formula-2027",
-   "titulo": "Massa y Cristina Kirchner se acercan; desmienten la frase atribuida contra Kicillof",
-   "resumen": "El Día de La Plata señala que el peronismo empieza a definir su futuro, con Cristina Kirchner junto a Sergio Massa y Axel Kicillof por un camino propio; NewsDigitales informa que Massa suma respaldos en el PJ mientras el gobernador se afirma como favorito para 2027. Cristina y Máximo Kirchner desmintieron la frase contra Kicillof que les atribuyó Clarín, según InfoPlatense. NotiAR menciona una llamada entre Massa y Kicillof.",
+   "id": "interna-provincias-gobernadores",
+   "titulo": "La interna peronista llega a las provincias: Kicillof y Massa buscan sumar gobernadores",
+   "resumen": "La Nación informa que la interna del peronismo también se disputa en las provincias, donde el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027. Compacto Diario describe una intensificación de la disputa por el liderazgo peronista en el interior.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "eaf633fe6535",
-    "797e08960457",
-    "d61524d97436"
+    "c94454a76024",
+    "cd87041c2b62"
    ],
    "otras": [
-    "56529e8cf2d7",
-    "ff4882b1dc02",
-    "3c332641d61c",
-    "99a5a1c57c9f",
-    "37b20e430bc8",
-    "3511f54d981a",
-    "b6a22f5984c2",
-    "09ed5ab82bf0",
-    "7cccf4ef04fd",
-    "c3a381c16098",
-    "2a31815b6e7d",
-    "e0a1c60b8620",
-    "4d97f6c51d6a",
-    "c9f219451721",
-    "7bff59e3e09b",
-    "c69a845116d1",
-    "1daa5652e149",
-    "444803701b64",
-    "505475a82d2b",
-    "1fce7ea2213a",
-    "228604af7302",
-    "0a779d665c79",
-    "6f9170016130"
+    "c91742fabbdf"
+   ]
+  },
+  {
+   "id": "encuestas-2027-balotaje",
+   "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
+   "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. El Destape también repasa los sondeos de noviembre sobre Milei, Kicillof y la segunda vuelta. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "7d3ba4124022",
+    "5236774d0476",
+    "1d062110c22b"
+   ],
+   "otras": [
+    "3479edb273b5",
+    "a6473b3cc528",
+    "5623656fac18",
+    "4f83e9537395"
+   ]
+  },
+  {
+   "id": "giuliano-candidatura-massa",
+   "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
+   "resumen": "En declaraciones publicadas por Realpolitik, el diputado nacional Diego Giuliano se refirió a una eventual candidatura presidencial de Sergio Massa y afirmó que, si se lanza, lo hará \"con todas las letras\".",
+   "tono": "positivo",
+   "dirigentes": [
+    "Diego Giuliano",
+    "Sergio Massa"
+   ],
+   "principales": [
+    "2f5f215587ee"
+   ],
+   "otras": []
+  },
+  {
+   "id": "foro-uba-michel",
+   "titulo": "Guillermo Michel, en un foro opositor a Milei en la UBA",
+   "resumen": "La Nación informa que Martín Lousteau, Emilio Monzó, Guillermo Michel, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis confluirán en un foro contra el Gobierno en la UBA. LA17 señala que la oposición analizará los casos de Brasil y Francia para construir una alternativa a Milei en 2027. La Izquierda Diario critica el encuentro \"Coordinar para Ganar\" entre peronistas, radicales y ex PRO.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    "58fa89aec7d5",
+    "23121e46c637"
+   ],
+   "otras": [
+    "0221c6ffa53c"
    ]
   },
   {
    "id": "peronismo-sin-paso",
    "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
-   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24, mientras Memo señala que el oficialismo busca votos en el Congreso para el Presupuesto y la reforma electoral.",
+   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24. Agencia NOVA analiza un acuerdo en el Senado para eliminar las PASO, y Provincia Noticias plantea que una PASO bonaerense podría definir al candidato presidencial del peronismo.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
@@ -82,6 +113,8 @@
     "3eb461447649"
    ],
    "otras": [
+    "4398d075327a",
+    "ed836401410b",
     "fc8d6d20d11d",
     "d301af84bd07",
     "25c3565a7e38",
@@ -98,137 +131,47 @@
    ]
   },
   {
-   "id": "ludopatia-infantil-linea",
-   "titulo": "El Frente Renovador propone una línea gratuita de asistencia por ludopatía infantil",
-   "resumen": "Según 25 Digital y Cronos Noticias, el Frente Renovador impulsa la creación de una línea telefónica gratuita para atender casos de ludopatía infantil.",
-   "tono": "positivo",
-   "dirigentes": [],
-   "principales": [
-    "3faa39da168f",
-    "9377dc2c0952"
-   ],
-   "otras": []
-  },
-  {
-   "id": "encuestas-2027-balotaje",
-   "titulo": "Encuestas: los escenarios de balotaje que preocupan al Gobierno",
-   "resumen": "El Destape publica dos escenarios de segunda vuelta que inquietan a Javier Milei. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje; Perfil difundió un sondeo sobre los atributos que los argentinos esperan de un presidente.",
-   "tono": "neutro",
+   "id": "massa-peron-ia",
+   "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
+   "resumen": "Juan Grabois volvió a cuestionar el acto en el que Sergio Massa utilizó una imagen de Perón generada con inteligencia artificial; según La Noticia Web, lo calificó como \"una falta de respeto a la memoria histórica\". El Intransigente y Bardeo.news también recogieron sus críticas.",
+   "tono": "negativo",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "3479edb273b5",
-    "1d062110c22b"
+    "c77ba61bcdaa",
+    "980d3e5f8d24",
+    "3282e1905aad"
    ],
    "otras": [
-    "5623656fac18",
-    "4f83e9537395"
+    "07dcd17704e1"
    ]
   },
   {
-   "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: comenzó la obra de la Universidad Nacional del Delta y obras en escuelas de San Fernando",
-   "resumen": "Juan Andreotti recorrió las obras de construcción de la Universidad Nacional del Delta en San Fernando, cuyo municipio hará además obras en cinco escuelas provinciales durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
-   "tono": "positivo",
+   "id": "galmarini-san-isidro",
+   "titulo": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
+   "resumen": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro, según El Intransigente. En sus redes planteó que el desarrollo urbano y la inversión inmobiliaria deben coordinarse con el cuidado del ambiente.",
+   "tono": "neutro",
    "dirigentes": [
-    "Juan Andreotti",
-    "Pablo Garate",
-    "Darío Golía"
+    "Sebastián Galmarini"
    ],
    "principales": [
-    "66b3de74b1d3",
-    "e525aac3355a",
-    "3b5f2fb23155"
+    "0a21806a4a04"
    ],
-   "otras": [
-    "c61da54202e3",
-    "46994d945931",
-    "5a2a1253a778",
-    "83873b559481",
-    "921d5075a478"
-   ]
-  },
-  {
-   "id": "san-fernando-reordena-el",
-   "titulo": "Después de San Fernando: Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata",
-   "resumen": "Sergio Massa confirmó que los intendentes que le responden acompañarán al gobernador Kicillof en el acto de gestión convocado en La Plata y pidió unidad en el peronismo. Tras el encuentro de San Fernando, el ministro Carlos Bianco aseguró que la reunión no fue contra el gobernador y Alexis Guerrera hizo un gesto de acercamiento. Massa había mencionado a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles presidenciables.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa",
-    "Alexis Guerrera",
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "1f1ce72bae11",
-    "ab00192983fb",
-    "ced4bbfd43aa"
-   ],
-   "otras": [
-    "5d61c6c19688",
-    "798fa27100f2",
-    "0e072cb13b4f",
-    "d1e551eac8d2",
-    "4de08fa663d6",
-    "47607e29b920",
-    "ac5a556b9c95",
-    "78ef112c5d60",
-    "6924eb102826",
-    "4c59c5e66fae",
-    "57fbd70d76f7",
-    "5b08c5cfbf0b"
-   ]
+   "otras": []
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-   "autor": "@ceciliamoreauok",
-   "nota": "Con o sin PASO, el peronismo irá unido."
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
-   "autor": "@FrenteRenovador",
-   "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2124283570046841239",
-   "autor": "@marinadorotea",
-   "nota": "Marina Salzmann, sobre el deterioro del transporte."
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe."
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
+   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
    "autor": "@MichelGuilleOK",
-   "nota": "Amparo por las rutas nacionales de Entre Ríos."
+   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático."
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro."
   }
  ],
- "entrevistas": [
-  {
-   "video_id": "HbpWLzHNpN8"
-  },
-  {
-   "video_id": "G7pC6FGk1Yc"
-  },
-  {
-   "video_id": "Qex8w_pmieE"
-  },
-  {
-   "video_id": "PZ4kI9wtH2Y"
-  }
- ]
+ "entrevistas": []
 }

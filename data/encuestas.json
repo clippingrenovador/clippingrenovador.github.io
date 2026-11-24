@@ -1,4 +1,28 @@
 {
- "actualizado": "2026-11-20T02:10-03:00",
- "encuestas": []
+ "actualizado": "2026-11-23T21:45-03:00",
+ "encuestas": [
+  {
+   "fecha": "2026-11-23",
+   "consultora": "Analogías",
+   "alcance": "Nacional",
+   "titulo": "Balotaje presidencial 2027: Kicillof y Massa frente a Milei",
+   "datos": [
+    {
+     "etiqueta": "Ventaja de Axel Kicillof sobre Javier Milei en balotaje",
+     "valor": 6,
+     "unidad": "puntos"
+    },
+    {
+     "etiqueta": "Ventaja de Sergio Massa sobre Javier Milei en balotaje",
+     "valor": 2.4,
+     "unidad": "puntos"
+    }
+   ],
+   "fuente": {
+    "medio": "El Destape",
+    "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
+    "dominio": "eldestapeweb.com"
+   }
+  }
+ ]
 }

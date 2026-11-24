@@ -1,50 +1,379 @@
 {
- "id": "2026-11-23-14",
- "generado": "2026-11-23T13:34-03:00",
- "hora": "14",
+ "id": "2026-11-23-22",
+ "generado": "2026-11-23T21:35-03:00",
+ "hora": "22",
  "claves": [
   {
-   "texto": "Cristina Kirchner y Máximo Kirchner desmintieron la frase contra el gobernador Axel Kicillof que les atribuyó Clarín. Según El Día de La Plata, la expresidenta se alinea con Sergio Massa y el gobernador avanza por un camino propio.",
+   "texto": "Según La Nación, la disputa interna del peronismo se extiende a las provincias: el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027.",
    "fuentes": [
     {
-     "medio": "InfoPlatense",
-     "url": "https://www.infoplatense.com.ar/cristina-maximo-desmintieron-frase-harta-kicillof/"
-    },
-    {
-     "medio": "Diario El Día de La Plata",
-     "url": "https://www.eldia.com/politica-y-economia/el-peronismo-empieza-a-definir-su-futuro-cristina-con-massa-y-kicillof-camino-propio-politica-y-economia_1795437498"
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/la-interna-peronista-tambien-se-disputa-en-las-provincias-kicillof-y-massa-buscan-sumar-gobernadores-nid23112026/"
     }
    ]
   },
   {
-   "texto": "Ante la posible suspensión de las PASO, Sergio Massa impulsa una interna virtual con reconocimiento facial para definir las candidaturas del peronismo.",
+   "texto": "Una encuesta de Analogías difundida por El Destape indica que, en un balotaje, Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4.",
    "fuentes": [
     {
-     "medio": "PINAMAR 24",
-     "url": "https://pinamar24.com.ar/nota/2311202601462612/sergio-massa-impulsa-una-interna-virtual-con-reconocimiento-facial-para-definir-las-candidaturas-del-peronismo"
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946?outputType=amp"
     }
    ]
   },
   {
-   "texto": "El Frente Renovador propone crear una línea gratuita de asistencia para casos de ludopatía infantil.",
+   "texto": "El diputado nacional Diego Giuliano afirmó que, si Sergio Massa decide lanzarse como candidato a presidente, lo hará \"con todas las letras\".",
    "fuentes": [
     {
-     "medio": "25 Digital",
-     "url": "https://www.25digital.com.ar/index.php/2026/11/23/el-massismo-pide-crear-una-linea-gratuita-para-atender-casos-de-ludopatia-infantil/"
+     "medio": "REALPOLITIK",
+     "url": "https://realpolitik.com.ar/nota/75366/diego-giuliano-si-massa-se-va-a-lanzar-a-presidente-lo-va-a-hacer-con-todas-las-letras/"
     }
    ]
   },
   {
-   "texto": "El consultor Raúl Timerman sostuvo que, en las condiciones actuales, el presidente Javier Milei no gana el balotaje.",
+   "texto": "Guillermo Michel participará junto a Martín Lousteau, Emilio Monzó, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis de un foro opositor al Gobierno en la UBA, según La Nación.",
    "fuentes": [
     {
-     "medio": "Diario La Capital de Mar del Plata",
-     "url": "https://www.lacapitalmdp.com/timerman-en-estas-condiciones-milei-no-gana-el-balotaje/"
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/lousteau-monzo-michel-di-tullio-ferraro-y-katopodis-en-un-foro-anti-milei-en-la-uba-nid23112026/"
     }
    ]
   }
  ],
  "temas": [
+  {
+   "id": "interna-provincias-gobernadores",
+   "titulo": "La interna peronista llega a las provincias: Kicillof y Massa buscan sumar gobernadores",
+   "resumen": "La Nación informa que la interna del peronismo también se disputa en las provincias, donde el gobernador Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027. Compacto Diario describe una intensificación de la disputa por el liderazgo peronista en el interior.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "La Nación",
+     "titulo": "La interna peronista también se disputa en las provincias: Kicillof y Massa buscan sumar gobernadores de cara a 2027",
+     "url": "https://www.lanacion.com.ar/politica/la-interna-peronista-tambien-se-disputa-en-las-provincias-kicillof-y-massa-buscan-sumar-gobernadores-nid23112026/",
+     "fecha": "2026-11-23T16:18-03:00",
+     "dominio": "lanacion.com.ar"
+    },
+    {
+     "medio": "Compacto Diario",
+     "titulo": "Kicillof y Massa: La lucha por el liderazgo peronista se intensifica en las provincias",
+     "url": "https://compactodiario.com.ar/kicillof-y-massa-la-lucha-por-el-liderazgo-peronista-se-intensifica-en-las-provincias/?amp=1",
+     "fecha": "2026-11-23T17:18-03:00",
+     "dominio": "compactodiario.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/la-interna-peronista-tambien-se-disputa-en-las-provincias-kicillof-y-massa-buscan-sumar-gobernadores-nid23112026/",
+     "dominio": "lanacion.com.ar"
+    }
+   ],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
+  {
+   "id": "encuestas-2027-balotaje",
+   "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
+   "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. El Destape también repasa los sondeos de noviembre sobre Milei, Kicillof y la segunda vuelta. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "El Destape",
+     "titulo": "Encuesta balotaje elecciones presidenciales Argentina 2027: Kicillof le gana a Milei por 6 puntos y Massa por 2,4, según Analogías",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946?outputType=amp",
+     "fecha": "2026-11-23T12:01-03:00",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "El Destape",
+     "titulo": "Encuestas elecciones Argentina 2027: qué dicen todos los sondeos de noviembre sobre Javier Milei, Axel Kicillof y el balotaje",
+     "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
+     "fecha": "2026-11-23T17:46-03:00",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "Diario La Capital de Mar del Plata",
+     "titulo": "Timerman: “En estas condiciones, Milei no gana el balotaje”",
+     "url": "https://www.lacapitalmdp.com/timerman-en-estas-condiciones-milei-no-gana-el-balotaje/",
+     "fecha": "2026-11-23T08:49-03:00",
+     "dominio": "lacapitalmdp.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/19771/kicillof-supera-a-milei-por-seis-puntos-en-un-balotaje",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://perfil.com/politica/encuesta-que-atributos-esperan-los-argentinos-de-un-presidente-ideal-a5Iit0c6mt0m",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Prisionero en Argentina",
+     "url": "https://prisioneroenargentina.com/encuesta-62-desaprueba-a-milei/",
+     "dominio": "prisioneroenargentina.com"
+    }
+   ],
+   "cantidad_notas": 7,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T13:34-03:00"
+  },
+  {
+   "id": "giuliano-candidatura-massa",
+   "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
+   "resumen": "En declaraciones publicadas por Realpolitik, el diputado nacional Diego Giuliano se refirió a una eventual candidatura presidencial de Sergio Massa y afirmó que, si se lanza, lo hará \"con todas las letras\".",
+   "tono": "positivo",
+   "dirigentes": [
+    "Diego Giuliano",
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "REALPOLITIK",
+     "titulo": "Diego Giuliano: “Si Massa se va a lanzar a presidente, lo va a hacer con todas las letras”",
+     "url": "https://realpolitik.com.ar/nota/75366/diego-giuliano-si-massa-se-va-a-lanzar-a-presidente-lo-va-a-hacer-con-todas-las-letras/",
+     "fecha": "2026-11-23T19:00-03:00",
+     "dominio": "realpolitik.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
+  {
+   "id": "foro-uba-michel",
+   "titulo": "Guillermo Michel, en un foro opositor a Milei en la UBA",
+   "resumen": "La Nación informa que Martín Lousteau, Emilio Monzó, Guillermo Michel, Juliana Di Tullio, Maximiliano Ferraro y Gabriel Katopodis confluirán en un foro contra el Gobierno en la UBA. LA17 señala que la oposición analizará los casos de Brasil y Francia para construir una alternativa a Milei en 2027. La Izquierda Diario critica el encuentro \"Coordinar para Ganar\" entre peronistas, radicales y ex PRO.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    {
+     "medio": "La Nación",
+     "titulo": "Lousteau, Monzó, Michel, Di Tullio, Ferraro y Katopodis confluirán en un foro anti Milei en la UBA",
+     "url": "https://www.lanacion.com.ar/politica/lousteau-monzo-michel-di-tullio-ferraro-y-katopodis-en-un-foro-anti-milei-en-la-uba-nid23112026/",
+     "fecha": "2026-11-23T18:26-03:00",
+     "dominio": "lanacion.com.ar"
+    },
+    {
+     "medio": "LA17",
+     "titulo": "La oposición analizará casos de Brasil y Francia para construir una alternativa a Milei en 2027",
+     "url": "https://lu17.com/contenido/158900/la-oposicion-analizara-casos-de-brasil-y-francia-para-construir-una-alternativa-a-milei-en-2027",
+     "fecha": "2026-11-23T13:15-03:00",
+     "dominio": "lu17.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Izquierda Diario",
+     "url": "https://www.laizquierdadiario.com/Coordinar-para-Ganar-un-encuentro-de-centro-entre-peronistas-radicales-y-ex-PRO-para-no-enfrentar-a?amp=1",
+     "dominio": "laizquierdadiario.com"
+    }
+   ],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
+   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24. Agencia NOVA analiza un acuerdo en el Senado para eliminar las PASO, y Provincia Noticias plantea que una PASO bonaerense podría definir al candidato presidencial del peronismo.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "El Liberal",
+     "titulo": "El peronismo busca una estrategia común para definir sus candidaturas de cara a 2027",
+     "url": "https://www.elliberal.com.ar/nota/98797/2026/11/el-peronismo-busca-una-estrategia-comun-para-definir-sus-candidaturas-de-cara-a-2027",
+     "fecha": "2026-11-22T22:08-03:00",
+     "dominio": "elliberal.com.ar"
+    },
+    {
+     "medio": "TN",
+     "titulo": "El peronismo se encamina hacia una interna entre Massa y Kicillof: qué opciones tiene para definir candidato sin PASO",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTR5TUcyb0ZKaVRmLWlMaUhpLWVNcXJtTF9PcTQyc2FCdDA1MkJEUWRuTk5iTkFmbnVMTHUzcjBOQjNZSmZnVkp1T1ZtVDgybWFNWjNTc0Y4ZHIzUGdHdl9jRUNTd3VoRXZxdFAzbkNQVXEtajQ5QzRtRnd3VFgtLTZ5WHJzR1Y3STU0SU83LV8tekFNSVRKWGRQcU1BTFNHaWtxOXEzN1BPLXZ6ZldTV053anhMR28yZjhRRHBraUQ5LVo3ZEhaTkVBRDdvdW1aWHlUUGNWaGtvWXVXTE9ZT1Btak1Fd9IB-gFBVV95cUxNLWQ5RTZCa3FpZEtldERVbnVHUDhQNXNVaUg5cUtHSEFMVVlWVmMyQkFhTWRVZnRGbHBiYWlleEJQeU1IQ19ORmNHQS1raTdWTDFkX3hQazZNcWFCc2ZWMTdKLVdKazFvcDk1NXc4VnI5UmhBNjVVa0cyRG55T2lFUV9LRUxFdEY0TWVQTWRWSU5CVUl6WjBYYnV6RzYybVhNYkdCLUstSkpsQkFBZXVkZWwyWXFabnprNWJRMDZHRHZ1bUFBV0V1VmVSVlJfOFJBT0FaeFFsOV9lTlRxZEt3QUtkSW4zeFNDOUJDeWx2bFhHaDlCVHdRRWVn?oc=5",
+     "fecha": "2026-11-22T19:20-03:00",
+     "dominio": "tn.com.ar"
+    },
+    {
+     "medio": "PINAMAR 24",
+     "titulo": "Sergio Massa impulsa una interna virtual con reconocimiento facial para definir las candidaturas del peronismo",
+     "url": "https://pinamar24.com.ar/nota/2311202601462612/sergio-massa-impulsa-una-interna-virtual-con-reconocimiento-facial-para-definir-las-candidaturas-del-peronismo",
+     "fecha": "2026-11-23T08:37-03:00",
+     "dominio": "pinamar24.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Agencia NOVA",
+     "url": "https://www.agencianova.com/nota.asp?n=2026_11_23&id=175641&id_tiponota=4",
+     "dominio": "agencianova.com"
+    },
+    {
+     "medio": "Provincia Noticias",
+     "url": "https://provincianoticias.com.ar/nota/22985/una-paso-bonaerense-podria-definir-al-candidato-presidencial-del-peronismo/",
+     "dominio": "provincianoticias.com.ar"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/46882_el-gobierno-negocia-la-suspensin-de-las-paso-y-massa-propone-una-interna-digital.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "» Cholila Online",
+     "url": "https://cholilaonline.ar/2026/11/interna-partidaria-acuerdo-listas-alternativas-peronismo-2027-sin-paso.html",
+     "dominio": "cholilaonline.ar"
+    },
+    {
+     "medio": "MendoVoz",
+     "url": "https://www.mendovoz.com/actualidad/nacionales/2026/11/22/el-oficialismo-busca-aprobar-este-jueves-en-el-senado-la-suspension-de-las-paso-170889.html",
+     "dominio": "mendovoz.com"
+    },
+    {
+     "medio": "La Tecla",
+     "url": "https://www.latecla.info/171356-el-peronismo-y-una-idea-tecnologica-para-resolver-la-interna-y-las-candidaturas",
+     "dominio": "latecla.info"
+    },
+    {
+     "medio": "MDZ Online",
+     "url": "https://www.mdzol.com/politica/2026/11/22/la-apuesta-electoral-de-javier-milei-genera-una-grieta-interna-por-el-temor-a-sergio-massa-1997166.html",
+     "dominio": "mdzol.com"
+    },
+    {
+     "medio": "Info del Estero",
+     "url": "https://infodelestero.com/2026/11/22/el-gobierno-negocia-los-votos-en-el-senado-para-suspender-las-paso-de-2027-que-cambios-incluye",
+     "dominio": "infodelestero.com"
+    },
+    {
+     "medio": "MejorInformado.com",
+     "url": "https://www.mejorinformado.com/nacionales/paso-peronismo-busca-definir-candidatos-profundiza-interna-2027_1795377005",
+     "dominio": "mejorinformado.com"
+    },
+    {
+     "medio": "TN",
+     "url": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
+     "dominio": "tn.com.ar"
+    },
+    {
+     "medio": "HolaSalta Noticias",
+     "url": "https://holasalta.com/post/interna-peronista-massa-y-kicillof-definen-estrategias-ante-una-posible-suspension-de-las-paso/",
+     "dominio": "holasalta.com"
+    },
+    {
+     "medio": "TN",
+     "url": "https://tn.com.ar/politica/2026/11/22/el-calculo-politico-de-milei-detras-de-la-suspension-de-las-paso-reeleccion-divisiones-del-pj-y-control-de-las-listas/",
+     "dominio": "tn.com.ar"
+    },
+    {
+     "medio": "Opinando San Nicolás",
+     "url": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
+     "dominio": "opinandosannicolas.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409/amp",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "Memo.com.ar",
+     "url": "https://www.memo.com.ar/poder/presupuesto-2027-y-reforma-electoral-milei-busca-votos/",
+     "dominio": "memo.com.ar"
+    }
+   ],
+   "cantidad_notas": 18,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "massa-peron-ia",
+   "titulo": "Grabois criticó la imagen de Perón generada con inteligencia artificial que usó Massa",
+   "resumen": "Juan Grabois volvió a cuestionar el acto en el que Sergio Massa utilizó una imagen de Perón generada con inteligencia artificial; según La Noticia Web, lo calificó como \"una falta de respeto a la memoria histórica\". El Intransigente y Bardeo.news también recogieron sus críticas.",
+   "tono": "negativo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Grabois cruzó el acto de Massa por el Perón hecho con IA: «Es una falta de respeto a la memoria histórica",
+     "url": "https://www.lanoticiaweb.com.ar/grabois-cruzo-el-acto-de-massa-por-el-peron-hecho-con-ia-es-una-falta-de-respeto-a-la-memoria-historica/",
+     "fecha": "2026-11-23T13:07-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "El Intransigente",
+     "titulo": "Juan Grabois destrozó al massismo por el video de Perón con IA: qué fue lo que dijo",
+     "url": "https://elintransigente.com/2026/11/22/juan-grabois-destrozo-massismo-video-peron-ia-fue-dijo/",
+     "fecha": "2026-11-22T13:04-03:00",
+     "dominio": "elintransigente.com"
+    },
+    {
+     "medio": "Bardeo.news",
+     "titulo": "Grabois bardeó al Perón hecho con IA que usó Massa",
+     "url": "https://bardeo.news/politica/grabois-bardeo-al-peron-hecho-con-ia-que-uso-massa_a6b0303fccd25aee288756a37",
+     "fecha": "2026-11-22T12:13-03:00",
+     "dominio": "bardeo.news"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "TN",
+     "url": "https://tn.com.ar/opinion/2026/11/18/el-peronismo-resucita-a-peron-con-inteligencia-artificial-pero-no-sabe-como-conectar-con-los-jovenes/",
+     "dominio": "tn.com.ar"
+    }
+   ],
+   "cantidad_notas": 4,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
+  {
+   "id": "galmarini-san-isidro",
+   "titulo": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
+   "resumen": "Sebastián Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro, según El Intransigente. En sus redes planteó que el desarrollo urbano y la inversión inmobiliaria deben coordinarse con el cuidado del ambiente.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sebastián Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Sebastian Galmarini cuestionó el crecimiento urbano sin planificación en San Isidro",
+     "url": "https://elintransigente.com/2026/11/23/sebastian-galmarini-cuestiono-crecimiento-urbano-sin-planificacion-san-isidro/",
+     "fecha": "2026-11-23T19:15-03:00",
+     "dominio": "elintransigente.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
   {
    "id": "massa-armado-formula-2027",
    "titulo": "Massa y Cristina Kirchner se acercan; desmienten la frase atribuida contra Kicillof",
@@ -199,109 +528,6 @@
    "sumado": "2026-11-20T22:48-03:00"
   },
   {
-   "id": "peronismo-sin-paso",
-   "titulo": "Sin PASO: el peronismo busca una estrategia común para definir candidaturas",
-   "resumen": "Ante la posible suspensión de las PASO, el peronismo busca una estrategia común para definir sus candidaturas de cara a 2027, según El Liberal y TN. Sergio Massa impulsa una interna virtual con reconocimiento facial, informa Pinamar 24, mientras Memo señala que el oficialismo busca votos en el Congreso para el Presupuesto y la reforma electoral.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "El Liberal",
-     "titulo": "El peronismo busca una estrategia común para definir sus candidaturas de cara a 2027",
-     "url": "https://www.elliberal.com.ar/nota/98797/2026/11/el-peronismo-busca-una-estrategia-comun-para-definir-sus-candidaturas-de-cara-a-2027",
-     "fecha": "2026-11-22T22:08-03:00",
-     "dominio": "elliberal.com.ar"
-    },
-    {
-     "medio": "TN",
-     "titulo": "El peronismo se encamina hacia una interna entre Massa y Kicillof: qué opciones tiene para definir candidato sin PASO",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTR5TUcyb0ZKaVRmLWlMaUhpLWVNcXJtTF9PcTQyc2FCdDA1MkJEUWRuTk5iTkFmbnVMTHUzcjBOQjNZSmZnVkp1T1ZtVDgybWFNWjNTc0Y4ZHIzUGdHdl9jRUNTd3VoRXZxdFAzbkNQVXEtajQ5QzRtRnd3VFgtLTZ5WHJzR1Y3STU0SU83LV8tekFNSVRKWGRQcU1BTFNHaWtxOXEzN1BPLXZ6ZldTV053anhMR28yZjhRRHBraUQ5LVo3ZEhaTkVBRDdvdW1aWHlUUGNWaGtvWXVXTE9ZT1Btak1Fd9IB-gFBVV95cUxNLWQ5RTZCa3FpZEtldERVbnVHUDhQNXNVaUg5cUtHSEFMVVlWVmMyQkFhTWRVZnRGbHBiYWlleEJQeU1IQ19ORmNHQS1raTdWTDFkX3hQazZNcWFCc2ZWMTdKLVdKazFvcDk1NXc4VnI5UmhBNjVVa0cyRG55T2lFUV9LRUxFdEY0TWVQTWRWSU5CVUl6WjBYYnV6RzYybVhNYkdCLUstSkpsQkFBZXVkZWwyWXFabnprNWJRMDZHRHZ1bUFBV0V1VmVSVlJfOFJBT0FaeFFsOV9lTlRxZEt3QUtkSW4zeFNDOUJDeWx2bFhHaDlCVHdRRWVn?oc=5",
-     "fecha": "2026-11-22T19:20-03:00",
-     "dominio": "tn.com.ar"
-    },
-    {
-     "medio": "PINAMAR 24",
-     "titulo": "Sergio Massa impulsa una interna virtual con reconocimiento facial para definir las candidaturas del peronismo",
-     "url": "https://pinamar24.com.ar/nota/2311202601462612/sergio-massa-impulsa-una-interna-virtual-con-reconocimiento-facial-para-definir-las-candidaturas-del-peronismo",
-     "fecha": "2026-11-23T08:37-03:00",
-     "dominio": "pinamar24.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Identidad Correntina",
-     "url": "https://www.identidadcorrentina.com.ar/noticia/46882_el-gobierno-negocia-la-suspensin-de-las-paso-y-massa-propone-una-interna-digital.htm",
-     "dominio": "identidadcorrentina.com.ar"
-    },
-    {
-     "medio": "» Cholila Online",
-     "url": "https://cholilaonline.ar/2026/11/interna-partidaria-acuerdo-listas-alternativas-peronismo-2027-sin-paso.html",
-     "dominio": "cholilaonline.ar"
-    },
-    {
-     "medio": "MendoVoz",
-     "url": "https://www.mendovoz.com/actualidad/nacionales/2026/11/22/el-oficialismo-busca-aprobar-este-jueves-en-el-senado-la-suspension-de-las-paso-170889.html",
-     "dominio": "mendovoz.com"
-    },
-    {
-     "medio": "La Tecla",
-     "url": "https://www.latecla.info/171356-el-peronismo-y-una-idea-tecnologica-para-resolver-la-interna-y-las-candidaturas",
-     "dominio": "latecla.info"
-    },
-    {
-     "medio": "MDZ Online",
-     "url": "https://www.mdzol.com/politica/2026/11/22/la-apuesta-electoral-de-javier-milei-genera-una-grieta-interna-por-el-temor-a-sergio-massa-1997166.html",
-     "dominio": "mdzol.com"
-    },
-    {
-     "medio": "Info del Estero",
-     "url": "https://infodelestero.com/2026/11/22/el-gobierno-negocia-los-votos-en-el-senado-para-suspender-las-paso-de-2027-que-cambios-incluye",
-     "dominio": "infodelestero.com"
-    },
-    {
-     "medio": "MejorInformado.com",
-     "url": "https://www.mejorinformado.com/nacionales/paso-peronismo-busca-definir-candidatos-profundiza-interna-2027_1795377005",
-     "dominio": "mejorinformado.com"
-    },
-    {
-     "medio": "TN",
-     "url": "https://tn.com.ar/politica/2026/11/22/la-posible-suspension-de-las-paso-abre-interrogantes-en-la-provincia-de-buenos-aires-y-profundiza-las-tensiones-en-la-ciudad/",
-     "dominio": "tn.com.ar"
-    },
-    {
-     "medio": "HolaSalta Noticias",
-     "url": "https://holasalta.com/post/interna-peronista-massa-y-kicillof-definen-estrategias-ante-una-posible-suspension-de-las-paso/",
-     "dominio": "holasalta.com"
-    },
-    {
-     "medio": "TN",
-     "url": "https://tn.com.ar/politica/2026/11/22/el-calculo-politico-de-milei-detras-de-la-suspension-de-las-paso-reeleccion-divisiones-del-pj-y-control-de-las-listas/",
-     "dominio": "tn.com.ar"
-    },
-    {
-     "medio": "Opinando San Nicolás",
-     "url": "https://www.opinandosannicolas.ar/2026/11/peronismo-sin-paso-elecciones-2027/",
-     "dominio": "opinandosannicolas.ar"
-    },
-    {
-     "medio": "Letra P",
-     "url": "https://www.letrap.com.ar/la-quinta-pata/la-guerra-las-paso-desnuda-javier-milei-y-al-peronismo-n5428409/amp",
-     "dominio": "letrap.com.ar"
-    },
-    {
-     "medio": "Memo.com.ar",
-     "url": "https://www.memo.com.ar/poder/presupuesto-2027-y-reforma-electoral-milei-busca-votos/",
-     "dominio": "memo.com.ar"
-    }
-   ],
-   "cantidad_notas": 16,
-   "vigente_desde": "2026-11-23T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T06:10-03:00"
-  },
-  {
    "id": "ludopatia-infantil-linea",
    "titulo": "El Frente Renovador propone una línea gratuita de asistencia por ludopatía infantil",
    "resumen": "Según 25 Digital y Cronos Noticias, el Frente Renovador impulsa la creación de una línea telefónica gratuita para atender casos de ludopatía infantil.",
@@ -328,112 +554,6 @@
    "vigente_desde": "2026-11-23T13:34-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
-  },
-  {
-   "id": "encuestas-2027-balotaje",
-   "titulo": "Encuestas: los escenarios de balotaje que preocupan al Gobierno",
-   "resumen": "El Destape publica dos escenarios de segunda vuelta que inquietan a Javier Milei. El consultor Raúl Timerman sostuvo en La Capital de Mar del Plata que, en las condiciones actuales, Milei no gana el balotaje; Perfil difundió un sondeo sobre los atributos que los argentinos esperan de un presidente.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "El Destape",
-     "titulo": "ENCUESTAS. Los dos mano a mano que inquietan a Milei: resultados sorprendentes",
-     "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
-     "fecha": "2026-11-23T12:01-03:00",
-     "dominio": "eldestapeweb.com"
-    },
-    {
-     "medio": "Diario La Capital de Mar del Plata",
-     "titulo": "Timerman: “En estas condiciones, Milei no gana el balotaje”",
-     "url": "https://www.lacapitalmdp.com/timerman-en-estas-condiciones-milei-no-gana-el-balotaje/",
-     "fecha": "2026-11-23T08:49-03:00",
-     "dominio": "lacapitalmdp.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Perfil",
-     "url": "https://perfil.com/politica/encuesta-que-atributos-esperan-los-argentinos-de-un-presidente-ideal-a5Iit0c6mt0m",
-     "dominio": "perfil.com"
-    },
-    {
-     "medio": "Prisionero en Argentina",
-     "url": "https://prisioneroenargentina.com/encuesta-62-desaprueba-a-milei/",
-     "dominio": "prisioneroenargentina.com"
-    }
-   ],
-   "cantidad_notas": 4,
-   "vigente_desde": "2026-11-23T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-23T13:34-03:00"
-  },
-  {
-   "id": "gestion-universidad-en-san",
-   "titulo": "Gestión: comenzó la obra de la Universidad Nacional del Delta y obras en escuelas de San Fernando",
-   "resumen": "Juan Andreotti recorrió las obras de construcción de la Universidad Nacional del Delta en San Fernando, cuyo municipio hará además obras en cinco escuelas provinciales durante el verano. Pablo Garate participó de actividades por la soberanía y la educación en Tres Arroyos. Darío Golía inauguró junto al procurador Julio Conte Grand la nueva Fiscalía Descentralizada de Chacabuco.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti",
-    "Pablo Garate",
-    "Darío Golía"
-   ],
-   "principales": [
-    {
-     "medio": "nuevonortedigital.com.ar",
-     "titulo": "Comenzó la construcción de la Universidad Nacional del Delta: Andreotti recorrió las obras en San Fernando",
-     "url": "https://nuevonortedigital.com.ar/municipios/san-fernando/comenzo-la-construccion-de-la-universidad-nacional-del-delta-andreotti-recorrio-las-obras-en-san-fernando/",
-     "fecha": "2026-11-23T05:00-03:00",
-     "dominio": "nuevonortedigital.com.ar"
-    },
-    {
-     "medio": "Que Pasa Web",
-     "titulo": "San Fernando: el Municipio hará obras en cinco escuelas provinciales durante el verano",
-     "url": "https://www.quepasaweb.com.ar/san-fernando-el-municipio-hara-obras-cinco-escuelas-provinciales-durante-el-verano-szn1/",
-     "fecha": "2026-11-22T10:47-03:00",
-     "dominio": "quepasaweb.com.ar"
-    },
-    {
-     "medio": "REALPOLITIK",
-     "titulo": "San Fernando: Juan Andreotti anunció la renovación integral de cinco escuelas",
-     "url": "https://realpolitik.com.ar/nota/75375/san-fernando-juan-andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas/",
-     "fecha": "2026-11-21T16:28-03:00",
-     "dominio": "realpolitik.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Ecos Diarios Necochea",
-     "url": "https://elecos.com.ar/el-intendente-de-tres-arroyos-pablo-garate-participo-de-actividades-por-la-soberania-y-la-educacion",
-     "dominio": "elecos.com.ar"
-    },
-    {
-     "medio": "SM Noticias",
-     "url": "https://www.smnoticias.com/noticias/291367",
-     "dominio": "smnoticias.com"
-    },
-    {
-     "medio": "infocronos.com.ar",
-     "url": "https://infocronos.com.ar/nota/58991/andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas-de-san-fernando/",
-     "dominio": "infocronos.com.ar"
-    },
-    {
-     "medio": "Cuarto Político",
-     "url": "https://www.cuartopolitico.com/nota/2026-11-21-10-42-0-golia-junto-a-conte-grand-inauguraron-la-nueva-fiscalia-descentralizada-de-chacabuco",
-     "dominio": "cuartopolitico.com"
-    },
-    {
-     "medio": "Alternativa en Papel",
-     "url": "https://alternativaenpapel.com.ar/2026/11/23/juan-andreotti-acompano-las-impresionantes-galas-de-gimnasia-y-patin-de-los-polideportivos/",
-     "dominio": "alternativaenpapel.com.ar"
-    }
-   ],
-   "cantidad_notas": 8,
-   "vigente_desde": "2026-11-23T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-20T04:58-03:00"
   },
   {
    "id": "san-fernando-reordena-el",
@@ -534,144 +654,25 @@
    "vigente_desde": "2026-11-23T13:34-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "id": "michel-aysa",
-   "titulo": "Guillermo Michel denunció la venta de AySA",
-   "resumen": "Según Medios del Aire, el diputado nacional Guillermo Michel denunció la venta de AySA a un precio irrisorio.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
-   "principales": [
-    {
-     "medio": "Medios del Aire",
-     "titulo": "DIPUTADO MICHEL DENUNCIÓ LA VENTA DE AYSA A PRECIO IRRISORIO",
-     "url": "https://www.mediosdelaire.com.ar/d/noticias/diputado-michel-denuncio-la-venta-de-aysa-a-precio-irrisorio-22421/",
-     "fecha": "2026-11-23T00:58-03:00",
-     "dominio": "mediosdelaire.com.ar"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 1,
-   "vigente_desde": "2026-11-23T06:09-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-23T06:09-03:00"
-  },
-  {
-   "id": "el-frente-renovador-arma",
-   "titulo": "El Frente Renovador suma estructura en las provincias",
-   "resumen": "Según La Licuadora TDF, Damián Loffler fue presentado como referente del Frente Renovador en Tierra del Fuego, donde Alejandro Deanes quedó al frente del partido. En Río Negro, el vicegobernador Pedro Pesatti evalúa ser candidato a gobernador por el Frente Renovador.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa",
-    "Alejandro Deanes",
-    "Pedro Pesatti"
-   ],
-   "principales": [
-    {
-     "medio": "www.lalicuadoratdf.com.ar",
-     "titulo": "Massa acelera el armado federal del Frente Renovador rumbo a 2027: Damián \"loly\" Loffler referente massista en Tierra del Fuego.",
-     "url": "https://www.lalicuadoratdf.com.ar/2026/11/massa-acelera-el-armado-federal-del-frente-renovador-rumbo-a-2027-loly-loffler-referente-massista-en-tierra-del-fuego/",
-     "fecha": "2026-11-21T19:01-03:00",
-     "dominio": "lalicuadoratdf.com.ar"
-    },
-    {
-     "medio": "Letra P",
-     "titulo": "Tierra del Fuego: Sergio Massa reactiva el Frente Renovador y pone a Alejandro Deanes al frente del partido",
-     "url": "https://www.letrap.com.ar/politica/tierra-del-fuego-sergio-massa-reactiva-el-frente-renovador-y-pone-alejandro-deanes-al-frente-del-partido-n5428278/amp",
-     "fecha": "2026-11-17T13:36-03:00",
-     "dominio": "letrap.com.ar"
-    },
-    {
-     "medio": "Bariloche Opina",
-     "titulo": "Pesatti evalúa ser candidato a gobernador por el Frente Renovador",
-     "url": "https://www.barilocheopina.com/amp/noticias/2026/11/20/97590-pesatti-evalua-ser-candidato-a-gobernador-por-el-frente-renovador",
-     "fecha": "2026-11-20T14:02-03:00",
-     "dominio": "barilocheopina.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Clarin.com",
-     "url": "https://www.clarin.com/politica/massa-acelera-armado-federal-frente-renovador-rumbo-2027-rearmo-partido-bendijo-hombre-tierra-fuego_0_8uBTR8SCA2.html",
-     "dominio": "clarin.com"
-    }
-   ],
-   "cantidad_notas": 4,
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "id": "cecilia-moreau-va-a",
-   "titulo": "Cecilia Moreau: “Con PASO o sin PASO, el peronismo va a ir unido”",
-   "resumen": "La diputada Cecilia Moreau afirmó que el peronismo irá unido a la elección de 2027, con o sin primarias. Sus declaraciones siguieron replicándose en medios provinciales este sábado.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    {
-     "medio": "Agencia Noticias Argentinas",
-     "titulo": "Cecilia Moreau: \"Con PASO o sin PASO, el peronismo va a ir unido a la elección\"",
-     "url": "https://noticiasargentinas.com/politica/cecilia-moreau---con-paso-o-sin-paso--el-peronismo-va-a-ir-unido-a-la-eleccion-_a6b003a42f48d6d3ab47af810",
-     "fecha": "2026-11-20T09:18-03:00",
-     "dominio": "noticiasargentinas.com"
-    },
-    {
-     "medio": "Gente de Salta",
-     "titulo": "Cecilia Moreau pidió unidad en el peronismo: “Con PASO o sin PASO, vamos a ir unidos a la elección”",
-     "url": "https://www.gentedesalta.com/politica/cecilia-moreau-pidio-unidad-peronismo-con-paso-o-paso-vamos-ir-unidos-eleccion-n14186",
-     "fecha": "2026-11-21T12:57-03:00",
-     "dominio": "gentedesalta.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 2,
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T04:58-03:00"
-  },
-  {
-   "id": "guillermo-michel-se-suma",
-   "titulo": "Guillermo Michel, candidato al Consejo de la Magistratura",
-   "resumen": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en el Consejo de la Magistratura. Según Perfil, el peronismo se queda con seis integrantes en el organismo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
-   "principales": [
-    {
-     "medio": "Perfil",
-     "titulo": "El peronismo se queda con seis integrantes en el Consejo de la Magistratura",
-     "url": "https://perfil.com/politica/el-peronismo-se-queda-con-seis-integrantes-en-el-consejo-de-la-magistratura-aLcli7I1M0ma",
-     "fecha": "2026-11-21T18:02-03:00",
-     "dominio": "perfil.com"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Cristina Kirchner eligió a un diputado cercano a Massa para el Consejo de la Magistratura",
-     "url": "https://www.infobae.com/politica/2026/11/16/acuerdo-entre-cristina-kirchner-y-massa-para-impulsar-al-representante-del-bloque-de-diputados-del-pj-en-el-consejo-de-la-magistratura/",
-     "fecha": "2026-11-17T01:54-03:00",
-     "dominio": "infobae.com"
-    },
-    {
-     "medio": "Minutouno",
-     "titulo": "Cristina Kirchner impulsa a Guillermo Michel para representar al bloque de Diputados en la Magistratura",
-     "url": "https://www.minutouno.com/politica/cristina-kirchner-impulsa-guillermo-michel-representar-al-bloque-diputados-la-magistratura-n6345921",
-     "fecha": "2026-11-16T19:24-03:00",
-     "dominio": "minutouno.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 3,
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-20T04:58-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
+   "autor": "@MichelGuilleOK",
+   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático.",
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
+  {
+   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
+   "autor": "@SebasGalmarini",
+   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro.",
+   "vigente_desde": "2026-11-23T21:35-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
   {
    "url": "https://x.com/SergioMassa/status/2123517703826612429",
    "autor": "@SergioMassa",
@@ -727,22 +728,6 @@
    "vigente_desde": "2026-11-23T13:34-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-20T22:48-03:00"
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2124637984813150284",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero invitó al ciclo de formación política con el gobernador de La Rioja, Ricardo Quintela.",
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-22T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2124627915770036596",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel propone una campaña nacional para detectar el Trastorno del Desarrollo del Lenguaje.",
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-22T21:34-03:00"
   }
  ],
  "entrevistas": [
@@ -769,17 +754,6 @@
    "sumado": "2026-11-23T13:34-03:00"
   },
   {
-   "youtube": "Qex8w_pmieE",
-   "titulo": "Entrevista a Diego Giuliano, diputado nacional",
-   "canal": "Eduardo Battaglia",
-   "fecha_txt": "hace 17 h",
-   "duracion": "9:08",
-   "url": "https://www.youtube.com/watch?v=Qex8w_pmieE",
-   "vigente_desde": "2026-11-23T13:34-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-23T13:34-03:00"
-  },
-  {
    "youtube": "PZ4kI9wtH2Y",
    "titulo": "Diego Giuliano sobre las PASO: “Milei resuelve las candidaturas en un ascensor”",
    "canal": "RADIO REALPOLITIK FM",
@@ -789,44 +763,11 @@
    "vigente_desde": "2026-11-23T13:34-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
-  },
-  {
-   "youtube": "OBD695QwnYw",
-   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
-   "canal": "Aire de Santa Fe",
-   "fecha_txt": "hace 38 min",
-   "duracion": "37:05",
-   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-22T21:34-03:00"
-  },
-  {
-   "youtube": "L9dBSGtbhqM",
-   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
-   "canal": "keopsfm",
-   "fecha_txt": "hace 49 min",
-   "duracion": "17:26",
-   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-21T14:17-03:00"
-  },
-  {
-   "youtube": "oFEeRoHKfdI",
-   "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
-   "canal": "LT23 RADIO SAN GENARO",
-   "fecha_txt": "hace 7 min",
-   "duracion": "12:57",
-   "url": "https://www.youtube.com/watch?v=oFEeRoHKfdI",
-   "vigente_desde": "2026-11-22T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-21T14:17-03:00"
   }
  ],
  "metricas": {
-  "notas_analizadas": 66,
-  "medios": 54,
+  "notas_analizadas": 57,
+  "medios": 48,
   "temas": 10
  }
 }
