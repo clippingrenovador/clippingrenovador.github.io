@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-24T18:20-03:00",
- "total": 64,
+ "generado": "2026-11-24T19:18-03:00",
+ "total": 67,
  "tuits": [
+  {
+   "id": "2125331169990398329",
+   "usuario": "MichelGuilleOK",
+   "visto": "2026-11-24T19:18-03:00",
+   "url": "https://twitter.com/MichelGuilleOK/status/2125331169990398329",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Guillermo Michel: «Los que pierden son la clase media, los jubilados de hoy»",
+     "nota_id": "6e62a1544311"
+    }
+   ]
+  },
+  {
+   "id": "2125320586339717371",
+   "usuario": "FerIglesias",
+   "visto": "2026-11-24T19:18-03:00",
+   "url": "https://twitter.com/FerIglesias/status/2125320586339717371",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Fernando Iglesias preguntó si Massa y Kicillof repudiaron el homenaje a Santucho",
+     "nota_id": "e4d6e21b8fa4"
+    }
+   ]
+  },
+  {
+   "id": "2125219347819827542",
+   "usuario": "infobaenvivo",
+   "visto": "2026-11-24T19:18-03:00",
+   "url": "https://twitter.com/infobaenvivo/status/2125219347819827542",
+   "citado_en": [
+    {
+     "medio": "Agencia NOVA",
+     "titulo": "El negocio de los 900.000 millones: la trastienda política, el lobby de los zares del juego y la batalla por la caja",
+     "nota_id": "4d63bd05157c"
+    }
+   ]
+  },
   {
    "id": "2122490434916372971",
    "usuario": "JAL_1966",

@@ -1,35 +1,252 @@
 {
- "generado": "2026-11-24T18:20-03:00",
- "total": 719,
- "nuevas_ultima_corrida": 0,
- "errores": [
-  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "massismo: HTTP Error 503: Service Unavailable",
-  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
-  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
-  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
-  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
- ],
+ "generado": "2026-11-24T19:20-03:00",
+ "total": 735,
+ "nuevas_ultima_corrida": 43,
+ "errores": [],
  "notas": [
+  {
+   "id": "3a2a0b2f663e",
+   "titulo": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei",
+   "medio": "Diario Digital Conclusión",
+   "medio_url": "https://www.conclusion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN3RRTTdDWWpNMURqeTU5ZUJzb0pjNHNGN1l0WVU5dHhuSmJma1l1WjFIOFV5d05WbGNtbWRHNXpDYmotVFJ2aGFXLWdVeXRmcVY0Y3JTUlZhWWktSmV5OWt5WF9Rc2pIUXZ0WVQxLU9CVGE2dnJHRVIxSC1kMi12a2tBNE13YWVvUWlvdDFBZVB3NkdpOUdodmRjd1lMaEtyRlktOU1nTXluS0thU0RmaVd3TUxSVm9uZEVhMW91S0tpV0g0SU1sektYalRzVlgwSWNIMFE3Y3F5UQ?oc=5",
+   "fecha": "2026-11-24T18:42-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
+   "revisada": true
+  },
+  {
+   "id": "6e62a1544311",
+   "titulo": "Guillermo Michel: «Los que pierden son la clase media, los jubilados de hoy»",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzJsMTR0Ti0wRkNRSi1vZHRZNzlhd29mcVZCVTNEQVItX1haZkNOVzR5NndJNWJjTEttNk5sYlZIX0dkRVBxaFlaZjJCTnZwTThnaWI3ZlBSb1FYcFlhdF9hUEZ1MzQ4TDFZLXBYS05weFRjVHZ2clNraDFISnQzVzhsSF94bG5BQ1VvMF9FYldfeG9ySVp5YzZB?oc=5",
+   "fecha": "2026-11-24T18:37-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-24T19:18-03:00",
+   "url_original": "https://elintransigente.com/2026/11/24/guillermo-michel-pierden-son-clase-media-jubilados-hoy/",
+   "revisada": true
+  },
+  {
+   "id": "a171c5216884",
+   "titulo": "Un proyecto que obliga a anunciar las subas en surtidores tres días antes enfrenta a Massa con las petroleras",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSm1DdVQ1UEMxWXlHd1o0Q000VlZvQ1FOTHJwOWYxTFdfbzZHMGgwMGU4WEg1LVZMZ1VPRDAycGRBQjR3Ti0zWWp5ellFRGdEa212OElNNk56MzNpUVg1QTV2b0JlRXA5VmNCRnpmOUxMN2VVRVZNTnVySGgzalE5d2JCQ01LaVdXbDhDLTNVZXhqZ1VHMkxjRl9uN1p4OGZodlZ0aWtEeTVOZ3N1VTlKS09hYVVKcEZyNHREbGJhN1VJbGR2RmhkZzN0ZjIxcENncHBmZWpoMzlTM0M0ZEhOMGVB?oc=5",
+   "fecha": "2026-11-24T18:10-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/",
+   "revisada": true
+  },
+  {
+   "id": "cb8fdda09705",
+   "titulo": "Dato mata relato. Sin las Paso, ganan las encuestas y pierden las terceras fuerzas",
+   "medio": "La Voz del Interior",
+   "medio_url": "https://www.lavoz.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1JPWmk4anRheUo4YW1JVENVU1FNNjFCVDZoVDRwQ1FyaGZCX1dBbnhDa0xIdEdYbi1NXzJseHFnTmo1RlNJNXloczRMaFdjbkJFU3BWaldyRUVBdlRqb2ZVS1pYc1NQNFFvNTRjbGowMU9Dd0pJSUZQaXM4V3VoQjBtVU1MWXN3TE1PSmZYeFFHZkJzS2tfTFE2blhEUQ?oc=5",
+   "fecha": "2026-11-24T17:58-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T19:18-03:00",
+   "url_original": "https://www.lavoz.com.ar/politica/paso-ganan-encuestas-pierden-terceras-fuerzas_0_goovdBcQr2.html",
+   "revisada": true
+  },
+  {
+   "id": "e4d6e21b8fa4",
+   "titulo": "Fernando Iglesias preguntó si Massa y Kicillof repudiaron el homenaje a Santucho",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZzBHSkRWRkRZYy1ySTVhQ2xnUl9RcXZMZ0lXa09PemJ2R21zY1hyZU4zSHJxaUJKNl9iUFdjMUtZalIzeXFnZ2hWWV9KbGVfTlNsR2QxMUx0M2tWcU5LOVA5OFoteG9NZ1BvTTItT3ZORXZSaUJ0enpsbTVDLXBMQXktZzhpVE5mYlBNYjRWNkdwUURBdjRpZ1dzUFhlUlJOSmZZa28wampjcEFpSkRiVmg1OA?oc=5",
+   "fecha": "2026-11-24T17:51-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://elintransigente.com/2026/11/24/fernando-iglesias-pregunto-si-massa-kicillof-repudiaron-homenaje-santucho/",
+   "revisada": true
+  },
+  {
+   "id": "7643c5fbd10c",
+   "titulo": "Tigre: zamorismo y LLA aprobaron las preparatorias fiscal e impositiva con el rechazo del massismo",
+   "medio": "La Noticia Web",
+   "medio_url": "https://www.lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEpwVnZxY2duSjI3cm41U0xyYVp1T0FzbTU0bWp2elJPTFhuQXBDc3k5NmhFcGV0Q0VJUWtGQlJVYmpRX053d3ZhbHE3TnhFNnhsSnRTX3RqU3hzT2M3b1ZUcWc4Qjd5OWhFSzU4Uml0SVF6S1pfMXNUZDFXMTE1NlJYdUNmeWIzUUxCeVZxV1VzbUNEMDdkaUhld3RWd2VMcFZoeUJ3NTlXZzltbWdPaWF5ZDN2SmpWRVlqU2tXSU1Hb1VwdmJLbkh3?oc=5",
+   "fecha": "2026-11-24T17:51-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
+   "revisada": true
+  },
+  {
+   "id": "627cccfbecba",
+   "titulo": "Sebastián Galmarini cuestionó el desarrollo inmobiliario sin planificación en San Isidro",
+   "medio": "La Noticia Web",
+   "medio_url": "https://www.lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVfTTJwc2U5R1NDemVhUW1qaGtCVVQ5RGVCeThjWTBLSmxobFZ6dUdVNzB1OENrLTV5ZUFEOVIwTldab0tPbjJsSnFCejgwdzJPbWE1MzZhWk9YUWRXSFJTQ08zTnZ0dGxDaWk5LWQtYndsZW1jV1RKMFpYNmdMUWg3bHQ5eVdCbFFoRkk1Mzk5dDV4aFRkS0t1MHlTcTl0TTZWOFl0bGl6QW5XTi01anNQWTVJNmxhRG1HT2tB?oc=5",
+   "fecha": "2026-11-24T17:49-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-cuestiono-el-desarrollo-inmobiliario-sin-planificacion-en-san-isidro/",
+   "revisada": true
+  },
+  {
+   "id": "90ad293860ce",
+   "titulo": "Tigre: Zamorismo y LLA aprobaron preparatorias fiscal e impositiva con rechazo del massismo",
+   "medio": "elconurbano.com.ar",
+   "medio_url": "https://elconurbano.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElQaU8wR2pOeTJVMjdUbXZVdVJ3YXdkV1o5ejNnUHQxWGpYZ3FHWGlMS0lMM0FrZUx6WC1Kbk1FRGdXOFRpTWxabUFWLThVMHZXTUNmYW1taFdldVhkNUJjWEJCU1lzdFFhQURBeUVpWkJKUzRRVkRUSTlLYVRiZC12VzhVRWxYcm84YWMyc1ZqZWN4bzZwR040NU4zdTdPZll5NjJBb3lTcnV1Zk05clk5TlMyNUVPRjkyRDhsRmJZWlZPcmpBRlhNbw?oc=5",
+   "fecha": "2026-11-24T17:49-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
+   "revisada": true
+  },
+  {
+   "id": "0f17fa1805ef",
+   "titulo": "El Gobierno defendió el repunte económico de septiembre en medio de las críticas por la recesión",
+   "medio": "El Liberal",
+   "medio_url": "https://www.elliberal.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZHE3N2F3aGlaWTZnRXR1SzhvNUdRRno2SGRBaFRjbFRLaVZHWFpnd3pFT3dJemRvZUJHY1BfVFJiUVNrOFRmVmxySDNIcGU2UEdCUjIxajJQa0xCci1SM3hMUUFDRlhYSUpGMG9NVGI5QkhCMF94V2t5X1N2Qks2N3JWTDA1cU1QS1JBd3dJV09IN2VCMEtuQVRJMXg3VnNnZDZRUVNaWm10SWJOM0F6Wm8waE1rbkRuNHp6RGF3TkNTdEk2S3pDRXF0b2tMcWZ4SDZTbXFYLUs3dUN3MHNnMF9qczZud9IB5gFBVV95cUxOZHE3N2F3aGlaWTZnRXR1SzhvNUdRRno2SGRBaFRjbFRLaVZHWFpnd3pFT3dJemRvZUJHY1BfVFJiUVNrOFRmVmxySDNIcGU2UEdCUjIxajJQa0xCci1SM3hMUUFDRlhYSUpGMG9NVGI5QkhCMF94V2t5X1N2Qks2N3JWTDA1cU1QS1JBd3dJV09IN2VCMEtuQVRJMXg3VnNnZDZRUVNaWm10SWJOM0F6Wm8waE1rbkRuNHp6RGF3TkNTdEk2S3pDRXF0b2tMcWZ4SDZTbXFYLUs3dUN3MHNnMF9qczZudw?oc=5",
+   "fecha": "2026-11-24T17:32-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.elliberal.com.ar/amp/2026/11/24/98962-el-gobierno-defendio-el-repunte-economico-de-septiembre-en-medio-de-las-criticas-por-la-recesion.html",
+   "revisada": true
+  },
+  {
+   "id": "9eb4f52370f8",
+   "titulo": "Senado: la ley Rappi superó comisiones, pero queda para 2027",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EeURDYkJkaG03aURnNmt1dXlManFzNUJfQXhxZ2tDM2FSTFJlZVRzWUZJdkFIX29aYXJnQzNHVXBsNy1vdGFQRUg2T3NCQW1aejRjU0o4R0NfNzNoYmlJcktwNTJ6b0VsZnNYQTc2MFVuX2R5NnE0RHRiN3VuUQ?oc=5",
+   "fecha": "2026-11-24T17:25-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://diputadosbsas.com.ar/ley-rappi-senado-comisiones-extraordinarias/",
+   "revisada": true
+  },
+  {
+   "id": "a347e5af598e",
+   "titulo": "Elecciones 2027: Massa volvió a postergar su viaje Misiones",
+   "medio": "Perfil",
+   "medio_url": "https://perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjRTRG1TX3BwR2s0RzRkczRSdVpSczR2eGptSktEalljVHBwRjFQWWZ4SG1JVXQ2VVNxNE53cVlmUUtDWmt2bnJpSlVWMUVYN3BYc2MxN0pQbkNwYkE2WUhGUXZqcy1WZ1dBT1JhcERFcUw5UnhsLUkyQk0zWjc0V1ZSb3N1TVg5aEhoelFLRkVqc001TjhVVjh3?oc=5",
+   "fecha": "2026-11-24T17:22-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://perfil.com/nea/elecciones-2027-massa-volvio-a-postergar-su-viaje-misiones-aSYaJ0j7ubr9",
+   "revisada": true
+  },
+  {
+   "id": "21389bf7758a",
+   "titulo": "Sebastián Galmarini: \"el país se hunde y el gobierno quiere derogar la Ley de gravedad\"",
+   "medio": "Diario Lo Nuestro",
+   "medio_url": "https://www.diariolonuestro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOczl1T21EWHlhT3BGUE9BbUxlcGctZ3BVQnFUMThzdnlPd0t5YU5kb1I5blphaXdaTUFRQlVIMndOS1lleUxXSVRkbFlKdFdTdlkwelVzVXBLZTVLeDRYY2tRUUdEbWxvazNfcFBLNWhjN01GNXlwVmE2cWlKWnR3OF9sbFJNRlBabC1KbXlVRHpFX3FnQjcwTVBBbDNQX2NjcUlYT1VfeU9nTDI5dzFNTVlXX2RfS2RhMGc5SFNLSm1OQ1ZYTmJyVG90YkhtWUhqUFdkVW1kbHc?oc=5",
+   "fecha": "2026-11-24T17:15-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.diariolonuestro.com.ar/single-post/sebasti%C3%A1n-galmarini-el-pa%C3%ADs-se-hunde-y-el-gobierno-quiere-derogar-la-ley-de-gravedad",
+   "revisada": true
+  },
+  {
+   "id": "5de884ab08c5",
+   "titulo": "El paraguas antes de la tormenta",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjZLT1R0TklmQTB3V2V6cHFNZFpUR1p1NW52a3JOeGZ6RnNyWm55anBZVDNhOW5jMkNRVEVhb0VRc2ZZWmhkZlFsYUtEZFpCWjJ2OFlBbC1pekNYaWRTOV9vTGF2RFQwdEJ1bjVwUG5KTVc0ZW1Ma1Z4VnQ0SGVsTFJNOA?oc=5",
+   "fecha": "2026-11-24T17:01-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.perfil.com/politica/el-paraguas-antes-de-la-tormenta-a4cOi7S9yXQj",
+   "revisada": true
+  },
+  {
+   "id": "df63552dd7c6",
+   "titulo": "“Se avanzó en blindar un lugar estratégico”: Bordaisco celebró el avance del proyecto radical por la Canchita de los Bomberos",
+   "medio": "LoQuePasa.net",
+   "medio_url": "https://loquepasa.net",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTzFPZVJIMWk4dzF3dFdmVzAxNjVyeENLNkl1R2FmTm5OTEE3Y0ptMFdNQUZQTEgtclZqYkFSQjRoSFhySF9iYnFsODZHSkhsWFhia29rUDNCd0NLX1psNGRIdUFTYm1qbFpNU2hLNGJ1T0s1dzVpYVEtTFBTS21mMksxaFlNUEtzMklCYWRPNEVsZUM2Snk0aVFiV2p4N2xLNHdHSGd1c1ExNHF4bGd0dGNwVXQ3TGtubmFPRkotTFZFdkVLem9uVkQxOGZTMjhkWmthODdkTENSa1RreVE?oc=5",
+   "fecha": "2026-11-24T16:58-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://loquepasa.net/se-avanzo-en-blindar-un-lugar-estrategico-bordaisco-celebro-el-avance-del-proyecto-radical-por-la-canchita-de-los-bomberos/",
+   "revisada": true
+  },
+  {
+   "id": "05452a198d68",
+   "titulo": "Se posterga el debate por la reelección indefinida de los intendentes",
+   "medio": "Pilar a Diario",
+   "medio_url": "https://www.pilaradiario.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0daVmU4ekUzTHFGaklDQ3NqTHhHUmhXY0ZyUTVmQ0k4NzdsNGplS1kxanREeW5Pbk1FTy1RdmllYXpHbDl0cWgyYUwwZmVKYl9sWm9wX3UyN0RUZ0ktXzVES3ctNHdtVndOVE1wRkduaENLVXRfdUotV05Rb19pUEZ6ekxWTzdfWDJnZWFlYkNiX0RMM0NjNkM3NWFVcjhkdjVMaXk4d2lDWkF50gGyAUFVX3lxTE0wV0k3Y256YUlTVDJZZ0JuaTBtSU5wQXBtSGY1dVRZZ3J2Tk9lWExrQ2o0TXFoSk5WNlhJeFFzWDZZNTN6TmJIM01ldkxHMGlrWUkxLS0tQzNFcGRWZGJTRXlhWlcyY3dFb2FmWUtmVV9BUTVJRndsMXh4ZUJBUERTeTNwbk90a1NZNWhPaE85YWE1SE94UTVLUlZieGlEcW5JZFUzMmh3LUpWaGN0V0x1QWc?oc=5",
+   "fecha": "2026-11-24T16:41-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://www.pilaradiario.com/politica/se-posterga-el-debate-la-reeleccionindefinida-los-intendentes-n5473714",
+   "revisada": true
+  },
+  {
+   "id": "f3e2259b2b8f",
+   "titulo": "Sergio Massa posterga viaje a Misiones en medio de internas peronistas",
+   "medio": "Novedades del Sur",
+   "medio_url": "https://novedadesdelsur.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFpNNDg1SWNsWGJBUkdlVGlYVzRmWnhJN2FEVVBBT0txbF9iQ3pBTkxKTWJUZEozODVBWkg0MWFGZk9mNDZ3UHQ0YVNJam12OVBLdFJoZzBqSWk0MXJ6UXRFc0c0cjdWYmQ4cFNzUXg3SWJ2QVc2WjZteUFKMUhPdFI0bTZJSHBneHh1c3U1TU1oVXdMRmdKMTlXNGFfd2R5VHpOX0d1UVg0b2dIUXRmZNIBsAFBVV95cUxPUFpNNDg1SWNsWGJBUkdlVGlYVzRmWnhJN2FEVVBBT0txbF9iQ3pBTkxKTWJUZEozODVBWkg0MWFGZk9mNDZ3UHQ0YVNJam12OVBLdFJoZzBqSWk0MXJ6UXRFc0c0cjdWYmQ4cFNzUXg3SWJ2QVc2WjZteUFKMUhPdFI0bTZJSHBneHh1c3U1TU1oVXdMRmdKMTlXNGFfd2R5VHpOX0d1UVg0b2dIUXRmZA?oc=5",
+   "fecha": "2026-11-24T16:33-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://novedadesdelsur.com.ar/amp/95155/sergio-massa-posterga-viaje-a-misiones-en-medio-de-internas-peronistas",
+   "revisada": true
+  },
+  {
+   "id": "e062009d4174",
+   "titulo": "Lousteau / Di Tullio / Katopodis / Michel / Monzó / Ferraro por el frente anti Milei",
+   "medio": "Urgente24",
+   "medio_url": "https://urgente24.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3Q5TFJHS1ZsbllXTmF2X1JHODJyMENzM0d4MFhKQkQ3N2dSMFh2T1J6RWsydzdsLVU4S2h3QWczLUxha1hTbThMNEJsckFHM1RJTzFncmNZTVRKQk9yVkFxTVFrbzRZYnVQTk1OWGRrNVEwcV9sc1dvdHRFTEExTFJ2OEczcFpQSE9lM21WRWNaNlVYYXppOVphU1RYeW5aaUxLNm0tNNIBpwFBVV95cUxNS3Q5TFJHS1ZsbllXTmF2X1JHODJyMENzM0d4MFhKQkQ3N2dSMFh2T1J6RWsydzdsLVU4S2h3QWczLUxha1hTbThMNEJsckFHM1RJTzFncmNZTVRKQk9yVkFxTVFrbzRZYnVQTk1OWGRrNVEwcV9sc1dvdHRFTEExTFJ2OEczcFpQSE9lM21WRWNaNlVYYXppOVphU1RYeW5aaUxLNm0tNA?oc=5",
+   "fecha": "2026-11-24T16:33-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-24T19:18-03:00",
+   "url_original": "https://urgente24.com/lousteau-di-tullio-katopodis-michel-monzo-ferraro-el-frente-anti-milei-n637360/amp",
+   "revisada": true
+  },
   {
    "id": "a3de9ee7b25b",
    "titulo": "Después del fin de semana largo, el peronismo discute quién llama primero",
@@ -366,6 +583,20 @@
    ],
    "visto": "2026-11-24T14:21-03:00",
    "url_original": "https://www.lu24.com.ar/locales/audio-a-horas-de-la-visita-de-kicillof-pablo-garate-destaco-la-entrega-de-vivien",
+   "revisada": true
+  },
+  {
+   "id": "7cf321f23964",
+   "titulo": "Canchita de los Bomberos: el oficialismo se dividió y la UCR logró avanzar con su proyecto contra las torres",
+   "medio": "LoQuePasa.net",
+   "medio_url": "https://loquepasa.net",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObkd2cnNUTTk1S3J6UTBLZTNjTkkxekt4X3lXYmlLN21aS1dpZXFKR21ybEpESHdBdTRWTkZhQTloaUhTY29TUk1Db1FGVm93QVM0dDU3aXJlUVYxYTNKdjFweVBGQ1I3NVptQjN0OGFHS1BnMEEyd0tGc0s5QmhoUVJzOXZUTFJkQWRtbEtkVF90ZndNTzloOGNFM00wazFiWmI1TVRZTm9KZDJWVmlmamJGa0ZvaTByeHVVNi1sZkZjc0xLaTd2VzFR?oc=5",
+   "fecha": "2026-11-24T11:03-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T19:17-03:00",
+   "url_original": "https://loquepasa.net/canchita-de-los-bomberos-el-oficialismo-se-dividio-y-la-ucr-logro-avanzar-con-su-proyecto-contra-las-torres/",
    "revisada": true
   },
   {
@@ -10434,34 +10665,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://neuquenpost.com/dia-de-la-militancia-con-actos-separados-maximo-kirchner-viaja-a-la-pampa-y-el-massismo-sella-un-acuerdo-con-el-peronismo-federal/",
-   "revisada": true
-  },
-  {
-   "id": "0a03457d6348",
-   "titulo": "Guillermo Michel llamó a construir un frente para derrotar a Milei en las elecciones de 2027",
-   "medio": "Elonce.com",
-   "medio_url": "https://www.elonce.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQndsRTJLSE02NjVHVDBlMEYwYnh3MXFTcDBLRHNKdl85M0NTU1A5NnFOYlA5b1QtRUFjb08tODJJbjRBcnFEbnRXRXpIUkFhdkwzMVpHdEtIaG5NZ09XbkRaclBDazdYbjBQcGF4ZF9nd0xpNnp2QVlRaTRCLWpxOU1PdTN5VUtvTnU0NkJfbTZBcTJOZkFrcDlaZTB4RjhMVjR0MnNZSjVIRllEQmhWYmFnTm10QnBQNzBnMFhhNDRJN3luVW9N0gHAAUFVX3lxTE9uY0JhVU1pRHNhV2pTUjhGRmJfV0JvNkJxZlhkYWNJOVQ1cHdnMWVnQ1V2Yy0wM2hRYlY1WEh0d0xUOHItRWlUd1RsVEJPLTU5NFlIc0M1dDZvUmNYSUlMajVDQndCZWwxMTdQdVEzTUZwWDNldG8wMnRJM1RLQW5wU2RydVJtLThvZHlKMF9UVmFaX0tUMDNWWGhyUmtZSlRuM1I1WDFBdjBZejlpSUtzTTBHV29ETm1qMGdNcElzbQ?oc=5",
-   "fecha": "2026-11-17T19:18-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.elonce.com/politica/guillermo-michel-llamo-a-construir-un-frente-para-derrotar-a-milei-en-las-elecciones-de-2027.htm",
-   "revisada": true
-  },
-  {
-   "id": "a5417ba79478",
-   "titulo": "Massa suma a Tierra del Fuego a la reorganización del Frente Renovador",
-   "medio": "Diario El Sureño",
-   "medio_url": "https://www.surenio.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekJGZklla0xadW1Pdm45ZU96Qll2c254LVRzcU45V3RlbEFyeFFPMW16a1VXXzIxUXkxTDBwVzJ1cE0xLWhmOW1uN2k1LTdkR3NiWm5tVEprWEtSZDJkUTRqR0FZc0RqUEtXZ05sbGkzYkFEQzRyOGpIUTVwSDJlbUxBN3M3UnpvLTlLRzNhMm9LZ3RZQ3hhOVZtUUlLYkRtX0hCVXQxZTN1QQ?oc=5",
-   "fecha": "2026-11-17T18:51-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.surenio.com.ar/massa-suma-a-tierra-del-fuego-a-la-reorganizacion-federal-del-frente-renovador/",
    "revisada": true
   }
  ]
