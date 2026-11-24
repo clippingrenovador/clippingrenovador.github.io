@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T20:16-03:00",
- "total": 61,
+ "generado": "2026-11-23T21:08-03:00",
+ "total": 62,
  "tuits": [
+  {
+   "id": "2124976739948581363",
+   "usuario": "Solanopo",
+   "visto": "2026-11-23T21:08-03:00",
+   "url": "https://twitter.com/Solanopo/status/2124976739948581363",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Gabriel Solano cuestionó a quienes piden suspender el homenaje a Santucho en la UBA",
+     "nota_id": "3c496e79236a"
+    }
+   ]
+  },
   {
    "id": "2124972486945096059",
    "usuario": "SebasGalmarini",
