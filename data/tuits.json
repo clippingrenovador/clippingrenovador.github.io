@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T21:08-03:00",
- "total": 62,
+ "generado": "2026-11-23T22:40-03:00",
+ "total": 63,
  "tuits": [
+  {
+   "id": "2124977431627084013",
+   "usuario": "JuanManzurOK",
+   "visto": "2026-11-23T22:40-03:00",
+   "url": "https://twitter.com/JuanManzurOK/status/2124977431627084013",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Juan Manzur cuestionó las políticas de Milei y reclamó recuperar el poder adquisitivo",
+     "nota_id": "2eb2fae50666"
+    }
+   ]
+  },
   {
    "id": "2124976739948581363",
    "usuario": "Solanopo",
