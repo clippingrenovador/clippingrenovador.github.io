@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-23T22:40-03:00",
- "total": 63,
+ "generado": "2026-11-24T00:14-03:00",
+ "total": 64,
  "tuits": [
+  {
+   "id": "2122490434916372971",
+   "usuario": "JAL_1966",
+   "visto": "2026-11-24T00:14-03:00",
+   "url": "https://twitter.com/JAL_1966/status/2122490434916372971",
+   "citado_en": [
+    {
+     "medio": "Ambito",
+     "titulo": "Charlas de quincho: Tesla apuró a Milei, Massa sorprendió con un ramo de flores, Perón volvió con IA y Darín de fogón",
+     "nota_id": "cb709096d11a"
+    }
+   ]
+  },
   {
    "id": "2124977431627084013",
    "usuario": "JuanManzurOK",
