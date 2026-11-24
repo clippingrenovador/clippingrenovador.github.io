@@ -1,9 +1,37 @@
 {
- "generado": "2026-11-24T06:34-03:00",
- "total": 729,
- "nuevas_ultima_corrida": 14,
+ "generado": "2026-11-24T08:16-03:00",
+ "total": 725,
+ "nuevas_ultima_corrida": 17,
  "errores": [],
  "notas": [
+  {
+   "id": "8cd0210c30ae",
+   "titulo": "Hasta el 30 de noviembre se puede revisar el padrón electoral: qué errores se pueden reclamar en Mar del Plata",
+   "medio": "0223.com.ar",
+   "medio_url": "https://www.0223.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQjFiaDBob1RQb0JOY2ZqZ0dUTUNZR0ZTRmRmZWdIanFlOThqdjlFOG83S05uOVVmZzFaUHpSeU16SGtRbEUwU09WdmxHcUVPcm9CcDdXSEp4bEpvXzlzZERhcnN5VEN5a0ZzZGI0TktJQzFlWWt2ZDRlTkUwQTFTbnpBZm5VZkZHT2FRZGJOVHNzZGtMVThId0xFY09lQW9QaVFmcDZyNEtnUHJRUFdYc2dPZTJua0pIenFCX25JelB1cUkzcVkzUHlrZHlNX2ZtQk5ia2d3Ykl4Z19DQXhmYVlhMmE2a3NJdnR0UQ?oc=5",
+   "fecha": "2026-11-24T07:53-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-24T08:14-03:00",
+   "url_original": "https://www.0223.com.ar/nota/2026-11-24-7-53-0-hasta-el-30-de-noviembre-se-puede-revisar-el-padron-electoral-que-errores-se-pueden-reclamar-en-mar-del-plata",
+   "revisada": true
+  },
+  {
+   "id": "29de0a5cac51",
+   "titulo": "Elba Marcovecchio cruzó a Ana Rosenfeld y la comparó con Sergio Massa",
+   "medio": "https://www.lafolkargentina.com.ar/",
+   "medio_url": "https://lafolkargentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHBWUFRSVU1EdU8yalVpZTdWVzNaWGo5SnRaUEZUT2phMVlKTlNDZU14V0o1QXFrMWNlbWdEaWg0YTJNTFNSbHJzNmk5cXBSR19PZVpBZzlVUkVWdGtGWHEzOEVyTTlkSHdsYTFucEh4TkJ5RTJwNXQyb0pjVVg0blJNM2lhU0NPWWFZX0dGN2dxQThReXZDdWdvLV9PNUFKZktfZlNXUjd1djlaZ3Q1aA?oc=5",
+   "fecha": "2026-11-24T05:59-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T08:14-03:00",
+   "url_original": "https://lafolkargentina.com.ar/nota/20792/elba-marcovecchio-cruzo-a-ana-rosenfeld-y-la-comparo-con-sergio-massa",
+   "revisada": true
+  },
   {
    "id": "ee26d937d8c1",
    "titulo": "Con un escenario incierto, Kicillof buscará avanzar en extraordinarias con las reelecciones indefinidas",
@@ -13,7 +41,8 @@
    "fecha": "2026-11-24T03:17-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-24T06:32-03:00",
    "url_original": "https://www.infobae.com/politica/2026/11/24/con-un-escenario-incierto-kicillof-buscara-avanzar-en-extraordinarias-con-las-reelecciones-indefinidas/",
@@ -758,6 +787,20 @@
    ],
    "visto": "2026-11-23T09:18-03:00",
    "url_original": "https://pinamar24.com.ar/nota/2311202601462612/sergio-massa-impulsa-una-interna-virtual-con-reconocimiento-facial-para-definir-las-candidaturas-del-peronismo",
+   "revisada": true
+  },
+  {
+   "id": "7ea8b2696d3f",
+   "titulo": "Andreotti llevó buenas noticias a estudiantes y docentes",
+   "medio": "Diario Lo Nuestro",
+   "medio_url": "https://www.diariolonuestro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRV9Mc3FLRk5sczIxdXFWREN1Wk5FZjZxTnkwdTZVdUJUV3R1QVZFZWh1WTdTUlZtQ1FBRkFTM2hYb2NySkkyT01EZTRZRzNTeVdhTW8yZHBUT0I5VXVQaXdqSTlOb3c5U1BjWnFzVTh3VHNCQkQ1SENMSVl1NXBjempBYXFPZ2puM1hmOGV0R0FYQVFtUlRrcldrbGJQcl91QlVPdHktRWh2NENm?oc=5",
+   "fecha": "2026-11-23T08:35-03:00",
+   "busquedas": [
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-24T08:15-03:00",
+   "url_original": "https://www.diariolonuestro.com.ar/single-post/andreotti-llev%C3%B3-buenas-noticias-a-estudiantes-y-docentes",
    "revisada": true
   },
   {
@@ -10475,104 +10518,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://diarioneuquino.com.ar/el-peronismo-se-reune-este-martes-para-construir-un-frente-contra-milei-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
-   "revisada": true
-  },
-  {
-   "id": "a9eaefe3fbe8",
-   "titulo": "Guillermo Michel es el elegido por Cristina para representar al peronismo en el Consejo de la Magistratura",
-   "medio": "Agenhoy",
-   "medio_url": "https://agenhoy.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWJ4aDlfcWdsa19SOHV6a291dThRMUg1MG5FMm9CMjZFWnRBUXlfR0trZ1hLXzI5VTdJc1lJYWFQMDR2bVpEQ0J2NTRPam1aUXh4amxuTkR3dkdxQmRfd1dHalk5dUxQV3YteWRrbUhFb0VvaTUwTmhGN09FWGNJVDBaUjhLaXFmY2hHcl81a3lnZXFMV1NTZ1N0aFh2dkZ5bXpsR3dMY2lIall6aVRSTjR5MVB6WGQxbWpvaS1UTUtiQTdEVDRZUk93?oc=5",
-   "fecha": "2026-11-17T08:14-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://agenhoy.com.ar/guillermo-michel-es-el-elegido-por-cristina-para-representar-al-peronismo-en-el-consejo-de-la-magistratura/",
-   "revisada": true
-  },
-  {
-   "id": "2ae8514e8912",
-   "titulo": "Guillermo Michel, el hombre de CFK que acumuló poder en las sombras: sociedades, Aduana y denuncias que lo rodean",
-   "medio": "Tribuna de Periodistas",
-   "medio_url": "https://periodicotribuna.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMWY2a0Zfa2owcTZ3RzVOUzRPSEN0Q0lZWG94a0hYNjloY0lzTmJxLU9iSXNyV3hvVEpweWlsbnE0NkROSmI5MnZMRmRTa0VHRDc0VWFsMlM0bXJ2VVl4NFQyRE4yY25ocXQ3QkxxRDFRMUZvQUtBdUpVZWw5VG50M0dIT0YtVFRiUjVvSGt3QmFnckgyTjJYRnViVzhlaHdxR3RFOVlBcHp6V2FrLUFWb05LTWlKS2NnTmFUeFBSRVhHY1k5WnZGcFpqdkpUeVZydHg4SUlGV1hjcXc?oc=5",
-   "fecha": "2026-11-17T08:10-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://periodicotribuna.com.ar/guillermo-michel-el-hombre-de-cfk-que-acumulo-poder-en-las-sombras-sociedades-aduana-y-denuncias-que-lo-rodean/",
-   "revisada": true
-  },
-  {
-   "id": "a8477f5d6b79",
-   "titulo": "Cristina jugó para que Guillermo Michel integre el Consejo de la Magistratura",
-   "medio": "Diario Junio",
-   "medio_url": "https://www.diariojunio.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2ZIX0VVN08zMFMya3FlZzZWTFpCOFp0U2FOaWdLd1pUYmhzaXNBX1VmNVBHWlI4NDRGWng0MDhmb0gtS19GX3cwcEhJQ2pZMm1YS3VUczFGUnVoZ3REdW90bDFsMkNwOHpnMUUtZFd2SlV3dGlEbHhZSkxtWVpMT3BuMG5ocDc4N2xlSDJqWS1HU2NBZVpTYktMU3VNSEltUmVQYU9MYjNIMDJ3X1RtMEZVMzZCYjQ?oc=5",
-   "fecha": "2026-11-17T07:58-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.diariojunio.com.ar/164732_cristina-jugo-para-que-guillermo-michel-integre-el-consejo-de-la-magistratura/",
-   "revisada": true
-  },
-  {
-   "id": "0c719658fe00",
-   "titulo": "Justicia. Cristina Kirchner eligió a Guillermo Michel para el Consejo de la Magistratura",
-   "medio": "La Voz del Interior",
-   "medio_url": "https://www.lavoz.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzlXZGpxdmEtVmNBVkpNdVhacW1yWE41RlRBSENWVVBNQ1AxN2owZHJ0RDJFNmd2aXk3bGl6eTcyTFZ5X3BTUEltaGVhU2NKWERVVmx5Y1QwZGtWTmlmb2Q5WUdYeThFM0NJckw1N2ZaQnF1Sk55LW5aWjVKRDZlY0JFM2tvdURKUkxxLXdQX2VIbWR0ODBBaXVlcVJnNWpJOFZJTWpMdzAxVVVTazhwMWdRdXpGdFBiNmVLQjNrYlNSNmFqRzMxSW9aNktoMVNPZlhCN2h4Q2Q?oc=5",
-   "fecha": "2026-11-17T07:43-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lavoz.com.ar/politica/cristina-kirchner-eligio-guillermo-michel-consejo-magistratura-apuesta-perfil-dialoguista_0_1FfWntZMEi.html",
-   "revisada": true
-  },
-  {
-   "id": "8063e6aa645b",
-   "titulo": "Sin Axel Kicillof: Sergio Massa, Uñac y Zamora se juntan para hablar de la unidad peronista",
-   "medio": "Del Sur Diario",
-   "medio_url": "https://delsurdiario.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzFZbERrNktFTU9zYnlHN19WZXBTRjFZbFhpQURsLW1DcVhDVnJBMmxQMWpPOExONHVrRHNwMVcyS0p5Z0puZHZfMjBEZzh1ZnNfZm84RmQ4dnhwZnl4V0dSOXZJaWRZdllZUkphOXE3WHpvTTQyZExRUk9ESDU0dW5VVm1scWNXV3lMWVB5WVhybDdiOFZqb3JNSmdLNnB5UU1ERTROTXpwMEtPQURZdDRYX0RlR0NLbDdONDlHeEc?oc=5",
-   "fecha": "2026-11-17T07:33-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://delsurdiario.com/politica/sin-axel-kicillof-sergio-massa-unac-y-zamora-se-juntan-para-hablar-de-la-unidad-peronista",
-   "revisada": true
-  },
-  {
-   "id": "e1149a15e89d",
-   "titulo": "Llega Sergio Massa: se reunirá con el gobernador Passalacqua y empresarios",
-   "medio": "MisionesOpina",
-   "medio_url": "https://www.misionesopina.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVdWUTFQLXZINTVaVUV6SXJiQ0Z0OUIxNXhzdTl3OWlWTGNpcXFEWWRYbVFVSm01ckNlcmtjQldVVHp3UWRiWVNfMW1VZ0ZkT1hwaTNhM2pGV2ZIVHd5RGdCTGt3VG5Rb2RBemxJaVFYYnNsQ3hyMjFUUUdCR3c1czhXVEhtdkxObGpsdGVqTzNNVTJFVno4NDI3TTZ1bjdqMHBNMHlXSGFjZVE?oc=5",
-   "fecha": "2026-11-17T07:30-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.misionesopina.com.ar/llega-sergio-massa-se-reunira-con-el-gobernador-passalacqua-y-empresarios/",
-   "revisada": true
-  },
-  {
-   "id": "6b405141392c",
-   "titulo": "PJ Federal y massismo confluyen en el Día de la Militancia y se muestran como alternativa a Kicillof",
-   "medio": "InfoTec 4.0",
-   "medio_url": "https://infotecrealico.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEJJQk9uLWEwaGlFdzBpTm5xUmV1T3hFZ3lybWZhY2N5Yi1rTUZoVjdSaGVBLWhUZm9jRUVXNG9JZmoyZFlCZXdleWd3S09hZ3pfbHhYM0xWNkhhWEZmQVR2Q1k4b29iQ0ZRTVdlVFAtQXhYWjFFOVotdXBQSmtyQlZERFhMNlRCbE5SVlB1bl9FYnJ5SFZWdkNKbU5wbU9Ea1Jpa2loOXpMelZaeUEtZUxIX0I1VDdhaG92Q9IBvAFBVV95cUxNTEJJQk9uLWEwaGlFdzBpTm5xUmV1T3hFZ3lybWZhY2N5Yi1rTUZoVjdSaGVBLWhUZm9jRUVXNG9JZmoyZFlCZXdleWd3S09hZ3pfbHhYM0xWNkhhWEZmQVR2Q1k4b29iQ0ZRTVdlVFAtQXhYWjFFOVotdXBQSmtyQlZERFhMNlRCbE5SVlB1bl9FYnJ5SFZWdkNKbU5wbU9Ea1Jpa2loOXpMelZaeUEtZUxIX0I1VDdhaG92Qw?oc=5",
-   "fecha": "2026-11-17T07:23-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://infotecrealico.com.ar/amp/90652/pj-federal-y-massismo-confluyen-en-el-dia-de-la-militancia-y-se-muestran-como-al",
    "revisada": true
   }
  ]
