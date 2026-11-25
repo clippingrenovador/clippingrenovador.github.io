@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-25T16:21-03:00",
- "total": 730,
- "nuevas_ultima_corrida": 33,
+ "generado": "2026-11-25T17:18-03:00",
+ "total": 731,
+ "nuevas_ultima_corrida": 27,
  "errores": [],
  "notas": [
+  {
+   "id": "d812148f254b",
+   "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
+   "medio": "La Noticia Web",
+   "medio_url": "https://www.lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM25JVnYxbkFZa3VteW94RGlibGxhT0QwX0ZJOW9KODY4enpISmhROE4xanB1andGNmhweEVmM1prcTJEdU9ORi1uUDNleElnWVhIc1doZXVyOUhSTHFaZ1hLamV2aTlHOVBOVnVHUXA1TWdPVGRuYlNpa29PVDlQUVc5VHB1VS0xdnFMOGNBWTdQdlUyQkx4MFI1QlZsWDBLcm9VR2JvTWxBVkp2ZVhn?oc=5",
+   "fecha": "2026-11-25T16:56-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-25T17:15-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/",
+   "revisada": true
+  },
+  {
+   "id": "8fbbc3b694c8",
+   "titulo": "Kicillof suma: durante un acto en Bahía Blanca, Susbielles bendijo la carrera presidencial del gobernador",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRXNEX19uSkJrNlhkZXZ4QzI4Sm9sd3EzVlVzMzhHUk1odmxMeVVSd0laQ3VXSFhvLVdCV04xdWRVNWJOYmt2cGRJU3VGcGx3anZqck0tMHZ5LXBCRG5FOGJnb0xXOXJsOGpPZS15ZDllUnFRblhra1NKSGM3Nm1wVlowX3o3UERQMTdSSXlQYUFXQmJaUEQzeFVQbnNSZzBwU3hFbko5V2J0d3Q0aHZLQnAxQnBPT0hMTFlSeW85UGhQU0gtc3U2U1VsSTAwbDhLOUHSAdcBQVVfeXFMTVhpQVZyREtyYUdIa3NGLTZRM1RNeVhjWWU3OFlXNk1lb3lnaW1ua1ZfSzZaTlVpSVVSeHp0bkhteHdhaG9YbnJ1aGVJd1ZNUzVEclFXNVItNVNEWmF0dm1VeDluNkprWmhMX3Y1cWR4Y2Vkc05DUFUyOWgtdDFlY2lSajY2VmxJWWxpWFNGcXZWbXlvRzVHYUJVUEZ4eHpVQXBQajVLSVo0aFhTRndya2VodTdwb3lmWDdxeGJ3eEt0cmNtOXdURmE5Q0VOa0VDSURrOXRUOXM?oc=5",
+   "fecha": "2026-11-25T16:41-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T17:15-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/kicillof-suma-un-acto-bahia-blanca-susbielles-bendijo-la-carrera-presidencial-del-gobernador-n5428488",
+   "revisada": true
+  },
   {
    "id": "3b554cbd0409",
    "titulo": "La Ley Rappi obtuvo el último dictamen en el Senado bonaerense: cuándo se tratará",
@@ -10588,20 +10617,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://diarioneuquino.com.ar/pesatti-se-acerca-a-massa-y-busca-el-respaldo-del-frente-renovador-para-competir-por-la-gobernacion-de-rio-negro/",
-   "revisada": true
-  },
-  {
-   "id": "6aea9ebd62b5",
-   "titulo": "El vicegobernador Pesatti, junto a Massa en San Fernando, prepara su candidatura provincial",
-   "medio": "Diario Río Negro",
-   "medio_url": "https://www.rionegro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnJWcjkyb01XcnlxdkdfU1p1c0NfRnBfZTBtWTB4YmsycXZ1clRubHc5WmkyNXdhVWNNRDBlMXVaOGEwalFrUXYxNmN1ejFaYzc2c19HaWFkTjNVYVhkU19oTG5tVERpWjdxVEZPVnpORjZlSjNQUFY2N0VhX09mV3NLNGpqSEdEM1d5ZmpEbjFKTHU1a3U2Q2FGMDJWUGdtUkVxdVEwdVBocmUyYlFCLXZSeW95eU9WZVdiYUxZVXRBWFFZZXZVZGdfc0JvZ0dk0gHYAUFVX3lxTE9CUDJzcm1KUU1fQm5EamhEUWQ4TEM5M0M5YnRhVHBMUU9oRjY3Tk1nWDd0RkJyaTZIMUdpeC0wMlhsRkxoRGJVZE9lUWJLZENWVFBDQTFIR3puRm01QWtNTlhaN2hJUmNNRHozRC1CdHg5N3FhTzJFSnZ6eExoV3RBSzA1U0pQNzhCU0ZHOEdHRlFHeVhSVFBYMlh6YkpHb0tjU0J6dHhIdEhYZVhQSW5ybThKYTYycGpzSXlyeUYtMFBRSzdUTkZNeVN2XzVRck52WjJYcEFuRA?oc=5",
-   "fecha": "2026-11-18T16:31-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.rionegro.com.ar/politica/el-vicegobernador-pesatti-junto-a-massa-en-san-fernando-prepara-su-candidatura-provincial-4803436/",
    "revisada": true
   }
  ]

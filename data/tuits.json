@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-25T16:20-03:00",
- "total": 85,
+ "generado": "2026-11-25T17:17-03:00",
+ "total": 87,
  "tuits": [
+  {
+   "id": "2125602950781219047",
+   "usuario": "apepe_bahia",
+   "visto": "2026-11-25T17:17-03:00",
+   "url": "https://twitter.com/apepe_bahia/status/2125602950781219047",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Kicillof suma: durante un acto en Bahía Blanca, Susbielles bendijo la carrera presidencial del gobernador",
+     "nota_id": "8fbbc3b694c8"
+    }
+   ]
+  },
+  {
+   "id": "2125606492606976185",
+   "usuario": "MichelGuilleOK",
+   "visto": "2026-11-25T17:17-03:00",
+   "url": "https://twitter.com/MichelGuilleOK/status/2125606492606976185",
+   "citado_en": [
+    {
+     "medio": "Análisis Digital",
+     "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
+     "nota_id": "46151d666fd1"
+    }
+   ]
+  },
   {
    "id": "2125544906819027071",
    "usuario": "ayerasquetti",
