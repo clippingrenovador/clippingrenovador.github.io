@@ -1,9 +1,65 @@
 {
- "generado": "2026-11-25T17:18-03:00",
- "total": 731,
- "nuevas_ultima_corrida": 27,
+ "generado": "2026-11-25T18:20-03:00",
+ "total": 737,
+ "nuevas_ultima_corrida": 32,
  "errores": [],
  "notas": [
+  {
+   "id": "04e256d6ae5b",
+   "titulo": "Es falso que La Nación publicó que emboscaron a Gabriel Batistuta: es una estafa con una criptomoneda",
+   "medio": "Chequeado",
+   "medio_url": "https://chequeado.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFR0Y0FLb0xGc0VNYktXbmNMLUdqSjAzbmFrV1ZidmlTN3F2Z3AwS01TSHlER1hfTV9GcV82QlUzVEtrYzRvbldQdjlfVGxpNms5VF9LN1NDdFBxU0luWG5nVV9QS1JQN2QtT2dueXF6djctWGJiREVNdFJ6cXJTbW90bEplbjVVaFFyMlExM3REWGt0SnY2QlQtUHJHX2E5cWFaTGVobVpxdjAwS0F1ajR3NW1oMHRTS2w0b3BnSmdSRUptY2JraHAzYmlJREhBdmJCcVdRNA?oc=5",
+   "fecha": "2026-11-25T18:09-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T18:17-03:00",
+   "url_original": "https://chequeado.com/ultimas-noticias/es-falso-que-la-nacion-publico-que-emboscaron-a-gabriel-batistuta-es-una-estafa-con-una-criptomoneda/",
+   "revisada": true
+  },
+  {
+   "id": "458ee4c5ad2a",
+   "titulo": "Sebastián Galmarini apuntó contra Patricia Bullrich por la reforma electoral: \"Solo hay que ver lo que decían hace poquito tiempo…\"",
+   "medio": "La Noticia Web",
+   "medio_url": "https://www.lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc1BrOWVLbkRNelVOUXZPbDdsN3p5YWxXakFUVG94RlEwU0Y1clpEemZBcHl5Y2tpV1JwdDBCRjl1T2VpMElpMnVEUDdtZmQwMk1HaWhwWmJvbkx5S0FaUlBTOTc4dlVPRDdxNUkzZllUZWhIZDU3bFVBVWh6NkwxeGtsZ1ZlanpmR3lseUl2SktJc3RzYmlJVjNOT1FfVDJESzJNLWh0QzctWTNsS0tNOGtJZ050VUlBeVhrNURiQV9RUkRnS3hRSGtqMFZOSGdoZTFhSjh6NXNial9oeHkweWNfSEFlTDV6bUQ2YVlBaG9ZZw?oc=5",
+   "fecha": "2026-11-25T18:00-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-apunto-contra-patricia-bullrich-por-la-reforma-electoral-solo-hay-que-ver-lo-que-decian-hace-poquito-tiempo/",
+   "revisada": true
+  },
+  {
+   "id": "b6f63001f510",
+   "titulo": "“La suba del dólar no se trasladará a precios”: ¿Cuántos ministros de economía dijeron lo mismo?",
+   "medio": "Cba24n",
+   "medio_url": "https://www.cba24n.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVnNVaG5TTkRpVk5IZUd4anJBc2x1WkFRdFdYcEh3TUVjcEFmakNjVHNqb3Zsd2VZU0tKTnJfVnVkUXh2RTA3UjdEcXdoNW9oRnJpYUZTQkVQeGxzNW9NZzZVWmZqcEc1UUtJcFJuemhLQkNLbnV6OG5uQVpFYktmN0hKU0dQb2hqb1ZFaUFVek91Q3lHemw2QlUwTDdmeDhQM3ZuRVBjY1NGS1BCX1c3cXB1RHBRNW5LUjEwN05XQzI5Mi0waGIyZnVzdnUtdkRwYU5pV3A4U1JXb3VLYzY3Vmt6YnZFMnR3TnMwdmxrMA?oc=5",
+   "fecha": "2026-11-25T17:26-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T18:17-03:00",
+   "url_original": "https://www.cba24n.com.ar/argentina/-la-suba-del-dolar-no-se-trasladara-a-precios----cuantos-ministros-de-economia-dijeron-lo-mismo-_a6b073351d1029d91e2de8ae6",
+   "revisada": true
+  },
+  {
+   "id": "9c9a8388aff7",
+   "titulo": "Kicillof, Cuto, Larroque y Garate inauguraron el nuevo Salón de Usos Múltiples en el barrio Santa Teresita (audio-videos)",
+   "medio": "LU24 – Radio Tres Arroyos",
+   "medio_url": "https://www.lu24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2lUTFJGU3IybkNTMTN1eFQ1UFpFazJfanNONzRxS0duczdpWnB2Y0lhb1pDdzIwUWJQaV9GR1BUbFRlT1I1clNUUWZ0VmwyOTZoRjQzMW1qRC1BcHBxT0FTcEpwbGMyUXVveVRXMWFkdVpwcnFiR1lhTDQ2a01UenlURDFYNVBGUl8tc2thVXJWZlB5MVFwdWRWeVdQbFh0dkJSMW14OURKXzFFazF5N0Rn?oc=5",
+   "fecha": "2026-11-25T17:12-03:00",
+   "busquedas": [
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://www.lu24.com.ar/locales/kicillof-cuto-larroque-y-garate-inauguraron-el-nuevo-salon-de-usos-multiples-en-",
+   "revisada": true
+  },
   {
    "id": "d812148f254b",
    "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
@@ -20,6 +76,20 @@
    "revisada": true
   },
   {
+   "id": "5382493fe3f4",
+   "titulo": "Malena Galmarini pide recuperar el municipio de Tigre",
+   "medio": "elconurbano.com.ar",
+   "medio_url": "https://elconurbano.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNl81cWhBZ2dONFFhaVcydEdkaGNZQUtqRU1PRjUxVDVGaUtGeURBTmV6clRsMUZMZFhyZWFCaFpLaHluM1Yta1lSVFYxQ3VQdnE3VE9BVU1OdHJoRE5FYkhnU2p3dUs4aDJ1ZWxIeFFwWE5HZmhRM0J1aUhiaXBIc1R3SU43b3R2Wk1BZkdSZXNMYmE1ZTlBNnVGcnd6QXNhcXdrNHJaTWhva0s5SUsxXw?oc=5",
+   "fecha": "2026-11-25T16:46-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://elconurbano.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/85446/",
+   "revisada": true
+  },
+  {
    "id": "8fbbc3b694c8",
    "titulo": "Kicillof suma: durante un acto en Bahía Blanca, Susbielles bendijo la carrera presidencial del gobernador",
    "medio": "Letra P",
@@ -31,6 +101,20 @@
    ],
    "visto": "2026-11-25T17:15-03:00",
    "url_original": "https://www.letrap.com.ar/politica/kicillof-suma-un-acto-bahia-blanca-susbielles-bendijo-la-carrera-presidencial-del-gobernador-n5428488",
+   "revisada": true
+  },
+  {
+   "id": "a7dedc5613f8",
+   "titulo": "Malena Galmarini planteó recuperar la calidad de gestión y cambiar las prioridades de Tigre",
+   "medio": "elcomercioonline.com.ar",
+   "medio_url": "https://www.elcomercioonline.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeDNoV0lWc2dDYms2Tm1Hd2hkdUIxbDJGYUNNSlJMb2NCb25VMWVmblB6bWcyMk54dlZTU2RCd0t4c3pWYTVCaC01VXZnb1FvVmgxYlpuVzVyN01xQXVaZjlfTHJuU1Jzb0ZfT1lVSnFWd1pXWmVYckhmbmMxQmtzcnNqUnJRV1BhLUx3dDNUandZRm5lX2FsQnloS0xuVFJfRlF0ZldnQmRWckk5S2ZQTWFidjN6RUZjeXVTU3ZsR3BXU2ZoNVgyYk9RanNjRjZ0Z3JWY2dFS0NSWlRTTEFxUkxSdWlZUdIB5gFBVV95cUxNeDNoV0lWc2dDYms2Tm1Hd2hkdUIxbDJGYUNNSlJMb2NCb25VMWVmblB6bWcyMk54dlZTU2RCd0t4c3pWYTVCaC01VXZnb1FvVmgxYlpuVzVyN01xQXVaZjlfTHJuU1Jzb0ZfT1lVSnFWd1pXWmVYckhmbmMxQmtzcnNqUnJRV1BhLUx3dDNUandZRm5lX2FsQnloS0xuVFJfRlF0ZldnQmRWckk5S2ZQTWFidjN6RUZjeXVTU3ZsR3BXU2ZoNVgyYk9RanNjRjZ0Z3JWY2dFS0NSWlRTTEFxUkxSdWlZUQ?oc=5",
+   "fecha": "2026-11-25T15:59-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
    "revisada": true
   },
   {
@@ -411,6 +495,20 @@
    "revisada": true
   },
   {
+   "id": "5f6c8cfee60f",
+   "titulo": "Tensión financiera: el dólar marca nuevos máximos, el riesgo país roza los 1.100 puntos y Milei ratifica el rumbo",
+   "medio": "El Teclado",
+   "medio_url": "https://www.elteclado.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ3JqRDdYYU1pdldSTkpBQzVhbzZzNzV5allWRnZPb1h3U3JSWmhCbGVPRHBCTENHNmxvYWFiWWFpcUlfRGlaTXVOMFZBQV9DaG1MekZYQnpZVGJEUmJySTFRbXh4T3pQcl9JQnhHS2wxZmJncHpyaU1hclhfczdtR055RkpZNDB2RHRPUVhuVEliRVJoa2tRVGpRQ1lqazFocWpCUW51SXdiQXE4TWV0eDVHTmVCcXk4WlZ4UkhTSTk3RkdCTjlpc0xIbzV2dEpmcFNJVW0tdjdPVEtxSTktX0gyRkRxM19YZV9FSHpMLVVud9IB8gFBVV95cUxQZ3JqRDdYYU1pdldSTkpBQzVhbzZzNzV5allWRnZPb1h3U3JSWmhCbGVPRHBCTENHNmxvYWFiWWFpcUlfRGlaTXVOMFZBQV9DaG1MekZYQnpZVGJEUmJySTFRbXh4T3pQcl9JQnhHS2wxZmJncHpyaU1hclhfczdtR055RkpZNDB2RHRPUVhuVEliRVJoa2tRVGpRQ1lqazFocWpCUW51SXdiQXE4TWV0eDVHTmVCcXk4WlZ4UkhTSTk3RkdCTjlpc0xIbzV2dEpmcFNJVW0tdjdPVEtxSTktX0gyRkRxM19YZV9FSHpMLVVudw?oc=5",
+   "fecha": "2026-11-25T11:33-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://www.elteclado.com.ar/nota/32481/tension-financiera-el-dolar-marca-nuevos-maximos-el-riesgo-pais-roza-los-1-100-puntos-y-milei-ratifica-el-rumbo.html/amp",
+   "revisada": true
+  },
+  {
    "id": "d664eb701a4c",
    "titulo": "“Se van a perder más de mil puestos de trabajo en Río Grande”: la advertencia de Guillermo Michel",
    "medio": "19640 Noticias",
@@ -422,6 +520,20 @@
    ],
    "visto": "2026-11-25T13:31-03:00",
    "url_original": "https://19640noticias.com/contenido/105137/guillermo-michel-recesion-industria-tierra-del-fuego-ley-19640",
+   "revisada": true
+  },
+  {
+   "id": "753a8a357c32",
+   "titulo": "Javier Milei se mofó del “Perón versión IA” recreado en el acto peronista en San Fernando",
+   "medio": "El Intransigente",
+   "medio_url": "https://elintransigente.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc01Ga05lQWxTLTEwZ2RLUXZ3bG1WRG9GcnNSNkwxLXV6Yk9hQ0U0NE1mUm9LbXhMVjJEQnRzVnNZNE5OSzVuOW1UUnFFVDdyeEkxS2tGMUlsZkdaaTBGNG1QMmh3YkVTUTJHYjhUcEg1dzBxMmRUbFZPTWNLUjJKcVJGc0piUU56dnUyM29URFk0YzNWUHVlRVFmc2lfQ3RMQVpCd0NpVDYtR29NTThmVg?oc=5",
+   "fecha": "2026-11-25T11:16-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-25T18:17-03:00",
+   "url_original": "https://elintransigente.com/2026/11/25/javier-milei-mofo-peron-version-ia-recreado-acto-peronista-san-fernando/",
    "revisada": true
   },
   {
@@ -938,6 +1050,20 @@
    ],
    "visto": "2026-11-25T06:38-03:00",
    "url_original": "https://www.smnoticias.com/noticias/291556",
+   "revisada": true
+  },
+  {
+   "id": "f572d8f308c6",
+   "titulo": "Tras el dato de la recesión técnica, el Gobierno defendió la mejora de la actividad en septiembre",
+   "medio": "Alerta Urbana",
+   "medio_url": "https://www.alertaurbana.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXJRZ3BxbWxpSkt1SzNWR1YwLUllRlczNFYwZWo4T0lyYnptNDY5UkE3OUFSaTl0Y2FOXzVWZmVQelJWQmZvNDlDendNWDZienNVVXRSNUswQ3JkQXI0UDE5bjBFSUtZZFg1VTZ1RXZ0SThlZzhjcDVibWJmQXlORjVXQTRiZHMycHljVmQ5cGsxV1ZzcGRmQjBJdzNob3BsU3dCTWYwRUFYSVBLODVfN3VPY2s1VzF6aGhkdmJBaXFLdHRhQk1ZOTNXZ0h6VjlE?oc=5",
+   "fecha": "2026-11-24T22:54-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-25T18:18-03:00",
+   "url_original": "https://www.alertaurbana.com.ar/104065-tras-el-dato-de-la-recesion-tecnica-el-gobierno-defendio-la-mejora-de-la-actividad-en-septiembre",
    "revisada": true
   },
   {
@@ -10574,49 +10700,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.letrap.com.ar/politica/buenos-aires-se-encamina-sostener-las-paso-aunque-milei-logre-suspenderlas-nivel-nacional-n5428332",
-   "revisada": true
-  },
-  {
-   "id": "a99f3096ea88",
-   "titulo": "\"Un día hubo unidad y va a haber unidad\": el mensaje de Massa al peronismo rumbo a 2027",
-   "medio": "Infocielo",
-   "medio_url": "https://www.infocielo.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlhXLXFCYjdfQ0w3eW5TZUNHM2prMHZ6Sms4VHBWSkkxcU0wUHFCQkUyTHdyaWdRTzlLRHJHZmNTR3NsS1BoVEtVcTdCVnYydnBHc2FoSUU4Ymk1UnE2MjZTbjVzZGpEODNrd2ZOUWpyZ2ota1RTT0RfX09uYWZQTmxGM2QwNEZUQXlGV0pMTkx0bHlEZldQdE9lRzhqbG9EOWJxaXVFTGxPUkhPNFdEUzZIMmloNHZJRURBNlluWEdCRDA0dFhrNmNR?oc=5",
-   "fecha": "2026-11-18T17:52-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.infocielo.com/politica-y-economia/un-dia-hubo-unidad-y-va-a-haber-unidad-el-mensaje-de-massa-al-peronismo-rumbo-a-2027",
-   "revisada": true
-  },
-  {
-   "id": "0c46c8c70d65",
-   "titulo": "El Frente Renovador de Corrientes participó del encuentro nacional del Peronismo",
-   "medio": "urgente santo tome",
-   "medio_url": "https://urgentesantotome.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVdGTzNQNHdVM0xWTVBXb1lZbllsaTZibjA1cUdKNS1yVVdabEFkNWZhckN4UHNpNHRTY3BQVlR0TVB2Vy1id0Q2MllkbEdLbnhDTnA3eDczZFlwenB5NjM1VkhxSjRvS2Q5eFBNbEtvenkwbjhtMUVFUWFJeElYS29ydTBESWNTUFhHSzRWWVFKUWYyQzd5T0t6emh4cGJ2UjFBNnNiSng4THlTTWdj?oc=5",
-   "fecha": "2026-11-18T17:50-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://urgentesantotome.com/el-frente-renovador-de-corrientes-participo-del-encuentro-nacional-del-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "4437e9879b44",
-   "titulo": "Pesatti se acerca a Massa y busca el respaldo del Frente Renovador para competir por la gobernación de Río Negro",
-   "medio": "Diario Neuquino",
-   "medio_url": "https://diarioneuquino.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd3FJMDZkTHVpMnVSTTlSc010SW05V3pJbXFQTjFjRUtTeGZ0UzI5Wm9rRml1TDBwdGcwdWI4NTlvMTBNTUVPN1h2dVg5QWJnbzFySzRHaml3SHpLN3VyUTBGQUJ4Z0pRbkY2YnA0bDlNNzBodHlhVGlIb1FBMFAtN0txdENBRmotekJVX2ZwNE5jazJIa0lnWTV4Vkhwd0ZOS0hMRnJhVmpaQVJobHBVdWQzT2hCM2VlNVZsYWF1VTUxTF9YWVNmQ21oaHo5dWhuT3pyY0JkSGV5QUU?oc=5",
-   "fecha": "2026-11-18T17:25-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://diarioneuquino.com.ar/pesatti-se-acerca-a-massa-y-busca-el-respaldo-del-frente-renovador-para-competir-por-la-gobernacion-de-rio-negro/",
    "revisada": true
   }
  ]
