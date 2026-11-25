@@ -1,171 +1,57 @@
 {
-  "hora": "14",
+  "hora": "22",
   "claves": [
-    {
-      "texto": "Según Medios del Aire, Fernando Galmarini afirmó que Cristina Kirchner respaldará una eventual candidatura presidencial de Sergio Massa en 2027.",
-      "fuentes": [
-        "67747e0ea668"
-      ]
-    },
-    {
-      "texto": "El gobernador Axel Kicillof reúne a intendentes en La Plata; según Punto Capital, el sector de Sergio Massa busca recomponer la unidad del peronismo.",
-      "fuentes": [
-        "0937299e3f07"
-      ]
-    },
-    {
-      "texto": "Según Infobae, el PJ comenzó a discutir cómo ordenar sus candidaturas sin PASO y cómo conservar la unidad.",
-      "fuentes": [
-        "4f278d6666a9",
-        "8cb5dcc2d255"
-      ]
-    },
-    {
-      "texto": "Cristina Kirchner, Axel Kicillof y Sergio Massa, entre otros referentes del PJ, celebraron el triunfo electoral de Lula da Silva.",
-      "fuentes": [
-        "9fa7b4d17f18"
-      ]
-    }
+    {"texto": "Según La Nación, un proyecto que obliga a anunciar con tres días de antelación las subas de combustibles en los surtidores enfrenta a Sergio Massa con las petroleras.", "fuentes": ["a171c5216884", "fceb7a7fd705"]},
+    {"texto": "Sergio Massa volvió a postergar su viaje a Misiones, según Perfil. El dirigente misionero Cacho Bárbaro anticipó que acompañará a Massa en 2027.", "fuentes": ["a347e5af598e", "e558699ac41e"]},
+    {"texto": "La diputada Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y propuso conformar un frente contra el gobierno de Javier Milei.", "fuentes": ["3a2a0b2f663e"]},
+    {"texto": "En Tigre, el Concejo Deliberante aprobó las ordenanzas fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador.", "fuentes": ["716fc53d7558", "24402ea4fc2e"]}
   ],
   "retirar": [],
   "temas": [
-    {
-      "id": "massa-armado-formula-2027",
-      "titulo": "Galmarini afirma que Cristina Kirchner respaldará una candidatura de Massa",
-      "resumen": "Según Medios del Aire, Fernando Galmarini afirmó que Cristina Kirchner respaldará una eventual candidatura presidencial de Sergio Massa para 2027. Cadena de Radios analiza el acuerdo entre Cristina Kirchner y Massa y el camino paralelo de Axel Kicillof. El Día de La Plata ya había señalado a Cristina junto a Massa y a Kicillof por un camino propio; Cristina y Máximo Kirchner desmintieron la frase contra Kicillof que les atribuyó Clarín.",
-      "tono": "mixto",
-      "dirigentes": [
-        "Sergio Massa"
-      ],
-      "principales": [
-        "67747e0ea668",
-        "632be493111f",
-        "eaf633fe6535"
-      ],
-      "otras": [
-        "797e08960457",
-        "d61524d97436"
-      ]
-    },
-    {
-      "id": "san-fernando-reordena-el",
-      "titulo": "Kicillof reúne a intendentes en La Plata y el FR busca recomponer la unidad",
-      "resumen": "Punto Capital informa que el gobernador Axel Kicillof reúne a intendentes en La Plata y que el sector de Sergio Massa busca recomponer la unidad del peronismo. Massa había confirmado que los intendentes que le responden acompañarán al gobernador en el acto, y según La Noticia 1, Alexis Guerrera busca tender puentes en medio de la interna. HOY Rojas repasa los actos del Día de la Militancia, entre ellos el del FR en alianza federal.",
-      "tono": "mixto",
-      "dirigentes": [
-        "Sergio Massa",
-        "Alexis Guerrera"
-      ],
-      "principales": [
-        "0937299e3f07",
-        "91f1f87bb1d4",
-        "1f1ce72bae11"
-      ],
-      "otras": [
-        "ab00192983fb",
-        "f671b9d4a680"
-      ]
-    },
-    {
-      "id": "peronismo-sin-paso",
-      "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
-      "resumen": "Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad; La Noticia Web y La Voz 90.1 también recogen el debate sobre la herramienta para dirimir candidaturas. Pinamar 24 informa que Sergio Massa impulsa una interna virtual con reconocimiento facial. ANDigital sostiene que lo complicado es ser el candidato del peronismo.",
-      "tono": "mixto",
-      "dirigentes": [
-        "Sergio Massa"
-      ],
-      "principales": [
-        "4f278d6666a9",
-        "8cb5dcc2d255",
-        "4eb57524cd27"
-      ],
-      "otras": [
-        "7a839132930d",
-        "5256e2501a13",
-        "5750800e3eab"
-      ]
-    },
-    {
-      "id": "lula-triunfo-pj",
-      "titulo": "Cristina, Kicillof y Massa celebraron el triunfo de Lula",
-      "resumen": "Diario La Vanguardia informa que Cristina Kirchner, Axel Kicillof, Sergio Massa y otros referentes del PJ celebraron el triunfo electoral de Lula da Silva en Brasil.",
-      "tono": "neutro",
-      "dirigentes": [
-        "Sergio Massa"
-      ],
-      "principales": [
-        "9fa7b4d17f18"
-      ],
-      "otras": []
-    },
-    {
-      "id": "encuestas-2027-balotaje",
-      "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
-      "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. Revista Noticias publicó un sondeo según el cual Patricia Bullrich y Kicillof superan a Milei en imagen positiva, y Noticias Urbanas difundió una encuesta sobre cómo imaginan los argentinos a su próximo presidente.",
-      "tono": "positivo",
-      "dirigentes": [
-        "Sergio Massa"
-      ],
-      "principales": [
-        "7d3ba4124022",
-        "c70358245221",
-        "5236774d0476"
-      ],
-      "otras": [
-        "60ee3f651d32",
-        "1d062110c22b"
-      ]
-    },
-    {
-      "id": "katia-blanc-resistencia",
-      "titulo": "Katia Blanc, dispuesta a ser candidata a intendenta de Resistencia",
-      "resumen": "HDP Noticias informa que la diputada provincial del FR Katia Blanc dijo no tener ningún problema en ser candidata a intendenta de Resistencia.",
-      "tono": "positivo",
-      "dirigentes": [
-        "Katia Blanc"
-      ],
-      "principales": [
-        "e65a64aaa606"
-      ],
-      "otras": []
-    }
+    {"id": "combustibles-surtidores", "titulo": "El proyecto sobre aviso previo de subas de combustibles enfrenta a Massa con las petroleras",
+     "resumen": "La Nación informa que un proyecto que obliga a anunciar en los surtidores las subas de combustibles tres días antes enfrenta a Sergio Massa con las petroleras. Grupo La Provincia señala que el proyecto bonaerense sobre información de precios avanza y que crece el rechazo empresarial.",
+     "tono": "mixto", "dirigentes": ["Sergio Massa"],
+     "principales": ["a171c5216884", "fceb7a7fd705"], "otras": ["f33a329a1cd8"]},
+    {"id": "massa-viaje-misiones", "titulo": "Massa posterga su viaje a Misiones; Cacho Bárbaro anticipa que lo acompañará en 2027",
+     "resumen": "Perfil informa que Sergio Massa volvió a postergar su viaje a Misiones de cara a las elecciones de 2027; Novedades del Sur lo vincula con las internas peronistas. MisionesOnline publica que Cacho Bárbaro anticipó que acompañará a Massa en 2027.",
+     "tono": "mixto", "dirigentes": ["Sergio Massa"],
+     "principales": ["a347e5af598e", "e558699ac41e", "f3e2259b2b8f"], "otras": ["fd4e5fc6da37"]},
+    {"id": "peronismo-sin-paso", "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
+     "resumen": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei, según Diario Digital Con. Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad. La Voz del Interior analiza que, sin PASO, pierden peso las terceras fuerzas.",
+     "tono": "mixto", "dirigentes": ["Cecilia Moreau", "Sergio Massa"],
+     "principales": ["3a2a0b2f663e", "4f278d6666a9", "8cb5dcc2d255"], "otras": ["cb8fdda09705", "7a839132930d", "5256e2501a13", "a3de9ee7b25b"]},
+    {"id": "massa-redes-peronismo", "titulo": "Redes: Massa busca reconfigurar el peronismo, según TN y Perfil",
+     "resumen": "TN analiza la conversación política en redes y señala que el apellido Kirchner pierde peso mientras Sergio Massa busca reconfigurar el peronismo. Perfil describe la apuesta de Massa por un peronismo con menos kirchnerismo a partir de lo que muestran las redes.",
+     "tono": "neutro", "dirigentes": ["Sergio Massa"],
+     "principales": ["40ea221011de", "bdaac5299771"], "otras": ["e425cb65b98b"]},
+    {"id": "tigre-fiscal-impositiva", "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+     "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según Zona Norte Hoy e InfoBAN. La Noticia Web informa que los libertarios reivindicaron la eliminación de tasas y el tope al aumento del ABL.",
+     "tono": "negativo", "dirigentes": [],
+     "principales": ["716fc53d7558", "24402ea4fc2e", "7643c5fbd10c"], "otras": ["90ad293860ce", "1a8065d55f34", "a05b140c4866"]},
+    {"id": "foro-uba-michel", "titulo": "Guillermo Michel: foro opositor en la UBA y críticas al modelo económico",
+     "resumen": "Guillermo Michel afirmó que \"los que pierden son la clase media, los jubilados de hoy\", según El Intransigente. Urgente24 y La Nación informan que Michel participa junto a Martín Lousteau, Juliana Di Tullio, Gabriel Katopodis, Emilio Monzó y Maximiliano Ferraro de un foro contra el Gobierno en la UBA.",
+     "tono": "mixto", "dirigentes": ["Guillermo Michel"],
+     "principales": ["6e62a1544311", "e062009d4174", "58fa89aec7d5"], "otras": ["23121e46c637", "0221c6ffa53c"]},
+    {"id": "galmarini-san-isidro", "titulo": "Sebastián Galmarini cuestionó el desarrollo inmobiliario sin planificación en San Isidro",
+     "resumen": "Sebastián Galmarini cuestionó el desarrollo inmobiliario sin planificación en San Isidro, según La Noticia Web y elconurbano.com.ar. Diario Lo Nuestro recoge su crítica al Gobierno nacional: \"el país se hunde y el gobierno quiere derogar la Ley de gravedad\".",
+     "tono": "neutro", "dirigentes": ["Sebastián Galmarini"],
+     "principales": ["627cccfbecba", "21389bf7758a", "2995d8fa45f6"], "otras": ["0a21806a4a04"]},
+    {"id": "iglesias-santucho", "titulo": "Fernando Iglesias preguntó si Massa y Kicillof repudiaron el homenaje a Santucho",
+     "resumen": "El diputado Fernando Iglesias preguntó públicamente si Sergio Massa y Axel Kicillof repudiaron el homenaje a Mario Roberto Santucho, según El Intransigente.",
+     "tono": "negativo", "dirigentes": ["Sergio Massa"],
+     "principales": ["e4d6e21b8fa4"], "otras": []}
   ],
   "redes": [
-    {
-      "url": "https://x.com/SergioMassa/status/2123517703826612429",
-      "autor": "@SergioMassa",
-      "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
-    },
-    {
-      "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-      "autor": "@ceciliamoreauok",
-      "nota": "Con o sin PASO, el peronismo irá unido."
-    },
-    {
-      "url": "https://x.com/FrenteRenovador/status/2123779565629690036",
-      "autor": "@FrenteRenovador",
-      "nota": "Cecilia Moreau en C5N: unidad para ponerle un límite al Gobierno."
-    },
-    {
-      "url": "https://x.com/DiegoGiuliano/status/2124506977002835985",
-      "autor": "@DiegoGiuliano",
-      "nota": "Diego Giuliano, a 77 años de la gratuidad universitaria."
-    },
-    {
-      "url": "https://x.com/DiegoGiuliano/status/2124137869727957250",
-      "autor": "@DiegoGiuliano",
-      "nota": "Diego Giuliano, sobre la ley de seguridad de Santa Fe."
-    }
+    {"url": "https://x.com/ceciliamoreauok/status/2125333397858103751", "autor": "@ceciliamoreauok", "nota": "Cecilia Moreau acompañó un reclamo de jubilados."},
+    {"url": "https://x.com/MichelGuilleOK/status/2125331169990398329", "autor": "@MichelGuilleOK", "nota": "Guillermo Michel sobre el esquema económico y el tipo de cambio."},
+    {"url": "https://x.com/DiegoGiuliano/status/2125315259087167604", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano sobre los datos del INDEC que confirman la recesión."},
+    {"url": "https://x.com/SebasGalmarini/status/2125310331438174695", "autor": "@SebasGalmarini", "nota": "Sebastián Galmarini sobre la recesión, la inflación y la caída de ingresos."},
+    {"url": "https://x.com/marinadorotea/status/2125308144884879688", "autor": "@marinadorotea", "nota": "Marina Dorotea sobre la recesión y el impacto en las pymes."},
+    {"url": "https://x.com/felipemromeroo/status/2125311935012831394", "autor": "@felipemromeroo", "nota": "Felipe Romero sobre la recesión con inflación."},
+    {"url": "https://x.com/DiegoGiuliano/status/2125304223139074230", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano contra la lógica de confrontación en la política."}
   ],
   "entrevistas": [
-    {
-      "video_id": "HbpWLzHNpN8"
-    },
-    {
-      "video_id": "G7pC6FGk1Yc"
-    },
-    {
-      "video_id": "PZ4kI9wtH2Y"
-    }
+    {"video_id": "oFEeRoHKfdI"},
+    {"video_id": "H2lxMFOIWbA"}
   ]
 }
