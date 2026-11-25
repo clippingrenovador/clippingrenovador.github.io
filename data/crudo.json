@@ -1,9 +1,52 @@
 {
- "generado": "2026-11-24T21:07-03:00",
- "total": 728,
- "nuevas_ultima_corrida": 30,
+ "generado": "2026-11-24T22:46-03:00",
+ "total": 715,
+ "nuevas_ultima_corrida": 36,
  "errores": [],
  "notas": [
+  {
+   "id": "ab9357856325",
+   "titulo": "Malena Galmarini: “No aguantamos más que Tigre haya vuelto a tener la basura en las esquinas”",
+   "medio": "Zona Norte Diario Online",
+   "medio_url": "https://www.zonanortediario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeENiMWZvWjNfM2d0WDJSTU9tbUZpdkZDM2VyUHY4b1kwcVlpN1lXY05KZHVyS2p2TU5uQXBvS1Z1WHNwenNHc0pZVXBHdmxEUDJxLXRtSHNjYmlERjc3NE92b3pBODg1dUdMMTg4UHplUXFxME5sUFpKYm42Y1pLTFVEczJWalNxLTJJT2JKOVJSYTJEbVc2dzlFdEF6OWxvWWRfVWI1bmhqQ3lNNll0cnZwRFB4NHNtcld2MkhoMDJPQkU4NGpISEY3b2htLTJCNEJr?oc=5",
+   "fecha": "2026-11-24T22:23-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
+   "revisada": true
+  },
+  {
+   "id": "90be2686aecc",
+   "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
+   "medio": "BorderPeriodismo",
+   "medio_url": "https://borderperiodismo.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0xkZXhjbXZnaExNcjFrX2pVQXRkZlpsRC1OaG5JcVJTNGhtd1FOWDgwdlpheGxlOEk5VVk3SUczcWwyeGF1dWlURTBiQnRGd3huMjdUYk81SWpHSGpwbmJZSnVPc2xqOUdEZUJQTVZwaE9xWWkwUmRIRGtROGJmeFV6SmtSQlRkV1N5T1loOHd6S1lYVW9FUHU2ZmthY1REVUZQSXZlXzRhREREc1Q3TUVRMzc3TEk?oc=5",
+   "fecha": "2026-11-24T21:47-03:00",
+   "busquedas": [
+    "\"Sebastián Galmarini\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://borderperiodismo.com/politica/recesion-tecnica-el-gobierno-puso-el-foco-en-la-mejora-mensual-de-la-economia/",
+   "revisada": true
+  },
+  {
+   "id": "c11c6e866143",
+   "titulo": "El círculo rojo, preocupado por Milei",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDBtQkJiZXJNSXEtcWdUa3h4WnpGVWFIWEJGaVFxZC1YM0RnYlEyLWRsSHZlQVplVFg1Qm9hNEVTcFJ5VUtIT0ZtRWRQOEZJY2wzaUxZVnNiTlV4b05qOWI4bE84VjdESkhkYkVqR0cya3J3c1NRY09tbzJVNHlBSllESFdvY21Zb3lneUNfTQ?oc=5",
+   "fecha": "2026-11-24T21:30-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/el-circulo-rojo-preocupado-por-milei-nid24112026/",
+   "revisada": true
+  },
   {
    "id": "151251465c13",
    "titulo": "Buscan regular las cobranzas extrajudiciales en San Juan: qué prácticas quedarían prohibidas y cuáles serían los límites",
@@ -16,6 +59,20 @@
    ],
    "visto": "2026-11-24T21:04-03:00",
    "url_original": "https://www.tiempodesanjuan.com/politica/buscan-regular-las-cobranzas-extrajudiciales-en-san-juan-que-practicas-quedarian-prohibidas-y-cuales-serian-los-limites_1795562180",
+   "revisada": true
+  },
+  {
+   "id": "4743f2d3bc28",
+   "titulo": "Sobreseyeron a Lilia Lemoine por las agresiones a Ian Moche: el análisis de la defensa del menor",
+   "medio": "Agencia Noticias Argentinas",
+   "medio_url": "https://noticiasargentinas.com",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ01iMlZJTHN1V045RG12VDBlQ0dfU1J2QUVjRmNDUkRWcW9hUkl3aGNTQVU0ajJLYy1RUmNSOUNKOHliYmxKbXpIY3h6WXFzTFlRREx4c0NORFVXOVh2UUVKc2dITXVuakxGN0VvS0hna2tFV1Y3dndBbDhEdm9MdXp5bEhKR2poN2hUbWU3cFQ1UW1TTm1wemdvbERfcDhXUE9aNzFPNURLejk0YUlZMkw1R1NyU3pCaGcyNW0tbGlXUHZPY25LOGR0aDR4NzFzeDZrUzNVMVlwQjlUd2pnMGlTQ3ozUHlhbHdQZW9vRWlRTW5Wdy1JbENsWTNMcmtYZERN0gGDAkFVX3lxTE9DTWIyVklMc3VXTjlEbXZUMGVDR19TUnZBRWNGY0NSRFZxb2FSSXdoY1NBVTRqMktjLVFSY1I5Q0o4eWJibEptekhjeHpZcXNMWVFETHhzQ05EVVc5WHZRRUpzZ0hNdW5qTEY3RW9LSGdra0VXVjd2d0FsOER2b0x1enlsSEpHamg3aFRtZTdwVDVRbVNObXB6Z29sRF9wOFdQT1o3MU81REt6OTRhSVkyTDVHU3JTekJoZzI1bS1saVdQdk9jbks4ZHRoNHg3MXN4NmtTM1UxWXBCOVR3amcwaVNDejNQeWFsd1Blb29FaVFNblZ3LUlsQ2xZM0xya1hkRE0?oc=5",
+   "fecha": "2026-11-24T19:50-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://noticiasargentinas.com/politica/sobreseyeron-a-lilia-lemoine-por-las-agresiones-a-ian-moche--el-analisis-de-la-defensa-del-menor_a6b05f98fe592be1ffad75b95?output=amp",
    "revisada": true
   },
   {
@@ -60,6 +117,20 @@
    ],
    "visto": "2026-11-24T19:18-03:00",
    "url_original": "https://elintransigente.com/2026/11/24/guillermo-michel-pierden-son-clase-media-jubilados-hoy/",
+   "revisada": true
+  },
+  {
+   "id": "5d4a37d83289",
+   "titulo": "Argentina en recesión técnica: el trimestre volverá a cerrar en rojo",
+   "medio": "El Teclado",
+   "medio_url": "https://www.elteclado.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEQ2TkJqZlJpMHkzMy1XTE5XVVhfMG00OV9ib203REkxbkNQUlhkdnJJRnNsZ0VwTVJFSUxManJNVVhKRUtFR3NSWm43S2JscmpsbnFGVzdncXdac1lnZGY2M29xMW9lMUZ0MlJLc3UtanhxU0tzQ1lyRlBNTndudVljdjB2Q3JiWkN1emxiUGZuaVJUQTFOWXVZV2I1U1lSdE1UcVFnVGJ3Y2g2OEd5Vm90WE8wQdIBtgFBVV95cUxPVEQ2TkJqZlJpMHkzMy1XTE5XVVhfMG00OV9ib203REkxbkNQUlhkdnJJRnNsZ0VwTVJFSUxManJNVVhKRUtFR3NSWm43S2JscmpsbnFGVzdncXdac1lnZGY2M29xMW9lMUZ0MlJLc3UtanhxU0tzQ1lyRlBNTndudVljdjB2Q3JiWkN1emxiUGZuaVJUQTFOWXVZV2I1U1lSdE1UcVFnVGJ3Y2g2OEd5Vm90WE8wQQ?oc=5",
+   "fecha": "2026-11-24T18:14-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://www.elteclado.com.ar/nota/32474/argentina-en-recesi-n-t-cnica-el-trimestre-volver-a-cerrar-en-rojo.html/amp",
    "revisada": true
   },
   {
@@ -331,6 +402,20 @@
    ],
    "visto": "2026-11-24T19:18-03:00",
    "url_original": "https://urgente24.com/lousteau-di-tullio-katopodis-michel-monzo-ferraro-el-frente-anti-milei-n637360/amp",
+   "revisada": true
+  },
+  {
+   "id": "302bac70eba4",
+   "titulo": "Entre Ríos: Bravo impulsa a Depauli como sucesor en Federación y acorrala las candidaturas de Miller y Cattani",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEhFVVZ1RDRVaExldENTZ0R2dnVseVVOcENxTk1NUVFaQ3ZBS2R6RzNnYm9UN0MwcDZwdUhReWFDdWNlQmNXUktGY2NFdVMwNTV5QXZ1dWVhUk1reVJyZlhxREpwTzZmckx6akVUblRsNjFkUm5LR3Fkd3ZTdURxX1hUUmRyc2FBRzFrZXRvem5MZTVPNTY5LW1fSVR1d3RteF9tMm03RkNyNVoteVFpeUt1N3k3RjZzLXRtUmhiRkxjTVB5ck5ONzd3UkhrZ0o3c1JrZDZpR1ZDV1JCdUROUHhRNNIB4wFBVV95cUxPVEhFVVZ1RDRVaExldENTZ0R2dnVseVVOcENxTk1NUVFaQ3ZBS2R6RzNnYm9UN0MwcDZwdUhReWFDdWNlQmNXUktGY2NFdVMwNTV5QXZ1dWVhUk1reVJyZlhxREpwTzZmckx6akVUblRsNjFkUm5LR3Fkd3ZTdURxX1hUUmRyc2FBRzFrZXRvem5MZTVPNTY5LW1fSVR1d3RteF9tMm03RkNyNVoteVFpeUt1N3k3RjZzLXRtUmhiRkxjTVB5ck5ONzd3UkhrZ0o3c1JrZDZpR1ZDV1JCdUROUHhRNA?oc=5",
+   "fecha": "2026-11-24T16:07-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/entre-rios-bravo-impulsa-depauli-como-sucesor-federacion-y-acorrala-las-candidaturas-miller-y-cattani-n5428454/amp",
    "revisada": true
   },
   {
@@ -646,6 +731,20 @@
    "revisada": true
   },
   {
+   "id": "6ba890b9b6ac",
+   "titulo": "El malestar con PAMI, en cifras: el 68,2% de los afiliados bonaerenses tuvo problemas para atenderse",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzllRzAzd3hnTTNjMkpxb3VIVlBqb3YzZjh5al9DcUxQVjdXSVRIWDNsTVJsQnVJWUJSZnk3YUtJUXA4djJiTjQ3cjhFVnBXUXU2RjlUbkxCOU1CNlJRR2JSNG1UWVV5cW9NR1FZdTFOSHpMT0dBUV9xMEtmQWZCRkxjLW84T0xYR0x2RmE2Y2hMWC12QnJzSVlENG1ZaDFBbm92UU9UQ21OTWItVEFBVko5TGJtMTJ1S3Y4S9IBvAFBVV95cUxQSzllRzAzd3hnTTNjMkpxb3VIVlBqb3YzZjh5al9DcUxQVjdXSVRIWDNsTVJsQnVJWUJSZnk3YUtJUXA4djJiTjQ3cjhFVnBXUXU2RjlUbkxCOU1CNlJRR2JSNG1UWVV5cW9NR1FZdTFOSHpMT0dBUV9xMEtmQWZCRkxjLW84T0xYR0x2RmE2Y2hMWC12QnJzSVlENG1ZaDFBbm92UU9UQ21OTWItVEFBVko5TGJtMTJ1S3Y4Sw?oc=5",
+   "fecha": "2026-11-24T12:11-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-24T22:44-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603670/el-malestar-con-pami-en-cifras-el-682-de-los-afiliados-bonaerenses-tuvo-problema",
+   "revisada": true
+  },
+  {
    "id": "d61bec7df522",
    "titulo": "Sentenciará el INDEC a Milei…?: La hoy potencial recesión desnuda el costo social del ajuste",
    "medio": "Cuestión Entrerriana",
@@ -911,7 +1010,8 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUJ3M0prN3Eyc1Exb2MxaEtfVkdmTFVrcWVFUGZKNU14TlZCc3Y4ZFpmSGpOdnlmWVRtcUdOLWdScjRuejN3Um1qX1Y1V01xVWtKUXYyeUFpSEd5Tnh2MVpPN0RMUnp4WnNVV29wdHNHWTJlTnl1X3J0Q1JrNXU2NktiNll2ZVJNNFlkc190Z0lLbXZlTW9pVjU1U1VsQ3pQT3BEcFNtM2NLY2tj?oc=5",
    "fecha": "2026-11-24T09:18-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-24T10:41-03:00",
    "url_original": "https://noticiasdel6.com/pasamos-del-militante-al-operador-politico-la-critica-de-aldo-druetta-rumbo-a-2027/",
@@ -1026,7 +1126,8 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbjdEZi04QWxHc3hDajVFQUYtcVF5UkVjSFpjeTVjZWNtRVlFc3RXRUlRZU1RX05PVnlGRXdaQkkwRnh6Q2NXTkRtOFE2X1dLVi1rNEF0SWNZNlE5TXhmbTlxLTZrRXRGeEhCRUNjNXdONW5kOXhQOFoyajdaeEVlZmg5SGM4NDA2aHpXTXNDN0w2dlQ1X1ZkangyWDgteUFz0gGgAUFVX3lxTFBuN0RmLThBbEdzeENqNUVBRi1xUXlSRWNIWmN5NWNlY21FWUVzdFdFSVFlTVFfTk9WeUZFd1pCSTBGeHpDY1dORG04UTZfV0tWLWs0QXRJY1k2UTlNeGZtOXEtNmtFdEZ4SEJFQ2M1d041bmQ5eFA4WjJqN1p4RWVmaDlIYzg0MDZoeldNc0M3TDZ2VDVfVmRqeDJYOC15QXM?oc=5",
    "fecha": "2026-11-24T06:06-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-24T09:20-03:00",
    "url_original": "https://www.lavoz901.com/amp/el-pj-empieza-a-transitar-la-discusin-sobre-cmo-ordenarse-sin-paso.htm",
@@ -10262,311 +10363,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.lanoticiaweb.com.ar/andreotti-y-un-mensaje-interno-al-peronismo-hablo-de-construir-una-amplia-mayoria-y-ceder-para-ganarle-a-milei/",
-   "revisada": true
-  },
-  {
-   "id": "d3c8b2afb477",
-   "titulo": "Alejandro Deanes asumió la conducción del Frente Renovador en Tierra del Fuego",
-   "medio": "Del Fuego Noticias",
-   "medio_url": "https://delfuegonoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLV9oQkgwRGF5d3ZiRFhpRVJrYk9SQzV0UkhOLW94VGNNdUNYczJVR0E2S3plV1BTOEY2UkVwVzdkSnExT1FJbW9UMFRNdllzNWF3RmYxdFdVRUloZVlLM2tmMnhUdnF0TkFnWTZPV2FjRXd5cUVRYlpFeVlKMmt3T0FtclVGdVcwMUZSVFNmNk5tTzFkbkpFd1FCYlpyeVAzeDQtV0F4UEtQRnZsQmFrSQ?oc=5",
-   "fecha": "2026-11-17T22:46-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://delfuegonoticias.com.ar/alejandro-deanes-asumio-la-conduccion-del-frente-renovador-en-tierra-del-fuego/",
-   "revisada": true
-  },
-  {
-   "id": "79fe50f1ccd6",
-   "titulo": "El peronismo se reunió en San Fernando para avanzar en la construcción de un frente nacional anti-Milei",
-   "medio": "0223.com.ar",
-   "medio_url": "https://www.0223.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNejBfbDlFOTdvSm82S3h6UjdpSEgyU0x3NUhoTkFWQ0RTTy11WkRUdXdjeTkyU3ZZdXdwOTlDMkRib3B4blFsUkQ4SThvNDJiZDdvbUNMY0Z4NWdhZ290S2Z4ejRLZlZsSXZzUGUxVjJqbHl3VzBZRG04SnpXaGtxb2hTWXU3cWhNX1ZLZUEwdmpGMEdsYnQ1NzlCblFjU08wcEV5WDgwV2gyOFNVX2F4eWdUQWxkdnBCeHhTeXl1NmZFYndPZEtZeC0tVXBwWDN4WW5TaVp6Z3d2MXYzNld5eHdkY1Rvdw?oc=5",
-   "fecha": "2026-11-17T22:38-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Malena Galmarini\"",
-    "\"Sebastián Galmarini\"",
-    "\"Cecilia Moreau\"",
-    "\"Juan Andreotti\"",
-    "\"Katia Blanc\"",
-    "\"Germán Di Cesare\"",
-    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.0223.com.ar/nota/2026-11-17-21-48-0-el-peronismo-se-reunio-en-san-fernando-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei",
-   "revisada": true
-  },
-  {
-   "id": "3c126b03864c",
-   "titulo": "Peronismo. Con De la Sota en un lugar destacado, Massa se mostró con las tribus del PJ",
-   "medio": "La Voz del Interior",
-   "medio_url": "https://www.lavoz.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU43cXJWWG5zXzVuUEhOUW1Tekw4Y1piYWhBVS1TLWxXc0xha2RvWWVDSldUWWxWT3MtcnRoX0prcVZWLXdJcDlHZUxEWllXZlVjeFdIWjgtSjhybzFHNUpRVEl5ZXJZSVpvV0hHOGdsSGt0WWxKNFlPbWRfTU5INHdjSUNVVHlBOTM2UzVCdDRSTGlkZTRNRWJjbw?oc=5",
-   "fecha": "2026-11-17T22:34-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.lavoz.com.ar/politica/sota-lugar-destacado-massa-mostro-tribus-pj_0_qKRkbRHbCO.html",
-   "revisada": true
-  },
-  {
-   "id": "626bc19c13b2",
-   "titulo": "San Fernando: Massa y dirigentes del peronismo se reunieron para impulsar un frente contra Milei",
-   "medio": "NorteOnline",
-   "medio_url": "https://norteonline.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yazU5MUdvUHBhblI2UlBFODFCR3lNX0xFQml4Zk5qMFphVERJLVdjRDlneTZ1REROTHNuY3pfWmNCbGQycEpSaUNoVEF6M21Id3d4bVJtRlhtV1VaUFhVT0FQb1hOS1FTSXgzRWMyNDhwcGdqWERRctIBgAFBVV95cUxQQUtXZGxaYi1MS0RJSjBFNzJGUVZ4WjdvdWtvT3pDVVI5NkhzeFVkN2ZYSnl6dWdqOW91cUlMb3o1WWJfd3AzbWQtQ01GYWpIUGhFS3VIY05fTmhSUXh6dTdLWjNVMi1VM1FlSGV4THlZeDhxRDRPaGx3aW9wYWJ0RQ?oc=5",
-   "fecha": "2026-11-17T22:34-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://norteonline.com.ar/massa-peronismo-san-fernando-frente-milei/",
-   "revisada": true
-  },
-  {
-   "id": "e0e566829be0",
-   "titulo": "Cacho Bárbaro, Cristian Castro y Yamila Ruiz, en acto de Massa en San Fernando",
-   "medio": "La Voz de Misiones",
-   "medio_url": "https://lavozdemisiones.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEx1dHZJWFlwVFY1VWNDbFctTzRuSWs0bVkxVnRkSVZDUEJTem1FUFRUZEVnV2dJdkdMS3B1WHN0REFQTTZ1cW1fUDF3MXBOdThXRzVBekg3S1JnT25SM1RnNDhwemZ0SE1qWFNFZjVuc1RwMHk1R0NRSHVnUzR4SG5XQnp0a3VoNWVsVG1LUkxxeFRlLXFOT3ZvWWNXQlhNRFVWWXYzQnVlUmcxWm1BNjVLaw?oc=5",
-   "fecha": "2026-11-17T22:28-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://lavozdemisiones.com/politica/cacho-barbaro-cristian-castro-y-yamila-ruiz-en-acto-de-massa-en-san-fernando",
-   "revisada": true
-  },
-  {
-   "id": "c0fddf729a2c",
-   "titulo": "Día de la Militancia: Massa, Uñac y referentes del peronismo federal se reunieron para avanzar en un frente opositor a Milei",
-   "medio": "minutodecierre.com",
-   "medio_url": "https://www.minutodecierre.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZmstSzRTc1J2c1RfcnhQNGlQOF82ems0OG9GRHczX2tNRzRWTU5jOGNQbW1nSW1CTE5Oekh1ZXlfdnlHd0tDd3BZdHhycXp3azVmQjB4TE9SdmRvM0JNWTZwbldlbHNPY0tZcTIxLUo1cW1JYi1MZUxocHh0MjFBQTJvMWxmSUM0T2hsa2RLN01kQmtlWHRxUFJsTWFzWTNqMVhvcUhaT0pFZGh5YkRIUEJ1MG5jYVJaclFRaG1YSGdBZmhSb09SQ2g0SlRnbUp4bkd5ZmZSc2doTUJNX2pHRDNOMkFqcUtpQTVBTG5uaXd5cWN4aW11SW10Y2tMMW5HRm5XLWRyejU?oc=5",
-   "fecha": "2026-11-17T22:11-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutodecierre.com/nota/2026-11-17-21-59-0-dia-de-la-militancia-massa-unac-y-referentes-del-peronismo-federal-se-reunieron-para-avanzar-en-un-frente-opositor-a-milei",
-   "revisada": true
-  },
-  {
-   "id": "0e70d19446a0",
-   "titulo": "Andreotti pide al peronismo construir una amplia mayoría y ceder para derrotar a Milei",
-   "medio": "elconurbano.com.ar",
-   "medio_url": "https://elconurbano.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFdiY2pkNHlWWWJsR3lzaWVIMzZHb2lhSzdqRVBYRUN5dU9Dd3JzcEJwLWN3R01LVG9KVFFscGdHZTR4ekRaMXk5VWxOVHRBdFZfOWVUV2hiUXBtNVlrdklYMnZBZUd4RzZIRWRibERfWkJOQWd5LXFqUnFOZHEwUy1EQnY5QUtqcHp0d2xIdWxHazYtTHVKMUhWUWNBQk5EWWpwMHJEem5lSFhJeXAwSkpUUEZ5bW8xN1l3UGdHa1FGMzJpSGxVdndYZFE1aWFQY3N0VHNzMl9jTzhm?oc=5",
-   "fecha": "2026-11-17T22:10-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elconurbano.com.ar/andreotti-y-un-mensaje-interno-al-peronismo-hablo-de-construir-una-amplia-mayoria-y-ceder-para-ganarle-a-milei/84039/",
-   "revisada": true
-  },
-  {
-   "id": "2c297adcf7cf",
-   "titulo": "Tras un cambio en la agenda, Massa llegará a Misiones la semana próxima para reunirse con Passalacqua y el sector empresarial",
-   "medio": "Canal Doce Misiones",
-   "medio_url": "https://www.canal12misiones.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUpkWDZXeVlRckczUHl3dXVHUUJFdkhnWTVCRmlZSnVuemxqUEhpdnl4ZEl3NjBYWjgwdG1JZk1tWkpjZjVXcjJjWkVTVUl1aFRSeWlQTmxMM2xyYVBLSXBNZlE1czM0amdjRER5UGRNV2RuRi1zOS1ySWN3YkV5akV4Tkt4eV80bnpzX0o1YlprODFMQXg1QkJwSTVJQUJBa2NRaE1yOA?oc=5",
-   "fecha": "2026-11-17T22:09-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.canal12misiones.com/noticias-de-misiones/politica-politica/sergio-massa-misiones-passalacqua",
-   "revisada": true
-  },
-  {
-   "id": "41b8e6f03ba0",
-   "titulo": "Massa suma a Tierra del Fuego a la reorganización federal del Frente Renovador - Diario El Sureño",
-   "medio": "www.examedia.com.ar",
-   "medio_url": "https://www.examedia.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kLWxOX3BTSjFfT3d0dWpXWVl2VUxPMkEyQ2pWX0liVmxKVmFTV3FsYVFfemVfQlpJOG05dExDVzM2SDNHT21HWkpza2gwVjlObjhWdnpRX3FkRFZqTGc?oc=5",
-   "fecha": "2026-11-17T22:04-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.examedia.com.ar/portada/post/88258370",
-   "revisada": true
-  },
-  {
-   "id": "e9730f39ab51",
-   "titulo": "El peronismo se reunió para avanzar en la construcción de un frente nacional anti Milei",
-   "medio": "El Cronista",
-   "medio_url": "https://www.cronista.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0ljclF3QjV5YVhqZUhvY1hsTjVYR3BELXhtRXZJblg4RlBFVVlPUjlxUWdTM1NBQ0FRejRZc25Ea2lvTXIxNXZxazdJTzhuS1ZhaEo0TjIzVUdMcVB6M0w2Ym1kaHhlSi1GT3J2ODdrUDRUaGJ4eVg0OUhrMkU4Vzd6ck5mMWhVLUc1OW1FVlU1aXVBaEhCeW9qZFhJMHcycGs0ZlRjN0dWTXRZa093S1B5U0ZmazZOam4xWE1LQTU5WUZnTHo2SWc2RdIB5gFBVV95cUxQNWhyQUFZNXRNbmcwMGlYeS04NE9OSkxFaXhrQ214cTAzTmQtWjVDSDlJWFRsd0x3OS15b1RfV3Rmam5DM3YzNFVlandYNVA4bThaRHlDdkE4SzFIbFByZ2twRi01ei0wLWxQc1psRWVzcHk4MV9JcENvaTVfb1NjVW9tM0ZfTkZ1MU4ya09GOHVUb0pUaWdJX1ZEX2dMV1hhVVdBY2N3STZYMWI2UTVYTjVKNmZYbHppTFViOE1FMHpEOFd5UGFiY3dWRHlWazg4dXB2RlVwaTFBNFBNN1hiaDRWaWpvZw?oc=5",
-   "fecha": "2026-11-17T21:55-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.cronista.com/economia-politica/el-peronismo-se-reunio-para-avanzar-en-la-construccion-de-un-frente-nacional-anti-milei/",
-   "revisada": true
-  },
-  {
-   "id": "b81624f52d56",
-   "titulo": "Di Nápoli participó del acto de Sergio Massa en San Fernando",
-   "medio": "La Arena",
-   "medio_url": "https://www.laarena.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdEh0ekNhdVpvVnpySU5HMmZnMDZPSUl0R2lnQUpzem83VGt0VmdmVjU2N2tZTDZmMnoyTlhWYnFzakZRY1RtWU5LbFpRRDQwdWp1cDdnQUo1WUpaMUMxZXB0anRUZDJlU2NJMWNTZUE5MGZmYm9Jejh6OGVBVF9xWFFQVDhwN2lqYXNTWHhtVk51cnZmeXBXV2dGTldRNmppNk93NVZ6MFhkeFpa?oc=5",
-   "fecha": "2026-11-17T21:54-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.laarena.com.ar/la-pampa/di-napoli-partipo-del-acto-de-sergio-massa-en-san-fernando-2026111721440",
-   "revisada": true
-  },
-  {
-   "id": "8091ed61475b",
-   "titulo": "El peronismo se reunió en San Fernando y dejó un mensaje para Kicillof: “Unidad por encima de las aspiraciones individuales”",
-   "medio": "TN",
-   "medio_url": "https://tn.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT0kzOHBRYmQxN2xBbGJ4QS1sX1NBLUFwMExEMFNWWGQyT3JjdjEzNHZsWUpLZ0FQc2stRzRKX2VYSkloU1RidEEtVk9xc0s5MElWUTRTRW1aWHJJR2tDeHRDLXdUenFxRzdDcTNTdWctaEdxNmZQTVc0MEJwaEx4dUdmVUowX1hzY3ZDYlAxc2pZYnJIWWk3WjNuV2I4UnFzdHdiaXRDMHNwcXF3QllUelduQU50WDI4OTRtODQ3cnVPZTItcmdQaHFEQ0wyd0ZEUVptc1N4WnJWaVFEVEtzd28zRzNnTFo3NkZ1RW9hSXEyUdIBhgJBVV95cUxOX1V6OW5EUGoxTzBKcFlNRGlHUzZBY0loWnBTUW42cHo2SnJWWTRPWWJRd3BrMjRxWDRDQ3UtOWQtN3VoRmY1Z1lFVUx6REFTbzAxVE9lajRPQzdaVWRYazBFbDhKVmxCQzNyWkk2NS1TeXhVLU1zUzlHMDlPSFMwUlJKdThCUDlkYmQwUEpHb1N0eHA1SVpTT0xJTzNEU3JLSWVvS2ctZXd4UFk2OWJXNlJOckVENUU1NHlYZThXNHJhcF9HMjA0U0lxaC13LUJXbzI1cU0xcmJSMWFRaC1HVTNxdDBSMGNpM3NDOUxTSmRUR3pHb3FaTVVzSmE0TDB0Z0UtaFVR?oc=5",
-   "fecha": "2026-11-17T21:52-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://tn.com.ar/politica/2026/11/17/el-peronismo-se-reunio-en-san-fernando-y-dejo-un-mensaje-para-kicillof-unidad-por-encima-de-las-aspiraciones-individuales/",
-   "revisada": true
-  },
-  {
-   "id": "fe79e3c9dda8",
-   "titulo": "Massa armó su acto sin Kicillof y el PJ se prepara para dirimir la interna sin PASO",
-   "medio": "Clarin.com",
-   "medio_url": "https://www.clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWRGQ294YjNNTUFOWDU2bjV0bTd0SmZsemRUMGZwTWpFdEF2Q0VISGxwbWJmMG5fdUpGVUlqUkFLTFBBSGdhSE9Rc0kyVWUyUFFNNk84WmJSWWxrR25MNzE5MkVRWVJWQlhPbF9hY3UzSVp1Um5jTWswTko1M2FRNElzeUpLVXgwSkJKRFlRWEdpMWZCNEFjNC1LcXJlOVMtUTF1N1JwNHZ0Zw?oc=5",
-   "fecha": "2026-11-17T21:44-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.clarin.com/politica/massa-armo-acto-kicillof-pj-prepara-dirimir-interna-paso_0_KLsGzlMMBb.html",
-   "revisada": true
-  },
-  {
-   "id": "09f15e053b92",
-   "titulo": "\"Gerardo Zamora, Sergio Uñac y Natalia De la Sota\": Sergio Massa mencionó a tres posibles candidatos a presidente del peronismo",
-   "medio": "C5N",
-   "medio_url": "https://www.c5n.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNTUzNFpac3BYSXhZeE10eTNjeWFBTEVRNkhCU2stbTZGRTVJamVRNWR3c0I1cldHOUc0eUpRWjU2TUtLWUxpU015MlFQZUw5M3hWYlRiUmFXZDFRS2wxeVFqbDRtRTNUOUlpYVgzY2tab2VPbkZmS19IbjNGcUFBbWtpWmpROF95RVZBdXZpdEVwcmVkTGF2R0ptUUxaLTlXRUJac3d0clNKX0ZJeFVwLWg2dS1KczhXUE5Eb19DQkVjUjNEY05YX1NrQ1F5S3M5UGU5cW1iSW8xRUhDdnFmSDdFODVWYV9p0gHuAUFVX3lxTFBuVV9CbG41LUFxUGNoZzVvZU5UaUFDc1otbFJYX3NFdXFhNk9qNkZKS2VoaEIyV28zUXRUSVlrVWxIeDVMNDhGSVVTa1pGcUNpdUduTllqT0tQNUNleVNSYWl1SVBqZnoyVjVhTm1wdC01UVVxZGpZMlJqUVRVNFJHY2t3emJIaFZ1aEJ6YVBRS3JnYVBkX0plOUdVVVNXWUJhdUJUTHlZbC1OMU9vN3IzWkpBY0llbl8yYzd3Z1RpQWZoS0swd2Nja2FUR3dwTlpjY1ZEUHU1YmdVdEloT056dFVjWW10ejdndHJoTnc?oc=5",
-   "fecha": "2026-11-17T21:42-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.c5n.com/politica/gerardo-zamora-sergio-unac-y-natalia-la-sota-sergio-massa-menciono-tres-posibles-candidatos-presidente-del-peronismo-n254641",
-   "revisada": true
-  },
-  {
-   "id": "301bdfa4d18d",
-   "titulo": "Massa reunió al peronismo en un frente anti-Milei, pero no invitó a Kicillof y se reaviva la interna",
-   "medio": "Tiempo Argentino",
-   "medio_url": "https://www.tiempoar.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TG5sSnp2SW1Tb3RiMmVtbHhpZXFHS1VwMDZBSVRmM3RZb3o1enlVN3plVHlBUHRHZlN1M25pVjNWa21GMzBrMGJSbFp0WXhBSGpLd2duRHhpQWVlN2hwa2NlTmVuUWpzSWhTdGtxTTRNTFpGcHfSAXtBVV95cUxNSk53QWQ5Q0hEYnlEcEtTQmxPWDNHUHhrVmphYzJDNHh3YjJzaWhETlJqNXBkMUw1V0NLV0htbktWZjkxODJXbnk2VEFzVF9WZ3ZmSHlIX0Q5dWxCUkxBb0xDYVEwMWppcmJoaHpUTnlUNXl6RHBhNGVwYjg?oc=5",
-   "fecha": "2026-11-17T21:41-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Sergio Massa\"",
-    "\"Malena Galmarini\"",
-    "\"Sebastián Galmarini\"",
-    "\"Cecilia Moreau\"",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.tiempoar.com.ar/ta_article/massa-peronismo-no-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "7c903429c096",
-   "titulo": "Massa reunió al peronismo en San Fernando para enfrentar a Milei en 2027, sin Kicillof",
-   "medio": "Zona Norte Hoy",
-   "medio_url": "https://www.zonanortehoy.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlRobjgtQjBpQUUtV0xUSFdsZWNfVFdQWG9CSEdRa2dVbWhLUnJhbHcxWUFpU1R0alRYdlFsV3hKTlljclR6Vkk5UEQxckJxRzFHcnJjUjdLYWFxdDlLMWZ4aVFVdnJNanN1RnREaXZubXlCNzRXVHpPVC1DeGt4SGd3N3k5aU5CWnRJVUtGc0xzZkhaQXA3VnRhdGxSTlY3T0R6YnRUejNYUGxSNmJNUm9mdmh4UnBTVnh6c1hfdUZmczh0dlhGM2g1NA?oc=5",
-   "fecha": "2026-11-17T21:30-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.zonanortehoy.com/elecciones-2027/massa-reunio-al-peronismo-en-san-fernando-para-enfrentar-a-milei-en-2027-sin-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "04ccc7a419cc",
-   "titulo": "Sergio Massa le dijo a C5N que estuvo acompañado por \"tres candidatos a presidente\": quiénes son",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcC1pTURDM2VOc3FmXzQwQ0xST2plN1oyemtHbnNiZWJnSUMxSlhrbGd6a2l3ZDZrRUFzNmpacGNnU2YxZ0xES181dFNuMEhyWjdrN0NhZk5KYkxGSHFmcnRFMk1BRkVNYXJ2NmhBaktGWnhYcDlzTEpSVVZuWWFpOGVyc2dXVEw5cnhCU3FyX0VuNGEwOUlLOTBNc1hjcllNM1RZdkpEU2dabE5vNlV0eDZKTzQ4UnhVdy1KeGlPdGM4UkVNTExpT9IByAFBVV95cUxNcC1pTURDM2VOc3FmXzQwQ0xST2plN1oyemtHbnNiZWJnSUMxSlhrbGd6a2l3ZDZrRUFzNmpacGNnU2YxZ0xES181dFNuMEhyWjdrN0NhZk5KYkxGSHFmcnRFMk1BRkVNYXJ2NmhBaktGWnhYcDlzTEpSVVZuWWFpOGVyc2dXVEw5cnhCU3FyX0VuNGEwOUlLOTBNc1hjcllNM1RZdkpEU2dabE5vNlV0eDZKTzQ4UnhVdy1KeGlPdGM4UkVNTExpTw?oc=5",
-   "fecha": "2026-11-17T21:29-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutouno.com/politica/sergio-massa-le-dijo-c5n-que-estuvo-acompanado-tres-candidatos-presidente-quienes-son-n6346437",
-   "revisada": true
-  },
-  {
-   "id": "46f1ebf93263",
-   "titulo": "Uno por uno, todos los dirigentes que participaron de la cumbre del peronismo en San Fernando con Sergio Massa",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN2k3bTBtZkhxNVA3UEtmMW1fSGZFT0pLVFBvTVJuemxoV2xNTjBscnYzdm03UnpIN3NLT095LUR4TmNiM0tTU25xYy1EU290Z0x4VUlqX2prU0FjbnpmdmR3eU9QLVpqTUtsM0tSem1hcUZYMDYtWUJxdU92R3BoWFplTEc2cUJTUm96S1NhWHNFdUxXbTN2enNVcjF2cXplVFpkV3RBZHZzNHR5T3ZCTHJyck5CRE13d284NndDQzAya2RUQjBiUWx6U2pkWVZ4OXRJQjNR0gHWAUFVX3lxTE83aTdtMG1mSHE1UDdQS2YxbV9IZkVPSktUUG9NUm56bGhXbE1OMGxydjN2bTdSekg3c0tPT3ktRHhOY2IzS1NTbnFjLURTb3RnTHhVSWpfamtTQWNuemZ2ZHd5T1AtWmpNS2wzS1J6bWFxRlgwNi1ZQnF1T3ZHcGhYWmVMRzZxQlNSb3pLU2FYc0V1TFdtM3Z6c1VyMXZxemVUWmRXdEFkdnM0dHlPdkJMcnJyTkJETXd3bzg2d0NDMDJrZFRCMGJRbHpTamRZVng5dElCM1E?oc=5",
-   "fecha": "2026-11-17T21:24-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Sebastián Galmarini\"",
-    "\"Cecilia Moreau\"",
-    "\"Juan Andreotti\"",
-    "\"Germán Di Cesare\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutouno.com/politica/uno-uno-todos-los-dirigentes-que-participaron-la-cumbre-del-peronismo-san-fernando-sergio-massa-n6346433",
-   "revisada": true
-  },
-  {
-   "id": "fab004e9fa5f",
-   "titulo": "Sergio Massa habló con C5N tras la cumbre en San Fernando: \"Soy muy optimista... un día va a haber unidad\"",
-   "medio": "MinutoUno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGhuSk5ReEJaby12Z3JOT0lMY1dobjY3dnVKOVI1RG1mN2VBQkIxdVBMWVhaOE5QdnVjWkhZRnMyVzk2UFZXTjFPMjZ6endfVkQ2OWhEXzJDOGo1bmJyVnJ4TndYNDBKMDY5dDJjU1hkNDlkSFlDX2htdWh6Mzl2M1V0TVRCTWxPXzhHU2ZOUDJQQXdUSk5LMWxzQ3JFVjNjYTdjMmxMamhhWVhMdTU0TkJTLU5FdmR6NFhFcERuVmxwSlFYbHdOOW5B0gHKAUFVX3lxTFBUaG5KTlF4QlpvLXZnck5PSUxjV2huNjd2dUo5UjVEbWY3ZUFCQjF1UExZWFo4TlB2dWNaSFlGczJXOTZQVldOMU8yNnp6d19WRDY5aERfMkM4ajVuYnJWcnhOd1g0MEowNjl0MmNTWGQ0OWRIWUNfaG11aHozOXYzVXRNVEJNbE9fOEdTZk5QMlBBd1RKTksxbHNDckVWM2NhN2MybExqaGFZWEx1NTROQlMtTkV2ZHo0WEVwRG5WbHBKUVhsd045bkE?oc=5",
-   "fecha": "2026-11-17T21:22-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutouno.com/politica/sergio-massa-hablo-c5n-la-cumbre-san-fernando-soy-muy-optimista-un-dia-va-haber-unidad-n6346432",
-   "revisada": true
-  },
-  {
-   "id": "09d277fb108c",
-   "titulo": "Día de la Militancia: Máximo Kirchner estuvo con Ziliotto en La Pampa y Massa encabezó un acto en San Fernando",
-   "medio": "Data Diario",
-   "medio_url": "https://www.datadiario.com",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdlBmb283c3doQWxUT2pORVZSX3doWVI4R1Ztel9qY1Vka1pQVnVudlktazNfWVJHV09yRjFnMkxxd1RGWHpzMzBXbFpvSGFJcDg3TEo2OVc4Skh2enNCNzdOQnhPY0dCdGtfdWMzWVE0TW1KcTFVNEotcHprUlFfSEZSTlBoN3B5c25GUkxMeU03NWFuNGI5ekxNa1E0ZFJBN0kyaHdQTUNsNUxjVUlQVkVNbGVJZUJIYnNWdFJ5NFBrQTVibFMzQWhhVmx1dUF6cUFDOHAxa3MzdFV4M2ZVLVJaWEdtbVNkNkt5V2MwbW1zZHd3TjRHcTY1cTgtcVhudEZ6clJaOXQxdXdKX0prQjhJMEs?oc=5",
-   "fecha": "2026-11-17T21:16-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.datadiario.com/politica/dia-de-la-militancia-maximo-kirchner-encabezo-un-acto-en-la-pampa-y-sergio-massa-hizo-lo-propio-con-una-alta-convocatoria-en-san-fernando-202611172030",
    "revisada": true
   }
  ]

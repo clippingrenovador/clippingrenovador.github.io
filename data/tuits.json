@@ -1,7 +1,129 @@
 {
- "generado": "2026-11-24T21:06-03:00",
- "total": 67,
+ "generado": "2026-11-24T22:45-03:00",
+ "total": 76,
  "tuits": [
+  {
+   "id": "2125304026514256356",
+   "usuario": "LuisCaputoAR",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/LuisCaputoAR/status/2125304026514256356",
+   "citado_en": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
+     "nota_id": "90be2686aecc"
+    }
+   ]
+  },
+  {
+   "id": "2125317875896406327",
+   "usuario": "JMilei",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/JMilei/status/2125317875896406327",
+   "citado_en": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
+     "nota_id": "90be2686aecc"
+    },
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
+  {
+   "id": "2125310331438174695",
+   "usuario": "SebasGalmarini",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/SebasGalmarini/status/2125310331438174695",
+   "citado_en": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
+     "nota_id": "90be2686aecc"
+    }
+   ]
+  },
+  {
+   "id": "2125312301733474798",
+   "usuario": "MaJimenaLopezOk",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/MaJimenaLopezOk/status/2125312301733474798",
+   "citado_en": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
+     "nota_id": "90be2686aecc"
+    }
+   ]
+  },
+  {
+   "id": "2125318542522257603",
+   "usuario": "clarincom",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/clarincom/status/2125318542522257603",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
+  {
+   "id": "2125341743281315942",
+   "usuario": "vtolosapaz",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/vtolosapaz/status/2125341743281315942",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
+  {
+   "id": "2125252610722594935",
+   "usuario": "Kicillofok",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/Kicillofok/status/2125252610722594935",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
+  {
+   "id": "2125325188481044576",
+   "usuario": "EstebanPaulon",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/EstebanPaulon/status/2125325188481044576",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
+  {
+   "id": "2125303423910211839",
+   "usuario": "INDECArgentina",
+   "visto": "2026-11-24T22:45-03:00",
+   "url": "https://twitter.com/INDECArgentina/status/2125303423910211839",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    }
+   ]
+  },
   {
    "id": "2125331169990398329",
    "usuario": "MichelGuilleOK",
@@ -34,6 +156,11 @@
    "visto": "2026-11-24T19:18-03:00",
    "url": "https://twitter.com/infobaenvivo/status/2125219347819827542",
    "citado_en": [
+    {
+     "medio": "Agencia NOVA",
+     "titulo": "El negocio de los 900.000 millones: la trastienda política, el lobby de los zares del juego y la batalla por la caja",
+     "nota_id": "4d63bd05157c"
+    },
     {
      "medio": "Agencia NOVA",
      "titulo": "El negocio de los 900.000 millones: la trastienda política, el lobby de los zares del juego y la batalla por la caja",
