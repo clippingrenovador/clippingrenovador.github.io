@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-24T20:16-03:00",
- "total": 736,
- "nuevas_ultima_corrida": 31,
+ "generado": "2026-11-24T21:07-03:00",
+ "total": 728,
+ "nuevas_ultima_corrida": 30,
  "errores": [],
  "notas": [
+  {
+   "id": "151251465c13",
+   "titulo": "Buscan regular las cobranzas extrajudiciales en San Juan: qué prácticas quedarían prohibidas y cuáles serían los límites",
+   "medio": "Tiempo de San Juan",
+   "medio_url": "https://www.tiempodesanjuan.com",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcHM4a0lQbVJpXzhaS3pEUU0tdE95NHVrTlZXTEhhMU9jcVlyV2FaQ0J4S2hkTmpPUzA1OTMtMGgxNDFhRG10NTVldmZ1VXdZS193WXlOUV8tX2llaXh6OXJCckNDOTVsZEZrak5ieVh2cW1XQnphYVZXZHZTZkNsN2RmZkZweWczQmZfOGRwY1hOVnVFQWlNZkNSN1VaY0FqeFZtRTdQY0NUVFhjb2NaUWlBVEZweEhtaWFQY2N2cHM1WFg5Tzd3YVY4QnJ2bG0yM2UtWFdNNmk4NzJ4eXNOMzNqc2xfdTlpekJOYi1Pb1BMci1JUWpRMVRvRzNUZlQx?oc=5",
+   "fecha": "2026-11-24T20:16-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T21:04-03:00",
+   "url_original": "https://www.tiempodesanjuan.com/politica/buscan-regular-las-cobranzas-extrajudiciales-en-san-juan-que-practicas-quedarian-prohibidas-y-cuales-serian-los-limites_1795562180",
+   "revisada": true
+  },
+  {
+   "id": "008949bb1826",
+   "titulo": "Sin Buenos Aires no hay Casa Rosada: Axel Kicillof refuerza municipios frente al avance del PRO y LLA",
+   "medio": "Letra P",
+   "medio_url": "https://www.letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa3ZrRDBGaTRWZU9yaTlYN0pyNUFRZDVpYTI4NlFZZ3BIeVA2c2doSW0xdmFPTV9jc3Joc1dvU09hZFdaVC0wa3N0eWw0aXNxb09pYWI0SWFkVW9WMVYzOU1mcVVneWpvTjRvWUhfaTFybEEtajYxZWlXNWl2bXVlTFBKOUdoNmRHNDduU2FZN3hiRjhqTWhyUUI5a0ZGX0Q5RVZvVmNfZF80cG5qeS05UmFkMGJ6VWlpXzNzWW1hRHZVblliVXJHdGMwT2luazBHVWxEcWZFTmJTNXljS1JoT2RB0gHiAUFVX3lxTFBrdmtEMEZpNFZlT3JpOVg3SnI1QVFkNWlhMjg2UVlncEh5UDZzZ2hJbTF2YU9NX2NzcmhzV29TT2FkV1pULTBrc3R5bDRpc3FvT2lhYjRJYWRVb1YxVjM5TWZxVWd5am9ONG9ZSF9pMXJsQS1qNjFlaVc1aXZtdWVMUEo5R2g2ZEc0N25TYVk3eGJGOGpNaHJRQjlrRkZfRDlFVm9WY19kXzRwbmp5LTlSYWQwYnpVaWlfM3NZbWFEdlVuWWJVckd0YzBPaW5rMEdVbERxZkVOYlM1eWNLUmhPZEE?oc=5",
+   "fecha": "2026-11-24T19:18-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-24T21:04-03:00",
+   "url_original": "https://www.letrap.com.ar/politica/sin-buenos-aires-no-hay-casa-rosada-axel-kicillof-refuerza-municipios-frente-al-avance-del-pro-y-lla-n5428458/amp",
+   "revisada": true
+  },
   {
    "id": "3a2a0b2f663e",
    "titulo": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei",
@@ -330,6 +359,20 @@
    ],
    "visto": "2026-11-24T16:24-03:00",
    "url_original": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+   "revisada": true
+  },
+  {
+   "id": "fceb7a7fd705",
+   "titulo": "Combustibles: avanza el proyecto bonaerense sobre información de precios y crece el rechazo empresarial",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVEt2eVdVUkc0YjdDMTN0MHF5T0l4MUlka3RPY2tZbmtJdzlUcEdwdDVwS19rdFRGMk0tTndfMXF2U29xWTZYcWY5eUU3akdGWHZnVUowZ05jWDljeTZBYW9LLVdFZ2phbk45aVZqZV9oY04xdFE5M18tSDRqZzRKYTdMVC1RdHFfM1Q5ZEkxdVdsMHBFSzZOeGV3VjZsMFBhUFVrOWpUdWt2bXEwQkhGd3JCZUVDR0l4UExfOdIBvAFBVV95cUxPVEt2eVdVUkc0YjdDMTN0MHF5T0l4MUlka3RPY2tZbmtJdzlUcEdwdDVwS19rdFRGMk0tTndfMXF2U29xWTZYcWY5eUU3akdGWHZnVUowZ05jWDljeTZBYW9LLVdFZ2phbk45aVZqZV9oY04xdFE5M18tSDRqZzRKYTdMVC1RdHFfM1Q5ZEkxdVdsMHBFSzZOeGV3VjZsMFBhUFVrOWpUdWt2bXEwQkhGd3JCZUVDR0l4UExfOQ?oc=5",
+   "fecha": "2026-11-24T15:39-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-24T21:04-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603682/combustibles-avanza-el-proyecto-bonaerense-sobre-informacion-de-precios-y-crece-",
    "revisada": true
   },
   {
@@ -10524,164 +10567,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.datadiario.com/politica/dia-de-la-militancia-maximo-kirchner-encabezo-un-acto-en-la-pampa-y-sergio-massa-hizo-lo-propio-con-una-alta-convocatoria-en-san-fernando-202611172030",
-   "revisada": true
-  },
-  {
-   "id": "3937aec98656",
-   "titulo": "Entre un frente anti-Milei y la disputa con Kicillof, el peronismo armó una foto “federal” con Massa",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDd0MFR1ZFZMMHc2Y0RNQ3NRRUJCT3FLR1Y0blRNSWlEMWlxY05JdHA2dVFCT1RDQXFINXZVLUhQX0hfeGktS3JudHJrbWdwYjV6azQ2S3lwa1RJZ0Q2ejJUQjlLaWZYUTdOTmhScG1IQ19taDJxSDd3V1FhNXc2MTl1eFRJRnAwdUJHeS1OaFhoMlhOR3hsZFJwQjlwbWlaaHdiRXFybS1IeUFRYWh4T25wZXlLTmJzSnJCX2NfZkdLM0xXVjJPNnR2STUtUlBOMjFEMHQtMW9Wdw?oc=5",
-   "fecha": "2026-11-17T21:01-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.perfil.com/politica/entre-un-frente-anti-milei-y-la-disputa-con-kicillof-el-peronismo-armo-una-foto-federal-con-massa-awayS5E6KS1I",
-   "revisada": true
-  },
-  {
-   "id": "a786490cbb64",
-   "titulo": "Dirigentes del peronismo se reunieron en San Fernando con la mira puesta en las elecciones de 2027",
-   "medio": "A24.com",
-   "medio_url": "https://www.a24.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1dhd3Qwc0RxMDRGNDdabGVGb2c0RnpRbFVRUmFqWFdfVVBKQnA3M3FSeUl3VVhwVElyaS04cFo3UTFMTFRYZHlJdVVxclNXdkl6anlBSE5POVlXcnJjaGVFcnZxblloTk1abUdCb0kxZzhpcHhjZWVzVHAtcmtzZlJQMmpLLWRtaE1TSThtb3hUT3lwU0YyWWdOdEJ1QVhmWVdzZWdNTHV0bWRqV3AySkpjYUZJUUlLdkw3OTdTaVLSAcYBQVVfeXFMTTBpM1ByRU9EUzUtSzN5WDEyRXdZU1VUYmE3d2dkX19ld0t1eVBFN0pxQURrejI3ejhYNXFYYkVHZEE5Q2VDMnJLdFNmZzJEOERqallCMmlLODVISENXVFk2TG9vMjBfejRDZzNCWUdoMHJpNjh0TTJBOFBkSF9RWmpVUnI0NFlTdDRObnlSMmJjUVNLamRrOFEzUlFmUndxeXBpR243cXJRSnVhbkc3VE9FWThSd2JKYjBoUnZwN21GaW1sZEVn?oc=5",
-   "fecha": "2026-11-17T20:55-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.a24.com/politica/dirigentes-del-peronismo-se-reunieron-san-fernando-la-mira-puesta-las-elecciones-2027-n1617472",
-   "revisada": true
-  },
-  {
-   "id": "fcc4e1d0a270",
-   "titulo": "El peronismo federal se reunió en San Fernando para construir un frente nacional contra Milei",
-   "medio": "ANDigital",
-   "medio_url": "https://andigital.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2pKaXExQ3lESHJKNmJfVWQzMUdHY045dkVDeGtqZG12V2RlS3pFdWJxcUxXUHp3LTkwUnhsM3ItNy1Kc1RCNGhlS0Z3cGh6ZUxETVZxQm9fWXB0Y2RHSmRpVl95NGdmLWRua0pWaElGTEwtWWxzSXo2Nlh0RXY0ZTRic09xRERGZGZnb1NqUjdaaThnVm5TdTJWcEsxamxjODk1RWxINmoyV1V0eld4MjR2bXdUNTc3b3ZfNnZadzdZdGVkYWFnbEtYRQ?oc=5",
-   "fecha": "2026-11-17T20:53-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://andigital.com.ar/nota/145030/el-peronismo-federal-se-reunio-en-san-fernando-para-construir-un-frente-nacional-contra-milei/",
-   "revisada": true
-  },
-  {
-   "id": "d217648224dd",
-   "titulo": "Frente anti Milei: Sergio Massa encabezó la foto de unidad en San Fernando",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXZ2bmdhTXItT0otNGxnV2pSdW5ZWEJ1T2ltTHlMdC0xREU4VldVV2hBVThObU9pMnBUaG0wM0hwbU0zZUNXaDRDYlBRN2psN2I5Vy15ampjeWNubDBMbVgwNWtBc1dSYkdCWlluUnBrWG1tT3ZKaUlkdW5fOUFHVS1hRWY2QlJHRlVBdU8taWstdUd3TVF6eFhCSEdsZkxyNmh3Q1BJenhTaHpTNlhRRdIBsAFBVV95cUxOQXZ2bmdhTXItT0otNGxnV2pSdW5ZWEJ1T2ltTHlMdC0xREU4VldVV2hBVThObU9pMnBUaG0wM0hwbU0zZUNXaDRDYlBRN2psN2I5Vy15ampjeWNubDBMbVgwNWtBc1dSYkdCWlluUnBrWG1tT3ZKaUlkdW5fOUFHVS1hRWY2QlJHRlVBdU8taWstdUd3TVF6eFhCSEdsZkxyNmh3Q1BJenhTaHpTNlhRRQ?oc=5",
-   "fecha": "2026-11-17T20:52-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.minutouno.com/politica/frente-anti-milei-sergio-massa-encabezo-la-foto-unidad-san-fernando-n6346423",
-   "revisada": true
-  },
-  {
-   "id": "27c8cbc1a015",
-   "titulo": "San Fernando reunió a dirigentes de distintos sectores del peronismo para avanzar en un frente contra Milei",
-   "medio": "elcomercioonline.com.ar",
-   "medio_url": "https://www.elcomercioonline.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbmFWV0o5WFdtYm5oUEhpSHJ5amdyNHplOGxNTlkzcTd6dVR0bFo2VFNPNnNtaVNTUWI2LTV3ZUZ5ZEhLTkN6Xzg4Z3U3ekVhVDRDNkp1dkY1RVBUZldhRHNNbGhKWU8xT3JjQnRWQ0lvc0ZsclFtOXVpcnF4Y1FfLXpYMGNwa1BEbFNIektLV0VETGZ3dTFhb1Vnelp4em96VkJSVmtzb0tpcTliZmdUWDB2UlR6cWMyaklWTGZtRVZmSVl5cmc0aUZNelVUV1FEZ2s1dHRRM2NuWDhFWGJpU2xkaTBrVVBkV05ZUXVmV0h2WU4wS0VleDNBRdIB-wFBVV95cUxNbmFWV0o5WFdtYm5oUEhpSHJ5amdyNHplOGxNTlkzcTd6dVR0bFo2VFNPNnNtaVNTUWI2LTV3ZUZ5ZEhLTkN6Xzg4Z3U3ekVhVDRDNkp1dkY1RVBUZldhRHNNbGhKWU8xT3JjQnRWQ0lvc0ZsclFtOXVpcnF4Y1FfLXpYMGNwa1BEbFNIektLV0VETGZ3dTFhb1Vnelp4em96VkJSVmtzb0tpcTliZmdUWDB2UlR6cWMyaklWTGZtRVZmSVl5cmc0aUZNelVUV1FEZ2s1dHRRM2NuWDhFWGJpU2xkaTBrVVBkV05ZUXVmV0h2WU4wS0VleDNBRQ?oc=5",
-   "fecha": "2026-11-17T20:52-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.elcomercioonline.com.ar/articulos/60109245-San-Fernando-reunio-a-dirigentes-de-distintos-sectores-del-peronismo-para-avanzar-en-un-frente-contra-Milei/amp/",
-   "revisada": true
-  },
-  {
-   "id": "59c882944c57",
-   "titulo": "\"Divididos\": qué cantó Cristina Kirchner y qué hizo Axel Kicillof ante el ninguneo de Sergio Massa",
-   "medio": "El Tucumano",
-   "medio_url": "https://www.eltucumano.com",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSFljczBjeDhpak5yRkpZbkxRQTlzV2lHb1JLVUFXdkhpWERCV2l5QkwzWklHTXdubzNZRlp5NzBXLXc3STl1LUpSWjJlbGxYX1QzUWFvVlVjU21IeC0zTnUwd0s4aXV5dzNxR1JrTVZrLTlJMlVHbjNINjdVUm9YTXpEQVM3b0hzcnBiVmJybFZfS3RZTDFkMnpLanM5VnA2VTQ0MFhRMTJ3LTRHZlNXSGNLamlxNExVaGxSYlRGbmtuTWlBOHpBUV9xaWhGenFTNE9NcW8wOXp5WWhBWGYzWWNR0gHnAUFVX3lxTE1KVVdjd3p2a0p4ei1oVTRTOTdlWFZBNG83WmFJN1ZKdUlPY2huRUlhbkpadGF6LXE0VDlLa1pvbjVMS0ZfM2I5cjFmSmlQbDdaZ0p0dm9WekdIbjhTRjRsTXd1RjRWWkJWX1Y0ZlNyN1F2U2pEVmF6MGx6VENsa05OVEVvUDk4WUZOR2lyX1htLWJaMEVSVFF2MzRzcF9EUzR6VDktanZSV2hFRWlrSmllSm9OcW5RMkhXaTJfMHJGa0ItcGlEejNnN19fZXJTb1Qyak9mbGZDdGp3OWI0MG15eU83dWFEUQ?oc=5",
-   "fecha": "2026-11-17T20:48-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.eltucumano.com/noticia/actualidad/327939/divididos-que-canto-cristina-kirchner-y-que-hizo-axel-kicillof-ante-el-ninguneo-de-sergio-massa",
-   "revisada": true
-  },
-  {
-   "id": "5f7e8f454c73",
-   "titulo": "Día de la Militancia: referentes del PJ cercanos a Sergio Massa participaron de un acto en CABA",
-   "medio": "Cba24n",
-   "medio_url": "https://www.cba24n.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFVkVEtjd1hwRmpndXVkbjJBUEN1eFl0RjVpUC1CWTNfVEJzUzZ1R05hN2VJYk1mcnJ0M1dSZnFGZTBtbEZkUGN5dFVCRlpUazlXMGQ1S1c2cXJUVlFOSlhDWkVuNy0zaXIxZXlfMmFUeUQ5TDFYN2F3bkRMSVNnVVo4b0VVRGE4V2FBNDA1a1BzLTRHaWdRNGwzRzFTMkZjVEtXQTYybzJLS2VoN2VqY3RMRmtIQmJOeVV0TnBOMVpsWVVCR1lBQm5lUnJOSHktN0ZzZm1oQTNsajdKMTR5Wi1DZGk0Zmg1U2R0eDlB?oc=5",
-   "fecha": "2026-11-17T20:45-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.cba24n.com.ar/argentina/dia-de-la-militancia--referentes-del-pj-cercanos-a-sergio-massa-participaron-de-un-acto-en-caba_a6afce38873529e80963af0fe",
-   "revisada": true
-  },
-  {
-   "id": "d99f46a2fadf",
-   "titulo": "Sergio Massa y el peronismo federal se reunieron en San Fernando para armar un frente contra Javier Milei",
-   "medio": "Ambito",
-   "medio_url": "https://www.ambito.com",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcUEwYW9wSTh4OGpCT3hxTjU4V19FejhkZkxyZ2pqNVBrbTBja0xtdTBrZmdqWTdxRzhZcDZROEw5UFk0ZGtUb3RuemVmTUtjMTE5Q3V1cVc1Y25nT1NUb0FIUzdWS1p1RkNzUS1OOEduTzJiV3lKMWp6bTdVXzJIYXVtY1plVWg4OWdDemVpZjEzSUJtNmt2Z2htSk9PNFZMS3VxLVU2SVdTTkc0WGxndE9BTkZ5UUwzblhIYmV3SWpPUWRHU1NieUMtaUdIbTlBLWlQc9IB2gFBVV95cUxNalpfdTNnMk02M2FHa1RWOWRwN3dsUnJlZ1BaVEhJbUlGa05QT294bmVlcE16ZWo1N0pWWTlETURIbDdBQVFNWC1sX0l0Y1dremdFN1pIdzhSRUNfWlhSZTBaT3Btb3QtSWUtVFhTR3dzaUpORG90UzFMdDBkNkxoVU4yQVhXMnlVc1diZTR3ck1PbjY4S2E3TUsxajdGalZOZmdVUFoxN19heV9ycEtxd0RGdm5ndEJiX2gwbzhzWExReVBoX1ZPWGd4UUxaRTRPR3dfb2V1SzdwZw?oc=5",
-   "fecha": "2026-11-17T20:44-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.ambito.com/politica/sergio-massa-y-el-peronismo-federal-se-reunieron-san-fernando-armar-un-frente-contra-javier-milei-n6346416",
-   "revisada": true
-  },
-  {
-   "id": "2fada3c19ef1",
-   "titulo": "Día de la Militancia: Sergio Massa movió sus fichas y crece la tensión con Axel Kicillof",
-   "medio": "Diario Río Negro",
-   "medio_url": "https://www.rionegro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0NUQTZMLWs0MHg4ZkRzRUtMOV9Xd09xREhJX1I4UllUVHNTVjhwZktmZkFFUHpqYWMxeVM5VnpteXVLdUp3OFhoejBtaS1iaDFnbUlsWWxRYWtBTm45NnBqak9kQnQ4M2lER3M2aUx4bldSVzV6UllaY3NxSjJRVVZqNExYaFE5NE1TZnhuZ2ZfcUxfLUduMGdFQ3M1WTFRSnZiNTVxV3JYXzVhRUM0b3NCeVJxNjJMMURSQVQ1OFFTMEhwbi1sZ1FraTdTd9IB1gFBVV95cUxQdnpWV293eGZTWmc1VDNxS1Y4R3dJclJGYnBySmxFbUd5ckVxN0YtRGdpdy1DWlo5ZzF3YkhpcWdnS3VwUUxKZHEtUGRlVWd6aTVoNmkzN3l2d1FOMDJwUks4OGZHOEdXNHlvZjk5emNjQ2dTak9NNUpoM3JjemowV19iMnV6WDREaHBhQjBDRmtJYm9hQk15OFgzczB5V1psbVhYM2VpTjdJc0RlWmpKTnNhZk5Ncm5KV2swNlNDR1FOUXNjeEJfa2dfc09aUWIyc0hqZW1B?oc=5",
-   "fecha": "2026-11-17T20:35-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.rionegro.com.ar/politica/dia-de-la-militancia-sergio-massa-movio-sus-fichas-y-crece-la-tension-con-axel-kicillof-4802410/",
-   "revisada": true
-  },
-  {
-   "id": "352e89a0ee44",
-   "titulo": "Massa, Zamora y Uñac encabezaron un encuentro peronista con la mira puesta en 2027",
-   "medio": "Infocielo",
-   "medio_url": "https://www.infocielo.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVNfT2dseENIZGMzSWJMZk9XeGdhU25uYUV3T21IUGVpdUVna2JaYy1PQmlrY28xVE5QcF92eWhjNTk0elhMdml6enJCN2JzankxS1dNQS00aGhGX3pQa0xLWTJkbnpGTldtU0pTMHRHeThVWmM4MC0yYVdtSVByb3BIN25ZVkFJRE5DZTJaOVBONjF5d1YwZFBUM0lIRjZGN3JmVzA5bkFzVHRtVXljcF9vTWpnX1o5RzBOMjgtODdpR09kRnc?oc=5",
-   "fecha": "2026-11-17T20:26-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.infocielo.com/politica-y-economia/massa-zamora-y-unac-encabezaron-un-encuentro-peronista-con-la-mira-puesta-en-2027",
-   "revisada": true
-  },
-  {
-   "id": "82ab411082ad",
-   "titulo": "El peronismo se reunió para avanzar en un frente nacional anti-Milei: quiénes estuvieron",
-   "medio": "Séptima Sección",
-   "medio_url": "https://septimaseccion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1pVcHc0T0oyaGN4NlE2SG0tRjJaVG1GaUNoNWVhVE9xYy1ycl9hUF9nNEdhZVpub0pqOWNMcmFXVm5YcXFjcl9kUE9fNXhZbUpIQ25OWHNoRVJnWDNRejVkd25oV3V6a0c0N1dFb3YwNzQwcnctWU9FRjVvOVJGRUU3NnpJVWJoNDRVQkIzQ0VITUdDdjg3aS1GbEVwQUdjN01pTklVZUgxRTFrTEdJMmxyT1UxQ21uUmphRW0xX1JlQm80?oc=5",
-   "fecha": "2026-11-17T20:18-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://septimaseccion.com.ar/el-peronismo-federal-se-reunio-para-avanzar-en-un-frente-nacional-anti-milei-quienes-estuvieron/",
    "revisada": true
   }
  ]
