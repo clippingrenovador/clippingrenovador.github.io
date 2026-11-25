@@ -1,32 +1,51 @@
 {
-  "hora": "06",
+  "hora": "14",
   "claves": [
-    {"texto": "El PJ todavía resiste la eliminación de las PASO, pero busca consenso sobre el mecanismo para definir su candidato a presidente, según Infobae.", "fuentes": ["a068c6006d9f"]},
-    {"texto": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador.", "fuentes": ["af3841298c61", "5040c4b522e8"]},
-    {"texto": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora en Tigre y llamó a \"recuperar el municipio\".", "fuentes": ["49d4e1b4be8d", "ab9357856325"]},
-    {"texto": "Guillermo Michel afirmó que \"Frigerio es Milei en la provincia\", según Victoria Primicias.", "fuentes": ["d4df0b257ca0"]}
+    {"texto": "Una encuesta ubica a Axel Kicillof y a Sergio Massa por delante de Javier Milei en un eventual balotaje; según Clarín, el sondeo llegó a Cristina Kirchner e impactó en la interna del PJ.", "fuentes": ["d8b319c8e1b4", "858a70771fd1"]},
+    {"texto": "Según Primera Página, Sergio Massa se opone a habilitar la reelección indefinida de intendentes que impulsa el gobernador Kicillof. Grupo La Provincia informa que el gobernador llega a diciembre sin acuerdo sobre el tema.", "fuentes": ["839d08e09051", "e3b6d79d8e28"]},
+    {"texto": "Ante la posible suspensión de las PASO, Sergio Massa impulsa una interna abierta y digital con reconocimiento facial, según Mirada 360.", "fuentes": ["62b225f7d14e", "43835b940246"]},
+    {"texto": "Guillermo Michel advirtió que se perderán más de mil puestos de trabajo en Río Grande, según 19640 Noticias.", "fuentes": ["d664eb701a4c"]}
   ],
-  "retirar": [],
+  "retirar": ["https://www.youtube.com/watch?v=oFEeRoHKfdI", "https://www.youtube.com/watch?v=PZ4kI9wtH2Y"],
   "temas": [
-    {"id": "peronismo-sin-paso", "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
-     "resumen": "Infobae informa que el PJ todavía resiste la eliminación de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente. Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO, según Diario Digital Con. La Voz del Interior analiza que, sin PASO, pierden peso las terceras fuerzas.",
-     "tono": "neutro", "dirigentes": ["Cecilia Moreau"],
-     "principales": ["a068c6006d9f", "3a2a0b2f663e", "4f278d6666a9"], "otras": ["8cb5dcc2d255", "cb8fdda09705", "7a839132930d", "5256e2501a13", "a3de9ee7b25b"]},
-    {"id": "malena-galmarini-tigre", "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
-     "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a \"recuperar el municipio\", según NorteOnline. En declaraciones recogidas por Zona Norte Diario Online, afirmó que Tigre volvió a tener \"la basura en las esquinas\".",
-     "tono": "positivo", "dirigentes": ["Malena Galmarini"],
-     "principales": ["49d4e1b4be8d", "ab9357856325"], "otras": []},
-    {"id": "tigre-fiscal-impositiva", "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
-     "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. Flipr.news describe un fuerte cruce entre el oficialismo y la oposición durante la sesión. Zona Norte Visión publicó una nota crítica sobre el papel del bloque que encabeza Sebastián Rovira.",
-     "tono": "mixto", "dirigentes": ["Sebastián Rovira"],
-     "principales": ["af3841298c61", "5040c4b522e8", "716fc53d7558"], "otras": ["99db044f2704", "f91d58fcb7b7", "24402ea4fc2e", "7643c5fbd10c", "90ad293860ce", "1a8065d55f34", "a05b140c4866"]},
-    {"id": "foro-uba-michel", "titulo": "Guillermo Michel: foro opositor en la UBA y críticas al modelo económico",
-     "resumen": "Guillermo Michel afirmó que \"Frigerio es Milei en la provincia\", según Victoria Primicias, y que \"los que pierden son la clase media, los jubilados de hoy\", según El Intransigente. Urgente24 informa que Michel participa junto a Martín Lousteau, Juliana Di Tullio, Gabriel Katopodis, Emilio Monzó y Maximiliano Ferraro de un foro contra el Gobierno.",
+    {"id": "encuesta-balotaje-kicillof-massa", "titulo": "Encuesta: Kicillof y Massa, por delante de Milei en un eventual balotaje",
+     "resumen": "Perfil y Clarín informan sobre una encuesta que midió a Javier Milei frente a Axel Kicillof y a Sergio Massa en una segunda vuelta. Según Grupo La Provincia, Milei quedó detrás de ambos. Clarín señala que el sondeo llegó a Cristina Kirchner y sacudió la interna del PJ; Noticias Urbanas publicó que otra encuesta indica que Massa le ganaría a Milei en un balotaje.",
+     "tono": "positivo", "dirigentes": ["Sergio Massa"],
+     "principales": ["d8b319c8e1b4", "7d4585eb2fe8", "858a70771fd1"], "otras": ["e8ee1649e448", "51e91d4a9c74", "8107e6433289", "22c49f915a86", "39cc2b7e3cf9", "11e9b10e6f95"]},
+    {"id": "peronismo-sin-paso", "titulo": "Sin PASO: Massa propone una interna abierta y digital",
+     "resumen": "Mirada 360 informa que Sergio Massa impulsa una interna abierta y digital con reconocimiento facial ante la posible suspensión de las PASO. Ámbito repasa las estrategias que barajan Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos. Infobae señala que el PJ todavía resiste la eliminación de las PASO, y Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO, según Diario Digital Con.",
+     "tono": "neutro", "dirigentes": ["Sergio Massa", "Cecilia Moreau"],
+     "principales": ["62b225f7d14e", "43835b940246", "a068c6006d9f"], "otras": ["3a2a0b2f663e", "4f278d6666a9", "8cb5dcc2d255", "cb8fdda09705", "7a839132930d", "5256e2501a13", "a3de9ee7b25b"]},
+    {"id": "reelecciones-intendentes", "titulo": "Reelección indefinida de intendentes: Massa se opone a la propuesta de Kicillof",
+     "resumen": "Primera Página informa que Axel Kicillof quiere habilitar la reelección indefinida de intendentes y que Sergio Massa se opone. Según Grupo La Provincia, el gobernador llega a diciembre sin acuerdo y con los intendentes reclamando una salida. Diario Resumen señala que el tema reaviva las diferencias dentro del peronismo.",
+     "tono": "neutro", "dirigentes": ["Sergio Massa"],
+     "principales": ["839d08e09051", "e3b6d79d8e28", "ee69d36e6261"], "otras": ["f788415bad44", "05452a198d68"]},
+    {"id": "massa-unidad-2027", "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
+     "resumen": "MDZ publica que Sergio Massa busca la unidad para crecer. Letra P informa que Tepp y Monteverde faltaron a la mesa \"Axel 2027\" en Rosario y hacen equilibrio entre Kicillof y Massa. Según Diario El Independiente, Bordagaray anticipó que el Frente Renovador podría competir con espacio propio en 2027.",
+     "tono": "neutro", "dirigentes": ["Sergio Massa"],
+     "principales": ["95ed5bcfdaa6", "b7b5b1651ce6", "2150de7d46ea"], "otras": ["d41263f5e6e7", "4ada4d1ba9b0"]},
+    {"id": "michel-rio-grande-empleo", "titulo": "Guillermo Michel advierte por la pérdida de empleo industrial en Río Grande",
+     "resumen": "Guillermo Michel advirtió que se van a perder más de mil puestos de trabajo en Río Grande, según 19640 Noticias. El Intransigente recogió su afirmación de que \"los que pierden son la clase media, los jubilados de hoy\".",
      "tono": "positivo", "dirigentes": ["Guillermo Michel"],
-     "principales": ["d4df0b257ca0", "6e62a1544311", "e062009d4174"], "otras": ["58fa89aec7d5", "23121e46c637", "0221c6ffa53c"]}
+     "principales": ["d664eb701a4c", "6e62a1544311"], "otras": []},
+    {"id": "combustibles-surtidores", "titulo": "El proyecto sobre aviso previo de subas de combustibles enfrenta a Massa con las petroleras",
+     "resumen": "La Nación informa que un proyecto que obliga a anunciar en los surtidores las subas de combustibles tres días antes enfrenta a Sergio Massa con las petroleras. Según La Noticia 1 y Código Baires, Rasquetti defendió su proyecto y afirmó que las petroleras \"le roban al consumidor\". Grupo La Provincia señala que crece el rechazo empresarial.",
+     "tono": "mixto", "dirigentes": ["Sergio Massa"],
+     "principales": ["f33a329a1cd8", "5cad66ac8660", "fceb7a7fd705"], "otras": ["a171c5216884", "1db9e02ec4bf", "ca92ec78ef07"]},
+    {"id": "malena-galmarini-tigre", "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
+     "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a \"recuperar el municipio para los vecinos\", según NorteOnline e InfoBAN. En declaraciones recogidas por Zona Norte Diario Online, afirmó que Tigre volvió a tener \"la basura en las esquinas\".",
+     "tono": "positivo", "dirigentes": ["Malena Galmarini"],
+     "principales": ["49d4e1b4be8d", "134ae93e196d", "ab9357856325"], "otras": []},
+    {"id": "tigre-fiscal-impositiva", "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+     "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió. Zona Norte Visión publicó una nota crítica sobre el papel del bloque que encabeza Rovira.",
+     "tono": "mixto", "dirigentes": ["Sebastián Rovira"],
+     "principales": ["af3841298c61", "5040c4b522e8", "a85ca86ce20e"], "otras": ["716fc53d7558", "99db044f2704", "f91d58fcb7b7", "24402ea4fc2e", "7643c5fbd10c", "90ad293860ce", "1a8065d55f34", "a05b140c4866"]}
   ],
   "redes": [
-    {"url": "https://x.com/ceciliamoreauok/status/2125396891600851327", "autor": "@ceciliamoreauok", "nota": "Cecilia Moreau: \"Endeudador y vende humo serial\"."}
+    {"url": "https://x.com/DiegoGiuliano/status/2125320067990556894", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano: la actividad acumula dos trimestres de caída."}
   ],
-  "entrevistas": []
+  "entrevistas": [
+    {"video_id": "OBD695QwnYw"},
+    {"video_id": "L9dBSGtbhqM"}
+  ]
 }
