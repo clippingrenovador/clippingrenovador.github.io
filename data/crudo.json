@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-25T00:24-03:00",
- "total": 714,
- "nuevas_ultima_corrida": 40,
+ "generado": "2026-11-25T01:35-03:00",
+ "total": 716,
+ "nuevas_ultima_corrida": 31,
  "errores": [],
  "notas": [
   {
@@ -191,6 +191,20 @@
    "revisada": true
   },
   {
+   "id": "d4df0b257ca0",
+   "titulo": "GUILLERMO MICHEL: FRIGERIO ES MILEI EN LA PROVINCIA - Victoria Primicias",
+   "medio": "www.examedia.com.ar",
+   "medio_url": "https://www.examedia.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PanRHbmRXLXRmZXI1WU1wcloybWI4eW9vQUFmcExzS0dnZnJhdThjZVUwRTlZQndraEhzNU5SLVNkLWh0UGJOUmJTbHRsek82QW45NEFMaVdFUEVyWmc?oc=5",
+   "fecha": "2026-11-24T18:59-03:00",
+   "busquedas": [
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T01:33-03:00",
+   "url_original": "https://www.examedia.com.ar/portada/post/88297698",
+   "revisada": true
+  },
+  {
    "id": "3a2a0b2f663e",
    "titulo": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei",
    "medio": "Diario Digital Conclusión",
@@ -203,6 +217,20 @@
    ],
    "visto": "2026-11-24T19:17-03:00",
    "url_original": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
+   "revisada": true
+  },
+  {
+   "id": "16b9916fa72f",
+   "titulo": "Golía entregó un reconocimiento al Ingeniero Diego Ranea",
+   "medio": "Municipalidad de Chacabuco",
+   "medio_url": "https://chacabuco.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMW1kUHdLMHFUZWgzYmtLYzNYY2ZpNmtKdEE5eTYyRS1qSnBxcmFIRUdrUTkyQXY0amZJa1FKcWRWLU10dkQ4enlSelRsTVZPVGZQYTFhY0ZDNVVkMlF0cUJsWjE4Ymk5NmZCcjlla1ZFYXZkbGJ6eWtjaHg2UUJ5SmVzeFJfMUZobEE?oc=5",
+   "fecha": "2026-11-24T18:41-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T01:34-03:00",
+   "url_original": "https://chacabuco.gob.ar/golia-entrego-un-reconocimiento-al-ingeniero-diego-ranea/",
    "revisada": true
   },
   {
@@ -486,6 +514,20 @@
    ],
    "visto": "2026-11-24T19:17-03:00",
    "url_original": "https://loquepasa.net/se-avanzo-en-blindar-un-lugar-estrategico-bordaisco-celebro-el-avance-del-proyecto-radical-por-la-canchita-de-los-bomberos/",
+   "revisada": true
+  },
+  {
+   "id": "8267ee935600",
+   "titulo": "\"Peña Peronista\": se reunieron 70 dirigentes de la provincia cercanos a Juntos por el Cambio",
+   "medio": "NOVA Bonaerense",
+   "medio_url": "https://www.novabonaerense.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNamcwd0FJLVd3dnNkTmxSMV9NeEh5akVTdEJpYU5lRWx4Tk9yYzl1d3JQbTBLa2pycmhGXzB1OUtiZFVXUmxlaHdmeTZlbVpzYklRWFZia1laY2pESjNGUTlDejhPU2EwbmtqV1BCc1dveVJYbGFBTXREcEFsWHcwNw?oc=5",
+   "fecha": "2026-11-24T16:43-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-25T01:33-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?n=2026_11_24&id=23923&id_tiponota=1",
    "revisada": true
   },
   {
@@ -10342,20 +10384,6 @@
    ],
    "visto": "2026-11-20T02:29-03:00",
    "url_original": "https://www.clarin.com/politica/nueva-encuesta-electoral-dato-clave-milei-kicillof-ganaron-bullrich-massa_0_qpYfi0kcE2.html",
-   "revisada": true
-  },
-  {
-   "id": "531583dac51b",
-   "titulo": "El Gobierno le presta atención al rearme del peronismo: los escenarios en carpeta y el riesgo para Milei",
-   "medio": "Infobae",
-   "medio_url": "https://www.infobae.com",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMmN4Qmhrcm5qd1pLang4bFZMWXMzbFNCSFpqRVVnVnlBTFBDWlRrdURCVWJ6X0tLQ2lYdlVFbTl1NXhwS3NvNExXNkQ1NGNWZng1TFJyX1VkNWxZdXd1cEFGRGJBUFBfbWhDZzBTbHpHSW5IOVktTnZmN0JPRU1ycVFUVlYzTEZBUFg2YWtGNUNxdUR4UnppR19yNUFVWl9zekJhUGFLWkIyZjdPMVNxeHNnZVl2WWk5X3NHeUNuZEhudTBRODVJY3FaSGtzUVpmRWc4Rko5REVjMXNCR3R4LXFR0gH8AUFVX3lxTE5sZkpzdEFBOUhoWE1zSzZnTWRKZ3ZKRTk3c3NvbDE3cEF2cEEzd25BcWxsd0tFbDhqOGZyd1FaLXFGekM2OEtoYmU2bDFaaUduOFhsQnFoaFpnM05MeVFoT1NwNVd0V3FaR3hCLXpHTTV0Mnc1VWlqeld3cGh2YlY3TlZiSmE4VTI0UUdrVnB0VHd2STlDOWZGTDRRV1JEV3NDZkFoQjh0RWtlWDNnLTFhakoySzdTc1ZWRzdDY3gzSnYycnd1RDJmbFpVUkt4eFRXWWJXQzU0LTBGbjV1NWxxMlo2cXZiSkpMc1hIMGQzcXVXWWpDOFZYSlR4SA?oc=5",
-   "fecha": "2026-11-18T01:14-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://www.infobae.com/politica/2026/11/18/el-gobierno-le-presta-atencion-al-rearme-del-peronismo-los-escenarios-en-carpeta-y-el-riesgo-para-milei/",
    "revisada": true
   }
  ]

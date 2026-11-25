@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-25T00:22-03:00",
- "total": 76,
+ "generado": "2026-11-25T01:34-03:00",
+ "total": 77,
  "tuits": [
+  {
+   "id": "1552810853895835648",
+   "usuario": "UrtubeyJM",
+   "visto": "2026-11-25T01:34-03:00",
+   "url": "https://twitter.com/UrtubeyJM/status/1552810853895835648",
+   "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "\"Peña Peronista\": se reunieron 70 dirigentes de la provincia cercanos a Juntos por el Cambio",
+     "nota_id": "8267ee935600"
+    }
+   ]
+  },
   {
    "id": "2125304026514256356",
    "usuario": "LuisCaputoAR",
@@ -25,6 +38,11 @@
      "medio": "BorderPeriodismo",
      "titulo": "Recesión técnica: el Gobierno puso el foco en la mejora mensual de la economía",
      "nota_id": "90be2686aecc"
+    },
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
     },
     {
      "medio": "NewsDigitales",
@@ -79,6 +97,11 @@
      "medio": "NewsDigitales",
      "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
      "nota_id": "2e684a142944"
+    },
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
     }
    ]
   },
@@ -88,6 +111,11 @@
    "visto": "2026-11-24T22:45-03:00",
    "url": "https://twitter.com/vtolosapaz/status/2125341743281315942",
    "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    },
     {
      "medio": "NewsDigitales",
      "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
@@ -115,6 +143,11 @@
      "medio": "NewsDigitales",
      "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
      "nota_id": "2e684a142944"
+    },
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
     }
    ]
   },
@@ -133,6 +166,11 @@
      "medio": "NewsDigitales",
      "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
      "nota_id": "2e684a142944"
+    },
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
     }
    ]
   },
@@ -142,6 +180,11 @@
    "visto": "2026-11-24T22:45-03:00",
    "url": "https://twitter.com/INDECArgentina/status/2125303423910211839",
    "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
+     "nota_id": "2e684a142944"
+    },
     {
      "medio": "NewsDigitales",
      "titulo": "Las reacciones del Gobierno y la oposición a la recesión: \"MAGA!\", \"fake news\" y \"fracaso\"",
@@ -186,6 +229,11 @@
    "visto": "2026-11-24T19:18-03:00",
    "url": "https://twitter.com/infobaenvivo/status/2125219347819827542",
    "citado_en": [
+    {
+     "medio": "Agencia NOVA",
+     "titulo": "El negocio de los 900.000 millones: la trastienda política, el lobby de los zares del juego y la batalla por la caja",
+     "nota_id": "4d63bd05157c"
+    },
     {
      "medio": "Agencia NOVA",
      "titulo": "El negocio de los 900.000 millones: la trastienda política, el lobby de los zares del juego y la batalla por la caja",
