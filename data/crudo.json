@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-25T19:19-03:00",
- "total": 737,
- "nuevas_ultima_corrida": 26,
+ "generado": "2026-11-25T20:16-03:00",
+ "total": 739,
+ "nuevas_ultima_corrida": 29,
  "errores": [],
  "notas": [
+  {
+   "id": "37c0815522d3",
+   "titulo": "Proyecciones electorales rumbo a 2027: una encuesta nacional ubica a Kicillof y a Massa por encima de Milei en un eventual balotaje",
+   "medio": "HOY ROJAS",
+   "medio_url": "https://hoyrojas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZbk5MVVUyMXRtcW5HNUhOeGV3bkktRy1idVFIdmpSaDJYTW1sRXIzdnZxS1FveWxOZ2g2X1lsOWNlN05ZVFlQQjFiSVNHeXhwMU43UTBFbThsV2p5eEJNQk16eVVtMEU?oc=5",
+   "fecha": "2026-11-25T19:21-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T20:14-03:00",
+   "url_original": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52336",
+   "revisada": true
+  },
   {
    "id": "380acd38682a",
    "titulo": "Encuesta: Kicillof y Massa le ganarían a Milei en un eventual balotaje",
@@ -17,6 +31,20 @@
    ],
    "visto": "2026-11-25T19:17-03:00",
    "url_original": "https://andigital.com.ar/nota/145199/encuesta-kicillof-y-massa-le-ganarian-a-milei-en-un-eventual-balotaje/",
+   "revisada": true
+  },
+  {
+   "id": "0439e1d0936e",
+   "titulo": "Chascomús celebró una emotiva ceremonia en homenaje a sus \"Mejores Compañeros\" de 2026",
+   "medio": "El Cronista | Chascomús",
+   "medio_url": "https://www.elcronista.ar",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHVQS2JQc2FKR1FLUnRpR283d1E2dVhUeEdqcDhmTElZNkpiNWxRNFNSTll0SmhMbTBWb2hJNmQyRVBjU1dOTE0zNV9tZGNOOWtDSUZITFFLZDlPeGw5UllRSnRjWHpKMU5YVE5yaFBMelRtak90ZVBLdnRKMmtLM1hnUVYwU1o3YlM1cGdLWkk4R1pOMmQ3enRIMVZYRVNDQnZtTnZEOHdfcnNDZEk0?oc=5",
+   "fecha": "2026-11-25T18:55-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T20:15-03:00",
+   "url_original": "https://www.elcronista.ar/chascomus-celebro-una-emotiva-ceremonia-en-homenaje-a-sus-mejores-companeros-de-2026",
    "revisada": true
   },
   {
@@ -45,6 +73,20 @@
    ],
    "visto": "2026-11-25T18:18-03:00",
    "url_original": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-apunto-contra-patricia-bullrich-por-la-reforma-electoral-solo-hay-que-ver-lo-que-decian-hace-poquito-tiempo/",
+   "revisada": true
+  },
+  {
+   "id": "f363915a7f36",
+   "titulo": "Katia Blanc sobre la Ley de Presupuesto 2027: \"no podemos tener una emisión de letras de 300.000 como se pide\"",
+   "medio": "TN24.com.ar",
+   "medio_url": "https://www.tn24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzNPc1ZpZ1lZUGFSNkQ4Q0thTkowOEdQWnV6S0t1SG9qZTc3Z0pvUFF4R25aQ25GWER0WVpOczVWdkNqdjRldENaTjYtcGlQeVpqaDVEZjlJZjcyYTQ5czNDdGFmbmJLM0R6TlVncnN5SXJEQzBHelFxaUYxdm9WSGV2Nl9QQ1V0TlVWRXJ1UmpjUHhVcXI4LWZJMlZ1aG1CLTlyeFlzVXg2dHJxdWpJcVltUnRBUjhVMXkxeXJWRkFKVkRUVUw4R0ZnMFhSazVRbG9VR3RnNA?oc=5",
+   "fecha": "2026-11-25T17:37-03:00",
+   "busquedas": [
+    "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T20:15-03:00",
+   "url_original": "https://www.tn24.com.ar/2026/11/katia-blanc-sobre-la-ley-de-presupuesto-2027-no-podemos-tener-una-emision-de-letras-de-300-000-como-se-pide/",
    "revisada": true
   },
   {
@@ -126,7 +168,8 @@
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeDNoV0lWc2dDYms2Tm1Hd2hkdUIxbDJGYUNNSlJMb2NCb25VMWVmblB6bWcyMk54dlZTU2RCd0t4c3pWYTVCaC01VXZnb1FvVmgxYlpuVzVyN01xQXVaZjlfTHJuU1Jzb0ZfT1lVSnFWd1pXWmVYckhmbmMxQmtzcnNqUnJRV1BhLUx3dDNUandZRm5lX2FsQnloS0xuVFJfRlF0ZldnQmRWckk5S2ZQTWFidjN6RUZjeXVTU3ZsR3BXU2ZoNVgyYk9RanNjRjZ0Z3JWY2dFS0NSWlRTTEFxUkxSdWlZUdIB5gFBVV95cUxNeDNoV0lWc2dDYms2Tm1Hd2hkdUIxbDJGYUNNSlJMb2NCb25VMWVmblB6bWcyMk54dlZTU2RCd0t4c3pWYTVCaC01VXZnb1FvVmgxYlpuVzVyN01xQXVaZjlfTHJuU1Jzb0ZfT1lVSnFWd1pXWmVYckhmbmMxQmtzcnNqUnJRV1BhLUx3dDNUandZRm5lX2FsQnloS0xuVFJfRlF0ZldnQmRWckk5S2ZQTWFidjN6RUZjeXVTU3ZsR3BXU2ZoNVgyYk9RanNjRjZ0Z3JWY2dFS0NSWlRTTEFxUkxSdWlZUQ?oc=5",
    "fecha": "2026-11-25T15:59-03:00",
    "busquedas": [
-    "\"Malena Galmarini\""
+    "\"Malena Galmarini\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-25T18:18-03:00",
    "url_original": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
@@ -257,6 +300,22 @@
     "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-25T15:04-03:00",
+   "url_original": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
+   "revisada": true
+  },
+  {
+   "id": "89f28cab509b",
+   "titulo": "El Frente Renovador se planta contra Caputo por la recesión y la escalada de precios",
+   "medio": "Diputados Bonaerenses",
+   "medio_url": "https://diputadosbsas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLVFwMHhjZTVSaXdqSzlrSll3blMxemw3S3Y2NEJWQ0UtbWM1WWVpVkcxY0luODhQbjBPZkx5cDd5bEF3Yll2UUs5RTVMaVg3QWstbGhLR1FFZ0VKWnYtLXpiZFk2X184c1NxdWxfa05jWjJzUEVTN256cU13dlU?oc=5",
+   "fecha": "2026-11-25T14:00-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T20:14-03:00",
    "url_original": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
    "revisada": true
   },
@@ -10673,35 +10732,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://elfuertediario.com.ar/patrimonio-de-chascomus-ayer-en-el-museo-pampeano-se-firmo-el-acta-de-donacion-de-la-casa-de-raul-alfonsin/",
-   "revisada": true
-  },
-  {
-   "id": "b6a6f27dd4aa",
-   "titulo": "Golía: \"Venimos realizando obras en Chacabuco en un contexto complicado\"",
-   "medio": "Chacabuquero",
-   "medio_url": "https://www.chacabuquero.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXF1akx4VGU5VDZfa2RFV3I1enRScnpDQ0JpU2tvMnJqNEtkWlprdWZEQktiMnhuX2lxQXdCWWVoSkEyZ3Bid0VCRUFlZGJJREhQSFotLVo2VVZTNGVrTFpvXzBFZ2E5aFVVTzFNT3J6UjY0aGxXRFhpZGd1dUFqb1NGSjI?oc=5",
-   "fecha": "2026-11-18T20:05-03:00",
-   "busquedas": [
-    "\"Darío Golía\""
-   ],
-   "visto": "2026-11-20T02:29-03:00",
-   "url_original": "https://www.chacabuquero.com.ar/2026/11/golia-venimos-realizando-obras-en.html",
-   "revisada": true
-  },
-  {
-   "id": "9a09ab9abf84",
-   "titulo": "Juan Malpeli: “Sergio Massa es un candidatazo para presidente de la Nación”",
-   "medio": "REALPOLITIK",
-   "medio_url": "https://realpolitik.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1lFOVpPVV9vdTJ3Qk03cTk0WmRwSGF2QzUyTktsVjVQT1FORWRJeDJTWk55d0RfTlg2MVVtY0lXZkQ2SHN5TWh1M1NPWnJ5dXZZb05TSVRzaW04Zl9MbFZKdUs3UWhDUkJDSlhuRDdVU3FnSmo0bnV6bzV4dGxQZWx3NExWbWYxaVZfRGo0Y2hxMzlqLW9kcnVQcjkyQ0V2U2VhVm5BRGJWVV9WOV9ENQ?oc=5",
-   "fecha": "2026-11-18T20:04-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Juan Malpeli\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://realpolitik.com.ar/nota/75308/juan-malpeli-sergio-massa-es-un-candidatazo-para-presidente-de-la-nacion/",
    "revisada": true
   }
  ]
