@@ -1,58 +1,273 @@
 {
- "id": "2026-11-24-22",
- "generado": "2026-11-24T21:33-03:00",
- "hora": "22",
+ "id": "2026-11-25-06",
+ "generado": "2026-11-25T05:34-03:00",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Según La Nación, un proyecto que obliga a anunciar con tres días de antelación las subas de combustibles en los surtidores enfrenta a Sergio Massa con las petroleras.",
+   "texto": "El PJ todavía resiste la eliminación de las PASO, pero busca consenso sobre el mecanismo para definir su candidato a presidente, según Infobae.",
    "fuentes": [
     {
-     "medio": "La Nación",
-     "url": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/"
-    },
-    {
-     "medio": "Grupo La Provincia",
-     "url": "https://grupolaprovincia.com/amp/603682/combustibles-avanza-el-proyecto-bonaerense-sobre-informacion-de-precios-y-crece-"
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/25/el-pj-todavia-resiste-la-caida-de-las-paso-pero-busca-consenso-sobre-como-elegir-al-candidato-a-presidente/"
     }
    ]
   },
   {
-   "texto": "Sergio Massa volvió a postergar su viaje a Misiones, según Perfil. El dirigente misionero Cacho Bárbaro anticipó que acompañará a Massa en 2027.",
+   "texto": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador.",
    "fuentes": [
     {
-     "medio": "Perfil",
-     "url": "https://perfil.com/nea/elecciones-2027-massa-volvio-a-postergar-su-viaje-misiones-aSYaJ0j7ubr9"
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/"
     },
     {
-     "medio": "MisionesOnline",
-     "url": "https://misionesonline.net/2026/11/24/cacho-barbaro-anticipo-que-acompanara-a-sergio-massa-en-2027/"
+     "medio": "SM Noticias",
+     "url": "https://www.smnoticias.com/noticias/291559"
     }
    ]
   },
   {
-   "texto": "La diputada Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y propuso conformar un frente contra el gobierno de Javier Milei.",
+   "texto": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora en Tigre y llamó a \"recuperar el municipio\".",
    "fuentes": [
     {
-     "medio": "Diario Digital Conclusión",
-     "url": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/"
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/"
     }
    ]
   },
   {
-   "texto": "En Tigre, el Concejo Deliberante aprobó las ordenanzas fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador.",
+   "texto": "Guillermo Michel afirmó que \"Frigerio es Milei en la provincia\", según Victoria Primicias.",
    "fuentes": [
     {
-     "medio": "Zona Norte Hoy",
-     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/"
-    },
-    {
-     "medio": "InfoBAN",
-     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/"
+     "medio": "www.examedia.com.ar",
+     "url": "https://www.examedia.com.ar/portada/post/88297698"
     }
    ]
   }
  ],
  "temas": [
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
+   "resumen": "Infobae informa que el PJ todavía resiste la eliminación de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente. Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO, según Diario Digital Con. La Voz del Interior analiza que, sin PASO, pierden peso las terceras fuerzas.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "Infobae",
+     "titulo": "El PJ todavía resiste la caída de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente",
+     "url": "https://www.infobae.com/politica/2026/11/25/el-pj-todavia-resiste-la-caida-de-las-paso-pero-busca-consenso-sobre-como-elegir-al-candidato-a-presidente/",
+     "fecha": "2026-11-25T03:29-03:00",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "Diario Digital Conclusión",
+     "titulo": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei",
+     "url": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
+     "fecha": "2026-11-24T18:42-03:00",
+     "dominio": "conclusion.com.ar"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El PJ empieza a transitar la discusión sobre cómo ordenarse sin PASO: la compleja tarea para conservar la unidad",
+     "url": "https://www.infobae.com/politica/2026/11/24/el-pj-empieza-a-transitar-la-discusion-sobre-como-ordenarse-sin-paso-la-compleja-tarea-para-conservar-la-unidad/",
+     "fecha": "2026-11-24T03:01-03:00",
+     "dominio": "infobae.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-comienza-a-debatir-la-herramienta-para-dirimir-candidaturas-sin-las-paso/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Voz del Interior",
+     "url": "https://www.lavoz.com.ar/politica/paso-ganan-encuestas-pierden-terceras-fuerzas_0_goovdBcQr2.html",
+     "dominio": "lavoz.com.ar"
+    },
+    {
+     "medio": "La voz 90.1",
+     "url": "https://www.lavoz901.com/amp/el-pj-empieza-a-transitar-la-discusin-sobre-cmo-ordenarse-sin-paso.htm",
+     "dominio": "lavoz901.com"
+    },
+    {
+     "medio": "ANDigital",
+     "url": "https://andigital.com.ar/nota/145152/ganarle-a-milei-es-facil-lo-complicado-es-ser-el-candidato-del-peronismo/",
+     "dominio": "andigital.com.ar"
+    },
+    {
+     "medio": "InfoPlatense",
+     "url": "https://www.infoplatense.com.ar/despues-del-fin-de-semana-largo-el-peronismo-discute-quien-llama-primero/",
+     "dominio": "infoplatense.com.ar"
+    }
+   ],
+   "cantidad_notas": 8,
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "malena-galmarini-tigre",
+   "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
+   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a \"recuperar el municipio\", según NorteOnline. En declaraciones recogidas por Zona Norte Diario Online, afirmó que Tigre volvió a tener \"la basura en las esquinas\".",
+   "tono": "positivo",
+   "dirigentes": [
+    "Malena Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "NorteOnline",
+     "titulo": "Tigre: Malena Galmarini cuestionó la gestión de Zamora y llamó a “recuperar el municipio”",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1",
+     "fecha": "2026-11-24T21:06-03:00",
+     "dominio": "norteonline.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "titulo": "Malena Galmarini: “No aguantamos más que Tigre haya vuelto a tener la basura en las esquinas”",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
+     "fecha": "2026-11-24T22:23-03:00",
+     "dominio": "zonanortediario.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
+  {
+   "id": "tigre-fiscal-impositiva",
+   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. Flipr.news describe un fuerte cruce entre el oficialismo y la oposición durante la sesión. Zona Norte Visión publicó una nota crítica sobre el papel del bloque que encabeza Sebastián Rovira.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sebastián Rovira"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Tigre: el zamorismo y La Libertad Avanza aprobaron la Fiscal e Impositiva 2027 con el rechazo de Fuerza Tigre",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/",
+     "fecha": "2026-11-24T22:53-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "SM Noticias",
+     "titulo": "El Concejo de Tigre aprobó las ordenanzas preparatorias Fiscal e Impositiva para 2027: El massismo, el único espacio que se opuso",
+     "url": "https://www.smnoticias.com/noticias/291559",
+     "fecha": "2026-11-24T23:35-03:00",
+     "dominio": "smnoticias.com"
+    },
+    {
+     "medio": "Zona Norte Hoy",
+     "titulo": "Tigre: el Concejo Deliberante aprobó las ordenanzas fiscal e impositiva 2027 pese al rechazo del massismo",
+     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "fecha": "2026-11-24T14:49-03:00",
+     "dominio": "zonanortehoy.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/conurbano/tigre/infoban/tigre-aprobo-la-preparatoria-de-la-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Zona Norte Visión",
+     "url": "https://zonanortevision.com.ar/441650/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortevision.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
+     "dominio": "lanoticiaweb.com.ar"
+    }
+   ],
+   "cantidad_notas": 10,
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-24T21:33-03:00"
+  },
+  {
+   "id": "foro-uba-michel",
+   "titulo": "Guillermo Michel: foro opositor en la UBA y críticas al modelo económico",
+   "resumen": "Guillermo Michel afirmó que \"Frigerio es Milei en la provincia\", según Victoria Primicias, y que \"los que pierden son la clase media, los jubilados de hoy\", según El Intransigente. Urgente24 informa que Michel participa junto a Martín Lousteau, Juliana Di Tullio, Gabriel Katopodis, Emilio Monzó y Maximiliano Ferraro de un foro contra el Gobierno.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    {
+     "medio": "www.examedia.com.ar",
+     "titulo": "GUILLERMO MICHEL: FRIGERIO ES MILEI EN LA PROVINCIA - Victoria Primicias",
+     "url": "https://www.examedia.com.ar/portada/post/88297698",
+     "fecha": "2026-11-24T18:59-03:00",
+     "dominio": "examedia.com.ar"
+    },
+    {
+     "medio": "El Intransigente",
+     "titulo": "Guillermo Michel: «Los que pierden son la clase media, los jubilados de hoy»",
+     "url": "https://elintransigente.com/2026/11/24/guillermo-michel-pierden-son-clase-media-jubilados-hoy/",
+     "fecha": "2026-11-24T18:37-03:00",
+     "dominio": "elintransigente.com"
+    },
+    {
+     "medio": "Urgente24",
+     "titulo": "Lousteau / Di Tullio / Katopodis / Michel / Monzó / Ferraro por el frente anti Milei",
+     "url": "https://urgente24.com/lousteau-di-tullio-katopodis-michel-monzo-ferraro-el-frente-anti-milei-n637360/amp",
+     "fecha": "2026-11-24T16:33-03:00",
+     "dominio": "urgente24.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/lousteau-monzo-michel-di-tullio-ferraro-y-katopodis-en-un-foro-anti-milei-en-la-uba-nid23112026/",
+     "dominio": "lanacion.com.ar"
+    },
+    {
+     "medio": "LA17",
+     "url": "https://lu17.com/contenido/158900/la-oposicion-analizara-casos-de-brasil-y-francia-para-construir-una-alternativa-a-milei-en-2027",
+     "dominio": "lu17.com"
+    },
+    {
+     "medio": "La Izquierda Diario",
+     "url": "https://www.laizquierdadiario.com/Coordinar-para-Ganar-un-encuentro-de-centro-entre-peronistas-radicales-y-ex-PRO-para-no-enfrentar-a?amp=1",
+     "dominio": "laizquierdadiario.com"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-23T21:35-03:00"
+  },
   {
    "id": "combustibles-surtidores",
    "titulo": "El proyecto sobre aviso previo de subas de combustibles enfrenta a Massa con las petroleras",
@@ -133,65 +348,6 @@
    "sumado": "2026-11-24T21:33-03:00"
   },
   {
-   "id": "peronismo-sin-paso",
-   "titulo": "Sin PASO: el peronismo debate cómo definir sus candidaturas",
-   "resumen": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei, según Diario Digital Con. Infobae informa que el PJ empieza a discutir cómo ordenarse sin PASO y la dificultad de conservar la unidad. La Voz del Interior analiza que, sin PASO, pierden peso las terceras fuerzas.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Cecilia Moreau",
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "Diario Digital Conclusión",
-     "titulo": "Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y pidió un frente contra Milei",
-     "url": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
-     "fecha": "2026-11-24T18:42-03:00",
-     "dominio": "conclusion.com.ar"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El PJ empieza a transitar la discusión sobre cómo ordenarse sin PASO: la compleja tarea para conservar la unidad",
-     "url": "https://www.infobae.com/politica/2026/11/24/el-pj-empieza-a-transitar-la-discusion-sobre-como-ordenarse-sin-paso-la-compleja-tarea-para-conservar-la-unidad/",
-     "fecha": "2026-11-24T03:01-03:00",
-     "dominio": "infobae.com"
-    },
-    {
-     "medio": "La Noticia Web",
-     "titulo": "El peronismo comienza a debatir la herramienta para dirimir candidaturas sin las PASO",
-     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-comienza-a-debatir-la-herramienta-para-dirimir-candidaturas-sin-las-paso/",
-     "fecha": "2026-11-24T10:30-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "La Voz del Interior",
-     "url": "https://www.lavoz.com.ar/politica/paso-ganan-encuestas-pierden-terceras-fuerzas_0_goovdBcQr2.html",
-     "dominio": "lavoz.com.ar"
-    },
-    {
-     "medio": "La voz 90.1",
-     "url": "https://www.lavoz901.com/amp/el-pj-empieza-a-transitar-la-discusin-sobre-cmo-ordenarse-sin-paso.htm",
-     "dominio": "lavoz901.com"
-    },
-    {
-     "medio": "ANDigital",
-     "url": "https://andigital.com.ar/nota/145152/ganarle-a-milei-es-facil-lo-complicado-es-ser-el-candidato-del-peronismo/",
-     "dominio": "andigital.com.ar"
-    },
-    {
-     "medio": "InfoPlatense",
-     "url": "https://www.infoplatense.com.ar/despues-del-fin-de-semana-largo-el-peronismo-discute-quien-llama-primero/",
-     "dominio": "infoplatense.com.ar"
-    }
-   ],
-   "cantidad_notas": 7,
-   "vigente_desde": "2026-11-24T21:33-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-22T06:10-03:00"
-  },
-  {
    "id": "massa-redes-peronismo",
    "titulo": "Redes: Massa busca reconfigurar el peronismo, según TN y Perfil",
    "resumen": "TN analiza la conversación política en redes y señala que el apellido Kirchner pierde peso mientras Sergio Massa busca reconfigurar el peronismo. Perfil describe la apuesta de Massa por un peronismo con menos kirchnerismo a partir de lo que muestran las redes.",
@@ -226,105 +382,6 @@
    "vigente_desde": "2026-11-24T21:33-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-24T21:33-03:00"
-  },
-  {
-   "id": "tigre-fiscal-impositiva",
-   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
-   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según Zona Norte Hoy e InfoBAN. La Noticia Web informa que los libertarios reivindicaron la eliminación de tasas y el tope al aumento del ABL.",
-   "tono": "negativo",
-   "dirigentes": [],
-   "principales": [
-    {
-     "medio": "Zona Norte Hoy",
-     "titulo": "Tigre: el Concejo Deliberante aprobó las ordenanzas fiscal e impositiva 2027 pese al rechazo del massismo",
-     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
-     "fecha": "2026-11-24T14:49-03:00",
-     "dominio": "zonanortehoy.com"
-    },
-    {
-     "medio": "InfoBAN",
-     "titulo": "Tigre aprobó las ordenanzas fiscal e impositiva 2027 en medio de un fuerte cruce entre el zamorismo y el massismo",
-     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
-     "fecha": "2026-11-24T15:52-03:00",
-     "dominio": "infoban.com.ar"
-    },
-    {
-     "medio": "La Noticia Web",
-     "titulo": "Tigre: zamorismo y LLA aprobaron las preparatorias fiscal e impositiva con el rechazo del massismo",
-     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
-     "fecha": "2026-11-24T17:51-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "elconurbano.com.ar",
-     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
-     "dominio": "elconurbano.com.ar"
-    },
-    {
-     "medio": "Zona Norte Diario Online",
-     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
-     "dominio": "zonanortediario.com.ar"
-    },
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
-     "dominio": "lanoticiaweb.com.ar"
-    }
-   ],
-   "cantidad_notas": 6,
-   "vigente_desde": "2026-11-24T21:33-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-24T21:33-03:00"
-  },
-  {
-   "id": "foro-uba-michel",
-   "titulo": "Guillermo Michel: foro opositor en la UBA y críticas al modelo económico",
-   "resumen": "Guillermo Michel afirmó que \"los que pierden son la clase media, los jubilados de hoy\", según El Intransigente. Urgente24 y La Nación informan que Michel participa junto a Martín Lousteau, Juliana Di Tullio, Gabriel Katopodis, Emilio Monzó y Maximiliano Ferraro de un foro contra el Gobierno en la UBA.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Guillermo Michel"
-   ],
-   "principales": [
-    {
-     "medio": "El Intransigente",
-     "titulo": "Guillermo Michel: «Los que pierden son la clase media, los jubilados de hoy»",
-     "url": "https://elintransigente.com/2026/11/24/guillermo-michel-pierden-son-clase-media-jubilados-hoy/",
-     "fecha": "2026-11-24T18:37-03:00",
-     "dominio": "elintransigente.com"
-    },
-    {
-     "medio": "Urgente24",
-     "titulo": "Lousteau / Di Tullio / Katopodis / Michel / Monzó / Ferraro por el frente anti Milei",
-     "url": "https://urgente24.com/lousteau-di-tullio-katopodis-michel-monzo-ferraro-el-frente-anti-milei-n637360/amp",
-     "fecha": "2026-11-24T16:33-03:00",
-     "dominio": "urgente24.com"
-    },
-    {
-     "medio": "La Nación",
-     "titulo": "Lousteau, Monzó, Michel, Di Tullio, Ferraro y Katopodis confluirán en un foro anti Milei en la UBA",
-     "url": "https://www.lanacion.com.ar/politica/lousteau-monzo-michel-di-tullio-ferraro-y-katopodis-en-un-foro-anti-milei-en-la-uba-nid23112026/",
-     "fecha": "2026-11-23T18:26-03:00",
-     "dominio": "lanacion.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "LA17",
-     "url": "https://lu17.com/contenido/158900/la-oposicion-analizara-casos-de-brasil-y-francia-para-construir-una-alternativa-a-milei-en-2027",
-     "dominio": "lu17.com"
-    },
-    {
-     "medio": "La Izquierda Diario",
-     "url": "https://www.laizquierdadiario.com/Coordinar-para-Ganar-un-encuentro-de-centro-entre-peronistas-radicales-y-ex-PRO-para-no-enfrentar-a?amp=1",
-     "dominio": "laizquierdadiario.com"
-    }
-   ],
-   "cantidad_notas": 5,
-   "vigente_desde": "2026-11-24T21:33-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-23T21:35-03:00"
   },
   {
    "id": "galmarini-san-isidro",
@@ -511,57 +568,17 @@
    "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-24T17:24-03:00"
-  },
-  {
-   "id": "encuestas-2027-balotaje",
-   "titulo": "Encuestas: Massa y Kicillof le ganarían a Milei en un balotaje, según Analogías",
-   "resumen": "Según una encuesta de Analogías publicada por El Destape, en un balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. Revista Noticias publicó un sondeo según el cual Patricia Bullrich y Kicillof superan a Milei en imagen positiva, y Noticias Urbanas difundió una encuesta sobre cómo imaginan los argentinos a su próximo presidente.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "El Destape",
-     "titulo": "Encuesta balotaje elecciones presidenciales Argentina 2027: Kicillof le gana a Milei por 6 puntos y Massa por 2,4, según Analogías",
-     "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946?outputType=amp",
-     "fecha": "2026-11-23T12:01-03:00",
-     "dominio": "eldestapeweb.com"
-    },
-    {
-     "medio": "Revista Noticias",
-     "titulo": "Encuesta: Bullrich y Kicillof superan a Milei en imagen positiva",
-     "url": "https://noticias.perfil.com/noticias/politica/encuesta-bullrich-y-kicillof-superan-a-milei-en-imagen-positiva.phtml",
-     "fecha": "2026-11-24T09:46-03:00",
-     "dominio": "noticias.perfil.com"
-    },
-    {
-     "medio": "El Destape",
-     "titulo": "Encuestas elecciones Argentina 2027: qué dicen todos los sondeos de noviembre sobre Javier Milei, Axel Kicillof y el balotaje",
-     "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
-     "fecha": "2026-11-23T17:46-03:00",
-     "dominio": "eldestapeweb.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Noticias Urbanas",
-     "url": "https://www.noticiasurbanas.com.ar/encuesta-asi-imaginan-los-argentinos-a-su-proximo-presidente",
-     "dominio": "noticiasurbanas.com.ar"
-    },
-    {
-     "medio": "Diario La Capital de Mar del Plata",
-     "url": "https://www.lacapitalmdp.com/timerman-en-estas-condiciones-milei-no-gana-el-balotaje/",
-     "dominio": "lacapitalmdp.com"
-    }
-   ],
-   "cantidad_notas": 5,
-   "vigente_desde": "2026-11-24T17:24-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-23T13:34-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2125396891600851327",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau: \"Endeudador y vende humo serial\".",
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
   {
    "url": "https://x.com/ceciliamoreauok/status/2125333397858103751",
    "autor": "@ceciliamoreauok",
@@ -617,46 +634,6 @@
    "vigente_desde": "2026-11-24T21:33-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-24T21:33-03:00"
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2125097957716308030",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero sobre la explicación oficial de la inflación y los condicionantes del gobierno anterior.",
-   "vigente_desde": "2026-11-24T05:34-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-24T05:34-03:00"
-  },
-  {
-   "url": "https://x.com/SebasGalmarini/status/2125036152683999377",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini sobre el debate por el homenaje a Santucho en la Facultad de Ciencias Sociales de la UBA.",
-   "vigente_desde": "2026-11-24T05:34-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-24T05:34-03:00"
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2125010370397909095",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel sobre la transparencia presupuestaria de Entre Ríos y la gestión provincial en salud.",
-   "vigente_desde": "2026-11-24T05:34-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-24T05:34-03:00"
-  },
-  {
-   "url": "https://x.com/SebasGalmarini/status/2124972486945096059",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini, sobre desarrollo urbano y ambiente en San Isidro.",
-   "vigente_desde": "2026-11-23T21:35-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-23T21:35-03:00"
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2124962706390458600",
-   "autor": "@MichelGuilleOK",
-   "nota": "Guillermo Michel presentó un proyecto para actualizar el Código Penal en materia de fraude informático.",
-   "vigente_desde": "2026-11-23T21:35-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-23T21:35-03:00"
   }
  ],
  "entrevistas": [
@@ -714,22 +691,11 @@
    "vigente_desde": "2026-11-24T17:24-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-23T13:34-03:00"
-  },
-  {
-   "youtube": "L9dBSGtbhqM",
-   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
-   "canal": "keopsfm",
-   "fecha_txt": "hace 49 min",
-   "duracion": "17:26",
-   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
-   "vigente_desde": "2026-11-24T05:34-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-24T05:34-03:00"
   }
  ],
  "metricas": {
-  "notas_analizadas": 84,
-  "medios": 59,
+  "notas_analizadas": 95,
+  "medios": 64,
   "temas": 12
  }
 }
