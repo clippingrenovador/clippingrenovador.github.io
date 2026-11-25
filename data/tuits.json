@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-25T13:32-03:00",
- "total": 84,
+ "generado": "2026-11-25T15:05-03:00",
+ "total": 85,
  "tuits": [
+  {
+   "id": "2125544906819027071",
+   "usuario": "ayerasquetti",
+   "visto": "2026-11-25T15:05-03:00",
+   "url": "https://twitter.com/ayerasquetti/status/2125544906819027071",
+   "citado_en": [
+    {
+     "medio": "Diputados Bonaerenses",
+     "titulo": "Nueva ofensiva del Frente Renovador contra el plan de Caputo",
+     "nota_id": "a3f3e8dadeeb"
+    }
+   ]
+  },
   {
    "id": "2122117706228871482",
    "usuario": "Kicillofok",
@@ -101,6 +114,11 @@
    "visto": "2026-11-25T03:20-03:00",
    "url": "https://twitter.com/alferdez/status/2125311205304619023",
    "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "La oposición disparó contra el Gobierno Nacional tras confirmarse la recesión técnica: \"Los bobos de Wall Street\"",
+     "nota_id": "b5e9c71c25f9"
+    },
     {
      "medio": "El Intransigente",
      "titulo": "La oposición disparó contra el Gobierno Nacional tras confirmarse la recesión técnica: \"Los bobos de Wall Street\"",
@@ -982,6 +1000,11 @@
      "medio": "Todo Provincial",
      "titulo": "Cecilia Moreau llamó a la unidad del peronismo rumbo a 2027 y cuestionó el proyecto de Presupuesto",
      "nota_id": "efa31e7b432b"
+    },
+    {
+     "medio": "Todo Provincial",
+     "titulo": "Las familias argentinas cada vez se endudan más y el consumo no repunta",
+     "nota_id": "9f57d53e3664"
     }
    ]
   },
