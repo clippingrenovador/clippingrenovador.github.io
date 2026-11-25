@@ -1,7 +1,82 @@
 {
- "generado": "2026-11-25T11:38-03:00",
- "total": 79,
+ "generado": "2026-11-25T13:32-03:00",
+ "total": 84,
  "tuits": [
+  {
+   "id": "2122117706228871482",
+   "usuario": "Kicillofok",
+   "visto": "2026-11-25T13:32-03:00",
+   "url": "https://twitter.com/Kicillofok/status/2122117706228871482",
+   "citado_en": [
+    {
+     "medio": "Ambito",
+     "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
+     "nota_id": "43835b940246"
+    }
+   ]
+  },
+  {
+   "id": "2125533523343806931",
+   "usuario": "sergiounac",
+   "visto": "2026-11-25T13:32-03:00",
+   "url": "https://twitter.com/sergiounac/status/2125533523343806931",
+   "citado_en": [
+    {
+     "medio": "Ambito",
+     "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
+     "nota_id": "43835b940246"
+    }
+   ]
+  },
+  {
+   "id": "2125363349219053918",
+   "usuario": "QuintelaRicardo",
+   "visto": "2026-11-25T13:32-03:00",
+   "url": "https://twitter.com/QuintelaRicardo/status/2125363349219053918",
+   "citado_en": [
+    {
+     "medio": "Ambito",
+     "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
+     "nota_id": "43835b940246"
+    }
+   ]
+  },
+  {
+   "id": "2116153158099497074",
+   "usuario": "Letra_P",
+   "visto": "2026-11-25T13:32-03:00",
+   "url": "https://twitter.com/Letra_P/status/2116153158099497074",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Tepp y Monteverde faltaron a la mesa Axel 2027 en Rosario y hacen equilibrio entre Kicillof y Massa",
+     "nota_id": "b7b5b1651ce6"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Tepp y Monteverde faltaron a la mesa Axel 2027 en Rosario y hacen equilibrio entre entre Kicillof y Massa",
+     "nota_id": "d41263f5e6e7"
+    }
+   ]
+  },
+  {
+   "id": "2122739058560376835",
+   "usuario": "Letra_P",
+   "visto": "2026-11-25T13:32-03:00",
+   "url": "https://twitter.com/Letra_P/status/2122739058560376835",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Tepp y Monteverde faltaron a la mesa Axel 2027 en Rosario y hacen equilibrio entre Kicillof y Massa",
+     "nota_id": "b7b5b1651ce6"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Tepp y Monteverde faltaron a la mesa Axel 2027 en Rosario y hacen equilibrio entre entre Kicillof y Massa",
+     "nota_id": "d41263f5e6e7"
+    }
+   ]
+  },
   {
    "id": "2125246988111217050",
    "usuario": "ayerasquetti",
@@ -26,6 +101,11 @@
    "visto": "2026-11-25T03:20-03:00",
    "url": "https://twitter.com/alferdez/status/2125311205304619023",
    "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "La oposición disparó contra el Gobierno Nacional tras confirmarse la recesión técnica: \"Los bobos de Wall Street\"",
+     "nota_id": "b5e9c71c25f9"
+    },
     {
      "medio": "El Intransigente",
      "titulo": "La oposición disparó contra el Gobierno Nacional tras confirmarse la recesión técnica: \"Los bobos de Wall Street\"",
