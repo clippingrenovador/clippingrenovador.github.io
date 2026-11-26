@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-25T22:45-03:00",
- "total": 92,
+ "generado": "2026-11-26T00:19-03:00",
+ "total": 95,
  "tuits": [
+  {
+   "id": "2125708923189784882",
+   "usuario": "MaJimenaLopezOk",
+   "visto": "2026-11-26T00:19-03:00",
+   "url": "https://twitter.com/MaJimenaLopezOk/status/2125708923189784882",
+   "citado_en": [
+    {
+     "medio": "La Noticia 1",
+     "titulo": "Día de la no violencia contra la mujer: \"Faltan denuncias, no falsas denuncias\", cuestionó la diputada necochense Jimena López",
+     "nota_id": "f01e33a9afd5"
+    }
+   ]
+  },
+  {
+   "id": "2125585517114982432",
+   "usuario": "SofiaVannelli",
+   "visto": "2026-11-26T00:19-03:00",
+   "url": "https://twitter.com/SofiaVannelli/status/2125585517114982432",
+   "citado_en": [
+    {
+     "medio": "La Letra Chica",
+     "titulo": "El FR cruzó a Caputo y denunció maniobras del lobby petrolero",
+     "nota_id": "0d533075c74f"
+    }
+   ]
+  },
+  {
+   "id": "2125551838187733437",
+   "usuario": "juanmalpeli",
+   "visto": "2026-11-26T00:19-03:00",
+   "url": "https://twitter.com/juanmalpeli/status/2125551838187733437",
+   "citado_en": [
+    {
+     "medio": "La Letra Chica",
+     "titulo": "El FR cruzó a Caputo y denunció maniobras del lobby petrolero",
+     "nota_id": "0d533075c74f"
+    }
+   ]
+  },
   {
    "id": "2125581744229568720",
    "usuario": "Letra_P",
@@ -86,6 +125,11 @@
    "visto": "2026-11-25T17:17-03:00",
    "url": "https://twitter.com/MichelGuilleOK/status/2125606492606976185",
    "citado_en": [
+    {
+     "medio": "Análisis Digital",
+     "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
+     "nota_id": "46151d666fd1"
+    },
     {
      "medio": "Análisis Digital",
      "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
