@@ -1,9 +1,152 @@
 {
- "generado": "2026-11-26T18:16-03:00",
- "total": 734,
- "nuevas_ultima_corrida": 56,
+ "generado": "2026-11-26T19:20-03:00",
+ "total": 741,
+ "nuevas_ultima_corrida": 53,
  "errores": [],
  "notas": [
+  {
+   "id": "59e7003d429c",
+   "titulo": "“La Argentina necesita a alguien que sepa, y ése es Sergio Massa\", aseguró Carlos Bevilacqua",
+   "medio": "La Nueva Provincia",
+   "medio_url": "https://www.lanueva.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbkRpRGFWVDVYV0NBVjU3QlFUNlgxUTQ2M0tXdFZmSFVIQmlIT0U4U1RMdU9xQlZVdWhJb2dPb0NUeFJmTDg4OG5KTUl4TnQ4QmgtOEhmQW9iallNdDI5UjQ0R3pJM3dXR2hlX2RRaGdYVDNDazBFQ2NIYmVKNndxTUI0NWxsb3RWdHJMMGc5MExpdmRJZU5CSHp2eFplVURnbjVvVUlFOGlGQW81UWhYSzJ6eXF3bmdPbTFDYXE5bnBhbUxzMGlXcjd0eENfeWx0?oc=5",
+   "fecha": "2026-11-26T19:11-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.lanueva.com/nota/2026-11-26-19-2-0-la-argentina-necesita-a-alguien-que-sepa-y-ese-es-sergio-massa-aseguro-carlos-bevilacqua",
+   "revisada": true
+  },
+  {
+   "id": "52a8fbcc64ac",
+   "titulo": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
+   "medio": "Rosario3",
+   "medio_url": "https://www.rosario3.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlpxV2kxRTduWEowZmZqQk5HUzMxLVBVRzdOcXFoM0o4Zmk1ZjUzaXNHaHpKcmdxdENJSThNNVB3U0g1aFJjUUNNTTB6UHUtdmt1NmVJN2VJWHdidVZ1Sm1hSmVNZ1loRkFUa1hmbnpmeHR2R2tvSVUzTm5PR050cnpoNFpBZ0RYMzVKTEtMeGxRWDd5Z0s3TEJzM0tndHVlT3l6S0FkY9IBpwFBVV95cUxQdlpxV2kxRTduWEowZmZqQk5HUzMxLVBVRzdOcXFoM0o4Zmk1ZjUzaXNHaHpKcmdxdENJSThNNVB3U0g1aFJjUUNNTTB6UHUtdmt1NmVJN2VJWHdidVZ1Sm1hSmVNZ1loRkFUa1hmbnpmeHR2R2tvSVUzTm5PR050cnpoNFpBZ0RYMzVKTEtMeGxRWDd5Z0s3TEJzM0tndHVlT3l6S0FkYw?oc=5",
+   "fecha": "2026-11-26T19:02-03:00",
+   "busquedas": [
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
+   "revisada": true
+  },
+  {
+   "id": "bc6d2146edd1",
+   "titulo": "Por el artículo del financiamiento universitario está frenada la aprobación del Presupuesto 2027",
+   "medio": "periferia.com.ar",
+   "medio_url": "https://periferia.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYnE2c0Z3TGtDMTNncERWNzRmc01CeDUxOGxsNnJ5OE4wVmFQSEtRT0dlX1M1OGlBYUVxdEJSSkFVb0xPeWtWN1gweXIxdFJpNENoUDlCX3U4azFraHB0a19MUUpiUmtqNmQ5MDlhVFZZanF6R1V6SXhuSUt3VFd0UDFpZGxlTHdFdkJYSS1yR04zeW1NR1JVSXcwY1c0OWNLNHF6SDhsMnAtS2JraUxqTGVWX1VDcnNNQkZ3V2RKNWVtQzFGY3VKc0QtLXl4SURXRXNEeVRickVUZw?oc=5",
+   "fecha": "2026-11-26T19:01-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://periferia.com.ar/politica-cientifica/por-el-articulo-del-financiamiento-universitario-esta-frenada-la-aprobacion-del-presupuesto-2027/",
+   "revisada": true
+  },
+  {
+   "id": "dabcdc3aefeb",
+   "titulo": "Una encuesta asegura que tanto Kicillof como Massa ganarían un ballotage con Milei | 26 de noviembre de 2026",
+   "medio": "Hoy Día Córdoba",
+   "medio_url": "https://hoydia.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNemFsNUpwaDVtUTdlQWlvOThCNGkzQmNBRk9ydGhhUmpNcHZJeTA0eUxMRDM1WTdkRWpHX1ZxNHlZRkpDa3c2c1N2UHN5SGhTMW9ZLXkyN1NRdDByMFc0emxuc0ktTnNYODR6SzM0cExRNFM1NWJySzZwSzJVdjd4eEo3Ykc1U3VFaFg5UnR2OHpUVV9KclE1ZGE4WHljOGVpT2YzWnZ4bTdlWWRiTXFmTmJtbUtGc0x2cTI0cnpvVHTSAcYBQVVfeXFMUExYQy1EVENmeGNPWlhlOWZuQ25UVWppZHhCLXhGdF9oYVJMZjdZYTRJbGRoSS1vS25BdFZneW5FWlAyaVozd2didHM4SmdfSDhoazhZazFRb0F3dGNwMjZLQWVVQ2trNWtvQ01MQWY2dy02QnBRUUpQbmVqdnhHbE0xcDdyLWVVRVBOTXd1aENRYkFqYXRmNHJrbGNrT29ya1E1M3JXOWh1NzBEU2x5ZXlvbHVqT0NFRVpYaXlMMGY5VHV2N01R?oc=5",
+   "fecha": "2026-11-26T19:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://hoydia.com.ar/politica/nacional/una-encuesta-asegura-que-tanto-kicillof-como-massa-ganarian-un-ballotage-con-milei/",
+   "revisada": true
+  },
+  {
+   "id": "523fdbcb6555",
+   "titulo": "Reforma electoral con suspensión de las PASO: El senado le dio media sanción",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1VtU2V0WUpONmJfRG05Y01WeVZ4a1RjbUlUTjUtUm44aUpTekh6YWltZ2hZU25qT0I4THMxYXBNQ29YeUdQUVJrbi14T0l6ODdLWGZJLW4zcUt1eVZiZlRFS0JrT0RIempraVN0MnVxOG9rNzVacG41SWpVUGp0RHJqb28xRmxKcFc5Z2VqaTl1Mk05NnREcTgzMWpxaXZJLTM5LVAwU3ZQMlNkNDFV?oc=5",
+   "fecha": "2026-11-26T18:56-03:00",
+   "busquedas": [
+    "massismo",
+    "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion",
+   "revisada": true
+  },
+  {
+   "id": "9e6cdc0731ec",
+   "titulo": "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\"",
+   "medio": "Cadena 3 Argentina",
+   "medio_url": "https://www.cadena3.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVhja05BbXg1Uk1mVUwyR2VQSFpIX3BXZmZvQXlPRXlTQ2E4TUpsMUc0U09ialpSUVlvVTdKVWZ2a2FDYjlRdzJWbkt5NXJRSEpXd2pUcUU1SFlQQjlrYng2Y0VobDNOdHpxVUxNeE5UV3ZldXlZaVhOaVhFSUFCWnV0QVhTVXdGT2hLOGlUVlhJZ2IwdFBBN0Nzc2syV3AxVjluWU1lbFpQNGkyWndqUXJyc1U1MG9zeHfSAb8BQVVfeXFMT1dSRWR1bnVQTEJZMjNRYWI5NGFyV1kzOEszX1dPckpXOTkyVXk4ZmJ1akZBcHV4a0FxMUZpU0VlVnZmTkk2eHZ2UHNpczBVNWNBdUgxbjdZVDZveXFfeURJSlh5UWJ3cUg5ZEtPLTlITjF6WUpNbTFTUUFUNm1aNHF5SFFHek5senJpZnNVYVZmQzBUTmUxUm9nUmZaRUpYR191bk9wdnBlMzdtX2lwd1hPQnBtUEtWSV9jcFppTTg?oc=5",
+   "fecha": "2026-11-26T18:47-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
+   "revisada": true
+  },
+  {
+   "id": "ff1acc897ac3",
+   "titulo": "Massa propuso una agenda de inteligencia artificial para impulsar la producción y proteger el empleo",
+   "medio": "Cronos noticias",
+   "medio_url": "https://infocronos.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3ZacXZLejRqQnRwWUUzdk5kX3pNT3NUYjJlY2wtektWRUFuMy0yQlVvLW5hODFvelotWGIwazNhQmhyNDRJOWxvbk9wWWdJb2pPTjlFNEdpbWFNRDY1SDJYeG15N3Y5Z3J5UGx3cjdodTVvb3BuUnZ6ZWdJMU5KRk1nRlFBcjRzMFRHNkhpcXdTYWhOa0tKZ3pJQWZJVk9jQ1B5ZjJuWERVQ2k3dFE2RWVoTFhuXzNOT0lfTnItN1h6UTVueF9CaVN2TjVsNmdkcmRJVA?oc=5",
+   "fecha": "2026-11-26T18:44-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://infocronos.com.ar/nota/59076/massa-propuso-una-agenda-de-inteligencia-artificial-para-impulsar-la-produccion-y-proteger-el-empleo/",
+   "revisada": true
+  },
+  {
+   "id": "8d1967c5c22c",
+   "titulo": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
+   "medio": "La Capital",
+   "medio_url": "https://www.lacapital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcG1tenRRbEJ3cGVoV055ZFJIa3BHN1lrRHUtWlA0UEQ0QUlVenhNemFhYTNWYnBhdjhhUHpwMzJRSktIUHEtR3ZEeHNiemdHckQ0S2E3WHhCNjFuR3dZOWFUVW5iRzFwdXVvNjRrQmhsY1RFQnVmc09NOHBwUlRtYzRPdHhxWEdrTEZ1Q3V1SWZmRk1zQjhjQTVoY1p1d3ZHQWNDSHVKQ0N3QnBjQi1nV0VLbVZ6Zll4SzRVU1hKa1hHOXBRLWZqVWFzV2paeElrUWU4Z2hXUTRyLXp6c3RpN1JxQlNkS1E4Z3JXLWo1VlNpX2J6T1JJ0gH8AUFVX3lxTE9VRmpBdUNmNmNCZWl5WXJ1SVJjeUNVRFhoVzNQT1RGUFFWa3llcUtDWkVOQ2I1MXFBcDhmWWJSZWZxTUVkQm5YOG0yN0xJUk4tVUpIa1d5YUN3a1VQcktUS2lwcE82SnluUFlVdWpEbENwdlZHUHFadjRoc1VBdDdOXzZ0MWtsMHY4Sk9BTW1rcDIzeUdMemhrSmJtTDY1OGJ0RHJjZldxdlFCR0J2dU14S2lNdzNrSVdDeVM4Y2QtaG1yQWZqRjFGeERDckNRc3daUzdtb1ZYc1NLSndNM0VTOHUyVy1JdGpPa00zdUgxUHFBVkVEeEdIdDBzcg?oc=5",
+   "fecha": "2026-11-26T18:33-03:00",
+   "busquedas": [
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html",
+   "revisada": true
+  },
+  {
+   "id": "eaef68f79e73",
+   "titulo": "Deporte y turismo en nuestra laguna: más de 120 atletas participaron del histórico Acuatlón Chascomús en aguas abiertas",
+   "medio": "El Cronista | Chascomús",
+   "medio_url": "https://www.elcronista.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFlWMUotZ2tfQ05jejFxWmFMc1AwWk1wZHFyTDdOb0x4RzRqZ0FpQjVYbmRWX2lPVGFMLWFRR0ZHcHRDaEQ1U2I0LU5RM2lOdlE5RzV1T0JadmY0LWkydGh0UDdSUU5LSmRzbFJicHRjQTJLd2xfVXJyZ0NsM0IwQkFPUkFyWFc2aUVHVWZLeXBKeDBsWnpsYzF4YVYweG54WEs2aGl2dHdOMXlzSjFzSGRRR1lfTkloSFExeFVjVVhhUGlZVkllbFNGV3JMOHd4dEtDM0N3ajJQYkZZ?oc=5",
+   "fecha": "2026-11-26T18:19-03:00",
+   "busquedas": [
+    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T19:18-03:00",
+   "url_original": "https://www.elcronista.ar/deporte-y-turismo-en-nuestra-laguna-mas-de-120-atletas-participaron-del-historico-acuatlon-chascomus-en-aguas-abiertas",
+   "revisada": true
+  },
+  {
+   "id": "3f7df9c9eab2",
+   "titulo": "“Estado, sociedad civil y familias”: la apuesta contra la ludopatía",
+   "medio": "Noticias Urbanas",
+   "medio_url": "https://www.noticiasurbanas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSF9hVVZzWk5WRHc1SzdHMjVTMzRaMC1oUld3Uzc0QVkxRi0zWk9jRmM2NFBreFNMc21Ud2E0ZlYtQzV3ZHRfbng5Qm9keW1iem40ODdGeTcyeFZFcDBvSWI4ZzhWMTNnaTR6bkY2Q3V4X18yX1BKRl9PZFZQSlZIdFZOVUZSZXYxWXRwcjQ2N1JLZlc0N2pRYzh0dmxHMEU?oc=5",
+   "fecha": "2026-11-26T18:16-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.noticiasurbanas.com.ar/estado-sociedad-civil-y-familias-la-apuesta-contra-la-ludopatia",
+   "revisada": true
+  },
   {
    "id": "54bbddce92e3",
    "titulo": "Milei y la economía: la mayoría prioriza salarios y empleo por sobre la inflación",
@@ -104,6 +247,21 @@
    "revisada": true
   },
   {
+   "id": "4cc1f381f26d",
+   "titulo": "Sergio Massa pasó por Córdoba: participó del cierre del Foro \"IA y políticas públicas\"",
+   "medio": "La Nueva Mañana",
+   "medio_url": "https://lmdiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV005QTVDRVVveHFaX1NMNXJyaldVYmUyR19Gc2NoMkRBTnFvMF9Zd3hXcDhiUDl6Ym5VcjJrd1B2YUdXWkY1WFdtUHFSLWQ4cDU2Y3lZUU5EYVpUMU9lMTg5alNvdFhOMXdDc0VtVHVwU3E0Q05Zb2JXbnB1Zml2ZHdJQ1c2eExPYUtVLU1CRGNjbEtsRzJjYWxyRVpmUEFENk44ckU3VU1KeFF5WnBKUk00S0ZCaVltdHZib3FR0gG2AUFVX3lxTE5DVTdxUFdFNXRXRkpXSDVSM29BeU50VFFGS3lCWG5pejNfNktTZ2piR2gyNzRYRTlSWTZrajNpeWZBOVMxUkNTZlJGRU9EaXhtRDVjeEpRRHd4STdTQXdZYTJEWXJEdjRlb2tlZ2FRWXZqNmt6NTY1c3VYcnNlbWlLZ2duZFJPeTRySHRrTWRzS05DZXFWV3hxaDA4VklUUC12OHRNN1dIc2YyaGE0THh0MXJ3dDhR?oc=5",
+   "fecha": "2026-11-26T17:10-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://lmdiario.com.ar/contenido/534646/sergio-massa-paso-por-cordoba-participo-del-cierre-del-foro-ia-y-politicas-publi",
+   "revisada": true
+  },
+  {
    "id": "414fdba55f91",
    "titulo": "Massa impulsa en Córdoba una agenda de IA para el trabajo",
    "medio": "Diario El Norte - San Nicolás",
@@ -130,6 +288,20 @@
    ],
    "visto": "2026-11-26T18:14-03:00",
    "url_original": "https://www.0264noticias.com.ar/noticias/2026/11/26/118671-con-cruces-entre-el-oficialismo-y-la-oposicion-se-debate-el-presupuesto-2027",
+   "revisada": true
+  },
+  {
+   "id": "e7e41659ba7e",
+   "titulo": "Sergio Massa pidió una IA argentina en Córdoba: qué había propuesto en 2023",
+   "medio": "NewsDigitales",
+   "medio_url": "https://www.newsdigitales.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnhZSlRtQkdVYWV5VUVCaWk3X1B5NzJVQ0dpWHVUZjBJX0sySjh2Z0VZSF9OZGVSUm1mUF9tbmlPMzYya1ZWZ19DVVBDUzlnSmpTNHlHbWROZjdqVjNUdFBYWTNjSkpZbWU4TzZHbURwc2xHUHRnSFljOUNud3libU9JV1pNOUNTNkRHVXpTamc0ZHlmMUtVeF90WTVJVWZpRk05UXFjOUh6dmNoaTlGd292clRJeEg5bDhVdXRR?oc=5",
+   "fecha": "2026-11-26T17:00-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.newsdigitales.com/politica/351075-sergio-massa-pidio-una-ia-argentina-en-cordoba-que-habia-propuesto-en-2023/",
    "revisada": true
   },
   {
@@ -204,6 +376,20 @@
    ],
    "visto": "2026-11-26T18:14-03:00",
    "url_original": "https://www.infoban.com.ar/26/11/2026/sergio-massa-planteo-en-cordoba-una-agenda-de-ia-al-servicio-de-la-produccion-el-empleo-y-el-desarrollo/",
+   "revisada": true
+  },
+  {
+   "id": "f40733f90a14",
+   "titulo": "Massa en Córdoba: \"Nuestra fuerza unida volverá a poner a la Argentina de pie\"",
+   "medio": "Codigo Baires",
+   "medio_url": "https://www.codigobaires.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3JJUkhqUm5UNS1STGp1X3pHMGYzTXZpZWJBR3VQVld5RVEyRlQ2TDQ2VjVrMGlMeGt1b0FMSU9DNm5zY09ua3VSLVdwa3BUdmlOMXZ5QmJVSG4xNnRiaGtRS0tJVDdaTU5VOUo1UF9nRlpwN1hMSkMwTmcyN1BDd19FTXgtNXdxRXc1ZERDalRZbjdhMXdsS1dIVEpZNmJMRXRFNGpNbXpJczVfZmRMNDlsaUp3TjZQWnNHMjNKWVMwa3Fk0gHIAUFVX3lxTE5UU1RCV2c4bWVZWWZkSGJqcFRsdWVycmJ6NDFCSWsyUkFvN2tDamNVLVhYTTN5RHdtSWN5eUV5d3Q1WExzUFV5ME9PQ3JRemlDSVA5ZmVvaGVmNTN6WHFvVHNFcF90djJsdDU4Mzh0TDM4Nk5vSkpRU3dNeGJodHQ0R280SGg2V0N5eEZZSDY0NENGY2d6bnBsLWlwNTlMY0llMGdra09HOWdUM01XRHIzUVpkYWJLdXBvV1p6NDRBSFJxUWgtWTMx?oc=5",
+   "fecha": "2026-11-26T16:32-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T19:17-03:00",
+   "url_original": "https://www.codigobaires.com.ar/2026-11-26/massa-en-cordoba-nuestra-fuerza-unida-volvera-a-poner-a-la-argentina-de-pie-252085/",
    "revisada": true
   },
   {
@@ -405,7 +591,8 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVjNUV3Z4aDFWRWNBN1JpajZFUS02Ml94VnJFR0p0LW1sc3p3Q1BEdXFmWHZQYzNBMFktUl9EOVhjd3lnUjhRYjRsZzhEOFk5VjRUWEMxX3U5amh0dGtxTDg0c2tUS0NucG9mOGhYT2R5OFhrWHljWncxVzF6TVFBX1M1N3FmdVhDNFQzb2NBSkRmRzZiU1p4VU5GZTVzc3RrekxfZk1BcHYwRzdXbFl0VGJFYTJiUHAxSGdTQ1dwQ1BLV1ktc2N3MFozYmNCT08wQkFQNGROODhRYk0?oc=5",
    "fecha": "2026-11-26T14:06-03:00",
    "busquedas": [
-    "\"Malena Galmarini\""
+    "\"Malena Galmarini\"",
+    "\"Frente Renovador\""
    ],
    "visto": "2026-11-26T16:25-03:00",
    "url_original": "https://flipr.com.ar/buenos-aires/bsasnoticia/malena-galmarini-lanzo-dardos-a-la-gestion-de-zamora-y-convoco-a-recuperar-el-municipio-de-tigre/",
@@ -10544,89 +10731,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.letrap.com.ar/politica/carlos-bianco-trabajo-todos-los-dias-que-axel-kicillof-sea-candidato-presidente-n5428373/amp",
-   "revisada": true
-  },
-  {
-   "id": "a155326accd0",
-   "titulo": "Se filtró otra encuesta con números en rojo para Javier Milei y LLA",
-   "medio": "Diario Mendoza Today",
-   "medio_url": "https://mendozatoday.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamk5MW5oeGpCYVNJREtjd2hwMUZjSVlBWDVGdG9kUjRzOHkxb1QzeVk1OWlhaFpyNWtyUzY2aVZQS2ZFSHM5c0NTWU0zTTBHZ1l1SThWdlhrV1dBTEpoMTdZM2o0aUhad2RvVldFS2djN3hBT3FadVBZYlZBcXU2WG1GMEJqVXBkNXotQ2M5ajktRXlOSF9CajdydEZLS1o5bmVr0gGaAUFVX3lxTFBDamwtVElCMFprbWRvR2lJeUJFZlU3RF9WNmVidFV3dU80MHl1cTBzSWhqVVo3bTRxb0lnaDNQdXZ6REFacllwNks4alhYdzNZWllrMkgzaWRZc2xONEhrckdWY2xjd1NrWVZjUHZsc0pMU09jMW5lZmpVNmdhSFVjWHBrbVNJdVN6dzR5ay15TGhaN0F6cVdVcVE?oc=5",
-   "fecha": "2026-11-19T18:41-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T18:11-03:00",
-   "url_original": "https://mendozatoday.com.ar/nacionales/se-filtro-otra-encuesta-con-numeros-en-rojo-para-javier-milei/",
-   "revisada": true
-  },
-  {
-   "id": "d83d308972c0",
-   "titulo": "Consejo de la Magistratura. Menem no validó a Brügge y escala la pelea de Provincias Unidas con los libertarios",
-   "medio": "La Voz del Interior",
-   "medio_url": "https://www.lavoz.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTF9tNFNfMVM4Tk5oOHNvTld1UkhqWDFnVUNIUG5XTExJazZHVGpfTG96eEk0Q3VhMTl1eTZoWGl4emUyMjY4MmpiTS1yWWhrUFVaM0ZnM3BhOW9NYmtEYzM5WFhFQ19kQ28wQ1MxZGhjZGo2TTVtUU5XWGpGcTBhM0JHbHR3ZnlFX3d2WEY2SGEwSVBqNUtrNnVvZVhFaExCV1Z5YXRTUjZRY3dYeGJnR3JDWVY?oc=5",
-   "fecha": "2026-11-19T18:40-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "2ed80ad43c6c",
-   "titulo": "Cristina Kirchner será el árbitro de la contienda del peronismo",
-   "medio": "Tribuna de Periodistas",
-   "medio_url": "https://periodicotribuna.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTd5WGJoM2JsRkVtVmw2V3ZEWUxNXzh6QWswNkhQQjdtcHYtVE9saDVMc21rN2V1VWJEV3JjWkhzZUVKRWVPY1hsU0VIVG1CZ2tUbG1qY3lyWm9sYUIweGtBTWJwS2FuUFJORXpJdU9jU1QtTGpSY0RzR2VnV0lGV2tkUGdYaGNiNGxHdERkRXk2ODRsZF8zYV9NeTg?oc=5",
-   "fecha": "2026-11-19T18:29-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://periodicotribuna.com.ar/cristina-kirchner-sera-el-arbitro-de-la-contienda-del-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "76cb6ca6dd60",
-   "titulo": "Consejo de la Magistratura: pese al “deadline“ de la Justicia, Diputados sigue sin poder definir al cuarto consejero",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbWJQY3ozd09Ib1pjSkVHVWN0VzVmZmg1N2NjdXJ4LXl2dF9sb1Z5MkFscWNZSnhaVHFPRFRNYzExZ1huU0Y0bHNDMHFsMEUzRFVrWEtQWm5hQURmUWpZVDR3MldXVnhRZXhaeWF0aFNuclNWdk5rbUZkNGQ2Mzc0NUdPMVhxMnhQNzRPdjNHdXg2ZHkxaU9uM29DSk5fbGpXUG05bEwyNVpQSFNzZjlDU2pOck1IeFZhX3JvZ0Y4bnFybUtmYUZHemtHSVVGRTJxdXdHR3ktU19WUVhWdmNTX0dveGRkRFNoSkExand3NV9URm9hMGItM2E0M2JMQ2s1UlJjX1luSDFoMl84Wm40?oc=5",
-   "fecha": "2026-11-19T18:20-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://noticiasargentinas.com/politica/consejo-de-la-magistratura--pese-al--deadline--de-la-justicia--diputados-sigue-sin-poder-definir-al-cuarto-consejero_a6aff500d09bc92d20f37c4cc",
-   "revisada": true
-  },
-  {
-   "id": "78ef112c5d60",
-   "titulo": "Massa, \"el arquitecto\", ya diseña su tablero político para el 2027",
-   "medio": "NOVA Bonaerense",
-   "medio_url": "https://www.novabonaerense.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVJjY1plOFM3VHhkcVp5V1QxNmY2TnRJaVVTZF94RHNmX092cDNsTzZOSk14d084SW14VndObmhJYW5SZ2plcUJ6U2xFMUoyMDdyTUlUbmtmSk1mWjBpTWZhcWFKQW5BQWpUajZvV1VFMjZUaFNHVjFYY1NaLVpweVBRQmhxY2l2R1JXeGFlclZIMmN4QURnWGV3WG9IOVFEenBIMkY3VGhrNjNGcy00MXpEdElBQVRfMjl1c2FKYW5RbTltaFBj?oc=5",
-   "fecha": "2026-11-19T18:20-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T00:54-03:00",
-   "revisada": true
-  },
-  {
-   "id": "ef4f569bb08c",
-   "titulo": "En un mano a mano con Axel Kicillof, Milei pierde un tercio de los votos que consiguió en el balotaje de 2023",
-   "medio": "Letra P",
-   "medio_url": "https://www.letrap.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQmxiNGdLRW1TYm80bk5kN3libTRvZGFXMmlrWDhJaEZHLWxCNTFZYm5IZWt5RXAtOUs1OUw5cEN1UkQ5YkF1bGxNX1IwQzA0YkR4UmgtX0VtWC01OXJsVE5hbHNDQlUzTGw3T1IzN05CZVZ6TkYtU3F4MHJTLWtuUDVCMHpkOXkwS2VGa09lU1ptOG9uY0NQZHlzMUJCS1lhdTN5WHpXV1hXNHEwQmp0cm5ITV9FUGlqZXVfc1BhZXJ0bjVmUlVWX2t6aWkwQUJsMkFGM3NTQk_SAdgBQVVfeXFMTkJsYjRnS0VtU2JvNG5OZDd5Ym00b2RhVzJpa1g4SWhGRy1sQjUxWWJuSGVreUVwLTlLNTlMOXBDdVJEOWJBdWxsTV9SMEMwNGJEeFJoLV9FbVgtNTlybFROYWxzQ0JVM0xsN09SMzdOQmVWek5GLVNxeDByUy1rblA1QjB6ZDl5MEtlRmtPZVNabThvbmNDUGR5czFCQktZYXUzeVh6V1dYVzRxMEJqdHJuSE1fRVBpamV1X3NQYWVydG41ZlJVVl9remlpMEFCbDJBRjNzU0JP?oc=5",
-   "fecha": "2026-11-19T18:20-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T18:11-03:00",
-   "url_original": "https://www.letrap.com.ar/politica/en-un-mano-mano-axel-kicillof-milei-pierde-un-tercio-los-votos-que-consiguio-el-balotaje-2023-n5428356/amp",
    "revisada": true
   }
  ]

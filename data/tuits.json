@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-26T18:15-03:00",
- "total": 105,
+ "generado": "2026-11-26T19:18-03:00",
+ "total": 107,
  "tuits": [
+  {
+   "id": "2126071697610527007",
+   "usuario": "PatoBullrich",
+   "visto": "2026-11-26T19:18-03:00",
+   "url": "https://twitter.com/PatoBullrich/status/2126071697610527007",
+   "citado_en": [
+    {
+     "medio": "La Noticia 1",
+     "titulo": "Reforma electoral con suspensión de las PASO: El senado le dio media sanción",
+     "nota_id": "523fdbcb6555"
+    }
+   ]
+  },
+  {
+   "id": "2126041305507828024",
+   "usuario": "taniakysha",
+   "visto": "2026-11-26T19:18-03:00",
+   "url": "https://twitter.com/taniakysha/status/2126041305507828024",
+   "citado_en": [
+    {
+     "medio": "NewsDigitales",
+     "titulo": "Sergio Massa pidió una IA argentina en Córdoba: qué había propuesto en 2023",
+     "nota_id": "e7e41659ba7e"
+    }
+   ]
+  },
   {
    "id": "2125965203502170563",
    "usuario": "josenortesosa",
@@ -21,6 +47,11 @@
    "visto": "2026-11-26T18:15-03:00",
    "url": "https://twitter.com/martorano_sonia/status/2102873009858195956",
    "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Agustín Rossi abraza a Monteverde y confía en que el PJ no le pondrá rivales para la intendencia de Rosario",
+     "nota_id": "13cbab48d85b"
+    },
     {
      "medio": "Letra P",
      "titulo": "Agustín Rossi abraza a Monteverde y confía en que el PJ no le pondrá rivales para la intendencia de Rosario",
@@ -56,6 +87,11 @@
      "medio": "ANDigital",
      "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
      "nota_id": "98dd23ebcd5e"
+    },
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
     }
    ]
   },
@@ -65,6 +101,11 @@
    "visto": "2026-11-26T16:26-03:00",
    "url": "https://twitter.com/Sosandres/status/2125997835233480769",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
@@ -87,6 +128,16 @@
      "medio": "Sin Mordaza",
      "titulo": "Giuliano cuestionó a Pullaro por darle quórum al oficialismo",
      "nota_id": "eda5780ca6e4"
+    },
+    {
+     "medio": "Rosario3",
+     "titulo": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
+     "nota_id": "52a8fbcc64ac"
+    },
+    {
+     "medio": "La Capital",
+     "titulo": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
+     "nota_id": "8d1967c5c22c"
     }
    ]
   },
@@ -110,6 +161,11 @@
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
      "nota_id": "dc9787b0a951"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
     }
    ]
   },
@@ -119,6 +175,11 @@
    "visto": "2026-11-26T14:26-03:00",
    "url": "https://twitter.com/Letra_P/status/2120992531546804290",
    "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
+    },
     {
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
