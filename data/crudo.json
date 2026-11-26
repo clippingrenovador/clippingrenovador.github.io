@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-26T01:29-03:00",
- "total": 752,
- "nuevas_ultima_corrida": 30,
+ "generado": "2026-11-26T03:20-03:00",
+ "total": 751,
+ "nuevas_ultima_corrida": 32,
  "errores": [],
  "notas": [
+  {
+   "id": "f75eda676898",
+   "titulo": "Solicitan presiciones sobre reorganización de carreras en Nivel Superior",
+   "medio": "Momarandu Corrientes",
+   "medio_url": "https://www.momarandu.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVA1UGRrbmdnc2lEMFlyY3J4cXhBYlYyVF9HeEFLcUtrd2s3NnNIUlRBYWxQbmJQbnplVndRMGx2LWhzdDk3Ri11a3RtZXFoNmVjenFVMkdlUDJNWDFSSmZ1SlJvVExqU0VoMjN6eFROLUxIV1Z0X2tXc3FYNzZRaEZXSXpzTUoteDZ4ai1QTzRfcGc1NHVtYl9GZEduZEhEdWlUQlp4Qll3eUpKR05NVHVUMkdlU29pYVZQbmdvTQ?oc=5",
+   "fecha": "2026-11-26T02:08-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T03:17-03:00",
+   "url_original": "https://www.momarandu.com/notix/noticia/70142_-solicitan-presiciones-sobre-reorganizacin-de-carreras-en-nivel-superior.htm",
+   "revisada": true
+  },
   {
    "id": "9d10eb8cd67d",
    "titulo": "Denuncian por abuso sexual a Janones, el estratega digital de Lula que asesora a Cristina y Massa",
@@ -531,6 +545,23 @@
     "\"Sergio Massa\""
    ],
    "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
+   "revisada": true
+  },
+  {
+   "id": "d54fb4d132f5",
+   "titulo": "Quintela: “también podemos jugar” en 2027",
+   "medio": "Eduardo German",
+   "medio_url": "https://eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejNmaXY3dE1pMGFUWHdIMW44QU1rek5DTnIzOG9VWVVDV2JKa01DNXNSVlRhalFkSXg0OEpWa2c4Xy1vajU4WTcycXlpZExSVTYzV3RlMmtrTmZJd1gtUWV1c2N2LWVHQ20ycTBoR0JWMjVqQ2FaWGpjUHJsazN4Q1FrWnVIdWxEQ1ZPTA?oc=5",
+   "fecha": "2026-11-25T14:07-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Juventud del Frente Renovador\"",
+    "\"Jóvenes FR\""
+   ],
+   "visto": "2026-11-26T03:17-03:00",
    "url_original": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
    "revisada": true
   },
@@ -10871,52 +10902,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.eldestapeweb.com/politica/paso-nacionales-bonaerenses-podrian-mantenerse-complicar-gobierno-20261119058",
-   "revisada": true
-  },
-  {
-   "id": "2fa7694d95b6",
-   "titulo": "No fue solo un acto: la jugada política que empieza a tomar forma para 2027",
-   "medio": "Politicadesantafe",
-   "medio_url": "https://politicadesantafe.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcW12S2I3Vi1kWHVGZXQ5MHA0dXRWT3FFQ01ycm9WRzFlMEVUM3FqUTlaMGRuZ3B0VGpxTnBsZl9Ec1M0OThnTWNLVmtHNTJkSU1Xa0pDTW1IQ0RnMjhGeUpPZWVxaHVEX2pCelcxMXdEMjBULURLSjZPSVNwMjFHY05IczVUeGZtUnZIejdsNlJldmZFbzZCTmcwUmNfdlNnQm5lanFPdVI?oc=5",
-   "fecha": "2026-11-19T02:37-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "\"Diego Giuliano\"",
-    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://politicadesantafe.com/no-fue-solo-un-acto-la-jugada-politica-que-empieza-a-tomar-forma-para-2027/",
-   "revisada": true
-  },
-  {
-   "id": "928dd2b6cb20",
-   "titulo": "La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
-   "medio": "Mundo Gremial",
-   "medio_url": "https://mundogremial.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3VOMVUzVk9qc05DMk0zeUhsbDVBV1gtaXFmU0dRbEg5M2ozcWZXdW5yei1JOG1RVlRqclRKbldBS21CdDgwVzJwZUdsRkZzWk5RYTZpZjJERzJfSXpBNFdBN1QzaXZOZ1JuZ3BQNFBaSkJqcVhMVDNQaWdJdEh1NGpqZm5jaTFMN2xvZG9GTEtKcHFWQktDV01ocS1TSXNfNi1uaUVOQW8tV1RpdzN1VQ?oc=5",
-   "fecha": "2026-11-19T02:17-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "massismo"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://mundogremial.com/la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "33fb89dbdcf5",
-   "titulo": "DÍA DE LA MILITANCIA: La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
-   "medio": "Agencia Comunas",
-   "medio_url": "https://agenciacomunas.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPME96WGM0ZDZ4S3hNZ3puNFlFRmh1S3d6Q2Q4VlptSWw5Yk1nb21XSkxMeGhwelgxVExWVURfTWdTM09Iak9ydTVBNG1lblBCcTZDVmhYbG4yd2hNTnVMdThZMktmMDE1X2hiNmpEUXk0ekEzYUZWbDJrLVFKN0JnMWgxLVI1c0c0R3FIaTVrNl9uT3QtVG84b1h5OVpjNnptYy10M1V5WWdjNVNKcHBKdXdmOUxlRF9XbnJEQUpNNUU2SmNtMDlhSThscDlrSC14YmlN?oc=5",
-   "fecha": "2026-11-19T01:32-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://agenciacomunas.com.ar/dia-de-la-militancia-la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
    "revisada": true
   }
  ]
