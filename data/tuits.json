@@ -1,13 +1,57 @@
 {
- "generado": "2026-11-26T16:26-03:00",
- "total": 102,
+ "generado": "2026-11-26T18:15-03:00",
+ "total": 105,
  "tuits": [
+  {
+   "id": "2125965203502170563",
+   "usuario": "josenortesosa",
+   "visto": "2026-11-26T18:15-03:00",
+   "url": "https://twitter.com/josenortesosa/status/2125965203502170563",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "José Norte Sosa: \"La reelección de Javier Milei se juega en el bolsillo\"",
+     "nota_id": "2858aaa56716"
+    }
+   ]
+  },
+  {
+   "id": "2102873009858195956",
+   "usuario": "martorano_sonia",
+   "visto": "2026-11-26T18:15-03:00",
+   "url": "https://twitter.com/martorano_sonia/status/2102873009858195956",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Agustín Rossi abraza a Monteverde y confía en que el PJ no le pondrá rivales para la intendencia de Rosario",
+     "nota_id": "13cbab48d85b"
+    }
+   ]
+  },
+  {
+   "id": "2126006878962360445",
+   "usuario": "ceciliamoreauok",
+   "visto": "2026-11-26T18:15-03:00",
+   "url": "https://twitter.com/ceciliamoreauok/status/2126006878962360445",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Diputados: Cecilia Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+     "nota_id": "2c224417cd7b"
+    }
+   ]
+  },
   {
    "id": "2125964714735743235",
    "usuario": "ANDigitalOK",
    "visto": "2026-11-26T16:26-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2125964714735743235",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
@@ -21,6 +65,11 @@
    "visto": "2026-11-26T16:26-03:00",
    "url": "https://twitter.com/Sosandres/status/2125997835233480769",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
@@ -56,6 +105,11 @@
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
      "nota_id": "dc9787b0a951"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
     }
    ]
   },
@@ -65,6 +119,11 @@
    "visto": "2026-11-26T14:26-03:00",
    "url": "https://twitter.com/Letra_P/status/2120992531546804290",
    "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
+    },
     {
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
