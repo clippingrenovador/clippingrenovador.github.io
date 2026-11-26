@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-26T04:48-03:00",
- "total": 750,
- "nuevas_ultima_corrida": 31,
+ "generado": "2026-11-26T06:36-03:00",
+ "total": 749,
+ "nuevas_ultima_corrida": 35,
  "errores": [],
  "notas": [
+  {
+   "id": "d7589f76b3c6",
+   "titulo": "Editorial de hoy: Se dice de mí",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMDU1M2NMRzJLQlJ5bEFuNnd1eEw2Z1o2cjdINE5sR2ZqSFF1UWY5cGhxNERDMFhNUlFIM1BxVTRPVDlFVUdyQjc4ZVVLMXh0WkFDUUhYUHVhVVBGNW16RFp4dTNob2Z5TzlQQXI5eUVMTGc4SWFITnNnZjhxbzR5SA?oc=5",
+   "fecha": "2026-11-26T05:37-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T06:34-03:00",
+   "url_original": "https://www.perfil.com/politica/editorial-de-hoy-se-dice-de-mi-ayYUc3X2GeyT",
+   "revisada": true
+  },
   {
    "id": "f75eda676898",
    "titulo": "Solicitan presiciones sobre reorganización de carreras en Nivel Superior",
@@ -71,6 +85,20 @@
     "massismo"
    ],
    "visto": "2026-11-25T22:44-03:00",
+   "url_original": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
+   "revisada": true
+  },
+  {
+   "id": "ef683e736be4",
+   "titulo": "Los libertarios apoyaron el aumento de tasas de Zamora",
+   "medio": "La Política Online",
+   "medio_url": "https://www.lapoliticaonline.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWGxvSjNXeXhUM0wyLWxYLTRlbUFhTlREdzhoOHV5cUF2WDEtQU1EcmRPV2NBVkxtYU1KVnJCVXRhMlJHTTRuYkFReENZTmVvVkFCZjZ0djZRWGtvT3htNGpFMGhMang2LUk1dW1MSW90SXJndGp1a0Z5cjVoaHRsUEI1ZjlNcy1KbmhqczZqbE5IQWdrSVNOT2M2cnFUcWNHMGd3bGNYejVndknSAaABQVVfeXFMTldNZFFJNXZuY3Y2VnZJUmVPeHM1UW5lMVhwZzNOY0hTVVJBai1WQ29oNWd4c09uRGFCZzltVF81eGFaalRBTVBIdndaVk02QkNFX2FhVGpqS3VvY1FySHVtbHdCbmxra2pEZUxveWJJX1ppLVpMSDJKblJXd1A1ckt0NWxEY2pfQVhCbFlyQ1FMcW83QzMwRUF4U0pkUTNQTA?oc=5",
+   "fecha": "2026-11-25T21:40-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-26T06:34-03:00",
    "url_original": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
    "revisada": true
   },
@@ -1009,7 +1037,8 @@
    "fecha": "2026-11-25T10:55-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "encuesta \"Sergio Massa\""
+    "encuesta \"Sergio Massa\"",
+    "encuesta \"Frente Renovador\""
    ],
    "visto": "2026-11-25T13:30-03:00",
    "url_original": "https://grupolaprovincia.com/amp/603711/encuesta-milei-kicillof-massa-balotaje-2027-analogias",
@@ -1346,6 +1375,20 @@
    ],
    "visto": "2026-11-25T16:19-03:00",
    "url_original": "https://grupolaprovincia.com/contenido/603697/ludopatia-de-leo-reclamo-que-todo-el-arco-politico-actue-en-sintonia",
+   "revisada": true
+  },
+  {
+   "id": "3ee07ce27a0c",
+   "titulo": "Una encuesta de \"Analogías\" que le llegó a Cristina y sacudió la interna del PJ: Kicillof y Massa vs. Milei en el balotaje",
+   "medio": "Fenix951",
+   "medio_url": "https://fenix951.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CLTZEZWo0TWN1NUVEakthbExwX3k2bDRhUUw5endESGh0dTktRDR2MUFoWVVRSm43WXRsRkJiQ2ZCU05LYUVjSi1SbGNsNWpURG5lSFBHTnY?oc=5",
+   "fecha": "2026-11-25T08:04-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T06:34-03:00",
+   "url_original": "https://fenix951.com.ar/noticia.php?id=361616",
    "revisada": true
   },
   {
@@ -10823,70 +10866,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://www.latecla.info/171273-san-fernando-le-recordo-a-kicillof-que-ampliar-la-mesa-ya-no-es-opcional",
-   "revisada": true
-  },
-  {
-   "id": "be8c3e569a74",
-   "titulo": "Quiénes son los dirigentes entrerrianos del PJ que se mostraron en un acto con Sergio Massa y sin Kicillof",
-   "medio": "Elentrerios",
-   "medio_url": "https://www.elentrerios.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbERQZC15SDVjSVZmUzM1cXlCTWpDLWctNTROQkZkdVAtYnJFR3BoQXJZN2U5NzZFOTJxdnJ1SjFlbDZNSVFyZE9oTjExUVBTVWdxcmFkdnlDWTRYVlJwVDdiaE5ITUI1UkJxS1k3Z3BnRWhWXzFFelc2UzdYdEFkU1NBR1llQWJuMERNUXJoZDNLdXM4TnhzWnZEdGF3eUlRVUhuWU01Z29LYWJSYTU0TVlBZ1ZKaHpWeGJTUGpXa1NYNzBSdWRhb3NrWlFUVEp1LThnRDlCSUNhM2JVdnNzbkN0RQ?oc=5",
-   "fecha": "2026-11-19T05:43-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "\"Diego Giuliano\"",
-    "\"Juan Andreotti\"",
-    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.elentrerios.com/actualidad/quienes-son-los-dirigentes-entrerrianos-del-pj-que-se-mostraron-en-un-acto-con-sergio-massa-y-sin-kicillof.htm",
-   "revisada": true
-  },
-  {
-   "id": "31a64c8addd0",
-   "titulo": "¿Cristina es de izquierda?",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05X3VpUVBqQXE0UnV3T1lpakhqY2xaeU44bFdaS0JBdGx2NW1xMEl5bHdKSmJJZnl3Wm9yUVN2ek56NmFyazRzT3lNa2FoOWZ3a3d4cFV1emNzZkxXQjJfVjB3ZzQ1QjZmc1QtV3BGRVBma1ZnaFpabw?oc=5",
-   "fecha": "2026-11-19T05:38-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T01:52-03:00",
-   "url_original": "https://www.perfil.com/politica/cristina-es-de-izquierda-aK3VS6Y1TAeQ",
-   "revisada": true
-  },
-  {
-   "id": "71d55925b3c9",
-   "titulo": "El peronismo sinceró su armado a dos bandas: el plan de fondo que ve Kicillof y la centralidad de Massa",
-   "medio": "Diario Neuquino",
-   "medio_url": "https://diarioneuquino.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWNNM0pTN1BMUktGN1ZETUcxWjFRYU5SLXpfdVYzTnR3eGo3UC1uZTBoMmVQY2NJREF1SXFad3JsTVNSR0RkNHhHT3paRVZWSWtKbVVTRXpXUWJEU1Jfcjd0NnlpNWRXdnp6X1gyY3RTVHlCYWdySUp1dDRJdDlzZkNLLThXaXQ2YW1SbGJCZ3RZY3FfWGFwR19veUVaMEFrMVhLVXo3MzhXd1dSNGY2NFhkeEVHZElHaEFzNUJ5RkQwZnFWMWhYMzFRVjZMZw?oc=5",
-   "fecha": "2026-11-19T05:34-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://diarioneuquino.com.ar/el-peronismo-sincero-su-armado-a-dos-bandas-el-plan-de-fondo-que-ve-kicillof-y-la-centralidad-de-massa/",
-   "revisada": true
-  },
-  {
-   "id": "5ea8f7a2a0fa",
-   "titulo": "El extraño privilegio de contradecir al dueño del diario",
-   "medio": "Tribuna de Periodistas",
-   "medio_url": "https://periodicotribuna.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN3hLbHhyRzVGazdWdUtPT1hoQzI5Z1NDSUFBUkR6Q3RHcXRzOHpGMV80N19YX0tFX0FlWWRUeG1OSl9hTkRUMkhfeVdIcHJyejhUWExNbDZITmc4UTl6TEdHNXpCN2V6bV9WX204Nkw3WkRSSllUUW5TeXRXdTZnRTVQMHF4dzNVTnNvcDZMdHU2elk?oc=5",
-   "fecha": "2026-11-19T05:00-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Malena Galmarini\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://periodicotribuna.com.ar/el-extrano-privilegio-de-contradecir-al-dueno-del-diario/",
    "revisada": true
   }
  ]
