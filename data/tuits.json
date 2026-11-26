@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-26T06:35-03:00",
- "total": 95,
+ "generado": "2026-11-26T08:19-03:00",
+ "total": 96,
  "tuits": [
+  {
+   "id": "2123445929294368788",
+   "usuario": "RossiAgustinOk",
+   "visto": "2026-11-26T08:19-03:00",
+   "url": "https://twitter.com/RossiAgustinOk/status/2123445929294368788",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "El peronismo y el discreto encanto de la ruptura",
+     "nota_id": "c416da7a4152"
+    }
+   ]
+  },
   {
    "id": "2125708923189784882",
    "usuario": "MaJimenaLopezOk",
@@ -218,6 +231,11 @@
      "medio": "El Intransigente",
      "titulo": "“Seis superdomingos peronistas”: la propuesta de Sergio Uñac para definir los candidatos del PJ",
      "nota_id": "17e356996cc7"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "El peronismo y el discreto encanto de la ruptura",
+     "nota_id": "c416da7a4152"
     }
    ]
   },
