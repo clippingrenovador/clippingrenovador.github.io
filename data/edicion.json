@@ -1,10 +1,10 @@
 {
- "id": "2026-11-25-22",
- "generado": "2026-11-25T21:34-03:00",
- "hora": "22",
+ "id": "2026-11-26-06",
+ "generado": "2026-11-26T05:33-03:00",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Nuevas publicaciones de ANDigital y Hoy Rojas difundieron una encuesta nacional que ubica a Axel Kicillof y a Sergio Massa por encima de Javier Milei en un eventual balotaje.",
+   "texto": "Una encuesta nacional difundida por ANDigital y Hoy Rojas ubica a Axel Kicillof y a Sergio Massa por encima de Javier Milei en un eventual balotaje.",
    "fuentes": [
     {
      "medio": "ANDigital",
@@ -17,42 +17,192 @@
    ]
   },
   {
-   "texto": "El Frente Renovador bonaerense cuestionó el plan económico del ministro Luis Caputo por la recesión y la suba de precios, según Diputados Bonaerenses.",
+   "texto": "Mario Giacobbe sostuvo que Sergio Massa es el mejor candidato a presidente del peronismo, según Letra P. Desde el Frente Renovador lo postulan como el dirigente capaz de ordenar el país, según Diagonales.",
    "fuentes": [
     {
-     "medio": "Diputados Bonaerenses",
-     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510"
     },
-    {
-     "medio": "Diputados Bonaerenses",
-     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
-    }
-   ]
-  },
-  {
-   "texto": "Malena Galmarini planteó la necesidad de recuperar el municipio de Tigre y cambiar sus prioridades de gestión.",
-   "fuentes": [
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/"
-    },
-    {
-     "medio": "elcomercioonline.com.ar",
-     "url": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/"
-    }
-   ]
-  },
-  {
-   "texto": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como el dirigente capaz de ordenar el país.",
-   "fuentes": [
     {
      "medio": "Diagonales",
      "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6"
     }
    ]
+  },
+  {
+   "texto": "La Política Online informó que los concejales de La Libertad Avanza apoyaron el aumento de tasas impulsado por la gestión de Julio Zamora en Tigre, que el bloque del Frente Renovador rechazó.",
+   "fuentes": [
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/"
+    }
+   ]
+  },
+  {
+   "texto": "El Frente Renovador bonaerense cuestionó el plan económico del ministro de Economía, Luis Caputo, por la recesión y la suba de precios, según Diputados Bonaerenses.",
+   "fuentes": [
+    {
+     "medio": "Diputados Bonaerenses",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
+    },
+    {
+     "medio": "Diputados Bonaerenses",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
+    }
+   ]
   }
  ],
  "temas": [
+  {
+   "id": "massa-unidad-2027",
+   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
+   "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Diagonales",
+     "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+     "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
+     "fecha": "2026-11-25T20:48-03:00",
+     "dominio": "diagonales.com"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Mario Giacobbe: \"Sergio Massa es el mejor candidato a presidente que tiene el peronismo\"",
+     "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510",
+     "fecha": "2026-11-25T19:38-03:00",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "MDZ Online",
+     "titulo": "Sergio Massa busca la unidad para crecer, mientras muchos se ilusionan",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWFyZmJEbzhzSDFXQzV1ZFp0V2xhSUJFejJ0VkNjWlRaa2l2enpLTmRLOE45X0lvRllyYTQ5UmhYdWFJdVlFZGd5Q1ZOWDZmekRMdXRqVzdWcEsxNnFkSVMxZ3pjRTVfTmI0eFNUNmNNZmZCYjBTM3VSV2lmRFlRSGVqd2xfT0dEWFNmZjN5RVhrZjFRYXFlYWZyT3RLRFlab3JoR0Y5WnJsdTFjcHUtV2MwNGF1UlpuT0dGNV81LXlkZw?oc=5",
+     "fecha": "2026-11-25T06:56-03:00",
+     "dominio": "mdzol.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "SL24",
+     "url": "https://sl24.com.ar/la-interna-nacional-entre-axel-kicillof-y-sergio-massa-parte-el-tablero-del-peronismo-santafesino-rumbo-a-2027/",
+     "dominio": "sl24.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/politica/tepp-y-monteverde-faltaron-la-mesa-axel-2027-rosario-y-hacen-equilibrio-entre-kicillof-y-massa-n5428461",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "Diario El Independiente",
+     "url": "https://www.elindependiente.com.ar/pagina.php?id=387697",
+     "dominio": "elindependiente.com.ar"
+    },
+    {
+     "medio": "NotiAR",
+     "url": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
+     "dominio": "notiar.com.ar"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47116_massa-tens-la-interna-y-le-habl-a-kicillof-en-san-fernando.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    }
+   ],
+   "cantidad_notas": 8,
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "tigre-fiscal-impositiva",
+   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online destacó que los libertarios apoyaron el aumento de tasas de la gestión de Julio Zamora. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sebastián Rovira"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Tigre: el zamorismo y La Libertad Avanza aprobaron la Fiscal e Impositiva 2027 con el rechazo de Fuerza Tigre",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/",
+     "fecha": "2026-11-24T22:53-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Política Online",
+     "titulo": "Los libertarios apoyaron el aumento de tasas de Zamora en Tigre",
+     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
+     "fecha": "2026-11-25T21:40-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "SM Noticias",
+     "titulo": "El Concejo de Tigre aprobó las ordenanzas preparatorias Fiscal e Impositiva para 2027: El massismo, el único espacio que se opuso",
+     "url": "https://www.smnoticias.com/noticias/291559",
+     "fecha": "2026-11-24T23:35-03:00",
+     "dominio": "smnoticias.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Que Pasa Web",
+     "url": "https://www.quepasaweb.com.ar/tigre-con-el-apoyo-de-la-libertad-avanza-el-zamorismo-avanzo-con-dos-ordenanzas-clave-para-2027-y-apunto-contra-rovira-quien-respondio-szn1/",
+     "dominio": "quepasaweb.com.ar"
+    },
+    {
+     "medio": "Zona Norte Hoy",
+     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortehoy.com"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/conurbano/tigre/infoban/tigre-aprobo-la-preparatoria-de-la-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Zona Norte Visión",
+     "url": "https://zonanortevision.com.ar/441650/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortevision.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
+     "dominio": "lanoticiaweb.com.ar"
+    }
+   ],
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-24T21:33-03:00"
+  },
   {
    "id": "encuesta-balotaje-kicillof-massa",
    "titulo": "Encuesta: Kicillof y Massa, por delante de Milei en un eventual balotaje",
@@ -163,64 +313,6 @@
    "vigente_desde": "2026-11-25T21:34-03:00",
    "desde_hora": "22",
    "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "id": "massa-unidad-2027",
-   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
-   "resumen": "MDZ publica que Sergio Massa busca la unidad para crecer y, según Diagonales, desde el Frente Renovador lo postulan como \"el único\" capaz de ordenar el país. SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "Diagonales",
-     "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
-     "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
-     "fecha": "2026-11-25T20:48-03:00",
-     "dominio": "diagonales.com"
-    },
-    {
-     "medio": "MDZ Online",
-     "titulo": "Sergio Massa busca la unidad para crecer, mientras muchos se ilusionan",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWFyZmJEbzhzSDFXQzV1ZFp0V2xhSUJFejJ0VkNjWlRaa2l2enpLTmRLOE45X0lvRllyYTQ5UmhYdWFJdVlFZGd5Q1ZOWDZmekRMdXRqVzdWcEsxNnFkSVMxZ3pjRTVfTmI0eFNUNmNNZmZCYjBTM3VSV2lmRFlRSGVqd2xfT0dEWFNmZjN5RVhrZjFRYXFlYWZyT3RLRFlab3JoR0Y5WnJsdTFjcHUtV2MwNGF1UlpuT0dGNV81LXlkZw?oc=5",
-     "fecha": "2026-11-25T06:56-03:00",
-     "dominio": "mdzol.com"
-    },
-    {
-     "medio": "SL24",
-     "titulo": "La interna nacional entre Axel Kicillof y Sergio Massa parte el tablero del peronismo santafesino rumbo a 2027",
-     "url": "https://sl24.com.ar/la-interna-nacional-entre-axel-kicillof-y-sergio-massa-parte-el-tablero-del-peronismo-santafesino-rumbo-a-2027/",
-     "fecha": "2026-11-25T13:44-03:00",
-     "dominio": "sl24.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Letra P",
-     "url": "https://www.letrap.com.ar/politica/tepp-y-monteverde-faltaron-la-mesa-axel-2027-rosario-y-hacen-equilibrio-entre-kicillof-y-massa-n5428461",
-     "dominio": "letrap.com.ar"
-    },
-    {
-     "medio": "Diario El Independiente",
-     "url": "https://www.elindependiente.com.ar/pagina.php?id=387697",
-     "dominio": "elindependiente.com.ar"
-    },
-    {
-     "medio": "NotiAR",
-     "url": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
-     "dominio": "notiar.com.ar"
-    },
-    {
-     "medio": "Identidad Correntina",
-     "url": "https://www.identidadcorrentina.com.ar/noticia/47116_massa-tens-la-interna-y-le-habl-a-kicillof-en-san-fernando.htm",
-     "dominio": "identidadcorrentina.com.ar"
-    }
-   ],
-   "cantidad_notas": 7,
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T14:16-03:00"
   },
   {
    "id": "malena-galmarini-tigre",
@@ -553,87 +645,33 @@
    "vigente_desde": "2026-11-25T14:16-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-24T21:33-03:00"
-  },
-  {
-   "id": "tigre-fiscal-impositiva",
-   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
-   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió. Zona Norte Visión publicó una nota crítica sobre el papel del bloque que encabeza Rovira.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sebastián Rovira"
-   ],
-   "principales": [
-    {
-     "medio": "La Noticia Web",
-     "titulo": "Tigre: el zamorismo y La Libertad Avanza aprobaron la Fiscal e Impositiva 2027 con el rechazo de Fuerza Tigre",
-     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/",
-     "fecha": "2026-11-24T22:53-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "SM Noticias",
-     "titulo": "El Concejo de Tigre aprobó las ordenanzas preparatorias Fiscal e Impositiva para 2027: El massismo, el único espacio que se opuso",
-     "url": "https://www.smnoticias.com/noticias/291559",
-     "fecha": "2026-11-24T23:35-03:00",
-     "dominio": "smnoticias.com"
-    },
-    {
-     "medio": "Que Pasa Web",
-     "titulo": "Tigre: con el apoyo de La Libertad Avanza, el zamorismo avanzó con dos ordenanzas clave para 2027 y apuntó contra Rovira, quien respondió",
-     "url": "https://www.quepasaweb.com.ar/tigre-con-el-apoyo-de-la-libertad-avanza-el-zamorismo-avanzo-con-dos-ordenanzas-clave-para-2027-y-apunto-contra-rovira-quien-respondio-szn1/",
-     "fecha": "2026-11-25T11:40-03:00",
-     "dominio": "quepasaweb.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Zona Norte Hoy",
-     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
-     "dominio": "zonanortehoy.com"
-    },
-    {
-     "medio": "Flipr.news",
-     "url": "https://flipr.com.ar/buenos-aires/conurbano/tigre/infoban/tigre-aprobo-la-preparatoria-de-la-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
-     "dominio": "flipr.com.ar"
-    },
-    {
-     "medio": "Zona Norte Visión",
-     "url": "https://zonanortevision.com.ar/441650/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
-     "dominio": "zonanortevision.com.ar"
-    },
-    {
-     "medio": "InfoBAN",
-     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
-     "dominio": "infoban.com.ar"
-    },
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "elconurbano.com.ar",
-     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
-     "dominio": "elconurbano.com.ar"
-    },
-    {
-     "medio": "Zona Norte Diario Online",
-     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
-     "dominio": "zonanortediario.com.ar"
-    },
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
-     "dominio": "lanoticiaweb.com.ar"
-    }
-   ],
-   "cantidad_notas": 11,
-   "vigente_desde": "2026-11-25T14:16-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-24T21:33-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/felipemromeroo/status/2125800312770281940",
+   "autor": "@felipemromeroo",
+   "nota": "",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2125772741248753906",
+   "autor": "@ceciliamoreauok",
+   "nota": "Sobre la aplicación de la ley de Discapacidad.",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/felipemromeroo/status/2125753285717930443",
+   "autor": "@felipemromeroo",
+   "nota": "Visita del gobernador de La Rioja, Ricardo Quintela, a la Juventud del FR.",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
   {
    "url": "https://x.com/DiegoGiuliano/status/2125716150231183809",
    "autor": "@DiegoGiuliano",
@@ -701,6 +739,39 @@
  ],
  "entrevistas": [
   {
+   "youtube": "oFEeRoHKfdI",
+   "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
+   "canal": "LT23 RADIO SAN GENARO",
+   "fecha_txt": "hace 7 min",
+   "duracion": "12:57",
+   "url": "https://www.youtube.com/watch?v=oFEeRoHKfdI",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "HbpWLzHNpN8",
+   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
+   "canal": "C5N",
+   "fecha_txt": "hace 3 h",
+   "duracion": "11:58",
+   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "H2lxMFOIWbA",
+   "titulo": "FELI ROMERO JOVEN DEL FRENTE RENOVADOR CAYÓ A ALGUIEN CAE",
+   "canal": "ALGUIEN CAE",
+   "fecha_txt": "hace 59 min",
+   "duracion": "58:26",
+   "url": "https://www.youtube.com/watch?v=H2lxMFOIWbA",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
    "youtube": "JxqoyF4ZGYg",
    "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
    "canal": "Diagonales Stream",
@@ -735,8 +806,8 @@
   }
  ],
  "metricas": {
-  "notas_analizadas": 91,
-  "medios": 67,
+  "notas_analizadas": 98,
+  "medios": 69,
   "temas": 12
  }
 }

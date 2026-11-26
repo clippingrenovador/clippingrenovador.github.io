@@ -1,52 +1,32 @@
 {
-  "hora": "22",
+  "hora": "06",
   "claves": [
-    {"texto": "Nuevas publicaciones de ANDigital y Hoy Rojas difundieron una encuesta nacional que ubica a Axel Kicillof y a Sergio Massa por encima de Javier Milei en un eventual balotaje.", "fuentes": ["380acd38682a", "37c0815522d3"]},
-    {"texto": "El Frente Renovador bonaerense cuestionó el plan económico del ministro Luis Caputo por la recesión y la suba de precios, según Diputados Bonaerenses.", "fuentes": ["89f28cab509b", "a3f3e8dadeeb"]},
-    {"texto": "Malena Galmarini planteó la necesidad de recuperar el municipio de Tigre y cambiar sus prioridades de gestión.", "fuentes": ["d812148f254b", "a7dedc5613f8"]},
-    {"texto": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como el dirigente capaz de ordenar el país.", "fuentes": ["d64309f75c82"]}
+    {"texto": "Una encuesta nacional difundida por ANDigital y Hoy Rojas ubica a Axel Kicillof y a Sergio Massa por encima de Javier Milei en un eventual balotaje.", "fuentes": ["380acd38682a", "37c0815522d3"]},
+    {"texto": "Mario Giacobbe sostuvo que Sergio Massa es el mejor candidato a presidente del peronismo, según Letra P. Desde el Frente Renovador lo postulan como el dirigente capaz de ordenar el país, según Diagonales.", "fuentes": ["0886346b6fa6", "d64309f75c82"]},
+    {"texto": "La Política Online informó que los concejales de La Libertad Avanza apoyaron el aumento de tasas impulsado por la gestión de Julio Zamora en Tigre, que el bloque del Frente Renovador rechazó.", "fuentes": ["97cd6c71f541", "af3841298c61"]},
+    {"texto": "El Frente Renovador bonaerense cuestionó el plan económico del ministro de Economía, Luis Caputo, por la recesión y la suba de precios, según Diputados Bonaerenses.", "fuentes": ["89f28cab509b", "a3f3e8dadeeb"]}
   ],
   "retirar": [],
   "temas": [
-    {"id": "encuesta-balotaje-kicillof-massa", "titulo": "Encuesta: Kicillof y Massa, por delante de Milei en un eventual balotaje",
-     "resumen": "Perfil y Clarín informan sobre una encuesta que midió a Javier Milei frente a Axel Kicillof y a Sergio Massa en una segunda vuelta; según Grupo La Provincia, Milei quedó detrás de ambos. Clarín señala que el sondeo llegó a Cristina Kirchner y sacudió la interna del PJ. Por la tarde, ANDigital, Hoy Rojas y Cholila Online replicaron los resultados.",
-     "tono": "positivo", "dirigentes": ["Sergio Massa"],
-     "principales": ["d8b319c8e1b4", "7d4585eb2fe8", "858a70771fd1"],
-     "otras": ["380acd38682a", "37c0815522d3", "3c947535cade", "e8ee1649e448", "51e91d4a9c74", "8107e6433289", "22c49f915a86", "582b3efc925b", "11e9b10e6f95"]},
-    {"id": "fr-contra-plan-caputo", "titulo": "El Frente Renovador bonaerense cuestiona el plan de Caputo por la recesión",
-     "resumen": "Diputados Bonaerenses informa sobre una nueva ofensiva del Frente Renovador contra el plan económico del ministro Luis Caputo, con críticas por la recesión y la escalada de precios.",
-     "tono": "positivo", "dirigentes": [],
-     "principales": ["89f28cab509b", "a3f3e8dadeeb"], "otras": []},
     {"id": "massa-unidad-2027", "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
-     "resumen": "MDZ publica que Sergio Massa busca la unidad para crecer y, según Diagonales, desde el Frente Renovador lo postulan como \"el único\" capaz de ordenar el país. SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
+     "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
      "tono": "mixto", "dirigentes": ["Sergio Massa"],
-     "principales": ["d64309f75c82", "95ed5bcfdaa6", "35556f40a6d6"],
-     "otras": ["d41263f5e6e7", "2150de7d46ea", "5dbd9e3abf15", "4ada4d1ba9b0"]},
-    {"id": "malena-galmarini-tigre", "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
-     "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a recuperar el municipio de Tigre, según La Noticia Web, El Conurbano y NorteOnline. El Comercio Online señala que planteó recuperar la calidad de gestión y cambiar las prioridades del distrito.",
-     "tono": "positivo", "dirigentes": ["Malena Galmarini"],
-     "principales": ["d812148f254b", "a7dedc5613f8", "49d4e1b4be8d"],
-     "otras": ["5382493fe3f4", "134ae93e196d", "ab9357856325"]},
-    {"id": "galmarini-bullrich-reforma", "titulo": "Sebastián Galmarini apuntó contra Bullrich por la reforma electoral",
-     "resumen": "Según La Noticia Web, Sebastián Galmarini criticó a Patricia Bullrich por su postura sobre la reforma electoral y recordó lo que decía \"hace poquito tiempo\".",
-     "tono": "neutro", "dirigentes": ["Sebastián Galmarini"],
-     "principales": ["458ee4c5ad2a"], "otras": []},
-    {"id": "katia-blanc-presupuesto", "titulo": "Katia Blanc pidió asistencia financiera a municipios en el Presupuesto 2027",
-     "resumen": "La diputada provincial Katia Blanc reclamó incluir asistencia financiera para los municipios en el Presupuesto 2027, según Radio Natagalá. En TN24 cuestionó la emisión de letras por 300.000 que se pide en el proyecto.",
-     "tono": "neutro", "dirigentes": ["Katia Blanc"],
-     "principales": ["d8f2b59c2ee1", "f363915a7f36"], "otras": []},
-    {"id": "ludopatia-infantil", "titulo": "Proyecto bonaerense del FR para asistir casos de ludopatía infantil",
-     "resumen": "Flipr informa que legisladores bonaerenses del Frente Renovador buscan crear una línea de asistencia para casos de ludopatía infantil.",
-     "tono": "positivo", "dirigentes": [],
-     "principales": ["416e7dcd404e"], "otras": []}
+     "principales": ["d64309f75c82", "0886346b6fa6", "95ed5bcfdaa6"],
+     "otras": ["35556f40a6d6", "d41263f5e6e7", "2150de7d46ea", "5dbd9e3abf15", "4ada4d1ba9b0"]},
+    {"id": "tigre-fiscal-impositiva", "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+     "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online destacó que los libertarios apoyaron el aumento de tasas de la gestión de Julio Zamora. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+     "tono": "mixto", "dirigentes": ["Sebastián Rovira"],
+     "principales": ["af3841298c61", "97cd6c71f541", "5040c4b522e8"],
+     "otras": ["a85ca86ce20e", "716fc53d7558", "99db044f2704", "f91d58fcb7b7", "24402ea4fc2e", "7643c5fbd10c", "90ad293860ce", "1a8065d55f34", "a05b140c4866"]}
   ],
   "redes": [
-    {"url": "https://x.com/FrenteRenovador/status/2125681706858365306", "autor": "@FrenteRenovador", "nota": "El FR advierte que la economía entró en recesión técnica."},
-    {"url": "https://x.com/DiegoGiuliano/status/2125716150231183809", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano: \"La recesión se siente en cada casa argentina\"."},
-    {"url": "https://x.com/DiegoGiuliano/status/2125574479925436528", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano sobre la eliminación de las PASO y la situación en Santa Fe."},
-    {"url": "https://x.com/marinadorotea/status/2125690288438173880", "autor": "@marinadorotea", "nota": "Marina Dorotea sobre la suba de la nafta y el impuesto a los combustibles."},
-    {"url": "https://x.com/RubenEslaiman/status/2125595206619746678", "autor": "@RubenEslaiman", "nota": "Rubén Eslaiman sobre el aumento de la nafta desde que asumió Javier Milei."},
-    {"url": "https://x.com/felipemromeroo/status/2125636764828152047", "autor": "@felipemromeroo", "nota": "Felipe Romero respalda la conducción de Sergio Massa."}
+    {"url": "https://x.com/felipemromeroo/status/2125800312770281940", "autor": "@felipemromeroo"},
+    {"url": "https://x.com/ceciliamoreauok/status/2125772741248753906", "autor": "@ceciliamoreauok", "nota": "Sobre la aplicación de la ley de Discapacidad."},
+    {"url": "https://x.com/felipemromeroo/status/2125753285717930443", "autor": "@felipemromeroo", "nota": "Visita del gobernador de La Rioja, Ricardo Quintela, a la Juventud del FR."}
   ],
-  "entrevistas": [{"video_id": "JxqoyF4ZGYg"}]
+  "entrevistas": [
+    {"video_id": "oFEeRoHKfdI"},
+    {"video_id": "HbpWLzHNpN8"},
+    {"video_id": "H2lxMFOIWbA"}
+  ]
 }

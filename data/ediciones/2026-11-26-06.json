@@ -1,0 +1,813 @@
+{
+ "id": "2026-11-26-06",
+ "generado": "2026-11-26T05:33-03:00",
+ "hora": "06",
+ "claves": [
+  {
+   "texto": "Una encuesta nacional difundida por ANDigital y Hoy Rojas ubica a Axel Kicillof y a Sergio Massa por encima de Javier Milei en un eventual balotaje.",
+   "fuentes": [
+    {
+     "medio": "ANDigital",
+     "url": "https://andigital.com.ar/nota/145199/encuesta-kicillof-y-massa-le-ganarian-a-milei-en-un-eventual-balotaje/"
+    },
+    {
+     "medio": "HOY ROJAS",
+     "url": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52336"
+    }
+   ]
+  },
+  {
+   "texto": "Mario Giacobbe sostuvo que Sergio Massa es el mejor candidato a presidente del peronismo, según Letra P. Desde el Frente Renovador lo postulan como el dirigente capaz de ordenar el país, según Diagonales.",
+   "fuentes": [
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510"
+    },
+    {
+     "medio": "Diagonales",
+     "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6"
+    }
+   ]
+  },
+  {
+   "texto": "La Política Online informó que los concejales de La Libertad Avanza apoyaron el aumento de tasas impulsado por la gestión de Julio Zamora en Tigre, que el bloque del Frente Renovador rechazó.",
+   "fuentes": [
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/"
+    }
+   ]
+  },
+  {
+   "texto": "El Frente Renovador bonaerense cuestionó el plan económico del ministro de Economía, Luis Caputo, por la recesión y la suba de precios, según Diputados Bonaerenses.",
+   "fuentes": [
+    {
+     "medio": "Diputados Bonaerenses",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
+    },
+    {
+     "medio": "Diputados Bonaerenses",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/"
+    }
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "massa-unidad-2027",
+   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
+   "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Diagonales",
+     "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+     "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
+     "fecha": "2026-11-25T20:48-03:00",
+     "dominio": "diagonales.com"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Mario Giacobbe: \"Sergio Massa es el mejor candidato a presidente que tiene el peronismo\"",
+     "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510",
+     "fecha": "2026-11-25T19:38-03:00",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "MDZ Online",
+     "titulo": "Sergio Massa busca la unidad para crecer, mientras muchos se ilusionan",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWFyZmJEbzhzSDFXQzV1ZFp0V2xhSUJFejJ0VkNjWlRaa2l2enpLTmRLOE45X0lvRllyYTQ5UmhYdWFJdVlFZGd5Q1ZOWDZmekRMdXRqVzdWcEsxNnFkSVMxZ3pjRTVfTmI0eFNUNmNNZmZCYjBTM3VSV2lmRFlRSGVqd2xfT0dEWFNmZjN5RVhrZjFRYXFlYWZyT3RLRFlab3JoR0Y5WnJsdTFjcHUtV2MwNGF1UlpuT0dGNV81LXlkZw?oc=5",
+     "fecha": "2026-11-25T06:56-03:00",
+     "dominio": "mdzol.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "SL24",
+     "url": "https://sl24.com.ar/la-interna-nacional-entre-axel-kicillof-y-sergio-massa-parte-el-tablero-del-peronismo-santafesino-rumbo-a-2027/",
+     "dominio": "sl24.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/politica/tepp-y-monteverde-faltaron-la-mesa-axel-2027-rosario-y-hacen-equilibrio-entre-kicillof-y-massa-n5428461",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "Diario El Independiente",
+     "url": "https://www.elindependiente.com.ar/pagina.php?id=387697",
+     "dominio": "elindependiente.com.ar"
+    },
+    {
+     "medio": "NotiAR",
+     "url": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
+     "dominio": "notiar.com.ar"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47116_massa-tens-la-interna-y-le-habl-a-kicillof-en-san-fernando.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    }
+   ],
+   "cantidad_notas": 8,
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "tigre-fiscal-impositiva",
+   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online destacó que los libertarios apoyaron el aumento de tasas de la gestión de Julio Zamora. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sebastián Rovira"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Tigre: el zamorismo y La Libertad Avanza aprobaron la Fiscal e Impositiva 2027 con el rechazo de Fuerza Tigre",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/",
+     "fecha": "2026-11-24T22:53-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Política Online",
+     "titulo": "Los libertarios apoyaron el aumento de tasas de Zamora en Tigre",
+     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
+     "fecha": "2026-11-25T21:40-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "SM Noticias",
+     "titulo": "El Concejo de Tigre aprobó las ordenanzas preparatorias Fiscal e Impositiva para 2027: El massismo, el único espacio que se opuso",
+     "url": "https://www.smnoticias.com/noticias/291559",
+     "fecha": "2026-11-24T23:35-03:00",
+     "dominio": "smnoticias.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Que Pasa Web",
+     "url": "https://www.quepasaweb.com.ar/tigre-con-el-apoyo-de-la-libertad-avanza-el-zamorismo-avanzo-con-dos-ordenanzas-clave-para-2027-y-apunto-contra-rovira-quien-respondio-szn1/",
+     "dominio": "quepasaweb.com.ar"
+    },
+    {
+     "medio": "Zona Norte Hoy",
+     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortehoy.com"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/conurbano/tigre/infoban/tigre-aprobo-la-preparatoria-de-la-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Zona Norte Visión",
+     "url": "https://zonanortevision.com.ar/441650/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortevision.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
+     "dominio": "lanoticiaweb.com.ar"
+    }
+   ],
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-24T21:33-03:00"
+  },
+  {
+   "id": "encuesta-balotaje-kicillof-massa",
+   "titulo": "Encuesta: Kicillof y Massa, por delante de Milei en un eventual balotaje",
+   "resumen": "Perfil y Clarín informan sobre una encuesta que midió a Javier Milei frente a Axel Kicillof y a Sergio Massa en una segunda vuelta; según Grupo La Provincia, Milei quedó detrás de ambos. Clarín señala que el sondeo llegó a Cristina Kirchner y sacudió la interna del PJ. Por la tarde, ANDigital, Hoy Rojas y Cholila Online replicaron los resultados.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Clarin.com",
+     "titulo": "La encuesta que le llegó a Cristina y sacudió la interna del PJ: Kicillof y Massa vs. Milei en el balotaje",
+     "url": "https://www.clarin.com/politica/encuesta-llego-cristina-sacudio-interna-pj-kicillof-massa-vs-milei-balotaje_0_myy9iqEAr9.html",
+     "fecha": "2026-11-25T06:01-03:00",
+     "dominio": "clarin.com"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Una encuesta midió a Milei frente a Kicillof y a Massa en un eventual balotaje",
+     "url": "https://perfil.com/politica/una-encuesta-midio-a-milei-frente-a-kicillof-y-a-massa-en-un-eventual-balotaje-arCqj1T3SusA",
+     "fecha": "2026-11-25T05:37-03:00",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Grupo La Provincia",
+     "titulo": "Milei quedó detrás de Kicillof y Massa en una nueva encuesta",
+     "url": "https://grupolaprovincia.com/amp/603711/encuesta-milei-kicillof-massa-balotaje-2027-analogias",
+     "fecha": "2026-11-25T10:55-03:00",
+     "dominio": "grupolaprovincia.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "ANDigital",
+     "url": "https://andigital.com.ar/nota/145199/encuesta-kicillof-y-massa-le-ganarian-a-milei-en-un-eventual-balotaje/",
+     "dominio": "andigital.com.ar"
+    },
+    {
+     "medio": "HOY ROJAS",
+     "url": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52336",
+     "dominio": "hoyrojas.com.ar"
+    },
+    {
+     "medio": "» Cholila Online",
+     "url": "https://cholilaonline.ar/2026/11/impacto-en-2027-kicillof-y-massa-superan-a-milei-en-balotaje.html",
+     "dominio": "cholilaonline.ar"
+    },
+    {
+     "medio": "Noticias Urbanas",
+     "url": "https://www.noticiasurbanas.com.ar/otra-encuesta-dice-que-massa-le-ganaria-a-milei-en-un-balotaje",
+     "dominio": "noticiasurbanas.com.ar"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47097_kicillof-y-massa-aventajan-a-milei-en-dos-escenarios-de-balotaje-y-reabren-la-discusin-en-el-pj.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "Agencia Noticias Argentinas",
+     "url": "https://noticiasargentinas.com/politica/elecciones-2027--que-pasaria-si-milei-enfrentara-a-kicillof-o-a-massa-en-una-segunda-vuelta_a6b06d6ae790b0872f3106dc8",
+     "dominio": "noticiasargentinas.com"
+    },
+    {
+     "medio": "Los Primeros TV",
+     "url": "https://www.losprimeros.tv/politica/balotaje-2027--una-encuesta-puso-a-kicillof-y-a-massa-por-delante-de-milei-_a6b0703605e0aceca403dcf42",
+     "dominio": "losprimeros.tv"
+    },
+    {
+     "medio": "Diario El Norte - San Nicolás",
+     "url": "https://diarioelnorte.com.ar/encuesta-2027-milei-abajo-frente-a-kicillof-y-massa/",
+     "dominio": "diarioelnorte.com.ar"
+    },
+    {
+     "medio": "revistaenterate.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3dWJzcTZRZEx0QlpaYzJnS3dUMmlXSzIweEtwRlhXRVhoMnNDak9ZZ3NCWEpKak85NXFmdmlMQU5aT1JNaWN5MHUtSG4wMDh3dlZmeF9jWU11enNBLVBoTW5B0gFqQVVfeXFMTU0xMncwVHVfQzBfUDlJV3NpbFB5ZE1uVWFVQ3dOS2FzTEVjWkxGVUpHUUhKUmFQWXNscXJYNFdndUV1Wm5uX09MMGthNXRDT3A3NmdYYmU5UndtZ1FNaHJtUHg1VWxwejJaUQ?oc=5",
+     "dominio": "revistaenterate.com.ar"
+    }
+   ],
+   "cantidad_notas": 12,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "fr-contra-plan-caputo",
+   "titulo": "El Frente Renovador bonaerense cuestiona el plan de Caputo por la recesión",
+   "resumen": "Diputados Bonaerenses informa sobre una nueva ofensiva del Frente Renovador contra el plan económico del ministro Luis Caputo, con críticas por la recesión y la escalada de precios.",
+   "tono": "positivo",
+   "dirigentes": [],
+   "principales": [
+    {
+     "medio": "Diputados Bonaerenses",
+     "titulo": "El Frente Renovador se planta contra Caputo por la recesión y la escalada de precios",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
+     "fecha": "2026-11-25T14:00-03:00",
+     "dominio": "diputadosbsas.com.ar"
+    },
+    {
+     "medio": "Diputados Bonaerenses",
+     "titulo": "Nueva ofensiva del Frente Renovador contra el plan de Caputo",
+     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
+     "fecha": "2026-11-25T14:00-03:00",
+     "dominio": "diputadosbsas.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "malena-galmarini-tigre",
+   "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
+   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a recuperar el municipio de Tigre, según La Noticia Web, El Conurbano y NorteOnline. El Comercio Online señala que planteó recuperar la calidad de gestión y cambiar las prioridades del distrito.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Malena Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
+     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/",
+     "fecha": "2026-11-25T16:56-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elcomercioonline.com.ar",
+     "titulo": "Malena Galmarini planteó recuperar la calidad de gestión y cambiar las prioridades de Tigre",
+     "url": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
+     "fecha": "2026-11-25T15:59-03:00",
+     "dominio": "elcomercioonline.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "titulo": "Tigre: Malena Galmarini cuestionó la gestión de Zamora y llamó a “recuperar el municipio”",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1",
+     "fecha": "2026-11-24T21:06-03:00",
+     "dominio": "norteonline.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/85446/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/25/11/2026/malena-galmarini-apunto-contra-la-gestion-de-zamora-hay-que-recuperar-el-municipio-para-los-vecinos/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
+     "dominio": "zonanortediario.com.ar"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
+  {
+   "id": "galmarini-bullrich-reforma",
+   "titulo": "Sebastián Galmarini apuntó contra Bullrich por la reforma electoral",
+   "resumen": "Según La Noticia Web, Sebastián Galmarini criticó a Patricia Bullrich por su postura sobre la reforma electoral y recordó lo que decía \"hace poquito tiempo\".",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sebastián Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Sebastián Galmarini apuntó contra Patricia Bullrich por la reforma electoral: \"Solo hay que ver lo que decían hace poquito tiempo…\"",
+     "url": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-apunto-contra-patricia-bullrich-por-la-reforma-electoral-solo-hay-que-ver-lo-que-decian-hace-poquito-tiempo/",
+     "fecha": "2026-11-25T18:00-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "katia-blanc-presupuesto",
+   "titulo": "Katia Blanc pidió asistencia financiera a municipios en el Presupuesto 2027",
+   "resumen": "La diputada provincial Katia Blanc reclamó incluir asistencia financiera para los municipios en el Presupuesto 2027, según Radio Natagalá. En TN24 cuestionó la emisión de letras por 300.000 que se pide en el proyecto.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Katia Blanc"
+   ],
+   "principales": [
+    {
+     "medio": "Radio Natagalá",
+     "titulo": "Katia Blanc pidió incluir asistencia financiera para los municipios en el Presupuesto 2027",
+     "url": "https://radionatagala.com/katia-blanc-pidio-incluir-asistencia-financiera-para-los-municipios-en-el-presupuesto-2027/",
+     "fecha": "2026-11-25T10:43-03:00",
+     "dominio": "radionatagala.com"
+    },
+    {
+     "medio": "TN24.com.ar",
+     "titulo": "Katia Blanc sobre la Ley de Presupuesto 2027: \"no podemos tener una emisión de letras de 300.000 como se pide\"",
+     "url": "https://www.tn24.com.ar/2026/11/katia-blanc-sobre-la-ley-de-presupuesto-2027-no-podemos-tener-una-emision-de-letras-de-300-000-como-se-pide/",
+     "fecha": "2026-11-25T17:37-03:00",
+     "dominio": "tn24.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "ludopatia-infantil",
+   "titulo": "Proyecto bonaerense del FR para asistir casos de ludopatía infantil",
+   "resumen": "Flipr informa que legisladores bonaerenses del Frente Renovador buscan crear una línea de asistencia para casos de ludopatía infantil.",
+   "tono": "positivo",
+   "dirigentes": [],
+   "principales": [
+    {
+     "medio": "Flipr.news",
+     "titulo": "El massismo bonaerense busca crear una línea de asistencia para casos de ludopatía infantil",
+     "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/el-massismo-bonaerense-busca-crear-una-linea-de-asistencia-para-casos-de-ludopatia-infantil/",
+     "fecha": "2026-11-25T15:11-03:00",
+     "dominio": "flipr.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Sin PASO: Massa propone una interna abierta y digital",
+   "resumen": "Mirada 360 informa que Sergio Massa impulsa una interna abierta y digital con reconocimiento facial ante la posible suspensión de las PASO. Ámbito repasa las estrategias que barajan Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos. Infobae señala que el PJ todavía resiste la eliminación de las PASO, y Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO, según Diario Digital Con.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sergio Massa",
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "mirada360.com.ar",
+     "titulo": "Massa impulsa una interna abierta y digital con reconocimiento facial ante la posible suspensión de las PASO",
+     "url": "https://mirada360.com.ar/contenido/4009/massa-impulsa-una-interna-abierta-y-digital-con-reconocimiento-facial-ante-la-po",
+     "fecha": "2026-11-25T12:20-03:00",
+     "dominio": "mirada360.com.ar"
+    },
+    {
+     "medio": "Ambito",
+     "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
+     "url": "https://www.ambito.com/suspension-las-paso-que-estrategias-barajan-sergio-massa-axel-kicillof-y-cristina-kirchner-elegir-candidatos-n6349078",
+     "fecha": "2026-11-25T12:44-03:00",
+     "dominio": "ambito.com"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El PJ todavía resiste la caída de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente",
+     "url": "https://www.infobae.com/politica/2026/11/25/el-pj-todavia-resiste-la-caida-de-las-paso-pero-busca-consenso-sobre-como-elegir-al-candidato-a-presidente/",
+     "fecha": "2026-11-25T03:29-03:00",
+     "dominio": "infobae.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Digital Conclusión",
+     "url": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
+     "dominio": "conclusion.com.ar"
+    },
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/24/el-pj-empieza-a-transitar-la-discusion-sobre-como-ordenarse-sin-paso-la-compleja-tarea-para-conservar-la-unidad/",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-comienza-a-debatir-la-herramienta-para-dirimir-candidaturas-sin-las-paso/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Voz del Interior",
+     "url": "https://www.lavoz.com.ar/politica/paso-ganan-encuestas-pierden-terceras-fuerzas_0_goovdBcQr2.html",
+     "dominio": "lavoz.com.ar"
+    },
+    {
+     "medio": "La voz 90.1",
+     "url": "https://www.lavoz901.com/amp/el-pj-empieza-a-transitar-la-discusin-sobre-cmo-ordenarse-sin-paso.htm",
+     "dominio": "lavoz901.com"
+    },
+    {
+     "medio": "ANDigital",
+     "url": "https://andigital.com.ar/nota/145152/ganarle-a-milei-es-facil-lo-complicado-es-ser-el-candidato-del-peronismo/",
+     "dominio": "andigital.com.ar"
+    },
+    {
+     "medio": "InfoPlatense",
+     "url": "https://www.infoplatense.com.ar/despues-del-fin-de-semana-largo-el-peronismo-discute-quien-llama-primero/",
+     "dominio": "infoplatense.com.ar"
+    }
+   ],
+   "cantidad_notas": 10,
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "reelecciones-intendentes",
+   "titulo": "Reelección indefinida de intendentes: Massa se opone a la propuesta de Kicillof",
+   "resumen": "Primera Página informa que Axel Kicillof quiere habilitar la reelección indefinida de intendentes y que Sergio Massa se opone. Según Grupo La Provincia, el gobernador llega a diciembre sin acuerdo y con los intendentes reclamando una salida. Diario Resumen señala que el tema reaviva las diferencias dentro del peronismo.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Primera Página",
+     "titulo": "Kicillof quiere habilitar la reelección indefinida de intendentes, pero Massa se opone",
+     "url": "https://primerapagina.info/politica/kicillof-quiere-habilitar-la-reeleccion-indefinida-de-intendentes--pero-massa-se-opone_a6b05df1dcd25aee2889a987b",
+     "fecha": "2026-11-24T19:09-03:00",
+     "dominio": "primerapagina.info"
+    },
+    {
+     "medio": "Grupo La Provincia",
+     "titulo": "Reelecciones contrarreloj: Kicillof llega a diciembre sin acuerdo y con los intendentes reclamando una salida",
+     "url": "https://grupolaprovincia.com/amp/603695/reelecciones-contra-reloj-kicillof-llega-a-diciembre-sin-acuerdo-y-con-los-inten",
+     "fecha": "2026-11-25T08:27-03:00",
+     "dominio": "grupolaprovincia.com"
+    },
+    {
+     "medio": "Diario Resumen",
+     "titulo": "La reelección de intendentes reaviva las diferencias dentro del peronismo",
+     "url": "https://diarioresumen.com.ar/politica/la-reeleccion-de-intendentes-reaviva-las-diferencias-dentro-del-peronismo/",
+     "fecha": "2026-11-25T11:59-03:00",
+     "dominio": "diarioresumen.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Tecla",
+     "url": "https://www.latecla.info/171388-reelecciones-el-reloj-corre-y-asoma-otra-pelea-que-amenaza-con-sacudir-al-peronismo",
+     "dominio": "latecla.info"
+    },
+    {
+     "medio": "Pilar a Diario",
+     "url": "https://www.pilaradiario.com/politica/se-posterga-el-debate-la-reeleccionindefinida-los-intendentes-n5473714",
+     "dominio": "pilaradiario.com"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "michel-rio-grande-empleo",
+   "titulo": "Guillermo Michel advierte por la pérdida de empleo industrial en Río Grande",
+   "resumen": "Guillermo Michel advirtió que se van a perder más de mil puestos de trabajo en Río Grande, según 19640 Noticias. El Intransigente recogió su afirmación de que \"los que pierden son la clase media, los jubilados de hoy\".",
+   "tono": "positivo",
+   "dirigentes": [
+    "Guillermo Michel"
+   ],
+   "principales": [
+    {
+     "medio": "19640 Noticias",
+     "titulo": "“Se van a perder más de mil puestos de trabajo en Río Grande”: la advertencia de Guillermo Michel",
+     "url": "https://19640noticias.com/contenido/105137/guillermo-michel-recesion-industria-tierra-del-fuego-ley-19640",
+     "fecha": "2026-11-25T11:29-03:00",
+     "dominio": "19640noticias.com"
+    },
+    {
+     "medio": "El Intransigente",
+     "titulo": "Guillermo Michel: «Los que pierden son la clase media, los jubilados de hoy»",
+     "url": "https://elintransigente.com/2026/11/24/guillermo-michel-pierden-son-clase-media-jubilados-hoy/",
+     "fecha": "2026-11-24T18:37-03:00",
+     "dominio": "elintransigente.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "combustibles-surtidores",
+   "titulo": "El proyecto sobre aviso previo de subas de combustibles enfrenta a Massa con las petroleras",
+   "resumen": "La Nación informa que un proyecto que obliga a anunciar en los surtidores las subas de combustibles tres días antes enfrenta a Sergio Massa con las petroleras. Según La Noticia 1 y Código Baires, Rasquetti defendió su proyecto y afirmó que las petroleras \"le roban al consumidor\". Grupo La Provincia señala que crece el rechazo empresarial.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "La Nación",
+     "titulo": "Un proyecto que obliga a anunciar con antelación las subas en surtidores enfrenta a Massa con las petroleras",
+     "url": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/",
+     "fecha": "2026-11-24T18:10-03:00",
+     "dominio": "lanacion.com.ar"
+    },
+    {
+     "medio": "La Noticia 1",
+     "titulo": "\"Le roban al consumidor\": Rasquetti cruzó a las petroleras y defendió su proyecto para regular los aumentos",
+     "url": "https://www.lanoticia1.com/noticia/le-roban-al-consumidor-rasquetti-cruzo-a-las-petroleras-y-defendio-su-proyecto-para-regular-los-aumentos",
+     "fecha": "2026-11-25T09:32-03:00",
+     "dominio": "lanoticia1.com"
+    },
+    {
+     "medio": "Grupo La Provincia",
+     "titulo": "Combustibles: avanza el proyecto bonaerense sobre información de precios y crece el rechazo empresarial",
+     "url": "https://grupolaprovincia.com/amp/603682/combustibles-avanza-el-proyecto-bonaerense-sobre-informacion-de-precios-y-crece-",
+     "fecha": "2026-11-24T15:39-03:00",
+     "dominio": "grupolaprovincia.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/",
+     "dominio": "lanacion.com.ar"
+    },
+    {
+     "medio": "Codigo Baires",
+     "url": "https://www.codigobaires.com.ar/2026-11-24/combustibles-rasquetti-cruzo-a-las-petroleras-por-los-aumentos-y-defendio-su-proyecto-252039/",
+     "dominio": "codigobaires.com.ar"
+    },
+    {
+     "medio": "Editorial RN",
+     "url": "https://editorialrn.com.ar/un-proyecto-para-que-se-informen-las-subas-de-la-nafta-en-la-provincia-enfrenta-a-massa-con-las-petroleras/",
+     "dominio": "editorialrn.com.ar"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-24T21:33-03:00"
+  }
+ ],
+ "redes": [
+  {
+   "url": "https://x.com/felipemromeroo/status/2125800312770281940",
+   "autor": "@felipemromeroo",
+   "nota": "",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2125772741248753906",
+   "autor": "@ceciliamoreauok",
+   "nota": "Sobre la aplicación de la ley de Discapacidad.",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/felipemromeroo/status/2125753285717930443",
+   "autor": "@felipemromeroo",
+   "nota": "Visita del gobernador de La Rioja, Ricardo Quintela, a la Juventud del FR.",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2125716150231183809",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano: \"La recesión se siente en cada casa argentina\".",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2125690288438173880",
+   "autor": "@marinadorotea",
+   "nota": "Marina Dorotea sobre la suba de la nafta y el impuesto a los combustibles.",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2125681706858365306",
+   "autor": "@FrenteRenovador",
+   "nota": "El FR advierte que la economía entró en recesión técnica.",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/felipemromeroo/status/2125636764828152047",
+   "autor": "@felipemromeroo",
+   "nota": "Felipe Romero respalda la conducción de Sergio Massa.",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2125595206619746678",
+   "autor": "@RubenEslaiman",
+   "nota": "Rubén Eslaiman sobre el aumento de la nafta desde que asumió Javier Milei.",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2125574479925436528",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano sobre la eliminación de las PASO y la situación en Santa Fe.",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2125396891600851327",
+   "autor": "@ceciliamoreauok",
+   "nota": "Cecilia Moreau: \"Endeudador y vende humo serial\".",
+   "vigente_desde": "2026-11-25T05:34-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2125320067990556894",
+   "autor": "@DiegoGiuliano",
+   "nota": "Diego Giuliano: la actividad acumula dos trimestres de caída.",
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  }
+ ],
+ "entrevistas": [
+  {
+   "youtube": "oFEeRoHKfdI",
+   "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
+   "canal": "LT23 RADIO SAN GENARO",
+   "fecha_txt": "hace 7 min",
+   "duracion": "12:57",
+   "url": "https://www.youtube.com/watch?v=oFEeRoHKfdI",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "HbpWLzHNpN8",
+   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
+   "canal": "C5N",
+   "fecha_txt": "hace 3 h",
+   "duracion": "11:58",
+   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "H2lxMFOIWbA",
+   "titulo": "FELI ROMERO JOVEN DEL FRENTE RENOVADOR CAYÓ A ALGUIEN CAE",
+   "canal": "ALGUIEN CAE",
+   "fecha_txt": "hace 59 min",
+   "duracion": "58:26",
+   "url": "https://www.youtube.com/watch?v=H2lxMFOIWbA",
+   "vigente_desde": "2026-11-26T05:33-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "JxqoyF4ZGYg",
+   "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
+   "canal": "Diagonales Stream",
+   "fecha_txt": "hace 41 min",
+   "duracion": "27:51",
+   "url": "https://www.youtube.com/watch?v=JxqoyF4ZGYg",
+   "vigente_desde": "2026-11-25T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "youtube": "OBD695QwnYw",
+   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
+   "canal": "Aire de Santa Fe",
+   "fecha_txt": "hace 38 min",
+   "duracion": "37:05",
+   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "youtube": "L9dBSGtbhqM",
+   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
+   "canal": "keopsfm",
+   "fecha_txt": "hace 49 min",
+   "duracion": "17:26",
+   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
+   "vigente_desde": "2026-11-25T14:16-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  }
+ ],
+ "metricas": {
+  "notas_analizadas": 98,
+  "medios": 69,
+  "temas": 12
+ }
+}
