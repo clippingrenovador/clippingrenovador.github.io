@@ -1,7 +1,46 @@
 {
- "generado": "2026-11-25T21:08-03:00",
- "total": 89,
+ "generado": "2026-11-25T22:45-03:00",
+ "total": 92,
  "tuits": [
+  {
+   "id": "2125581744229568720",
+   "usuario": "Letra_P",
+   "visto": "2026-11-25T22:45-03:00",
+   "url": "https://twitter.com/Letra_P/status/2125581744229568720",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Mario Giacobbe: \"Sergio Massa es el mejor candidato a presidente que tiene el peronismo\"",
+     "nota_id": "0886346b6fa6"
+    }
+   ]
+  },
+  {
+   "id": "2125551735871545483",
+   "usuario": "radiolaplata909",
+   "visto": "2026-11-25T22:45-03:00",
+   "url": "https://twitter.com/radiolaplata909/status/2125551735871545483",
+   "citado_en": [
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Garate pidió \"competencia\" en el peronismo",
+     "nota_id": "dc4d6f68f2ee"
+    }
+   ]
+  },
+  {
+   "id": "2125573322704330987",
+   "usuario": "radiolaplata909",
+   "visto": "2026-11-25T22:45-03:00",
+   "url": "https://twitter.com/radiolaplata909/status/2125573322704330987",
+   "citado_en": [
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Garate pidió \"competencia\" en el peronismo",
+     "nota_id": "dc4d6f68f2ee"
+    }
+   ]
+  },
   {
    "id": "2125629350884036967",
    "usuario": "diagonalesweb",
@@ -71,6 +110,11 @@
      "medio": "Análisis Digital",
      "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
      "nota_id": "46151d666fd1"
+    },
+    {
+     "medio": "Análisis Digital",
+     "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
+     "nota_id": "46151d666fd1"
     }
    ]
   },
@@ -110,6 +154,11 @@
      "medio": "Ambito",
      "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
      "nota_id": "43835b940246"
+    },
+    {
+     "medio": "El Intransigente",
+     "titulo": "“Seis superdomingos peronistas”: la propuesta de Sergio Uñac para definir los candidatos del PJ",
+     "nota_id": "17e356996cc7"
     }
    ]
   },
