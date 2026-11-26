@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-25T20:15-03:00",
- "total": 88,
+ "generado": "2026-11-25T21:08-03:00",
+ "total": 89,
  "tuits": [
+  {
+   "id": "2125629350884036967",
+   "usuario": "diagonalesweb",
+   "visto": "2026-11-25T21:08-03:00",
+   "url": "https://twitter.com/diagonalesweb/status/2125629350884036967",
+   "citado_en": [
+    {
+     "medio": "Diagonales",
+     "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+     "nota_id": "d64309f75c82"
+    }
+   ]
+  },
   {
    "id": "2123365746730229760",
    "usuario": "SebasGalmarini",
@@ -34,6 +47,11 @@
    "visto": "2026-11-25T17:17-03:00",
    "url": "https://twitter.com/MichelGuilleOK/status/2125606492606976185",
    "citado_en": [
+    {
+     "medio": "Análisis Digital",
+     "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",
+     "nota_id": "46151d666fd1"
+    },
     {
      "medio": "Análisis Digital",
      "titulo": "El Papa designó a un cura paranaense en la Jefatura de Protocolo de la Secretaría de Estado del Vaticano",

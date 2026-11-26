@@ -1,9 +1,54 @@
 {
- "generado": "2026-11-25T20:16-03:00",
- "total": 739,
- "nuevas_ultima_corrida": 29,
+ "generado": "2026-11-25T21:09-03:00",
+ "total": 743,
+ "nuevas_ultima_corrida": 33,
  "errores": [],
  "notas": [
+  {
+   "id": "53c0a7b8f3ec",
+   "titulo": "La conversación",
+   "medio": "LaPrensa.com.ar",
+   "medio_url": "https://www.laprensa.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hZXN6d1pxa09iZVV4dTdiM3ZKdlJfMXJzNjN3ZGhaM3FQSlA4RUFWVVBKaFRRd1JERVN1M2M0SGJsV0lwbXBwTkwwYUwyTkExSzlaSGZjTU5DTHdXMlBvUjFoVWh3NlN0WTlSMQ?oc=5",
+   "fecha": "2026-11-25T21:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://www.laprensa.com.ar/La-conversacion-578193.note.aspx",
+   "revisada": true
+  },
+  {
+   "id": "d64309f75c82",
+   "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+   "medio": "Diagonales",
+   "medio_url": "https://www.diagonales.com",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjBTNk1LVHRkR3EwY0gxMjlEUWtoc01wQmpJMzVtWGo0WnJoWUNPSWF1aWJqN2ZEMUdhbXAxSVBISno3OHFIdjFsWWxoRXQ5a2RuQVYwV0lwWDkzbmstdGdZa1N3QTA1aDRZU211ZkxEc3l1STRNUFVPSW1NVzdLWGwySGhhTEtiWFhFRTkwbXRaUllzTHBPTi11TzNhM0JzSjh6MWo1R2pXSl9HbERoNURKQzlSazRfTDNsWXVZZTdDbFNDUGxyVjVUYXhEMW9hdVFRQnVCRWtiaEZhMTZnbk5jREZTVWtVRTlMYmx6Zw?oc=5",
+   "fecha": "2026-11-25T20:48-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
+   "revisada": true
+  },
+  {
+   "id": "07c592bcb3bf",
+   "titulo": "De cara al 2027, el Partido Justicialista santafesino empieza a desandar su laberinto",
+   "medio": "Aire de Santa Fe",
+   "medio_url": "https://www.airedesantafe.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVhiZ1dCMGtJbDhFREhPb0pDRWJfU1RBMlZ1VlFnSnBKS2xmNDAzalJkajBubGR1eVhETk1TMDh1ZzY5QXFsS1g1LVhrN1ZlRUJ6N0FlRlo5Z3pIckl1d2tlMFZjUmhLVlprSXIwTm52VS13a1ByWjVUc1BISU9BdVZzci1rd1JxSGNaSk56ejh5b0xvRWRqZnZSVVAxdjV2SDJmbDJDVGdmQUMwRXRkSy1FcG9RSEtLYkF1WWs0YkRyczZnUFNsbzhSTzM?oc=5",
+   "fecha": "2026-11-25T20:14-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://www.airedesantafe.com.ar/politica/de-cara-al-2027-el-partido-justicialista-santafesino-empieza-desandar-su-laberinto-n678054",
+   "revisada": true
+  },
   {
    "id": "37c0815522d3",
    "titulo": "Proyecciones electorales rumbo a 2027: una encuesta nacional ubica a Kicillof y a Massa por encima de Milei en un eventual balotaje",
@@ -161,6 +206,20 @@
    "revisada": true
   },
   {
+   "id": "a55662eb1e5e",
+   "titulo": "Ventas en supermercados caen por cuarto mes consecutivo y acumulan una baja del 2,9% en 2026",
+   "medio": "elconurbano.com.ar",
+   "medio_url": "https://elconurbano.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcXNGZW1DSmR3RUh4cFVINmpqN0Z0SDVQYmtSbHEtd09JNE44WTN5MkxtcVZmdjBWUTlTdHAybG9UaDl6M09GUkZ5SzBsU2NGT2YzVzliREpqYk5kRDJUdjVEaXZHZ2h1VUpObHZlMmFackNoTjluODZWNjVaekFLNWNGMllVRVZpMEVOZUtSUmlPNkhYUm9iUF9yd1hlVEEyRWF5OGYwUXN6TWRXRlBNQ2p3Mkpyc3hLNmFZVExvY1JsbXU0LVNla0UwU1FkSzlmNDNhcFlrZTRDdFJDSnNUdnNBQQ?oc=5",
+   "fecha": "2026-11-25T16:22-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://elconurbano.com.ar/consumo-las-ventas-en-supermercados-cayeron-en-septiembre-por-cuarto-mes-seguido-y-acumulan-una-baja-del-29-en-2026/85434/",
+   "revisada": true
+  },
+  {
    "id": "a7dedc5613f8",
    "titulo": "Malena Galmarini planteó recuperar la calidad de gestión y cambiar las prioridades de Tigre",
    "medio": "elcomercioonline.com.ar",
@@ -285,6 +344,22 @@
    ],
    "visto": "2026-11-25T15:05-03:00",
    "url_original": "https://noticiasd.com/argentina/buenos-aires/chascomus/chascomus-recibio-mas-de-10-millones-por-la-compactacion-de-vehiculos-municipales-201345819",
+   "revisada": true
+  },
+  {
+   "id": "58583cbb0765",
+   "titulo": "La gira de Quintela suma fotos con todo el peronismo y enciende malestar en el PJ",
+   "medio": "Eduardo German",
+   "medio_url": "https://eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejNmaXY3dE1pMGFUWHdIMW44QU1rek5DTnIzOG9VWVVDV2JKa01DNXNSVlRhalFkSXg0OEpWa2c4Xy1vajU4WTcycXlpZExSVTYzV3RlMmtrTmZJd1gtUWV1c2N2LWVHQ20ycTBoR0JWMjVqQ2FaWGpjUHJsazN4Q1FrWnVIdWxEQ1ZPTA?oc=5",
+   "fecha": "2026-11-25T14:07-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Jóvenes FR\"",
+    "\"Juventud del Frente Renovador\""
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
    "revisada": true
   },
   {
@@ -538,6 +613,20 @@
    ],
    "visto": "2026-11-25T13:30-03:00",
    "url_original": "https://diarioresumen.com.ar/politica/la-reeleccion-de-intendentes-reaviva-las-diferencias-dentro-del-peronismo/",
+   "revisada": true
+  },
+  {
+   "id": "5dbd9e3abf15",
+   "titulo": "El eje Cristina-Massa - Por Sergio Crivelli",
+   "medio": "NotiAR",
+   "medio_url": "https://www.notiar.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3pfcENlVU93UHdQWnZFdXkyVTJqUHRNUi1TQW9iRWU3Q3p4TFliQjFMS19Kd18xOTVXZkc2dUNveVptcVhKbzdrNUkyX0VncjVGTC1sZFhPQTBGMVkzMW5jYWp4dE82MmNWQWlONy1GeTc4MnJkd2h1SHF5UGNYdHZDcV9GQlpadTY2em5xSk1OWC1hSy1ESQ?oc=5",
+   "fecha": "2026-11-25T11:52-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-25T21:07-03:00",
+   "url_original": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
    "revisada": true
   },
   {
@@ -818,7 +907,8 @@
    "fecha": "2026-11-25T09:46-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-25T13:30-03:00",
    "url_original": "https://www.letrap.com.ar/politica/tepp-y-monteverde-faltaron-la-mesa-axel-2027-rosario-y-hacen-equilibrio-entre-kicillof-y-massa-n5428461",
@@ -10704,34 +10794,6 @@
    ],
    "visto": "2026-11-20T02:28-03:00",
    "url_original": "https://www.zonanortediario.com.ar/18/11/2026/juan-andreotti-recorrio-el-inicio-de-las-obras-de-la-nueva-sede-de-la-universidad-nacional-del-delta-en-san-fernando/",
-   "revisada": true
-  },
-  {
-   "id": "07dcd17704e1",
-   "titulo": "El peronismo resucita a Perón con inteligencia artificial, pero no sabe cómo conectar con los jóvenes",
-   "medio": "TN",
-   "medio_url": "https://tn.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3Z4WndxOUZnWFYxMXVURFpLRTVNam5lRFRvSEZXSUpneUJSSG1qZGdCSUtBcEhtcXFFSWZaY21LbUF3bzZKRThnZVN0cTduYkNkb1N2TXg0b0s0eFBaSS1JWmI2dnhqRzV5TnNaNHFSVUZUQmppWjhwS01UWWhpc0I0Q2tNOW9zN0pZZjR5aGlFdzBZMGh1WkcySzZ5WndmMk92c0dYbW9aNkl1a05NZjJzZ2hlcEt3TzVIbWlHSzV1NkZ3Qk9vMTdKeG92cUlTRmUwU9IB6AFBVV95cUxPZ005WVQ1eGZNN010OUxWaFM0R2h5bFIyRHdJSlRObGp2aTBPSHkxWlNzdzNiZzZ3bmtMdVMtUFJZS0xGVXJEWWNtclNBc1pIbVRaVzBreXVEa0NzalhYd3pzYTdxb3hoOV9TMThrOTNjR3dPbk41VWFHRUtzWHlTeVJCbXRCa0ktOEp1WVR5RHIzUE5QRG5BV3p3eHRFbGNEdzhyQkNncGZ2Z1RNOHc5SFIxcDEyakVyQU1oelNOVDZ3Mk9UaEF1c21EN2VKSHJ1VXF4XzJfRnlvWFRVTnNBXzhjV2gyWFVv?oc=5",
-   "fecha": "2026-11-18T21:07-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://tn.com.ar/opinion/2026/11/18/el-peronismo-resucita-a-peron-con-inteligencia-artificial-pero-no-sabe-como-conectar-con-los-jovenes/",
-   "revisada": true
-  },
-  {
-   "id": "71f134a6ee3a",
-   "titulo": "Patrimonio de Chascomús - Ayer en el Museo Pampeano se firmó el acta de donación de la casa de Raúl Alfonsín",
-   "medio": "EL FUERTE DIARIO",
-   "medio_url": "https://elfuertediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRFBWLXZ0cURXQVZGX0dkQnZTcmhMWG1KU0ZsRnp4bUVDbVFQTjlrLTMwd0Z2ZnFWN2ZRdjUtRnp6cmcyRGxOSV93T3FFd09ZUmZrcEg2WWlQWU1naTBqclZNUWx4SUNQaExiOENuRUpOQWRyQnN1aThTRjdzTklKMndCTVcxQ2FrMHpzSUtVdzdaMThtZHVWSHozVkNWOG9JTHNzbUZMb2pLZnRWZW9Pb1YzYzNBYW5uWHVDX2tPcmNVQ19Tc3lpTkNENTVBeXkzS3Jv?oc=5",
-   "fecha": "2026-11-18T20:33-03:00",
-   "busquedas": [
-    "\"Javier Gastón\""
-   ],
-   "visto": "2026-11-20T02:28-03:00",
-   "url_original": "https://elfuertediario.com.ar/patrimonio-de-chascomus-ayer-en-el-museo-pampeano-se-firmo-el-acta-de-donacion-de-la-casa-de-raul-alfonsin/",
    "revisada": true
   }
  ]
