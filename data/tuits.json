@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-26T10:46-03:00",
- "total": 96,
+ "generado": "2026-11-26T12:25-03:00",
+ "total": 97,
  "tuits": [
+  {
+   "id": "2125806872544620810",
+   "usuario": "martinredrado",
+   "visto": "2026-11-26T12:25-03:00",
+   "url": "https://twitter.com/martinredrado/status/2125806872544620810",
+   "citado_en": [
+    {
+     "medio": "La Política Online",
+     "titulo": "Caputo quiere reflotar el swap con China y el peronismo le aconseja: \"Tienen que ir a Beijing a besar las mano",
+     "nota_id": "d3ce0d28ba8f"
+    }
+   ]
+  },
   {
    "id": "2123445929294368788",
    "usuario": "RossiAgustinOk",
