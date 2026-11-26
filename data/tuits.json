@@ -1,13 +1,57 @@
 {
- "generado": "2026-11-26T14:26-03:00",
- "total": 99,
+ "generado": "2026-11-26T16:26-03:00",
+ "total": 102,
  "tuits": [
+  {
+   "id": "2125964714735743235",
+   "usuario": "ANDigitalOK",
+   "visto": "2026-11-26T16:26-03:00",
+   "url": "https://twitter.com/ANDigitalOK/status/2125964714735743235",
+   "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    }
+   ]
+  },
+  {
+   "id": "2125997835233480769",
+   "usuario": "Sosandres",
+   "visto": "2026-11-26T16:26-03:00",
+   "url": "https://twitter.com/Sosandres/status/2125997835233480769",
+   "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    }
+   ]
+  },
+  {
+   "id": "2125997302133240056",
+   "usuario": "DiegoGiuliano",
+   "visto": "2026-11-26T16:26-03:00",
+   "url": "https://twitter.com/DiegoGiuliano/status/2125997302133240056",
+   "citado_en": [
+    {
+     "medio": "Sin Mordaza",
+     "titulo": "Giuliano cuestionó a Pullaro por darle quórum al oficialismo",
+     "nota_id": "eda5780ca6e4"
+    }
+   ]
+  },
   {
    "id": "2125967142700859575",
    "usuario": "Letra_P",
    "visto": "2026-11-26T14:26-03:00",
    "url": "https://twitter.com/Letra_P/status/2125967142700859575",
    "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
+    },
     {
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
@@ -21,6 +65,11 @@
    "visto": "2026-11-26T14:26-03:00",
    "url": "https://twitter.com/Letra_P/status/2120992531546804290",
    "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
+     "nota_id": "dc9787b0a951"
+    },
     {
      "medio": "Letra P",
      "titulo": "Bronca con Tignanelli, a quien acusan de buscar quedarse con una parte del impuesto al juego",
