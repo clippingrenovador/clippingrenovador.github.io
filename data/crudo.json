@@ -1,9 +1,79 @@
 {
- "generado": "2026-11-26T12:26-03:00",
- "total": 725,
- "nuevas_ultima_corrida": 43,
+ "generado": "2026-11-26T14:28-03:00",
+ "total": 722,
+ "nuevas_ultima_corrida": 40,
  "errores": [],
  "notas": [
+  {
+   "id": "4700274eee34",
+   "titulo": "El viceministro de Massa y mano derecha de Lavagna imagina un plan económico del peronismo tras Milei",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbkZzTUdXUVg4dDBpT2NUMGpLRWJKczh1cEdJNkdRVVNPR1Z2X0Z0c1B6V2xhQllHSXJ4Vnp5UXBqZEl6NUN0X0NLUExoXzlKdHNaWU11U05CV1hfelNOMlQ4eWZUaEhrUUswYTVnS0hMdEc3MmExMHItMF9QMFRXUGtjREdhUDhGNVJRYmpoZHV4N2dpZTVhRjlhLXhraVRtT3pHdlR3MnVPenV5dmUtVWNvOUw5V25OWEp2LVViY3h0YmlTYzlxSnZlYUFrcllqTDM3TUotRm5lTXdHcEJGUHp3NjM0RGlFaXU0?oc=5",
+   "fecha": "2026-11-26T13:59-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://www.perfil.com/modo-fontevecchia/el-viceministro-de-massa-y-mano-derecha-de-lavagna-imagina-un-plan-economico-del-peronismo-tras-milei-aorMv6b0EPwW",
+   "revisada": true
+  },
+  {
+   "id": "50dbdcd8c153",
+   "titulo": "Diputados: el Gobierno busca darle media sanción al presupuesto 2027 y convertir en ley la reforma del Banco Central",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTF0cGVidkVoUzF3eU9ra1lFTGhMdjlfeTN2US1CaU52NEJtWTN0UWJhZXVyYmJSdjFVRzFVcEJ5YnNSQkVUOGxwNHB1VWV5bVVHVFY0bWllVHdZU2lILVAwM0VUcFA1VEVuc1Z4cE56OGEzaF9VRjJlTldTTHBQUmw0ejlid19LRG81a08ySm5oZUxTbHBqR1hrNU5UUTUydW1sN0MzNm5Pc2xqNHJBRG9vekwyS1pVWkpjODJlbmctQ1V2cjVOcUVadVVLU2VIYzRINkZLc3E3U0RBcDB2UA?oc=5",
+   "fecha": "2026-11-26T13:47-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-busca-darle-media-sancion-al-presupuesto-2027-y-convertir-en-ley-la-reforma-nid26112026/",
+   "revisada": true
+  },
+  {
+   "id": "94f3929b0404",
+   "titulo": "Concejo Deliberante: Tigre tiene ordenanza fiscal impositiva pese a la oposición del massismo",
+   "medio": "De norte a norte",
+   "medio_url": "https://denorteanorte.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVU9pVWwwb3R0SjZfWVpOWGFZbTQ4TkhiZUxkUXRpMUliRlh0QW1oWU1heHNoQ3hqT1FNcnA4YzNHQzFFeDVQSWdvRy15Ql8yVW83eFFqdURoZ182QVJzUDJJMDVISHM3cWdoSHJGUzduNExsWEU2SHVjZUNWUlBVSkI3NDhfTk1JbEc1bkx1RkxXV2h3UjBUZ2F5dHFwVzB5eWRTMGJDV25VTi1iRGFHWTlUblFHcXpaN0xz?oc=5",
+   "fecha": "2026-11-26T13:02-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://denorteanorte.com/concejo-deliberante-tigre-tiene-ordenanza-fiscal-impositiva-pese-a-la-oposicion-del-massismo/",
+   "revisada": true
+  },
+  {
+   "id": "22a58e046a12",
+   "titulo": "Preocupación en San Fernando por el proyecto de una central de baterías de litio en el predio de Fate",
+   "medio": "InfoBAN",
+   "medio_url": "https://www.infoban.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2JTa0FfMFI2dWVwSFMxbUUzMmVucXFnMFc4bmhFOWs2NUNNcXRFdjlLdjRKaDhTMHpZTUNqcVlSUmRrNFpJRGpjVHFWV25Na2c0SGxFdktXNC1LTERBVmRrTE5NQzJhTGZwU3RiNE5zQTc2Z2FkclpxRlpURzVqRGRoVU5Ba1hfUVFqTUJWSmU0bGFEaGVRb2E0Y3I0MUQwLS02eFliS2pUUVhaRG9aRDd1UWR4UGJBNXRHU0RkTm4yMkVnLWpTS3BUVWhQLW1NQ3NFaE82SQ?oc=5",
+   "fecha": "2026-11-26T12:55-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://www.infoban.com.ar/26/11/2026/preocupacion-en-san-fernando-por-el-proyecto-de-una-central-de-baterias-de-litio-en-el-predio-de-fate/",
+   "revisada": true
+  },
+  {
+   "id": "eda6a6630c67",
+   "titulo": "De Cristina Kirchner a Javier Milei: los cambios de alianzas de Alfredo Cornejo a lo largo de su carrera política",
+   "medio": "La Ventana San Rafael",
+   "medio_url": "https://laventanasanrafael.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnZlOVJkQTBCZklqX2dPbTN0V1FVbzFBdU8xWDlGMjJXQ1Z3QUd6bmpyaTE4QXprclNZTjk4UHpGWmktcGlFYXdxcU5OM0JyTnRKQy1nRllzWW4yaE41UEk4WEN1YzNIUDN1OXNibFhvMXFBX0RidDFjTFZmbW15Q3RhMzdDUlgyY3dQZndSZnpQenFLVXk0V2JlTUhVNHRidVZKdXBTYnJ5Wld1T1dfWElwUUY5SkY1Mi1VOU5wclIyU0JpVE50N19kVnhyU1lEOXFUWGRLcm1nOC1HSGtELQ?oc=5",
+   "fecha": "2026-11-26T12:47-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://laventanasanrafael.com.ar/de-cristina-kirchner-a-javier-milei-los-cambios-de-alianzas-de-alfredo-cornejo-a-lo-largo-de-su-carrera-politica/",
+   "revisada": true
+  },
   {
    "id": "aec813d00b5b",
    "titulo": "Julio Zamora acompañó la inauguración del Centro Logístico del Grupo Panamericana Tigre",
@@ -104,6 +174,20 @@
    "revisada": true
   },
   {
+   "id": "955fd1007fb7",
+   "titulo": "Lamelas habló con Trump sobre Milei y puso el foco en 2027",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUR2VkZlQi1ScDNGUVZ1LWZLeXVzekVQU3pYSllwd0tHQTN3MDlKZ29kUmFYcmVVZ1Rlb3NZeUFlb0lTbHAtQVF2UDlrc0hQZk03LU81S01yT3ZuMFdqYkc4TVl4M3MzSnQ5STVLMXhEaGxZT1o3Ymx1ZXg5TmRkMFdrUFrSAXxBVV95cUxNZTVVdEx3b2tOVFNqeTM1alk0VHU4SnlkUXRMWjRzU19YQlFPMlAwQVktMVBIRWxLRWtkbzVyci1Pbk51Q1hBcHJ0YVhiVWZONkFWakFDcXBhT0tZel9yT0lhRHVreFR5emc0TDl4MDZuMHFIUzZTbTNhY20t?oc=5",
+   "fecha": "2026-11-26T10:53-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603759/lamelas-trump-milei-reunion-2027",
+   "revisada": true
+  },
+  {
    "id": "e4446236bb0c",
    "titulo": "(audio) Pablo Garate tras la entrega de las viviendas: “las definiciones para 2027 no son este año, ahora es momento de gestionar”",
    "medio": "LU24 – Radio Tres Arroyos",
@@ -161,6 +245,20 @@
    "revisada": true
   },
   {
+   "id": "e73e9fbbc08d",
+   "titulo": "Combustibles: el polémico giro de un proyecto que buscaba proteger a los consumidores",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWG1zU3R6UndhaHp0OXBaTW14R1VQVWpSOE9GSjRJb2xwMmNHdjczZzk2STlyY3J2V2hNS0t3alNuemlSOENxTHRsNTdZc0VyUFFJeFpnQkFfcnBzMVBqb3ZpS0kwY0NpY001cE5EdXJOUjJpbUhpWmtBUGpod0NoWUFhUUltdHFnRVotRDk3MHFwNmVWZGt3RmVZY3RUZTlNY3dFSVhaT2lmSHkwR3VCZ0JUdGNEYS1lU0xzZUpiYjY4R29G0gG8AUFVX3lxTE1LYktKX3VhQXUyU0pRN2JTdFp0RGxERG1Ed1VobnZQMTNGWDhVZzNlQTlVZ0ZVREhvY0ppUGVWVG1QLXhmcEowYjk1S0xzb09hN1U3YjhHV2ZhX01tUXJISTRYaGg5dTRyMTRKS2UyQm5BbTBsVElTeGlnUHpHTi1kY3lQN05xcWU0S2FuVVdVWjc0RE1CTFE0U0k1QnVYWE1CaFJVZHVMZmlsZnl4b011dndGX3A2UDFFcGRW?oc=5",
+   "fecha": "2026-11-26T09:22-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603754/combustibles-el-polemico-giro-de-un-proyecto-que-buscaba-proteger-a-los-consumid",
+   "revisada": true
+  },
+  {
    "id": "ebeeccffd59d",
    "titulo": "Katia Blanc: “Debatir sobre el presupuesto 2027 es defender el futuro del Chaco”",
    "medio": "CHACODIAPORDIA.COM",
@@ -187,6 +285,20 @@
    ],
    "visto": "2026-11-26T12:24-03:00",
    "url_original": "https://grupolaprovincia.com/amp/603751/encuesta-milei-kicillof-evolucion-intencion-voto-2027",
+   "revisada": true
+  },
+  {
+   "id": "82f3d2987f02",
+   "titulo": "Encuesta nacional: empate en la cima, un dato inesperado y una fuerte señal de rechazo en la política argentina",
+   "medio": "7PAGINAS",
+   "medio_url": "https://7paginas.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW82TkhWVWRyb19ZaWFsNk03SERhSlNOS05FRmhNSmVmc1dSaE5VcHZCaHBoTmVnRk1ZTWJsaDQxUmxwbDRkZnlxRjR1R2lwc3Y4VWF3cUpUd1UyaFZhM3p6d005bFBKQVhLeVROeTRoSjk3cTgyd2xRczR1N2p5blNnZzMtYkNvTjN6Q3hPcVhlc19SUTlpWGtvbHVCeHFBTlV5OHhIdTMwNGlpUFF4VmdvUE9FZ0tVVkJRallUUkNQQ3FmX3dKZ2I3MngwSk0?oc=5",
+   "fecha": "2026-11-26T08:52-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://7paginas.com.ar/encuesta-nacional-empate-en-la-cima-un-dato-inesperado-y-una-fuerte-senal-de-rechazo-en-la-politica-argentina/",
    "revisada": true
   },
   {
@@ -244,6 +356,34 @@
    ],
    "visto": "2026-11-26T08:18-03:00",
    "url_original": "https://diariolaprimera.com.ar/contenido/11329/galmarini-contra-zamora-hay-que-recuperar-el-municipio",
+   "revisada": true
+  },
+  {
+   "id": "b7966873c970",
+   "titulo": "Golía entregó decreto a la Cooperativa de Granjeros con aprobación de la escritura para dos lotes en el Parque Industrial",
+   "medio": "Municipalidad de Chacabuco",
+   "medio_url": "https://chacabuco.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRVV3V0xzanZOVnB0RmJIbm5KcVh5aEZ3SUJBdmdyWWVBU3R0YmhicDE5d0UtcmhLMXBmVjZEYjBydnNDaTlpdFhZRjBhODlXX0JVTG45RUdDWjJycm9JMXg1VldCbzdlYi1TVU10bGJ1OHUxc01CRGJEcjRZT0FhRGUzMC0tWVZQaE9ZQzZtSXdTU1lrTjVvTlh3ckR0QU9Xdzh0Slk5SzdSc2NBMGg4amxxUVdWVndYRW9VMXNUZXFVdWxvQWJPQTMxRHZMYWhFbFJkXzVJeDhFS2ZES21jWA?oc=5",
+   "fecha": "2026-11-26T07:44-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T14:26-03:00",
+   "url_original": "https://chacabuco.gob.ar/golia-entrego-decreto-a-la-cooperativa-de-granjeros-con-aprobacion-de-la-escritura-para-dos-lotes-en-el-parque-industrial/",
+   "revisada": true
+  },
+  {
+   "id": "51823e131034",
+   "titulo": "“El futuro no está en Wall Street”: Kicillof redobla la ofensiva contra Milei y se apoya en los intendentes para 2027",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWJidS14NEh0SjVaLXc3NkpwNjMxeUZEanAzUklackpUR1F1eVZvX01oalYxcWEwOUJUMlVlWGppRkZRYkQwZ2RDb2swZDlBN2VvZjRMSjJBcU5OTTlmMnFkaDk0MHI4Q1g3OTd2cTFWMVpyWU44dEY4bzVaU0tRWjJUdmtQb0h1eExDZkc1b1ZHeXF1MlJMOE8xX0wxWDdjRmVEZ0htc1gxRzRBcEJUWFhKa3V3WWlLSEtFNXN2S1NvVEXSAbsBQVVfeXFMTk9MS0xaMlhLRDZMOXVLN09XR0hETWMzSHVOOTBHSEFiZk1RTVozWmFJMEowR3JDTmNmOEF0VlpWQmlmWXAyNzhhZFUyeDBHY0JES0ZILWd3UVJHNEkzX0RiUWVjWDFVMjdrdHlFU2IxeG5DOTRlaG5DQmFkOWlPREo1TEpXWEhRVVVpVlprZDBRaThUZ0VLaDIxbGNNcFQyM25KTHE5bjRtS3l2dS1zRjhmcGw2QlBicWFQZw?oc=5",
+   "fecha": "2026-11-26T07:32-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T14:25-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603736/el-futuro-no-esta-en-wall-street-kicillof-redobla-la-ofensiva-contra-milei-y-se",
    "revisada": true
   },
   {
@@ -883,7 +1023,8 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEVnUW1SZ0dMbm03Z3dYR01KckxQZzJjUEhuN2RWTGRUWkJ5Mkp6Vk1KaWV6V1dHVW9aUzRZYVdpWjNHUUt4S0hEVXdjeWlUeDV3bnNKYXhmRG5LWjhGMDgzMlhBZGdWU3RkV0lmLTh6MkxhZVRmQzVMQ2FuWGJNcnBR?oc=5",
    "fecha": "2026-11-25T14:58-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-25T16:19-03:00",
    "url_original": "https://eleconomista.com.ar/politica/peronismo-partido-poder-o-pasado-n99909",
@@ -897,7 +1038,8 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEYtQWFqWU81SUtnTjlMMjBZeHFGTWhkN21rQjgyRXBQYkFDRnBiaktvLTBPU1Nwcm1LT3dYNkMzenZWZ1hMYkUwNDBFQ2Q1eDU4ZnJSaTE1MFc4Z3h2eC00QW9kZWVpbFdibzJHZDBDUlFYZElGbXNsSWRfOGVtS3lOck9rSUkwNk5VX1ZxLTU0dWtHR3pIQm0zcC1GNFlLdzFYMm01U1Z5XzR6OTlQLUpEcVlOQnZFM0wxb2F0bjltUTg?oc=5",
    "fecha": "2026-11-25T14:53-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
    ],
    "visto": "2026-11-25T15:04-03:00",
    "url_original": "https://canal22web.com/noticias/encuesta-el-537-rechaza-la-continuidad-de-milei-y-kicillof-lo-venceria-en-una-segunda-vuelta/",
@@ -3463,7 +3605,8 @@
     "\"Malena Galmarini\"",
     "\"Sebastián Galmarini\"",
     "\"Cecilia Moreau\"",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-25T00:21-03:00",
    "url_original": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35528",
@@ -10319,195 +10462,6 @@
    ],
    "visto": "2026-11-20T00:50-03:00",
    "url_original": "https://diarioelnorte.com.ar/malena-galmarini-cruzo-luis-caputo-riesgo-pais/",
-   "revisada": true
-  },
-  {
-   "id": "7ba5fb2f28af",
-   "titulo": "Mayra Mendoza contra Caputo: “Un Martín Fierro a las peores declaraciones deberían darte”",
-   "medio": "Grupo La Provincia",
-   "medio_url": "https://grupolaprovincia.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGRjRVItbFJ5cVRmaHp3ZWNjZWNZR0lCajdQaTI2ZTRBQnJyMzdCMC1laWtHVjZhenNSYmw3UUFLY0plLUxnWHlpTUZyZUlublVXSlRhdHJuc2dPamlFUzZZazNFY05kakdsZnpFUC1idUJKa2JacmVaY1NEOXVHSFc1Q1pIWXZieE45NTNJVzUtUEcwbENjX09MeC1Vd1pUSlFINmpLaDFmS1pKVklXUmlEQ2F2Tzh1MTY4bdIBvAFBVV95cUxQaGRjRVItbFJ5cVRmaHp3ZWNjZWNZR0lCajdQaTI2ZTRBQnJyMzdCMC1laWtHVjZhenNSYmw3UUFLY0plLUxnWHlpTUZyZUlublVXSlRhdHJuc2dPamlFUzZZazNFY05kakdsZnpFUC1idUJKa2JacmVaY1NEOXVHSFc1Q1pIWXZieE45NTNJVzUtUEcwbENjX09MeC1Vd1pUSlFINmpLaDFmS1pKVklXUmlEQ2F2Tzh1MTY4bQ?oc=5",
-   "fecha": "2026-11-19T14:26-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:54-03:00",
-   "url_original": "https://grupolaprovincia.com/amp/603561/mayra-mendoza-contra-caputo-un-martin-fierro-a-las-peores-declaraciones-deberian",
-   "revisada": true
-  },
-  {
-   "id": "1bf0c3d95ee5",
-   "titulo": "Caputo se burló de la cumbre en San Fernando y Galmarini lo liquidó por su gestión en economía",
-   "medio": "Cronos noticias",
-   "medio_url": "https://infocronos.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONk9OUFprWllNYjdvb1ZqNU04bVB2dGNhdFlrVU5Idm9MUE1laHRJVVVaanVSdDB1SWJUeWtMTWx6Y0dSaWVtd3BtV2JFRXkxbm9Qa0VLdVhabm1QSTJBdVlFc1F3b3ItOUU5REQ2NFhrelNyLWs4S0k2RkdCa010aDZsVF9lQlY2UTgtQ1lta3RUd3c3ZEJJSFJQa013TmdCaXIxbWwtMWdUNU9hVDQ1Q3AyTkFxbkR6b2ZZSzkzQkFGaHpfVGJna0hEOUs?oc=5",
-   "fecha": "2026-11-19T14:08-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Malena Galmarini\"",
-    "\"Sebastián Galmarini\"",
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "d1e551eac8d2",
-   "titulo": "Bianco buscó desactivar la polémica por el acto de Massa: “No fue contra Kicillof”",
-   "medio": "Infomiba",
-   "medio_url": "https://infomiba.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYy1yYkZNMW9vcUZkQjhGZWs5THpqY0M4ekI3TzA1Wlc4TjBsMHJfY0lxdUMyYTBDNmlGaDZfNEp4S0FmYWdIaE5EaXVNN2JsMmdFMmFVNUU5LTNtU0NWX0xMQU8zYnJidFMzTTNXNk9GOXkzREE0d1F3bkJ5QmJkUExFS1dXcmxDcDZ5WDNPcnNyWnctampIVXBTdjZYSDRfQ1R4Sm9kU2tEbWNtby10Qk50Y0RQQQ?oc=5",
-   "fecha": "2026-11-19T14:03-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://infomiba.com.ar/nota/59727/bianco-busco-desactivar-la-polemica-por-el-acto-de-massa-no-fue-contra-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "90acf2c89934",
-   "titulo": "Arcioni fortalece su proyección política de cara a 2027 con un Frente Renovador activo en Chubut",
-   "medio": "El Diario de Madryn",
-   "medio_url": "https://www.eldiarioweb.com",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcXcyQWVVSm9ndkx0V005VUx3bHFfLU5vaHdLdW92WUVQOTZtNi15MVNaS0lGd2pTSUJDWTdteHRya3NVXzU5THJWQXVwTmwwS09IaV9QbkV1dUlyLWxST1dsWkk3ejg4YUdSQ0Q2a1BFWWVIYXI3NmYxYlQwMVNxU19PRmJOOXF2UlVzaDRUOUswSFlKY2l5VHExcmFvMVVpS1c1UDJvVXMzUFVvSngwd19UTnBoVW9wd2NJM3lVdGRMWVdvQ1daTU5LSm1IZw?oc=5",
-   "fecha": "2026-11-19T14:01-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.eldiarioweb.com/2026/11/arcioni-fortalece-su-proyeccion-politica-de-cara-a-2027-con-un-frente-renovador-activo-en-chubut/",
-   "revisada": true
-  },
-  {
-   "id": "a7bc7ab7b90a",
-   "titulo": "Los límites políticos de una foto, y por qué ello no garantiza una mayoría en 2027",
-   "medio": "Noticias Urbanas",
-   "medio_url": "https://www.noticiasurbanas.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSS10N1Q2QjVHSXowMU1nUjFMMi1tN2RLUnhRVC1KRTIzLUQxckMtTnVTWGtiRUZBT2ktR2xQZUtIZGZoQXFEVk1hczBvOTQzbDNudlc4aC0xQW9KUjBkN21sYVF4YWktUlJENlItbDhuM184WXZTc1E0THZ2bkhiM2pMdElyT3lUdllla3BKUVhxYkNUMVlMZnZ5aWJ1N2pYR0lVNk9iY0xHOWFoc3QtVlhEVlVDN3M?oc=5",
-   "fecha": "2026-11-19T13:47-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.noticiasurbanas.com.ar/los-limites-politicos-de-una-foto-y-por-que-ello-no-garantiza-una-mayoria-en-2027",
-   "revisada": true
-  },
-  {
-   "id": "1b5d328e4d79",
-   "titulo": "Malena Galmarini cruzó a Caputo por el acto de Massa y defendió la unidad del peronismo",
-   "medio": "Informe Digital",
-   "medio_url": "https://informedigital.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUd2REZjdHA4WXFYZVRVeEJjTUNHd0JHcHV4b2dXcVhRZUYzUHMza0FZQ1VLU0hNNU1fT2RScUlMSkZNcHVFT3ZGT3dfSHd6MGNBa2lxQUtOd1lMRUtwNWRMVExMdDU1WDVwb0ZqX18zMVQtLUF3eTBLQm9wZ3AzcGRUdFlSbFE1YTREWG9NOXp2cjBPdXZqV0luMnJZYThNTFpCaDlZQklXaFV3WVJUbmR6YTdmNlBYU0E?oc=5",
-   "fecha": "2026-11-19T13:39-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Malena Galmarini\"",
-    "massismo"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://informedigital.com.ar/malena-galmarini-cruzo-a-caputo-por-el-acto-de-massa-y-defendio-la-unidad-del-peronismo/",
-   "revisada": true
-  },
-  {
-   "id": "0de036aa42ef",
-   "titulo": "Malena Galmarini respondió a Caputo y defendió la unidad del peronismo",
-   "medio": "iProfesional",
-   "medio_url": "https://www.iprofesional.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUJobmdWaDVyeWhVckZycmRjajRoY0ZRUVZzb3ZCNXhNNkVyanI3YlNLQUZPelNwRDFMLVdxWEwxeFNtbUxwdUxxcG9KNXoycTZHZlB3U3A0ci16TWZibWg3YjROWXNBRldjU19XZVpyT21WMHVZQThhTWpLWDdsTDcxUUVmZ3RZd002UG0xaGEwOEVxWV9BbC1MSS1YN2w5OGk3UHZYSUtQbF8tMmZiUG5qRkZfZUNRYUMw0gG7AUFVX3lxTE9ZQmhuZ1ZoNXJ5aFVyRnJyZGNqNGhjRlFRVnNvdkI1eE02RXJqcjdiU0tBRk96U3BEMUwtV3FYTDF4U21tTHB1THFwb0o1ejJxNkdmUHdTcDRyLXpNZmJtaDdiNE5Zc0FGV2NTX1dlWnJPbVYwdVlBOGFNaktYN2xMNzFRRWZndFl3TTZQbTFoYTA4RXFZX0FsLUxJLVg3bDk4aTdQdlhJS1BsXy0yZmJQbmpGRl9lQ1FhQzA?oc=5",
-   "fecha": "2026-11-19T13:30-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "massismo",
-    "\"Malena Galmarini\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.iprofesional.com/politica/469561-malena-galmarini-respondio-a-caputo-y-defendio-la-unidad-del-peronismo.amp",
-   "revisada": true
-  },
-  {
-   "id": "9e96188b4be7",
-   "titulo": "Kicillof responde al acto del PJ Federal con otra visita a una provincia no peronista",
-   "medio": "BVC Noticias",
-   "medio_url": "https://bvcnoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOakhsSGh1Q253a3ljNkE0X1pncXpuRWh5elFYdnUzd2dPS2steUI3TUpwTG8xb2F4QzBUcEl0OXJHSnhlbXJQRGxtenM2aGMwYmpTRE9vVTBvcHZoYURVSDIzeHhtMEctOFd4QXN0YXdFbWlNcDRzTWZCN3JrLUdzeHNyRGJocU1nVGE5a0ZWNVpkamlNSmx6WURrU1UzaHk1SnBPYWhaZWZXUTQ5TnFFYnpueF9DQ3M0LXA5YjN3?oc=5",
-   "fecha": "2026-11-19T13:30-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://bvcnoticias.com.ar/2026/11/kicillof-responde-al-acto-del-pj-federal-con-otra-visita-a-una-provincia-no-peronista/",
-   "revisada": true
-  },
-  {
-   "id": "6fa570147f48",
-   "titulo": "Sin PASO se ordena la interna detrás de Massa y Cristina y se frenan las aspiraciones de Kicillof",
-   "medio": "Provincia Noticias",
-   "medio_url": "https://provincianoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWx0RGZKZU5QQVJHUDVTa0RXSGJESUJhaWxKVk1ESGVpUDJrcFNXaFBUbDhFcE9SYk5OYUJhd25lem1XZVhHajNkM0FvZ3ZESDNjZmNfVmxTREkxcUN1ZFFNb0JlRTJKcFp6aVZIMDc2VUptbXZpRW5PaFktUVlmY0J3VjhaakpFQXpmNFRYVVlZUDZYY3VNY29laXlnSkZmSUQybjd1ZVZUMDhVbFZNMTJ5MjZSVjBGNFBza3Q4ZU1KdWpNZG9zUDAtcV91RkVUbnpVblQxVV8zQQ?oc=5",
-   "fecha": "2026-11-19T13:18-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://provincianoticias.com.ar/nota/22946/sin-paso-se-ordena-la-interna-detras-de-massa-y-cristina-y-se-frenan-las-aspiraciones-de-kicillof/",
-   "revisada": true
-  },
-  {
-   "id": "71bb29029c0c",
-   "titulo": "El vicegobernador de Río Negro explica su participación en el encuentro del peronismo en San Fernando",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdHN1T2lWdFEzeDNxMGNUQ2Q3ME1MVHRhbFlPemhLazJRaFVEN2lyc2F5ZS1aUkpvWlFJemdOREVzVGczR295Mk0wYUd0TkttczdLdzk3blJjbXA1M0hORUxLN0U1QU9wcWM2ZUU1eDZxcUtjOC00V2JVbVY5OWpHTjZrSGM5aWh1TEdrcWZkbFZtVzZaWTljczNIdDh4RkNEMjROZG5WZU9zeVNiTTNuMHNkZ01ETEhtMURkdmxRNC1DYUFRZzVyR012a1FWaFhMTHBYMU9sMXE2c1BEMGtSZGZqMUR2MVZCNWJv?oc=5",
-   "fecha": "2026-11-19T13:14-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.perfil.com/modo-fontevecchia/el-vicegobernador-de-rio-negro-explica-su-participacion-en-el-encuentro-del-peronismo-en-san-fernando-aA30K0B0YujE",
-   "revisada": true
-  },
-  {
-   "id": "7a825009f9cb",
-   "titulo": "Sin consenso ni plenario: el Consejo de la Magistratura traba su renovación entre disputas en el Congreso y tribunales",
-   "medio": "Diario Río Negro",
-   "medio_url": "https://www.rionegro.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZVdZSzNnOF9TUHBhWTVRMDZ3THE3NGhUUjZDWlhpX3YwQWs0ZC1wMEF1QXM1bjdLM2ZSZUhlUjBjb2ZtMXV6ZmFFWnpkejdJMFQ2eC1NTWVHR0xGWXpJNTJ2SUVQLXI3Wm0yTklGekFwRnJJTmtMNFMtdjF5enJLRkdnUkdqdHF2Rjl1cUgtakQyQk9WTndrMkw1ZnFPUmF3aEU5QUtMRW94NWZnT2tuZmR5dWNMTjJhcXM2ZjV5QVNmOXRqSElvdThKWHY5b1hCbWVyZzZsYUd3TWMyM2diLUd2TFU3OUZrYlF2ellpRmZmS2FPSnBVOE52MmhqQdIB_gFBVV95cUxQZVdZSzNnOF9TUHBhWTVRMDZ3THE3NGhUUjZDWlhpX3YwQWs0ZC1wMEF1QXM1bjdLM2ZSZUhlUjBjb2ZtMXV6ZmFFWnpkejdJMFQ2eC1NTWVHR0xGWXpJNTJ2SUVQLXI3Wm0yTklGekFwRnJJTmtMNFMtdjF5enJLRkdnUkdqdHF2Rjl1cUgtakQyQk9WTndrMkw1ZnFPUmF3aEU5QUtMRW94NWZnT2tuZmR5dWNMTjJhcXM2ZjV5QVNmOXRqSElvdThKWHY5b1hCbWVyZzZsYUd3TWMyM2diLUd2TFU3OUZrYlF2ellpRmZmS2FPSnBVOE52MmhqQQ?oc=5",
-   "fecha": "2026-11-19T13:02-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T09:15-03:00",
-   "url_original": "https://www.rionegro.com.ar/justicia/sin-consenso-ni-plenario-el-consejo-de-la-magistratura-traba-su-renovacion-entre-disputas-en-el-congreso-y-tribunales-4804928/?amp=1",
-   "revisada": true
-  },
-  {
-   "id": "20a4f915836b",
-   "titulo": "Los tres escenarios del peronismo sin PASO: acuerdo, interna abierta o listas separadas",
-   "medio": "Ambito",
-   "medio_url": "https://www.ambito.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjNDS0VTam42V25HZzU4UWFqZ0VETjlzb2p2MjVIRDQ4T2VVWU9seFR1REh0cWpMZXNnLXZXQXRXQzdHUUt6SWt6UXZWLTE1TE00bUs4cGc4dElmZjBFUUt3a3J0YUhtUE9SVHRKWUJVbEZpejU0YVY3ZEFCV2d2ZzEzZHlMcHlEM1Z6Y1hQT2l1Tlp2cHZaNWhOT0NIVTRrbk01Y2pOY19McWVnQjBxRW9IYU81LW1rMHphbjJYTdIBxAFBVV95cUxPWGkwZ1YwZS1YT2s1SUYyWldmcXhKZWVHLUx6eVdnRFc1ZGJxXzcteWNyWUpLbVcxNG8yYUhsRUJUODdTbjVWX25td3VYSnhmdVNoeFZPZmJ4UVZhNHpHRzBudzBBbzNYZF9VdEJFOThDWHVVUFRWWnFiWDY2cl9uVlJFVnIxY3B0bzNjNWJ4ZkF5cWp1NEZCMm9WN3BhSmdSdlN2NWd4X2VId0FPb0ZzTzJVeGRieXBiQXMxWUdBMmdlV1hU?oc=5",
-   "fecha": "2026-11-19T12:33-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:54-03:00",
-   "url_original": "https://www.ambito.com/politica/los-tres-escenarios-del-peronismo-paso-acuerdo-interna-abierta-o-listas-separadas-n6347070",
-   "revisada": true
-  },
-  {
-   "id": "32cde25e70a7",
-   "titulo": "Deanes repartió responsabilidades por la crisis industrial: cuestionó a Nación y habló de “desidia provincial”",
-   "medio": "Red 23 Noticias",
-   "medio_url": "https://red23noticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNkVQZHVmN0YtcGl3Mjd5THVyZTduTGFZcVRoalc2TlRrYm1VTzJHOUFhZ0hMUkszbmdhZURXb21jTTBfcHRPWm1RNUQweGtyekdVSVpRUEJOWkJHbGdicmQya05VYnpNZ2J6Qi1JQ3hYZnIyNHJlNjRodXhkcjBmU1hSZUlVZnRJdU85LVd5LXlWVl9JeVlOVS1kM25tYnQ5OXgtTHpRdVBLb3kzcHZaSUNwQ3pTYkVhQ2NIMTRaQVdwU2NlZGNDTE8xNU1ucXJHUXUwTWdUUWxxX1NXTzNIazhR?oc=5",
-   "fecha": "2026-11-19T12:31-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T01:52-03:00",
-   "url_original": "https://red23noticias.com.ar/nota/20624/deanes-repartio-responsabilidades-por-la-crisis-industrial-cuestiono-a-nacion-y-hablo-de-desidia-provincial/",
    "revisada": true
   }
  ]
