@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-27T19:17-03:00",
- "total": 84,
+ "generado": "2026-11-27T20:15-03:00",
+ "total": 85,
  "tuits": [
+  {
+   "id": "2126367882942800187",
+   "usuario": "Kicillofok",
+   "visto": "2026-11-27T20:15-03:00",
+   "url": "https://twitter.com/Kicillofok/status/2126367882942800187",
+   "citado_en": [
+    {
+     "medio": "Política Argentina",
+     "titulo": "El Gobierno bonaerense activó un plan de prevención ante El Niño",
+     "nota_id": "e5b77631a02b"
+    }
+   ]
+  },
   {
    "id": "2125752380687855955",
    "usuario": "ANDigitalOK",
@@ -60,6 +73,11 @@
    "visto": "2026-11-27T18:17-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2126112969067307428",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
+     "nota_id": "e88617bf7bb8"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
@@ -143,6 +161,11 @@
    "visto": "2026-11-27T12:20-03:00",
    "url": "https://twitter.com/El_Prensero/status/2126008086292836863",
    "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
+     "nota_id": "6669a1156f64"
+    },
     {
      "medio": "NOVA Bonaerense",
      "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
