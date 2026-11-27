@@ -1,13 +1,70 @@
 {
- "generado": "2026-11-27T18:17-03:00",
- "total": 80,
+ "generado": "2026-11-27T19:17-03:00",
+ "total": 84,
  "tuits": [
+  {
+   "id": "2125752380687855955",
+   "usuario": "ANDigitalOK",
+   "visto": "2026-11-27T19:17-03:00",
+   "url": "https://twitter.com/ANDigitalOK/status/2125752380687855955",
+   "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Encuesta nacional: Cristina Kirchner lidera el ranking de imagen y Villarruel queda segunda",
+     "nota_id": "142038540d6c"
+    }
+   ]
+  },
+  {
+   "id": "2124939404934341030",
+   "usuario": "QuintelaRicardo",
+   "visto": "2026-11-27T19:17-03:00",
+   "url": "https://twitter.com/QuintelaRicardo/status/2124939404934341030",
+   "citado_en": [
+    {
+     "medio": "Eduardo German",
+     "titulo": "Panorama político | Quintela, rumbo a 2027: «Yo sí aspiro, algún día, a que los argentinos me den la posibilidad de gobernarlos",
+     "nota_id": "82379cf355e4"
+    }
+   ]
+  },
+  {
+   "id": "2125014811708653779",
+   "usuario": "QuintelaRicardo",
+   "visto": "2026-11-27T19:17-03:00",
+   "url": "https://twitter.com/QuintelaRicardo/status/2125014811708653779",
+   "citado_en": [
+    {
+     "medio": "Eduardo German",
+     "titulo": "Panorama político | Quintela, rumbo a 2027: «Yo sí aspiro, algún día, a que los argentinos me den la posibilidad de gobernarlos",
+     "nota_id": "82379cf355e4"
+    }
+   ]
+  },
+  {
+   "id": "2125280250275705308",
+   "usuario": "QuintelaRicardo",
+   "visto": "2026-11-27T19:17-03:00",
+   "url": "https://twitter.com/QuintelaRicardo/status/2125280250275705308",
+   "citado_en": [
+    {
+     "medio": "Eduardo German",
+     "titulo": "Panorama político | Quintela, rumbo a 2027: «Yo sí aspiro, algún día, a que los argentinos me den la posibilidad de gobernarlos",
+     "nota_id": "82379cf355e4"
+    }
+   ]
+  },
   {
    "id": "2126112969067307428",
    "usuario": "ANDigitalOK",
    "visto": "2026-11-27T18:17-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2126112969067307428",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
+     "nota_id": "e88617bf7bb8"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
@@ -86,6 +143,11 @@
    "visto": "2026-11-27T12:20-03:00",
    "url": "https://twitter.com/El_Prensero/status/2126008086292836863",
    "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
+     "nota_id": "6669a1156f64"
+    },
     {
      "medio": "NOVA Bonaerense",
      "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",

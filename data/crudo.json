@@ -1,9 +1,81 @@
 {
- "generado": "2026-11-27T18:18-03:00",
- "total": 730,
- "nuevas_ultima_corrida": 34,
+ "generado": "2026-11-27T19:18-03:00",
+ "total": 732,
+ "nuevas_ultima_corrida": 40,
  "errores": [],
  "notas": [
+  {
+   "id": "2620da7079b5",
+   "titulo": "Ricardo Quintela: «Yo sí aspiro, algún día, a que los argentinos me den la posibilidad de gobernarlos»",
+   "medio": "Fenix951",
+   "medio_url": "https://www.fenix951.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16d3pZdzNwU081REZmSVM4bTcxZ0dfX3ZNYXlxaFZZbzV1YS1zaS11aUZ0V1F2enBoY1VMSF9QZGQzQTk4RVcxWnQ0ZFMxY2V0Y2tZVFFTRjlfY2ZaZmc?oc=5",
+   "fecha": "2026-11-27T18:56-03:00",
+   "busquedas": [
+    "\"Juventud del Frente Renovador\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://www.fenix951.com.ar/noticia.php?id=361983",
+   "revisada": true
+  },
+  {
+   "id": "142038540d6c",
+   "titulo": "Encuesta nacional: Cristina Kirchner lidera el ranking de imagen y Villarruel queda segunda",
+   "medio": "ANDigital",
+   "medio_url": "https://andigital.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1hVYXFDdVJ0TlU4MEhhbFdJVlVjQnhHQnhoRXd2RG94UW16dGJpNGg3OWlEV3pDT0RNZXk1QWc0V0Z6ZXJUc1diMFdWZGpwSmExSjNrOHAzQUhhQjY4Zm9TNkhRRzAzVmtrcHNocTJWcEJiS2lfcU5FY0hDektqOFBPeGJacnA3X3BuMENreWZaVW80NDlnVWk5eWx2UFpZQTY2SVdIbUk3Z1lBRHJRMVdlSVpKbUhudEZfeE5Bc1JMTUJVUnRZ?oc=5",
+   "fecha": "2026-11-27T18:52-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://andigital.com.ar/nota/145245/encuesta-nacional-cristina-kirchner-lidera-el-ranking-de-imagen-y-villarruel-queda-segunda/",
+   "revisada": true
+  },
+  {
+   "id": "c726e4534aca",
+   "titulo": "Kicillof sin respuesta a su base y una encerrona de cara al 2027",
+   "medio": "NOVA Bonaerense",
+   "medio_url": "https://www.novabonaerense.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWJ1cFpjRF9PMEt5V3J2VllwakZKUy1qbnBKQ1ZjS05BYkRHa05TbkY3NW9NZ0h0VWcyZ2g1U1phb3ZLVndrYWlmX1hIcGMyQi0yejVOYnN3RFhOa2FvQXVEeGo3b2RLSmxvQkM5NmJuSnMyZXdiZlRmWWgzaWRNZVhOTGx4UFFJdnM1dzVFeEo0MndhWHM0c05jSFlNODZGQnd2V1BtNXh4YmNCa3Ftd3pVZmxHTHBBUm1DZGN4X0kwRHljYzZocDl3?oc=5",
+   "fecha": "2026-11-27T18:51-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://www.novabonaerense.com/nota.asp?t=Kicillof-sin-respuesta-a-su-base-y-una-encerrona-de-cara-al-2027&id=92806&id_tiponota=51",
+   "revisada": true
+  },
+  {
+   "id": "5feb9fd21960",
+   "titulo": "Golía presentó un nuevo tractor adquirido por el Municipio",
+   "medio": "Chacabuco en Red",
+   "medio_url": "https://chacabucoenred.com",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0l1czNWdTl5dWpTNjAwV2dKWkhHNlIwY2Ruc2JXdzlwZFJFS01qVXNOc0xKcE1ZVGItUDQ2U1g4d2hPRkNEc2NZc0xLRDBIdW5Kd19tQ3lmV0JmbkI2VURJOG43WmdrWndYLUR1V250c1BlOWM4eWNVMHFWdy1OdVlxSU41YURVMF8tRGR6NA?oc=5",
+   "fecha": "2026-11-27T18:19-03:00",
+   "busquedas": [
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-27T19:17-03:00",
+   "url_original": "https://chacabucoenred.com/golia-presento-un-nuevo-tractor-adquirido-por-el-municipio/",
+   "revisada": true
+  },
+  {
+   "id": "82379cf355e4",
+   "titulo": "Panorama político | Quintela, rumbo a 2027: «Yo sí aspiro, algún día, a que los argentinos me den la posibilidad de gobernarlos",
+   "medio": "Eduardo German",
+   "medio_url": "https://eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGYzSGlOTlR6WFBNejF6Q1lidDBhXzBRRDRYZlh0d1F6MWlaRk42cHBDMktNOFBqTXBtTl9aTkNWOG1UVF81ZDhSZ1RkSWpCVi1OSmEzLV9kZXRQenBFeVdvb2pKakNjVUkxSmhEcW9HdVhvdnFMMUU5TUV4M1pRY0c1OWFPcHpsUWpqWXlybWtGYlV5Zl80V0w1MF9UVmpYNnU3TzExMjJSZw?oc=5",
+   "fecha": "2026-11-27T18:14-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Juventud del Frente Renovador\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://eduardogerman.com/2026/11/27/panorama-politico-quintela-2027-aspiracion-presidencial-gira-federal/",
+   "revisada": true
+  },
   {
    "id": "cf2d9f2930a1",
    "titulo": "Tras la cumbre massista en San Fernando, Kicillof se reunió con intendentes y entregó equipo para enfrentar a El Niño",
@@ -262,6 +334,20 @@
    ],
    "visto": "2026-11-27T15:08-03:00",
    "url_original": "https://www.notiar.com.ar/index.php/opinion/143812-la-desigual-pelea-de-caputo-con-las-estadisticas-oficiales-por-daniel-bilotta",
+   "revisada": true
+  },
+  {
+   "id": "3841c9e1e28c",
+   "titulo": "Julio Zamora: \"Axel Kicillof es la mejor alternativa\"",
+   "medio": "Urgente24",
+   "medio_url": "https://urgente24.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUlJSNzY0dk1heEs1Y19ETDdqZXloVnBUTTF2N0o0SkNTaWVUOC00UGYzdnJkb1p1cDFnOU54dk44UGFpVlczSHI4Z2lGVjllNWJ1RjZuR1g3NDltaC1mR1VtOFR0SldvQm1OOFZCRFQzS1Z3d1Utcnpja0ExWUc2QTBYTlB4aUIzd3VfUVF1b2VIeU91RkHSAZsBQVVfeXFMTUdRSW13OGE2NXJhY0VmaHJHQy1zX24wbFNlbk5MZWc2VzUtTnZ4Z3I1S1NkbFBNa085RmJyRm00b3dwTjhnZ1VXNHNkUUEzNGJfVkxVc0R6S00xQmU2WDFpQ0R6MUdmb2xVODBQZk9tcldheXRxemJGQmFPR2FJbHFaRXJfR2hFRVJXRmkyWDJ4VmtMd2dmeEhfR2c?oc=5",
+   "fecha": "2026-11-27T13:55-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://urgente24.com/actualidad/julio-zamora-axel-kicillof-es-la-mejor-alternativa-n637623",
    "revisada": true
   },
   {
@@ -739,6 +825,20 @@
    "revisada": true
   },
   {
+   "id": "1d5567a825b4",
+   "titulo": "La oposición impuso cambios en el Presupuesto 2027 y consiguió $11 billones para las universidades nacionales",
+   "medio": "Radio LV11",
+   "medio_url": "https://www.radiolv11.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmZJOW5UTkdlbFNxRWY0M0ltbVJRNDMzUXFpa0oyVmtOUnc5QlQ1WWY1SUFkeG1Bc0lLbkRka0luMEpBbExrQVVWVnBTVkJWUUdXUFFLdldwcE8zdGxhbHhaekRuQjRXRVgtUEpCcWgtaXZwM0VTelowY3U2MFFxRU5YQ3ljTGlXZk5kbGFGaHhGY2xFWC1ONDNRTjRINkNpWGNyUF9OcUFpMktwd3Z3UnRqTWJHOFNlUE5SZUF6anE4Q1BZbHBpUmUtTFlYVE1iQzNncVlEc1dRb0w1ZUE?oc=5",
+   "fecha": "2026-11-27T09:20-03:00",
+   "busquedas": [
+    "\"Cecilia Moreau\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://www.radiolv11.com.ar/noticia/la-oposicion-impuso-cambios-en-el-presupuesto-2027-y-consiguio-11-billones-para-las-universidades-nacionales",
+   "revisada": true
+  },
+  {
    "id": "d0fa5d98a1c5",
    "titulo": "Massa en Córdoba: propuso una agenda de Inteligencia Artificial en pos de la producción, el empleo y el desarrollo",
    "medio": "Política Argentina",
@@ -1123,6 +1223,20 @@
    ],
    "visto": "2026-11-27T08:13-03:00",
    "url_original": "https://diarioalfil.com.ar/amp/24242/massa-tantea-cordoba-y-presiona-por-el-apoyo-de-llaryora",
+   "revisada": true
+  },
+  {
+   "id": "2437b2818bfd",
+   "titulo": "Llaryora redobla su campaña en el interior frente a las crisis en Capital",
+   "medio": "Alfil",
+   "medio_url": "https://diarioalfil.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzh6Sy1lQ0p4c21MYVc0ZmRoVUJSREZDV0tCMVFySXhBZlhSZ0NSYThybmwxNGlTczl0am8tS0tIOVViS3VxMVU3eUhCalp0bVRTc1FxUm9MZUd6a1gtRTBkTXRUZk8ySUVrUTdoUC1WbjZfdzA4c2JQOU5hcHc2NGNiUkpWbFZ2UTJpdUF3NVJnOFAyd2ZzYjBJSzNTeEk0TWFmVThsR1NPWHhBTnI4YUowd2xjYjTSAa8BQVVfeXFMT0NVcG1VVWllXy1ieFdWeExEVmNUcjNJY0l2LTRUQkVtNWtVSjFXb0pEbWFlenJVaVpEdXc2Mldodk9CM3pOSjM3RDlEZTRDS1BmbVhKYWt4cF8tbU1EMmgwZmF0b2s3QWN5d0tiZzY5UVVNaVcwWDEzZFZRZnVGRkhFTnZFLVo4bnJJb0ExTTBvc25pVDFBRmVtZGt3czIxX0Jxa3oyVW1IN3dtOVJLYw?oc=5",
+   "fecha": "2026-11-27T01:55-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-27T19:16-03:00",
+   "url_original": "https://diarioalfil.com.ar/contenido/24240/llaryora-redobla-su-campana-en-el-interior-frente-a-las-crisis-en-capital",
    "revisada": true
   },
   {
@@ -10480,93 +10594,6 @@
    ],
    "visto": "2026-11-20T20:07-03:00",
    "url_original": "https://www.lanoticiaweb.com.ar/en-urbana-ba-giuliano-defendio-las-paso-y-lanzo-le-tienen-miedo-a-la-urna/",
-   "revisada": true
-  },
-  {
-   "id": "66053672bed9",
-   "titulo": "Milei mueve las PASO, Massa reúne al PJ y Kicillof enfrenta una interna decisiva",
-   "medio": "Primera Página",
-   "medio_url": "https://primerapagina.info",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTU1WT19VbFVRb0dTVjhnd3BnUHJrSkJYYVE3UzE1N1VpMEhYd1AyQmEtejFBRGxxam9CcjZpdk9jczV1RFl2YWdzRy1LMDlwQ2RobE5DMlpqU1p3TDhOYk0tRUs3eDJaMjdjTmU2TzRhVmxvN2wwWUFsaGlEUnpERE81M2VuOU1FS2g4NFdwTWZ4Mnk0Vk5USTkzSHVzWTNWeXg0Uk5DMll6dHh2T2ljeGtXbGozY2JGejAzbE4wZWhpS0VLMENPZGRpdzFfRFR1TzlQRTBOblJ5UdIB6AFBVV95cUxNV2RXektuaDBQeFJMbnY1QzE5ZldNMjA0WlIwUGNNcTZpcnpXOW80MVhtOW1wMVhxSXZxbERCZDRzRUpoVmFWSGQ2MlY0WGNTNW5DWUFhVjVXVUVna1Q2U1UzQm1lUHUzS2IxV3NKVDcydG0wVGgzRHYtdDBieUFOTTNIZW0waTRqUmFBUERzUlpLd21zNHhWbGlxdFZDNmRMTFNoMG5ySmJjSG96bjlLMUJuOTZPZkc1NEV1V1h6aU13TTdOSGw1Y25tOEJTQ1N2Y3NwZWNWUHE0dThaRXA1d2QzdlNsZzd3?oc=5",
-   "fecha": "2026-11-20T19:01-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T00:06-03:00",
-   "url_original": "https://primerapagina.info/politica/milei-mueve-las-paso--massa-reune-al-pj-y-kicillof-enfrenta-una-interna-decisiva_a6b009570cd25aee28856b4c4",
-   "revisada": true
-  },
-  {
-   "id": "5a302e183443",
-   "titulo": "Máximo Kirchner pidió revisar los beneficios del RIGI: objeciones en el peronismo sanjuanino y un moderado de Chimbas",
-   "medio": "Tiempo de San Juan",
-   "medio_url": "https://www.tiempodesanjuan.com",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYm9sTHF6Vm1COThKUUktNENnQU1hbEVNbU1ZYWJCR0Ztc0N5RWRScEtTZ18zUFNVcUp6MGt2R2pvNFozNF82aElJYUR2N29JUm1JWTZVYkJOMlE5azVIZEZONjNXN3JFWEozbENxRFhya0R1UlB6eTc0MFAxbzJ3ckdlbVdXd1hYVnVfOXdtc2l6cVZ4a0xzSUt4Qi1IdEs3SU0wOFZIck5Zamx2dW55WDMwdEotV19wMnNmSEpiWUtlc2tXRzJJV1MyZENSQ1VXSGRMS2hqaENObE1iN29GUXg3d2NjbEY1NTFGSVhkU1RWQWRWeVYycnplRnc?oc=5",
-   "fecha": "2026-11-20T18:58-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T20:07-03:00",
-   "url_original": "https://www.tiempodesanjuan.com/politica/maximo-kirchner-pidio-revisar-los-beneficios-del-rigi-objeciones-en-el-peronismo-sanjuanino-y-un-moderado-de-chimbas_1795211922",
-   "revisada": true
-  },
-  {
-   "id": "2d701ef7614c",
-   "titulo": "Natalia de la Sota: \"Hoy no hay diálogo con la Provincia; primero hace falta voluntad\"",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPekFpLWM4bFZtSkZIRUJyQjU0NGZRS19CYVVxbzF0ZUZlREhVQllPb0Z1dXpXYU5ZUjZFZDNRVU8tb1NMcFBBRURNMVAtVzBab3E2MVZmVDBNMXEtalV1LUxGN2p2MDg4OHN1RXJjSkJBcnF3ZEo4TmUzVld2MHFSalNpQVpBZUFLNTNnb1ZfenU1a1VwZlpIa0NXMDhGOWZJVzJuRXFzWFV3cnVERWNGeUVkVXQzLUVwQjJ5TjZEWUhmb2pE?oc=5",
-   "fecha": "2026-11-20T18:45-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T19:08-03:00",
-   "url_original": "https://www.perfil.com/cordoba/natalia-de-la-sota-hoy-no-hay-dialogo-con-la-provincia-primero-hace-falta-voluntad-aFXD44x4LHcL",
-   "revisada": true
-  },
-  {
-   "id": "7f26dc382791",
-   "titulo": "Tigre realizó una nueva entrega de kits lúdicos para jardines de infantes en Rincón de Milberg",
-   "medio": "Zona Norte Diario Online",
-   "medio_url": "https://www.zonanortediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHdFVGZiRG9uZkVlN1lrSHY2NDFwdzdoVDA2THBsam1NSUVHVlNQa25CR0xMdTh1clVTY3lpMjlxVGNRVnFlaW55WG9odDBoZEdPZEJGRTk4dk5qdE9wZ0FmMlVfdUV5UjN3VFpNWVphWEFUMVFBZTNsZWpUbTRhbjZtenlfM0U4TzFWRURGTHVlaXJzaHJtM25OSHJYdEtkLXJQZ0lzd2k4eWdTdDJzT0VpamQyaFpiTW9OcEU1YTdTWlMzRGxyamhqZjlkUV9NUmcwb3pKZWE?oc=5",
-   "fecha": "2026-11-20T18:32-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-20T19:09-03:00",
-   "url_original": "https://www.zonanortediario.com.ar/20/11/2026/tigre-realizo-una-nueva-entrega-de-kits-ludicos-para-jardines-de-infantes-en-rincon-de-milberg/",
-   "revisada": true
-  },
-  {
-   "id": "8b157db9c966",
-   "titulo": "Power Rankings Político: con las PASO por caer, Milei y Massa activan el modo full campaña",
-   "medio": "El Observador Argentina",
-   "medio_url": "https://www.elobservador.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXhYampERFpNVk1XZTA3dGpJM2NTZGhpMlhySjIyU3NMOEJsOUlWcFd2MGxNWktsQ0JjSjB2R3pzdmpETEZqQVJxbzRQaGlmNktSR0gxWTBSaXY0T3JQeHFhNDMxZ1ZxbExobk9yd1R6dXBVWEo0STllWWF6QldtWkZpMEZGY3g3elI2TG1EeG11aGZMNWZMb0lycDc0Z3M0OHpxZUdaclVMWV9SenJLQ21EVmZ3WmwzSUFrbmNMYkM5X3QzWVNPamdEQzZ3b19nTjkw0gHYAUFVX3lxTE15QUNyY1JuQ0FUem5jTXNwMUltQXBiRVNLVUZ2OU9TSEdybDlUcjhwQUJwcU9yUjBHNlNidWswZExOWGRIMWVqUWcwazRtM2J5Yy1jamlXRWRJaEFyNXhnUDNTbEl2SjlLaDV2QUtBblk2OFpqUDdCdFdOZXAtcXRhVUMwQ01HX1NIMDBHN200eEY3bzYwMDBnQnJLTWxMWU02RDJiX0Z6LWNIZkRxSXNhdW9VRmtWSi1xSFV1RTVGalo5QTE1X2xvLWUzQ1J5T0ptZkVYdjFhVA?oc=5",
-   "fecha": "2026-11-20T18:29-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T20:07-03:00",
-   "url_original": "https://www.elobservador.com/argentina/politica/power-rankings-politico-las-paso-caer-milei-y-massa-activan-el-modo-full-campana-n6064610",
-   "revisada": true
-  },
-  {
-   "id": "e76c66260835",
-   "titulo": "El balotaje, el peor escenario para Milei",
-   "medio": "Página|12",
-   "medio_url": "https://www.pagina12.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHZYRXBHMjh3MGliNDE0T0lqRlhiajFnTnJuYjQ2eHBxVHRrQXZITVZ6RTZpZGR3SGNFWTNYMjRHUjlURi1ncE1OdzFtUUk5dk9BREV2WExOWXRQVlo3bGxnamNNeFpSb3NkeVgza3ZlTEdveEFKMGNLQmVnOXlCeFAyQnFJTWs?oc=5",
-   "fecha": "2026-11-20T18:29-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T00:06-03:00",
-   "url_original": "https://www.pagina12.com.ar/2026/11/21/el-balotaje-el-peor-escenario-para-milei/",
    "revisada": true
   }
  ]
