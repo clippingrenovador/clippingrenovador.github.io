@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-26T21:16-03:00",
- "total": 751,
- "nuevas_ultima_corrida": 51,
+ "generado": "2026-11-26T22:48-03:00",
+ "total": 749,
+ "nuevas_ultima_corrida": 37,
  "errores": [],
  "notas": [
+  {
+   "id": "9251771498cd",
+   "titulo": "El Senado bonaerense cerró el período de sesiones ordinarias con iniciativas claves impulsadas por Fuerza Patria",
+   "medio": "Diariolaprimera",
+   "medio_url": "https://diariolaprimera.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEEzZy1BQTJEQzlXbmY1RWVCX2JMMDNlbFRKakxFMEVzWVR6c1NHYUZmRXFUZW82c2xxdEtUMUZyY0l4NldzUnpBeHUzUEFIZHZjNjVTOXREMWt0aEpUbmM2R3RfMFFQYVRCVFgzU3hEMjRob0xsUTM5cHUyb3lrdjdITzc1elZLdUxUMjFpeVhOR3hrQ1ctb2Y2ZllnX3BRaG80T1o4aVNYWUZUR3pIZXdFQUZCQ1BkLXNlaGNFWklTbk5GSVE?oc=5",
+   "fecha": "2026-11-26T21:29-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-26T22:45-03:00",
+   "url_original": "https://diariolaprimera.com.ar/contenido/11341/el-senado-bonaerense-cerro-el-periodo-de-sesiones-ordinarias-con-iniciativas-cla",
+   "revisada": true
+  },
   {
    "id": "b3d1dc671e45",
    "titulo": "Zamora logró aprobar la fiscal e impositiva con apoyo libertario en Tigre",
@@ -29,6 +43,20 @@
     "\"Sergio Massa\""
    ],
    "visto": "2026-11-26T21:14-03:00",
+   "url_original": "https://www.iprofesional.com/politica/470198-milei-dio-el-batacazo-en-el-congreso-y-ve-mas-cerca-la-reeleccion",
+   "revisada": true
+  },
+  {
+   "id": "0eb5c4d08f0b",
+   "titulo": "Milei festeja fin de riesgo Bullrich y prevé mercado más calmo y posible ruptura peronista",
+   "medio": "iProfesional",
+   "medio_url": "https://www.iprofesional.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWMxQlpFLUxHWkZ3VUtsMTAyc1dJdEtwckN1eWMzWWxfOUZCNnlvM2JQRENNVlRzV3hYWmU2RVcyYkJrUjJjb2dIYTJDQ1VlcnVEd1NManhOeEJkVXlNNVgzbXJXTVhEcEtVYkdVMG5kc05DT3RveE03dlVKQU5sc2NWWWpnaGp4Q1otNmI3YTJPTDZTQ1V5cVROS0Q4MGRvd1NLX3lTRHRiem4zSjVv?oc=5",
+   "fecha": "2026-11-26T21:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-26T22:45-03:00",
    "url_original": "https://www.iprofesional.com/politica/470198-milei-dio-el-batacazo-en-el-congreso-y-ve-mas-cerca-la-reeleccion",
    "revisada": true
   },
@@ -622,6 +650,21 @@
    "revisada": true
   },
   {
+   "id": "3a3423ff09ff",
+   "titulo": "Sergio Massa Llega A Córdoba Para Intervenir En Un Foro Sobre Inteligencia Artificial",
+   "medio": "Info Arenales",
+   "medio_url": "https://infoarenales.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRy12Z2N4aE5pbVJ3WFVnNXU5U1dYSlZyOGR5R2wzdmF2TTlBM3U1Umk0cHlVQW9oWDBuZXlLanFxNXI0TFlrMVhobUJBWGVIekd4al9iMFQ0YmtwS1ltZnlxdVpQUkJTS0g0YjRCS2ZKTFhkS0hQZXZvWks1M1BnUUE1UGxkblFvYnd6SS1yLUxZeVprUmk4QlZxTC1pUkJKVW1RdWJyZmp1bmxNa2o2TE8yZzh3MHVpX3IwSjFXMA?oc=5",
+   "fecha": "2026-11-26T16:48-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-26T22:45-03:00",
+   "url_original": "https://infoarenales.com/2026/11/26/sergio-massa-llega-a-cordoba-para-intervenir-en-un-foro-sobre-inteligencia-artificial/",
+   "revisada": true
+  },
+  {
    "id": "5ae2c6c95697",
    "titulo": "Sergio Massa desembarcó en Córdoba y participó de un foro sobre inteligencia artificial",
    "medio": "Ambito",
@@ -644,7 +687,8 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYTFFdUg5Mjh2NEVPSU9BZGxFbjk4Tml4bUZjNFJGdDFhVVFiMjUybVhwdmx4cHQ3Z1VaNTRobWwzTmpRcXlzdXRDVHFKTVQ2Rzc3SmxobHV4WTVWTVY0X0lrSkM4ZjVQV0I0cVg5TV9jZkxoS05xWFU5M2FhLWVtbXpmYkpUclQ3eG9Ea0xoSzh2NXJDbDU0ZUE1RmVpb3Yyd3hzUkt3RnpqQXQ2cjdIaUU4M2VFRTBiRE1LMTZKNXRNV01hcWFlbWEzOUg1bFROU2lBY05QN0ZFdw?oc=5",
    "fecha": "2026-11-26T16:33-03:00",
    "busquedas": [
-    "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-26T18:14-03:00",
    "url_original": "https://www.infoban.com.ar/26/11/2026/sergio-massa-planteo-en-cordoba-una-agenda-de-ia-al-servicio-de-la-produccion-el-empleo-y-el-desarrollo/",
@@ -753,6 +797,20 @@
    ],
    "visto": "2026-11-26T21:14-03:00",
    "url_original": "https://www.lanoticia1.com/noticia/legislatura-bonaerense-diputados-dio-media-sancion-al-blindaje-de-empresas-publicas-provinciales",
+   "revisada": true
+  },
+  {
+   "id": "f2ad3f04a162",
+   "titulo": "Ley de prevención de la ludopatía: \"Se podrá actuar desde el estado, la sociedad civil y las familias\", destacó la exdiputada Micaela Morán",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzNWLXduQkFKbUJNRndiMUQ2UmNFWmx0dkN4cFZYWWhsSUtnNFRreDJYc3FHaVp6c3JBSTRYY0ExSjQ5d0lCU0I3NmRiYnhzUGhtc3N6UHh6UFhna3NyT3lzNHVJQ2pjc1JoWERWSW1vUWtFQ1ZNeDVVanFBNV80NWh3QmxBbTM0NEZQQ3Q5eVM0X0IwQVo3ZkJoY1lyTThDd0Q5MWF6ZU5ickhPNDdKVlUtNjRmX3p6SUJwRnE0cHoyTjdFSHR2YVlWOWNmVjFHTXJfWTYxa1FJSzUzajd0djJYWU80czFfbE5JU2hWdFg2a3AzRV9rcnNwdUl3QQ?oc=5",
+   "fecha": "2026-11-26T16:00-03:00",
+   "busquedas": [
+    "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-26T22:46-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/ley-de-prevencion-de-la-ludopatia-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias-destaco-la-exdiputada-micaela-moran",
    "revisada": true
   },
   {
@@ -1317,7 +1375,8 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWJidS14NEh0SjVaLXc3NkpwNjMxeUZEanAzUklackpUR1F1eVZvX01oalYxcWEwOUJUMlVlWGppRkZRYkQwZ2RDb2swZDlBN2VvZjRMSjJBcU5OTTlmMnFkaDk0MHI4Q1g3OTd2cTFWMVpyWU44dEY4bzVaU0tRWjJUdmtQb0h1eExDZkc1b1ZHeXF1MlJMOE8xX0wxWDdjRmVEZ0htc1gxRzRBcEJUWFhKa3V3WWlLSEtFNXN2S1NvVEXSAbsBQVVfeXFMTk9MS0xaMlhLRDZMOXVLN09XR0hETWMzSHVOOTBHSEFiZk1RTVozWmFJMEowR3JDTmNmOEF0VlpWQmlmWXAyNzhhZFUyeDBHY0JES0ZILWd3UVJHNEkzX0RiUWVjWDFVMjdrdHlFU2IxeG5DOTRlaG5DQmFkOWlPREo1TEpXWEhRVVVpVlprZDBRaThUZ0VLaDIxbGNNcFQyM25KTHE5bjRtS3l2dS1zRjhmcGw2QlBicWFQZw?oc=5",
    "fecha": "2026-11-26T07:32-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-26T14:25-03:00",
    "url_original": "https://grupolaprovincia.com/contenido/603736/el-futuro-no-esta-en-wall-street-kicillof-redobla-la-ofensiva-contra-milei-y-se",
@@ -10789,91 +10848,6 @@
     "\"Frente Renovador\""
    ],
    "visto": "2026-11-20T00:54-03:00",
-   "revisada": true
-  },
-  {
-   "id": "230e2e477d38",
-   "titulo": "Urtubey y Massa reaparecen en el peronismo con viejas recetas rumbo a 2027",
-   "medio": "Elintra.com.ar",
-   "medio_url": "https://elintra.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU25hdVV6dzhmVlNNcWVIWjhGRmN0RmdTTHR1ZWpzbkdOZXJ2aEduUnFaRmdBYmxhWTI1M3FzbjBaaFRwd0JmUzR3Rjl5YTNycHpLM3pITTlOREQxWEl4XzBLZWQzNWxNX3QwcEwzdVZOZS1WUlRxb2Rmbm9KLVdWdjFCZmNDR0h4aUwyNXU5MU9RV0JraWZmeDgwbw?oc=5",
-   "fecha": "2026-11-19T22:48-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "a5b79f219a10",
-   "titulo": "El Congreso define ocho lugares para el Consejo de la Magistratura en medio de las peleas en LLA y el PJ",
-   "medio": "TN",
-   "medio_url": "https://tn.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORERib0JrNkV3dkMtZUQ5SE5lN0RvTlY5VHh4anVZSVVZMjZ3X3NGdUhEOU04RWZ0c3NnUzM3LXBWandrUm9GYk9SQkJnbEFGMk1JQ1VsdzdIVWd3X0ozdzVXM3IwQzR3MkxsQTA0OUZabGNzaEtwSExwRURnd3NaTVYwSDRNai11VTJZNWJLeFlHNXp4ZnF1ZExfS0NQQ2RkaEc1RURDbGZLUlVZTmZFTXprNE9ZN0M2bU1HNjhJcVY2VzFhMklZUm1icHEzVVZzMFFvcklha9IB6wFBVV95cUxPeC04eV9lN2xncmhNQ3FjUm1kLU9VdDdhWFhUNGU1VWdoNGVvUmRmNUlVYzZhbXd4ZzAxRnNQMEtaZnVfNi1Hd2VwdDJOZlRxM1FoaTJRaE9VdFYzYkxKblpjUjhOYlluSDZtTjhPNmhnZjA0c3BIUW92WGdVbWtTSEZCMXNaMURhT1V4cUVULXRRdDJKTTlWcmhiWXkwei05SVFwUlBRdXczQzFVclZva19jYWpEVHRLbmNMVkpYQlpjTk5kZVYwSEZkR3ppX1MtZ0JUb0xmQVU2YzJkR1FfWmx3TEUwbWJDdnZv?oc=5",
-   "fecha": "2026-11-19T22:16-03:00",
-   "busquedas": [
-    "\"Guillermo Michel\"",
-    "\"Sergio Massa\"",
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "0851b0e47330",
-   "titulo": "Juan Andreotti visitó el inicio de la obra de la Universidad Nacional del Delta",
-   "medio": "Informe Norte",
-   "medio_url": "https://informenorte.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakpKaGVSRmsza1pSSkhMNmNTN29OWmhxUmpzQnJGeF80Nk1mWnRPYW1EQ0VVcXUtbERQSjRNTlljekhraWZWZFFReGdnZ0ZOdTZ1NTZ5elYxV29FczRDamlSSWNtbjBXSGlpNWdMeDRXTW9maEdnUEJ2d1J3ZXhhY3BHX19RbzR6N2V5WnRVSS1XZkx6LTRHMlo3TXMtQlM4V19rc252T3JKRjND?oc=5",
-   "fecha": "2026-11-19T22:03-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\"",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Malena Galmarini\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "revisada": true
-  },
-  {
-   "id": "a19d1c97ee2a",
-   "titulo": "Encuesta exclusiva: los números de la emocionalidad del voto y la imagen de los dirigentes rumbo a 2027",
-   "medio": "Minutouno",
-   "medio_url": "https://www.minutouno.com",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6c9IB1AFBVV95cUxPZWpwQUdCbVRJLUI1U0JrenFId3docmJVZlJHamFYOTRJQ0ExNVVYQ0w0SzlnV2tJM0V3MU5DZVRaUmFQNEp3RUl0ejJMaklVRHZDWGh6QVZpRUZsTW56Qng1MVFBN2hXaEZhLVZQY1JZcHFaS01LeUpPNGhUajhQdERnUXJzU01JczBDMkdhMjNXVXdqY1FCNUpsVzVfdFVobHFUcVpFRVRFUnNlOWZTbEQxaHRpNFA3QWRZRTNQWWFtRVMtX3k3aDJaYmxxdHlkN2d6cw?oc=5",
-   "fecha": "2026-11-19T21:45-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T05:33-03:00",
-   "url_original": "https://www.minutouno.com/politica/encuesta-exclusiva-los-numeros-la-emocionalidad-del-voto-y-la-imagen-los-dirigentes-rumbo-2027-n6347388",
-   "revisada": true
-  },
-  {
-   "id": "58d4b5489886",
-   "titulo": "Kicillof manda 250 pliegos judiciales al Senado y en marzo podrían ir los de la Suprema Corte",
-   "medio": "La Política Online",
-   "medio_url": "https://www.lapoliticaonline.com",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzRidURoRkR5eGxTTVh0MGNOSEVsR1doMl81ZWY0eEZMRWJQdEoyNDJMTWRVNmZfUVRzRmtLRE1aMEdWZ1R2M0FGbGplTU5QYS1BVlIyXzR3TjlJMklNYmZwTjJPdjk2QzExMGNReVZqWlVJUEJNRjZZVDNJVEhpNE45SXZnN2h3dXA2ZXlVUTNtbnVjUGdkbjk1b21UVnplQ1k2eV8xTFhfclo2UXkxVE1VWlZhZ3p2aTcwYmlPT1RlcG1EYjZSckZjaENYS1A0YWhIdtIB1AFBVV95cUxOVzRidURoRkR5eGxTTVh0MGNOSEVsR1doMl81ZWY0eEZMRWJQdEoyNDJMTWRVNmZfUVRzRmtLRE1aMEdWZ1R2M0FGbGplTU5QYS1BVlIyXzR3TjlJMklNYmZwTjJPdjk2QzExMGNReVZqWlVJUEJNRjZZVDNJVEhpNE45SXZnN2h3dXA2ZXlVUTNtbnVjUGdkbjk1b21UVnplQ1k2eV8xTFhfclo2UXkxVE1VWlZhZ3p2aTcwYmlPT1RlcG1EYjZSckZjaENYS1A0YWhIdg?oc=5",
-   "fecha": "2026-11-19T21:38-03:00",
-   "busquedas": [
-    "massismo"
-   ],
-   "visto": "2026-11-20T01:52-03:00",
-   "url_original": "https://www.lapoliticaonline.com/amp/362505-kicillof-manda-250-pliegos-judiciales-al-senado-y-en-marzo-podrian-ir-los-de-la-suprema-corte/",
-   "revisada": true
-  },
-  {
-   "id": "80740ad6b0cb",
-   "titulo": "Milei y Macri, el triunfo de las debilidades",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGVyS3BOR0ltcDk3eGdQMUdNOG5sZ0R5QldlOE1rRFk2T3FFNzJ2NVQ0TnZ5U001a2VaTmdQSG1rcFpkNEM4ZmpiV1VQYW90TW93Q295MXoyaVA2OU1Sb3NNd1lIbFMwdUFaT0hDTTFxQkV2UTN4MHJjcEYtSXR2bGxjNkRFQ2FzYWFyNV8tcktDSkY5U0M1VQ?oc=5",
-   "fecha": "2026-11-19T21:23-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T00:50-03:00",
-   "url_original": "https://www.lanacion.com.ar/politica/milei-y-macri-el-triunfo-de-las-debilidades-nid19112026/",
    "revisada": true
   }
  ]
