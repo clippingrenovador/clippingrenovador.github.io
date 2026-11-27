@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-27T00:23-03:00",
- "total": 109,
+ "generado": "2026-11-27T01:33-03:00",
+ "total": 102,
  "tuits": [
   {
    "id": "2125998596814479505",
@@ -21,6 +21,11 @@
    "visto": "2026-11-26T20:18-03:00",
    "url": "https://twitter.com/RubenEslaiman/status/2126004798709199260",
    "citado_en": [
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
+     "nota_id": "bb895d01949e"
+    },
     {
      "medio": "Codigo Baires",
      "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
@@ -112,6 +117,11 @@
      "medio": "Letra P",
      "titulo": "Agustín Rossi abraza a Monteverde y confía en que el PJ no le pondrá rivales para la intendencia de Rosario",
      "nota_id": "13cbab48d85b"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Agustín Rossi abraza a Monteverde y confía en que el PJ no le pondrá rivales para la intendencia de Rosario",
+     "nota_id": "13cbab48d85b"
     }
    ]
   },
@@ -134,6 +144,11 @@
    "visto": "2026-11-26T16:26-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2125964714735743235",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
+     "nota_id": "98dd23ebcd5e"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Sesión caliente en Diputados: aprobaron la regulación de las apuestas online entre cruces y acusaciones",
@@ -1980,112 +1995,6 @@
      "medio": "El Economista - Últimas noticias económicas y financieras",
      "titulo": "MASSA REUNIÓ A SU TROPA PARA 2027: el faltazo de Kicillof y la burla de Caputo que sacudió al PJ",
      "nota_id": "fc7c06a5aaa7"
-    }
-   ]
-  },
-  {
-   "id": "2123392418686828999",
-   "usuario": "MalenaGalmarini",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/MalenaGalmarini/status/2123392418686828999",
-   "citado_en": [
-    {
-     "medio": "NorteOnline",
-     "titulo": "Galmarini cruzó a Caputo por el acto de Massa: “No te alteres que te sube el riesgo país”",
-     "nota_id": "d02c92e0b112"
-    },
-    {
-     "medio": "Provincia Noticias",
-     "titulo": "Malena Galmarini cruzó a Caputo tras burlarse del acto peronista: “El miedo no es zonzo”",
-     "nota_id": "db7b39a19726"
-    },
-    {
-     "medio": "Diputados Bonaerenses",
-     "titulo": "Galmarini cruzó a Caputo por su reacción a la cumbre del PJ: “El miedo no es zonzo”",
-     "nota_id": "8599456433b1"
-    }
-   ]
-  },
-  {
-   "id": "2122870221241217513",
-   "usuario": "sebalacunza",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/sebalacunza/status/2122870221241217513",
-   "citado_en": [
-    {
-     "medio": "NOVA Bonaerense",
-     "titulo": "Entró la balubi: Kicillof intenta disimular la herida que le causó el acto del massismo en territorio bonaerense",
-     "nota_id": "47607e29b920"
-    }
-   ]
-  },
-  {
-   "id": "2122841558051700967",
-   "usuario": "NoCiruNo",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/NoCiruNo/status/2122841558051700967",
-   "citado_en": [
-    {
-     "medio": "Noticias Urbanas",
-     "titulo": "Los límites políticos de una foto, y por qué ello no garantiza una mayoría en 2027",
-     "nota_id": "a7bc7ab7b90a"
-    }
-   ]
-  },
-  {
-   "id": "2122861243283239200",
-   "usuario": "FedericoAchaval",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/FedericoAchaval/status/2122861243283239200",
-   "citado_en": [
-    {
-     "medio": "Cronos noticias",
-     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
-     "nota_id": "364ba983e672"
-    },
-    {
-     "medio": "Noticias Urbanas",
-     "titulo": "San Fernando fue escenario de una fuerte señal de unidad del peronismo",
-     "nota_id": "60042e585eb4"
-    }
-   ]
-  },
-  {
-   "id": "2122877894007333282",
-   "usuario": "fotermin",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/fotermin/status/2122877894007333282",
-   "citado_en": [
-    {
-     "medio": "Cronos noticias",
-     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
-     "nota_id": "364ba983e672"
-    }
-   ]
-  },
-  {
-   "id": "2122860757658591600",
-   "usuario": "marielfmoreno1",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/marielfmoreno1/status/2122860757658591600",
-   "citado_en": [
-    {
-     "medio": "Cronos noticias",
-     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
-     "nota_id": "364ba983e672"
-    }
-   ]
-  },
-  {
-   "id": "2122855707460730904",
-   "usuario": "nico_mantegazza",
-   "visto": "2026-11-20T01:01-03:00",
-   "url": "https://twitter.com/nico_mantegazza/status/2122855707460730904",
-   "citado_en": [
-    {
-     "medio": "Cronos noticias",
-     "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
-     "nota_id": "364ba983e672"
     }
    ]
   }
