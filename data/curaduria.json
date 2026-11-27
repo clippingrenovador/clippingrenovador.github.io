@@ -1,202 +1,196 @@
 {
- "hora": "14",
+ "hora": "22",
  "claves": [
   {
-   "texto": "El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951.",
+   "texto": "Sergio Massa participó en Córdoba del cierre del foro «IA y políticas públicas», organizado por la FAMAF de la Universidad Nacional de Córdoba, donde propuso una agenda de inteligencia artificial orientada a la producción y el empleo.",
    "fuentes": [
-    "470e60bea70a"
+    "4cc1f381f26d",
+    "5ae2c6c95697",
+    "322a46e25c98"
    ]
   },
   {
-   "texto": "Con el respaldo de La Libertad Avanza, la gestión de Julio Zamora aprobó el aumento de tasas municipales en Tigre, que el bloque del Frente Renovador rechazó. Malena Galmarini llamó a recuperar el municipio.",
+   "texto": "El Senado dio media sanción a la reforma electoral que suspende las PASO. Sergio Massa sostuvo que el Gobierno se apresura, porque resta el tratamiento en Diputados.",
    "fuentes": [
-    "c3fe16a57811",
-    "97cd6c71f541",
-    "0adc5ed82b40"
+    "523fdbcb6555",
+    "49458844cc2c",
+    "9e6cdc0731ec"
    ]
   },
   {
-   "texto": "La diputada nacional Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas.",
+   "texto": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027.",
    "fuentes": [
-    "3bebba8d5d8d"
+    "8d1967c5c22c",
+    "52a8fbcc64ac"
    ]
   },
   {
-   "texto": "El intendente de Tres Arroyos, Pablo Garate, entregó 120 viviendas junto al gobernador Axel Kicillof y señaló que las definiciones para 2027 no se tomarán este año.",
+   "texto": "La diputada bonaerense Micaela Morán destacó el avance de la ley de prevención de la ludopatía y regulación de las apuestas online en la Legislatura provincial.",
    "fuentes": [
-    "3b20f253c971",
-    "e4446236bb0c"
+    "a25e326b8662",
+    "4381b5391dae"
    ]
   }
  ],
- "retirar": [],
+ "retirar": [
+  "https://x.com/DiegoGiuliano/status/2125320067990556894"
+ ],
  "temas": [
   {
-   "id": "quintela-juventud-fr",
-   "titulo": "Ricardo Quintela se reunió con la Juventud del Frente Renovador en CABA",
-   "resumen": "El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951. Felipe Romero, de Jóvenes FR CABA, lo recibió y lo calificó de honor en sus redes. Eduardo German informó que Quintela sostuvo que \"también podemos jugar\" en 2027 y que su gira suma fotos con todo el peronismo y genera malestar en el PJ.",
+   "id": "massa-ia-cordoba",
+   "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Perfil, reclamó ciencia y pensamiento autónomo para que la IA también sea argentina; NorteOnline y Data Diario informan que anticipó que incorporará la herramienta a la plataforma de su espacio. Letra P lo leyó como una disputa por el modelo productivo.",
    "tono": "positivo",
    "dirigentes": [
-    "Felipe Romero"
+    "Sergio Massa"
    ],
    "principales": [
-    "470e60bea70a",
-    "d54fb4d132f5"
+    "5ae2c6c95697",
+    "7d58d8615059",
+    "eca96be88289"
    ],
    "otras": [
-    "58583cbb0765"
+    "12c656631b2c",
+    "4cc1f381f26d",
+    "a88f0e4c0172",
+    "322a46e25c98",
+    "6d27a13e13ba",
+    "f3f8dddd92be",
+    "ca6fc55df48a",
+    "7076f73aeb9d",
+    "396e7b03a0f1",
+    "f40733f90a14",
+    "6889a32e2817",
+    "07bdf0e2fee9",
+    "ff1acc897ac3",
+    "8caf85066692",
+    "673a136157e6",
+    "067c108f53e5",
+    "414fdba55f91",
+    "e7e41659ba7e"
    ]
   },
   {
-   "id": "tigre-fiscal-impositiva",
-   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
-   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online y Cronos destacaron que la gestión de Julio Zamora consiguió el aumento de tasas con el respaldo de los libertarios. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "id": "peronismo-sin-paso",
+   "titulo": "Media sanción a la suspensión de las PASO: Massa dice que el Gobierno se apura",
+   "resumen": "El Senado aprobó y giró a Diputados la reforma electoral que suspende las PASO del año próximo; la diaria señala que la medida complica al peronismo. Sergio Massa afirmó a Cadena 3 que ve al Gobierno «apresurando resultados» y, según La Política Online, advirtió que todavía falta el tratamiento en Diputados.",
    "tono": "mixto",
    "dirigentes": [
-    "Sebastián Rovira"
+    "Sergio Massa"
    ],
    "principales": [
-    "af3841298c61",
-    "ef683e736be4",
-    "5040c4b522e8"
+    "49458844cc2c",
+    "9e6cdc0731ec",
+    "523fdbcb6555"
    ],
    "otras": [
-    "a85ca86ce20e",
-    "716fc53d7558",
-    "99db044f2704",
-    "f91d58fcb7b7",
-    "24402ea4fc2e",
-    "7643c5fbd10c",
-    "90ad293860ce",
-    "1a8065d55f34",
-    "a05b140c4866",
-    "c3fe16a57811"
+    "50e3a076ad18",
+    "4ddf58d44dd6",
+    "29c2b894af5e"
    ]
   },
   {
-   "id": "malena-galmarini-tigre",
-   "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
-   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a recuperar el municipio de Tigre, según La Noticia Web, El Conurbano y NorteOnline. El Comercio Online señala que planteó recuperar la calidad de gestión y cambiar las prioridades del distrito; este jueves Diario La Primera volvió sobre sus declaraciones.",
+   "id": "giuliano-presupuesto-santa-fe",
+   "titulo": "Giuliano reclamó fondos para Santa Fe en el Presupuesto 2027",
+   "resumen": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027 y reclamó defender los recursos de la provincia, según La Capital. En Rosario3 sostuvo que «a Santa Fe se la defiende con hechos», y Sin Mordaza informa que cuestionó al gobernador Maximiliano Pullaro por darle quórum al oficialismo.",
    "tono": "positivo",
    "dirigentes": [
-    "Malena Galmarini"
+    "Diego Giuliano"
    ],
    "principales": [
-    "d812148f254b",
-    "a7dedc5613f8",
-    "49d4e1b4be8d"
+    "8d1967c5c22c",
+    "52a8fbcc64ac",
+    "eda5780ca6e4"
+   ],
+   "otras": []
+  },
+  {
+   "id": "ludopatia-infantil",
+   "titulo": "Avanza en la Legislatura bonaerense la ley de prevención de la ludopatía",
+   "resumen": "La diputada bonaerense Micaela Morán destacó el avance de su proyecto de prevención de la ludopatía y regulación de las apuestas online, que según dijo permitirá actuar desde el Estado, la sociedad civil y las familias. Durante el debate, el diputado Rubén Eslaiman protagonizó un cruce con el legislador del PRO Rovello, según Código Baires y La Noticia 1.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Micaela Morán",
+    "Rubén Eslaiman"
+   ],
+   "principales": [
+    "a25e326b8662",
+    "4381b5391dae",
+    "bd8af13853f3"
    ],
    "otras": [
-    "5382493fe3f4",
-    "134ae93e196d",
-    "ab9357856325",
-    "0adc5ed82b40"
+    "3f7df9c9eab2",
+    "d84c9632a1a0",
+    "3ce9c78f3cd0"
    ]
   },
   {
-   "id": "moreau-discapacidad",
-   "titulo": "Cecilia Moreau reclamó partidas específicas para discapacidad y salud",
-   "resumen": "La diputada nacional Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas. En sus redes sostuvo que la ley de Discapacidad ya fue sancionada y que ahora hacen falta los recursos para garantizarla.",
-   "tono": "positivo",
+   "id": "moreau-endeudamiento-familiar",
+   "titulo": "Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+   "resumen": "La diputada nacional Cecilia Moreau criticó en la Cámara de Diputados el rechazo a incorporar en la sesión el proyecto sobre endeudamiento familiar, según El Intransigente.",
+   "tono": "neutro",
    "dirigentes": [
     "Cecilia Moreau"
    ],
    "principales": [
-    "3bebba8d5d8d"
+    "2c224417cd7b"
    ],
    "otras": []
   },
   {
-   "id": "massa-unidad-2027",
-   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
-   "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "d64309f75c82",
-    "0886346b6fa6",
-    "95ed5bcfdaa6"
-   ],
-   "otras": [
-    "35556f40a6d6",
-    "d41263f5e6e7",
-    "2150de7d46ea",
-    "5dbd9e3abf15",
-    "4ada4d1ba9b0",
-    "b9de01735efa",
-    "c416da7a4152"
-   ]
-  },
-  {
-   "id": "encuesta-balotaje-kicillof-massa",
-   "titulo": "Encuesta: Kicillof y Massa, por delante de Milei en un eventual balotaje",
-   "resumen": "Perfil y Clarín informan sobre una encuesta que midió a Javier Milei frente a Axel Kicillof y a Sergio Massa en una segunda vuelta; según Grupo La Provincia, Milei quedó detrás de ambos. Clarín señala que el sondeo llegó a Cristina Kirchner y sacudió la interna del PJ. Por la tarde, ANDigital, Hoy Rojas y Cholila Online replicaron los resultados.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "d8b319c8e1b4",
-    "7d4585eb2fe8",
-    "858a70771fd1"
-   ],
-   "otras": [
-    "380acd38682a",
-    "37c0815522d3",
-    "3c947535cade",
-    "e8ee1649e448",
-    "51e91d4a9c74",
-    "8107e6433289",
-    "22c49f915a86",
-    "582b3efc925b",
-    "11e9b10e6f95",
-    "6141f9c85903",
-    "09e5688f54d0"
-   ]
-  },
-  {
-   "id": "katia-blanc-presupuesto",
-   "titulo": "Katia Blanc pidió asistencia financiera a municipios en el Presupuesto 2027",
-   "resumen": "La diputada provincial Katia Blanc reclamó incluir asistencia financiera para los municipios en el Presupuesto 2027, según Radio Natagalá. En TN24 cuestionó la emisión de letras por 300.000 que se pide en el proyecto, y en Chaco Día por Día afirmó que debatir el presupuesto es defender el futuro de la provincia.",
+   "id": "san-fernando-fate-litio",
+   "titulo": "Planta de baterías de litio en el predio de Fate: sin permisos de la Provincia ni de San Fernando",
+   "resumen": "InfoBAN informa que el proyecto de baterías de litio en el predio de Fate no cuenta con los permisos de la Provincia ni del municipio de San Fernando. Según Que Pasa Web, Aluar busca instalar la planta para estabilizar el servicio de Edenor.",
    "tono": "neutro",
-   "dirigentes": [
-    "Katia Blanc"
-   ],
+   "dirigentes": [],
    "principales": [
-    "d8f2b59c2ee1",
-    "f363915a7f36",
-    "ebeeccffd59d"
+    "e159e45d25ad",
+    "b1bd0cf8448e"
    ],
    "otras": []
-  },
-  {
-   "id": "intendentes-fr-gestion",
-   "titulo": "Gestión de intendentes del FR: viviendas en Tres Arroyos y obras en Chacabuco",
-   "resumen": "El gobernador Axel Kicillof y el intendente Pablo Garate entregaron 120 viviendas en Tres Arroyos, según Grupo La Provincia y Cronos. Tras el acto, Garate dijo a LU24 que las definiciones para 2027 no son este año. Darío Golía inauguró 42 luminarias LED en Cucha Cucha y destacó las obras en las localidades de Chacabuco, según Cuarto Político.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Pablo Garate",
-    "Darío Golía"
-   ],
-   "principales": [
-    "3b20f253c971",
-    "e4446236bb0c",
-    "80df563ccf9d"
-   ],
-   "otras": [
-    "74e1ff22add9",
-    "2b651455030e"
-   ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/marinadorotea/status/2125714337444876600",
-   "autor": "@marinadorotea",
-   "nota": "Pide frenar el proyecto de Losada en el Día de la Eliminación de la Violencia contra las Mujeres."
+   "url": "https://x.com/FrenteRenovador/status/2126105054730231878",
+   "autor": "@FrenteRenovador",
+   "nota": "Massa en el foro de IA de la FAMAF (UNC)."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126104990582534166",
+   "autor": "@DiegoGiuliano",
+   "nota": "Fondos para Santa Fe en el Presupuesto 2027."
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126006878962360445",
+   "autor": "@ceciliamoreauok",
+   "nota": "Proyecto de endeudamiento familiar."
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2126068681121636813",
+   "autor": "@RubenEslaiman",
+   "nota": "Proyectos aprobados en Diputados bonaerense."
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126021113033736565",
+   "autor": "@ceciliamoreauok",
+   "nota": "Votación sobre Atrofia Muscular Espinal en Diputados."
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2126004798709199260",
+   "autor": "@RubenEslaiman",
+   "nota": "Proyecto aprobado en la Cámara de Diputados bonaerense."
   }
  ],
- "entrevistas": []
+ "entrevistas": [
+  {
+   "video_id": "JxqoyF4ZGYg"
+  },
+  {
+   "video_id": "OBD695QwnYw"
+  },
+  {
+   "video_id": "L9dBSGtbhqM"
+  }
+ ]
 }

@@ -1,58 +1,393 @@
 {
- "id": "2026-11-26-14",
- "generado": "2026-11-26T14:10-03:00",
- "hora": "14",
+ "id": "2026-11-26-22",
+ "generado": "2026-11-26T21:34-03:00",
+ "hora": "22",
  "claves": [
   {
-   "texto": "El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951.",
+   "texto": "Sergio Massa participó en Córdoba del cierre del foro «IA y políticas públicas», organizado por la FAMAF de la Universidad Nacional de Córdoba, donde propuso una agenda de inteligencia artificial orientada a la producción y el empleo.",
    "fuentes": [
     {
-     "medio": "Fenix951",
-     "url": "https://fenix951.com.ar/noticia.php?id=361751"
+     "medio": "La Nueva Mañana",
+     "url": "https://lmdiario.com.ar/contenido/534646/sergio-massa-paso-por-cordoba-participo-del-cierre-del-foro-ia-y-politicas-publi"
+    },
+    {
+     "medio": "Ambito",
+     "url": "https://www.ambito.com/ambito-nacional/sergio-massa-desembarco-cordoba-y-participo-un-foro-inteligencia-artificial-n6349783"
+    },
+    {
+     "medio": "MinutoUno",
+     "url": "https://www.minutouno.com/politica/sergio-massa-propuso-una-agenda-inteligencia-artificial-enfocada-el-empleo-y-la-produccion-n6349781"
     }
    ]
   },
   {
-   "texto": "Con el respaldo de La Libertad Avanza, la gestión de Julio Zamora aprobó el aumento de tasas municipales en Tigre, que el bloque del Frente Renovador rechazó. Malena Galmarini llamó a recuperar el municipio.",
+   "texto": "El Senado dio media sanción a la reforma electoral que suspende las PASO. Sergio Massa sostuvo que el Gobierno se apresura, porque resta el tratamiento en Diputados.",
    "fuentes": [
     {
-     "medio": "Cronos noticias",
-     "url": "https://infocronos.com.ar/nota/59059/con-respaldo-de-la-libertad-avanza-zamora-consiguio-aprobar-el-aumento-de-tasas-municipales-en-tigre/"
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion"
     },
     {
      "medio": "La Política Online",
-     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/"
+     "url": "https://www.lapoliticaonline.com/politica/massa-el-gobierno-se-apura-si-celebra-paso-en-el-senado-falta-diputados/"
     },
     {
-     "medio": "Diariolaprimera",
-     "url": "https://diariolaprimera.com.ar/contenido/11329/galmarini-contra-zamora-hay-que-recuperar-el-municipio"
+     "medio": "Cadena 3 Argentina",
+     "url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983"
     }
    ]
   },
   {
-   "texto": "La diputada nacional Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas.",
+   "texto": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027.",
    "fuentes": [
     {
-     "medio": "Infobrisas",
-     "url": "https://www.infobrisas.com/noticias/2026/11/26/116097-moreau-exige-partidas-especificas-para-discapacidad-y-salud"
+     "medio": "La Capital",
+     "url": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html"
+    },
+    {
+     "medio": "Rosario3",
+     "url": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html"
     }
    ]
   },
   {
-   "texto": "El intendente de Tres Arroyos, Pablo Garate, entregó 120 viviendas junto al gobernador Axel Kicillof y señaló que las definiciones para 2027 no se tomarán este año.",
+   "texto": "La diputada bonaerense Micaela Morán destacó el avance de la ley de prevención de la ludopatía y regulación de las apuestas online en la Legislatura provincial.",
    "fuentes": [
     {
-     "medio": "Grupo La Provincia",
-     "url": "https://grupolaprovincia.com/amp/603742/kicillof-y-garate-entregaron-120-viviendas-en-tres-arroyos"
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/26/11/2026/micaela-moran-destaco-el-avance-de-la-ley-de-prevencion-de-la-ludopatia-y-regulacion-de-las-apuestas-online/"
     },
     {
-     "medio": "LU24 – Radio Tres Arroyos",
-     "url": "https://www.lu24.com.ar/locales/audio-pablo-garate-tras-la-entrega-de-las-viviendas-las-definiciones-para-2027-n"
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/26/11/2026/micaela-moran-sobre-su-proyecto-de-ley-para-la-prevencion-de-la-ludopatia-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/"
     }
    ]
   }
  ],
  "temas": [
+  {
+   "id": "massa-ia-cordoba",
+   "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Perfil, reclamó ciencia y pensamiento autónomo para que la IA también sea argentina; NorteOnline y Data Diario informan que anticipó que incorporará la herramienta a la plataforma de su espacio. Letra P lo leyó como una disputa por el modelo productivo.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Ambito",
+     "titulo": "Sergio Massa desembarcó en Córdoba y participó de un foro sobre inteligencia artificial",
+     "url": "https://www.ambito.com/ambito-nacional/sergio-massa-desembarco-cordoba-y-participo-un-foro-inteligencia-artificial-n6349783",
+     "fecha": "2026-11-26T16:40-03:00",
+     "dominio": "ambito.com"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Massa en Córdoba: “Necesitamos ciencia y pensamiento autónomo para que también la IA sea argentina”",
+     "url": "https://www.perfil.com/politica/massa-en-cordoba-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina-aoW3o4d2wz8j",
+     "fecha": "2026-11-26T19:39-03:00",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Sergio Massa llevó a Córdoba su agenda de IA y planteó una disputa por el modelo productivo",
+     "url": "https://www.letrap.com.ar/letrae/sergio-massa-llevo-cordoba-su-agenda-ia-y-planteo-una-disputa-el-modelo-productivo-n5428538",
+     "fecha": "2026-11-26T16:49-03:00",
+     "dominio": "letrap.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "La Voz del Interior",
+     "url": "https://www.lavoz.com.ar/politica/massa-cordoba-participa-actividad-ia-organizada-famaf_0_0zye6WzqAw.html",
+     "dominio": "lavoz.com.ar"
+    },
+    {
+     "medio": "La Nueva Mañana",
+     "url": "https://lmdiario.com.ar/contenido/534646/sergio-massa-paso-por-cordoba-participo-del-cierre-del-foro-ia-y-politicas-publi",
+     "dominio": "lmdiario.com.ar"
+    },
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/sergio-massa-planteo-cordoba-agenda-inteligencia-artificial-servicio-produccion-empleo-desarrollo-20261126161932",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "MinutoUno",
+     "url": "https://www.minutouno.com/politica/sergio-massa-propuso-una-agenda-inteligencia-artificial-enfocada-el-empleo-y-la-produccion-n6349781",
+     "dominio": "minutouno.com"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/26/11/2026/sergio-massa-planteo-en-cordoba-una-agenda-de-ia-al-servicio-de-la-produccion-el-empleo-y-el-desarrollo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/cordoba-sergio-massa-inteligencia-artificial-plataforma/",
+     "dominio": "norteonline.com.ar"
+    },
+    {
+     "medio": "Data Diario",
+     "url": "https://www.datadiario.com/politica/en-cordoba-sergio-massa-participo-de-un-foro-sobre-inteligencia-artificial-e-incorporara-la-herramienta-en-la-plataforma-de-su-espacio-politico-2026112616310",
+     "dominio": "datadiario.com"
+    },
+    {
+     "medio": "Infocielo",
+     "url": "https://www.infocielo.com/politica-y-economia/massa-participo-de-un-foro-sobre-inteligencia-artificial-y-reclamo-una-mirada-soberana-para-el-futuro-del-trabajo",
+     "dominio": "infocielo.com"
+    },
+    {
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/sergio-massa-propuso-articular-la-ia-produccion-y-empleo-n637559",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Codigo Baires",
+     "url": "https://www.codigobaires.com.ar/2026-11-26/massa-en-cordoba-nuestra-fuerza-unida-volvera-a-poner-a-la-argentina-de-pie-252085/",
+     "dominio": "codigobaires.com.ar"
+    },
+    {
+     "medio": "El Argentino Diario",
+     "url": "https://elargentinodiario.com.ar/politica/26/11/2026/massa-planteo-en-cordoba-una-agenda-de-ia-soberana-para-el-empleo/",
+     "dominio": "elargentinodiario.com.ar"
+    },
+    {
+     "medio": "Agencia Noticias Argentinas",
+     "url": "https://noticiasargentinas.com/economia/massa-planteo-en-cordoba-una-agenda-de-inteligencia-artificial-para-la-produccion-y-el-empleo_a6b088828272556b8ed7eae11",
+     "dominio": "noticiasargentinas.com"
+    },
+    {
+     "medio": "Cronos noticias",
+     "url": "https://infocronos.com.ar/nota/59076/massa-propuso-una-agenda-de-inteligencia-artificial-para-impulsar-la-produccion-y-proteger-el-empleo/",
+     "dominio": "infocronos.com.ar"
+    },
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/20157/massa-propuso-una-agenda-de-ia-para-impulsar-produccion-y-empleo",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/26/11/2026/massa-propuso-incorporar-la-inteligencia-artificial-a-una-agenda-de-desarrollo-productivo-y-empleo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "Info del Estero",
+     "url": "https://infodelestero.com/2026/11/26/sergio-massa-propuso-en-cordoba-una-agenda-de-inteligencia-artificial-orientada-a-la-produccion",
+     "dominio": "infodelestero.com"
+    },
+    {
+     "medio": "Diario El Norte - San Nicolás",
+     "url": "https://diarioelnorte.com.ar/massa-impulsa-en-cordoba-una-agenda-de-ia-para-el-trabajo/",
+     "dominio": "diarioelnorte.com.ar"
+    },
+    {
+     "medio": "NewsDigitales",
+     "url": "https://www.newsdigitales.com/politica/351075-sergio-massa-pidio-una-ia-argentina-en-cordoba-que-habia-propuesto-en-2023/",
+     "dominio": "newsdigitales.com"
+    }
+   ],
+   "cantidad_notas": 21,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Media sanción a la suspensión de las PASO: Massa dice que el Gobierno se apura",
+   "resumen": "El Senado aprobó y giró a Diputados la reforma electoral que suspende las PASO del año próximo; la diaria señala que la medida complica al peronismo. Sergio Massa afirmó a Cadena 3 que ve al Gobierno «apresurando resultados» y, según La Política Online, advirtió que todavía falta el tratamiento en Diputados.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "La Política Online",
+     "titulo": "Massa: \"El Gobierno se apura si celebra Paso en el Senado, falta Diputados\"",
+     "url": "https://www.lapoliticaonline.com/politica/massa-el-gobierno-se-apura-si-celebra-paso-en-el-senado-falta-diputados/",
+     "fecha": "2026-11-26T19:41-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "Cadena 3 Argentina",
+     "titulo": "Sergio Massa, a Cadena 3: \"Al Gobierno lo veo apresurando resultados\"",
+     "url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
+     "fecha": "2026-11-26T18:47-03:00",
+     "dominio": "cadena3.com"
+    },
+    {
+     "medio": "La Noticia 1",
+     "titulo": "Reforma electoral con suspensión de las PASO: El senado le dio media sanción",
+     "url": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion",
+     "fecha": "2026-11-26T18:56-03:00",
+     "dominio": "lanoticia1.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "la diaria",
+     "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-argentino-aprobo-la-suspension-de-las-paso-el-ano-que-viene-algo-que-complica-al-peronismo/",
+     "dominio": "ladiaria.com.uy"
+    },
+    {
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/celebra-milei-el-senado-aprobo-su-reforma-electoral-n637562/amp",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Bardeo.news",
+     "url": "https://bardeo.news/politica/fin-de-las-paso--mayans-chicaneo-a-bullrich-y-ella-lo-mando-a-hacer-stand-up_a6b089ff65e0aceca405a9c5b",
+     "dominio": "bardeo.news"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "giuliano-presupuesto-santa-fe",
+   "titulo": "Giuliano reclamó fondos para Santa Fe en el Presupuesto 2027",
+   "resumen": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027 y reclamó defender los recursos de la provincia, según La Capital. En Rosario3 sostuvo que «a Santa Fe se la defiende con hechos», y Sin Mordaza informa que cuestionó al gobernador Maximiliano Pullaro por darle quórum al oficialismo.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Diego Giuliano"
+   ],
+   "principales": [
+    {
+     "medio": "La Capital",
+     "titulo": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
+     "url": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html",
+     "fecha": "2026-11-26T18:33-03:00",
+     "dominio": "lacapital.com.ar"
+    },
+    {
+     "medio": "Rosario3",
+     "titulo": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
+     "url": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
+     "fecha": "2026-11-26T19:02-03:00",
+     "dominio": "rosario3.com"
+    },
+    {
+     "medio": "Sin Mordaza",
+     "titulo": "Giuliano cuestionó a Pullaro por darle quórum al oficialismo",
+     "url": "https://sinmordaza.com/noticia/526787-giuliano-cuestiono-a-pullaro-por-darle-quorum-al-oficialismo.html",
+     "fecha": "2026-11-26T14:48-03:00",
+     "dominio": "sinmordaza.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "ludopatia-infantil",
+   "titulo": "Avanza en la Legislatura bonaerense la ley de prevención de la ludopatía",
+   "resumen": "La diputada bonaerense Micaela Morán destacó el avance de su proyecto de prevención de la ludopatía y regulación de las apuestas online, que según dijo permitirá actuar desde el Estado, la sociedad civil y las familias. Durante el debate, el diputado Rubén Eslaiman protagonizó un cruce con el legislador del PRO Rovello, según Código Baires y La Noticia 1.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Micaela Morán",
+    "Rubén Eslaiman"
+   ],
+   "principales": [
+    {
+     "medio": "Zona Norte Diario Online",
+     "titulo": "Micaela Morán destacó el avance de la ley de prevención de la ludopatía y regulación de las apuestas online",
+     "url": "https://www.zonanortediario.com.ar/26/11/2026/micaela-moran-destaco-el-avance-de-la-ley-de-prevencion-de-la-ludopatia-y-regulacion-de-las-apuestas-online/",
+     "fecha": "2026-11-26T15:15-03:00",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "titulo": "Micaela Morán sobre su proyecto de ley para la prevención de la ludopatía: \"Se podrá actuar desde el Estado, la sociedad civil y las familias\"",
+     "url": "https://www.infoban.com.ar/26/11/2026/micaela-moran-sobre-su-proyecto-de-ley-para-la-prevencion-de-la-ludopatia-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/",
+     "fecha": "2026-11-26T14:58-03:00",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Eslaiman cruzó a Rovello por Angelici y hubo amenaza de piñas",
+     "url": "https://www.codigobaires.com.ar/2026-11-26/eslaiman-cruzo-a-rovello-por-angelici-y-hubo-amenaza-de-pinas-252088/amp",
+     "fecha": "2026-11-26T17:28-03:00",
+     "dominio": "codigobaires.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Noticias Urbanas",
+     "url": "https://www.noticiasurbanas.com.ar/estado-sociedad-civil-y-familias-la-apuesta-contra-la-ludopatia",
+     "dominio": "noticiasurbanas.com.ar"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/nacionales/diagonales/micaela-moran-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/defende-a-los-bonaerenses-no-a-angelici-diputado-del-massismo-cruzo-a-uno-del-pro-en-el-debate-de-la-ley-de-ludopatia",
+     "dominio": "lanoticia1.com"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "moreau-endeudamiento-familiar",
+   "titulo": "Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+   "resumen": "La diputada nacional Cecilia Moreau criticó en la Cámara de Diputados el rechazo a incorporar en la sesión el proyecto sobre endeudamiento familiar, según El Intransigente.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Diputados: Cecilia Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+     "url": "https://elintransigente.com/2026/11/26/diputados-cecilia-moreau-critico-rechazo-proyecto-endeudamiento-familiar/",
+     "fecha": "2026-11-26T17:45-03:00",
+     "dominio": "elintransigente.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "san-fernando-fate-litio",
+   "titulo": "Planta de baterías de litio en el predio de Fate: sin permisos de la Provincia ni de San Fernando",
+   "resumen": "InfoBAN informa que el proyecto de baterías de litio en el predio de Fate no cuenta con los permisos de la Provincia ni del municipio de San Fernando. Según Que Pasa Web, Aluar busca instalar la planta para estabilizar el servicio de Edenor.",
+   "tono": "neutro",
+   "dirigentes": [],
+   "principales": [
+    {
+     "medio": "InfoBAN",
+     "titulo": "Baterías de litio en Fate: el proyecto no tiene los permisos de la Provincia ni de San Fernando",
+     "url": "https://www.infoban.com.ar/26/11/2026/baterias-de-litio-en-fate-el-proyecto-no-tiene-los-permisos-de-la-provincia-ni-de-san-fernando/",
+     "fecha": "2026-11-26T19:45-03:00",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Que Pasa Web",
+     "titulo": "Aluar busca instalar una planta de baterías de litio para estabilizar el servicio de Edenor en el predio de Fate en San Fernando: qué se sabe del proyecto",
+     "url": "https://www.quepasaweb.com.ar/aluar-planta-baterias-litio-edenor-fate-san-fernando-szn1/",
+     "fecha": "2026-11-26T17:18-03:00",
+     "dominio": "quepasaweb.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 2,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
   {
    "id": "quintela-juventud-fr",
    "titulo": "Ricardo Quintela se reunió con la Juventud del Frente Renovador en CABA",
@@ -423,241 +758,57 @@
    "vigente_desde": "2026-11-26T14:10-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-25T14:16-03:00"
-  },
-  {
-   "id": "katia-blanc-presupuesto",
-   "titulo": "Katia Blanc pidió asistencia financiera a municipios en el Presupuesto 2027",
-   "resumen": "La diputada provincial Katia Blanc reclamó incluir asistencia financiera para los municipios en el Presupuesto 2027, según Radio Natagalá. En TN24 cuestionó la emisión de letras por 300.000 que se pide en el proyecto, y en Chaco Día por Día afirmó que debatir el presupuesto es defender el futuro de la provincia.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Katia Blanc"
-   ],
-   "principales": [
-    {
-     "medio": "Radio Natagalá",
-     "titulo": "Katia Blanc pidió incluir asistencia financiera para los municipios en el Presupuesto 2027",
-     "url": "https://radionatagala.com/katia-blanc-pidio-incluir-asistencia-financiera-para-los-municipios-en-el-presupuesto-2027/",
-     "fecha": "2026-11-25T10:43-03:00",
-     "dominio": "radionatagala.com"
-    },
-    {
-     "medio": "TN24.com.ar",
-     "titulo": "Katia Blanc sobre la Ley de Presupuesto 2027: \"no podemos tener una emisión de letras de 300.000 como se pide\"",
-     "url": "https://www.tn24.com.ar/2026/11/katia-blanc-sobre-la-ley-de-presupuesto-2027-no-podemos-tener-una-emision-de-letras-de-300-000-como-se-pide/",
-     "fecha": "2026-11-25T17:37-03:00",
-     "dominio": "tn24.com.ar"
-    },
-    {
-     "medio": "CHACODIAPORDIA.COM",
-     "titulo": "Katia Blanc: “Debatir sobre el presupuesto 2027 es defender el futuro del Chaco”",
-     "url": "https://chacodiapordia.com/katia-blanc-debatir-sobre-el-presupuesto-2027-es-defender-el-futuro-del-chaco/",
-     "fecha": "2026-11-26T09:08-03:00",
-     "dominio": "chacodiapordia.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 3,
-   "vigente_desde": "2026-11-26T14:10-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "id": "intendentes-fr-gestion",
-   "titulo": "Gestión de intendentes del FR: viviendas en Tres Arroyos y obras en Chacabuco",
-   "resumen": "El gobernador Axel Kicillof y el intendente Pablo Garate entregaron 120 viviendas en Tres Arroyos, según Grupo La Provincia y Cronos. Tras el acto, Garate dijo a LU24 que las definiciones para 2027 no son este año. Darío Golía inauguró 42 luminarias LED en Cucha Cucha y destacó las obras en las localidades de Chacabuco, según Cuarto Político.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Pablo Garate",
-    "Darío Golía"
-   ],
-   "principales": [
-    {
-     "medio": "Grupo La Provincia",
-     "titulo": "Kicillof y Garate entregaron 120 viviendas en Tres Arroyos",
-     "url": "https://grupolaprovincia.com/amp/603742/kicillof-y-garate-entregaron-120-viviendas-en-tres-arroyos",
-     "fecha": "2026-11-26T08:05-03:00",
-     "dominio": "grupolaprovincia.com"
-    },
-    {
-     "medio": "LU24 – Radio Tres Arroyos",
-     "titulo": "(audio) Pablo Garate tras la entrega de las viviendas: “las definiciones para 2027 no son este año, ahora es momento de gestionar”",
-     "url": "https://www.lu24.com.ar/locales/audio-pablo-garate-tras-la-entrega-de-las-viviendas-las-definiciones-para-2027-n",
-     "fecha": "2026-11-26T10:35-03:00",
-     "dominio": "lu24.com.ar"
-    },
-    {
-     "medio": "Cuarto Político",
-     "titulo": "Golía inauguró 42 nuevas luminarias LED en Cucha Cucha y destacó las obras en las localidades",
-     "url": "https://www.cuartopolitico.com/nota/2026-11-26-8-11-0-golia-inauguro-42-nuevas-luminarias-led-en-cucha-cucha-y-destaco-las-obras-en-las-localidades",
-     "fecha": "2026-11-26T08:13-03:00",
-     "dominio": "cuartopolitico.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Cronos noticias",
-     "url": "https://infocronos.com.ar/nota/59058/kicillof-y-garate-encabezaron-la-entrega-de-120-viviendas-a-vecinos-de-tres-arroyos/",
-     "dominio": "infocronos.com.ar"
-    },
-    {
-     "medio": "Municipalidad de Chacabuco",
-     "url": "https://chacabuco.gob.ar/chacabuco-sigue-creciendo-con-obras-que-acompanan-el-desarrollo-de-sus-localidades/",
-     "dominio": "chacabuco.gob.ar"
-    }
-   ],
-   "cantidad_notas": 5,
-   "vigente_desde": "2026-11-26T14:10-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-26T14:10-03:00"
-  },
-  {
-   "id": "fr-contra-plan-caputo",
-   "titulo": "El Frente Renovador bonaerense cuestiona el plan de Caputo por la recesión",
-   "resumen": "Diputados Bonaerenses informa sobre una nueva ofensiva del Frente Renovador contra el plan económico del ministro Luis Caputo, con críticas por la recesión y la escalada de precios.",
-   "tono": "positivo",
-   "dirigentes": [],
-   "principales": [
-    {
-     "medio": "Diputados Bonaerenses",
-     "titulo": "El Frente Renovador se planta contra Caputo por la recesión y la escalada de precios",
-     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
-     "fecha": "2026-11-25T14:00-03:00",
-     "dominio": "diputadosbsas.com.ar"
-    },
-    {
-     "medio": "Diputados Bonaerenses",
-     "titulo": "Nueva ofensiva del Frente Renovador contra el plan de Caputo",
-     "url": "https://diputadosbsas.com.ar/frente-renovador-cruce-plan-economico-caputo/",
-     "fecha": "2026-11-25T14:00-03:00",
-     "dominio": "diputadosbsas.com.ar"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 2,
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "id": "galmarini-bullrich-reforma",
-   "titulo": "Sebastián Galmarini apuntó contra Bullrich por la reforma electoral",
-   "resumen": "Según La Noticia Web, Sebastián Galmarini criticó a Patricia Bullrich por su postura sobre la reforma electoral y recordó lo que decía \"hace poquito tiempo\".",
-   "tono": "neutro",
-   "dirigentes": [
-    "Sebastián Galmarini"
-   ],
-   "principales": [
-    {
-     "medio": "La Noticia Web",
-     "titulo": "Sebastián Galmarini apuntó contra Patricia Bullrich por la reforma electoral: \"Solo hay que ver lo que decían hace poquito tiempo…\"",
-     "url": "https://www.lanoticiaweb.com.ar/sebastian-galmarini-apunto-contra-patricia-bullrich-por-la-reforma-electoral-solo-hay-que-ver-lo-que-decian-hace-poquito-tiempo/",
-     "fecha": "2026-11-25T18:00-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 1,
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "id": "ludopatia-infantil",
-   "titulo": "Proyecto bonaerense del FR para asistir casos de ludopatía infantil",
-   "resumen": "Flipr informa que legisladores bonaerenses del Frente Renovador buscan crear una línea de asistencia para casos de ludopatía infantil.",
-   "tono": "positivo",
-   "dirigentes": [],
-   "principales": [
-    {
-     "medio": "Flipr.news",
-     "titulo": "El massismo bonaerense busca crear una línea de asistencia para casos de ludopatía infantil",
-     "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/el-massismo-bonaerense-busca-crear-una-linea-de-asistencia-para-casos-de-ludopatia-infantil/",
-     "fecha": "2026-11-25T15:11-03:00",
-     "dominio": "flipr.com.ar"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 1,
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "id": "peronismo-sin-paso",
-   "titulo": "Sin PASO: Massa propone una interna abierta y digital",
-   "resumen": "Mirada 360 informa que Sergio Massa impulsa una interna abierta y digital con reconocimiento facial ante la posible suspensión de las PASO. Ámbito repasa las estrategias que barajan Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos. Infobae señala que el PJ todavía resiste la eliminación de las PASO, y Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO, según Diario Digital Con.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Sergio Massa",
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    {
-     "medio": "mirada360.com.ar",
-     "titulo": "Massa impulsa una interna abierta y digital con reconocimiento facial ante la posible suspensión de las PASO",
-     "url": "https://mirada360.com.ar/contenido/4009/massa-impulsa-una-interna-abierta-y-digital-con-reconocimiento-facial-ante-la-po",
-     "fecha": "2026-11-25T12:20-03:00",
-     "dominio": "mirada360.com.ar"
-    },
-    {
-     "medio": "Ambito",
-     "titulo": "Suspensión de las PASO: qué estrategias barajan Sergio Massa, Axel Kicillof y Cristina Kirchner para elegir candidatos",
-     "url": "https://www.ambito.com/suspension-las-paso-que-estrategias-barajan-sergio-massa-axel-kicillof-y-cristina-kirchner-elegir-candidatos-n6349078",
-     "fecha": "2026-11-25T12:44-03:00",
-     "dominio": "ambito.com"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El PJ todavía resiste la caída de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente",
-     "url": "https://www.infobae.com/politica/2026/11/25/el-pj-todavia-resiste-la-caida-de-las-paso-pero-busca-consenso-sobre-como-elegir-al-candidato-a-presidente/",
-     "fecha": "2026-11-25T03:29-03:00",
-     "dominio": "infobae.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Diario Digital Conclusión",
-     "url": "https://www.conclusion.com.ar/politica/cecilia-moreau-afirmo-que-el-peronismo-ira-unido-con-o-sin-paso-y-pidio-un-frente-contra-milei/11/2026/",
-     "dominio": "conclusion.com.ar"
-    },
-    {
-     "medio": "Infobae",
-     "url": "https://www.infobae.com/politica/2026/11/24/el-pj-empieza-a-transitar-la-discusion-sobre-como-ordenarse-sin-paso-la-compleja-tarea-para-conservar-la-unidad/",
-     "dominio": "infobae.com"
-    },
-    {
-     "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/el-peronismo-comienza-a-debatir-la-herramienta-para-dirimir-candidaturas-sin-las-paso/",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "La Voz del Interior",
-     "url": "https://www.lavoz.com.ar/politica/paso-ganan-encuestas-pierden-terceras-fuerzas_0_goovdBcQr2.html",
-     "dominio": "lavoz.com.ar"
-    },
-    {
-     "medio": "La voz 90.1",
-     "url": "https://www.lavoz901.com/amp/el-pj-empieza-a-transitar-la-discusin-sobre-cmo-ordenarse-sin-paso.htm",
-     "dominio": "lavoz901.com"
-    },
-    {
-     "medio": "ANDigital",
-     "url": "https://andigital.com.ar/nota/145152/ganarle-a-milei-es-facil-lo-complicado-es-ser-el-candidato-del-peronismo/",
-     "dominio": "andigital.com.ar"
-    },
-    {
-     "medio": "InfoPlatense",
-     "url": "https://www.infoplatense.com.ar/despues-del-fin-de-semana-largo-el-peronismo-discute-quien-llama-primero/",
-     "dominio": "infoplatense.com.ar"
-    }
-   ],
-   "cantidad_notas": 10,
-   "vigente_desde": "2026-11-25T14:16-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T06:10-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/FrenteRenovador/status/2126105054730231878",
+   "autor": "@FrenteRenovador",
+   "nota": "Massa en el foro de IA de la FAMAF (UNC).",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126104990582534166",
+   "autor": "@DiegoGiuliano",
+   "nota": "Fondos para Santa Fe en el Presupuesto 2027.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2126068681121636813",
+   "autor": "@RubenEslaiman",
+   "nota": "Proyectos aprobados en Diputados bonaerense.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126021113033736565",
+   "autor": "@ceciliamoreauok",
+   "nota": "Votación sobre Atrofia Muscular Espinal en Diputados.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126006878962360445",
+   "autor": "@ceciliamoreauok",
+   "nota": "Proyecto de endeudamiento familiar.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2126004798709199260",
+   "autor": "@RubenEslaiman",
+   "nota": "Proyecto aprobado en la Cámara de Diputados bonaerense.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
   {
    "url": "https://x.com/felipemromeroo/status/2125800312770281940",
    "autor": "@felipemromeroo",
@@ -683,71 +834,48 @@
    "sumado": "2026-11-26T05:33-03:00"
   },
   {
-   "url": "https://x.com/DiegoGiuliano/status/2125716150231183809",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano: \"La recesión se siente en cada casa argentina\".",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
    "url": "https://x.com/marinadorotea/status/2125714337444876600",
    "autor": "@marinadorotea",
    "nota": "Pide frenar el proyecto de Losada en el Día de la Eliminación de la Violencia contra las Mujeres.",
    "vigente_desde": "2026-11-26T14:10-03:00",
    "desde_hora": "14",
    "sumado": "2026-11-26T14:10-03:00"
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2125690288438173880",
-   "autor": "@marinadorotea",
-   "nota": "Marina Dorotea sobre la suba de la nafta y el impuesto a los combustibles.",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2125681706858365306",
-   "autor": "@FrenteRenovador",
-   "nota": "El FR advierte que la economía entró en recesión técnica.",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2125636764828152047",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero respalda la conducción de Sergio Massa.",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/RubenEslaiman/status/2125595206619746678",
-   "autor": "@RubenEslaiman",
-   "nota": "Rubén Eslaiman sobre el aumento de la nafta desde que asumió Javier Milei.",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2125574479925436528",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano sobre la eliminación de las PASO y la situación en Santa Fe.",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2125320067990556894",
-   "autor": "@DiegoGiuliano",
-   "nota": "Diego Giuliano: la actividad acumula dos trimestres de caída.",
-   "vigente_desde": "2026-11-25T14:16-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-25T14:16-03:00"
   }
  ],
  "entrevistas": [
+  {
+   "youtube": "JxqoyF4ZGYg",
+   "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
+   "canal": "Diagonales Stream",
+   "fecha_txt": "hace 41 min",
+   "duracion": "27:51",
+   "url": "https://www.youtube.com/watch?v=JxqoyF4ZGYg",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "youtube": "OBD695QwnYw",
+   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
+   "canal": "Aire de Santa Fe",
+   "fecha_txt": "hace 38 min",
+   "duracion": "37:05",
+   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "youtube": "L9dBSGtbhqM",
+   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
+   "canal": "keopsfm",
+   "fecha_txt": "hace 49 min",
+   "duracion": "17:26",
+   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
   {
    "youtube": "oFEeRoHKfdI",
    "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
@@ -780,44 +908,11 @@
    "vigente_desde": "2026-11-26T05:33-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-26T05:33-03:00"
-  },
-  {
-   "youtube": "JxqoyF4ZGYg",
-   "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
-   "canal": "Diagonales Stream",
-   "fecha_txt": "hace 41 min",
-   "duracion": "27:51",
-   "url": "https://www.youtube.com/watch?v=JxqoyF4ZGYg",
-   "vigente_desde": "2026-11-25T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "youtube": "OBD695QwnYw",
-   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
-   "canal": "Aire de Santa Fe",
-   "fecha_txt": "hace 38 min",
-   "duracion": "37:05",
-   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
-   "vigente_desde": "2026-11-25T14:16-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-25T14:16-03:00"
-  },
-  {
-   "youtube": "L9dBSGtbhqM",
-   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
-   "canal": "keopsfm",
-   "fecha_txt": "hace 49 min",
-   "duracion": "17:26",
-   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
-   "vigente_desde": "2026-11-25T14:16-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-25T14:16-03:00"
   }
  ],
  "metricas": {
-  "notas_analizadas": 66,
-  "medios": 47,
+  "notas_analizadas": 106,
+  "medios": 69,
   "temas": 12
  }
 }
