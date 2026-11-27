@@ -1,9 +1,38 @@
 {
- "generado": "2026-11-27T15:10-03:00",
- "total": 741,
- "nuevas_ultima_corrida": 35,
+ "generado": "2026-11-27T16:24-03:00",
+ "total": 731,
+ "nuevas_ultima_corrida": 31,
  "errores": [],
  "notas": [
+  {
+   "id": "aeaa2f74a6e2",
+   "titulo": "Massa pasó por Córdoba y buscó acercar a Llaryora a un frente contra Milei",
+   "medio": "Tiempo de San Juan",
+   "medio_url": "https://www.tiempodesanjuan.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWN6RzV3STlDUmtjZktYVm1DRVJwT3FZb2dkLTd6SW1HT0tndzY1Z3BZclJOdDJEbjFnVHBSX2kzcnpaaE81RjNKbnBYVFhkcFgzUV82czNBdUlfZGVILTl1V3NNT2E3Rk5qd012Z1h1UTVsZ19WRkxlVlNVQnVpbUo4VUtZM2sySWVoSnlyellveHdEZ2JKNHRtRW8ySXBNeDZReUJfdm9DVWh3d01lWkhwWE1iZHBYS0wyeUFxUHl4YkU?oc=5",
+   "fecha": "2026-11-27T16:08-03:00",
+   "busquedas": [
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-27T16:22-03:00",
+   "url_original": "https://www.tiempodesanjuan.com/el-pais/massa-paso-por-cordoba-y-busco-acercar-a-llaryora-a-un-frente-contra-milei_1795806498",
+   "revisada": true
+  },
+  {
+   "id": "9700578f4e5f",
+   "titulo": "El Senado bonaerense aprobó la ley contra la venta e instalación de los escapes libres",
+   "medio": "La Noticia 1",
+   "medio_url": "https://www.lanoticia1.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlhPSm84Nkl5LVdxelhrVmVrOWRrdXNzemVjRUc2UDJoR0tWLUl5WWxyVkNhT2pGeHFvMTEtOXlzUmdKUjZoYmdxbjAwcWtCcmh0S0d6ZEhyNDVMQ3FVRzJSb3IwQlMzVjExenVEX2NiU3JIVE1reVQtcmdUaU1fV1YxZDNfRy1Id0tUb3JIb1dFYW9EbGFlTXcwOA?oc=5",
+   "fecha": "2026-11-27T15:09-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-27T16:22-03:00",
+   "url_original": "https://www.lanoticia1.com/noticia/el-senado-bonaerense-aprobo-la-ley-contra-los-escapes-libres",
+   "revisada": true
+  },
   {
    "id": "c03f592cfe13",
    "titulo": "Massa desembarcó en Córdoba en medio de la tensión por el Presupuesto y las PASO",
@@ -84,7 +113,9 @@
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNei1sU0I0Ung0OTI0X2xUeWdqaUpRUGNWNWVCSGt4aERTV3JHUWh4eXpxZnl2QkVCS1p1NXlndFR2cnRiVTRWWlNIZDVRVmxJRGlIeUpfeFB3VG9pMjRPQVlpWjEyaWNlQ04tSDRDVkQ3UGl2VlhraEZrdWktaXc2OE9HcGhhX2dGSWl5OGNyemZQQkpBRHNfRlRjdVNET09FNDVUUG91RUtJQ2s5bE9XdUp0dnAxaktCUDN3TDhtNFVlY2d1SWZBeU5MMzVOaElMLVpHVkx0Qjhqd1RSYnVZU3ZEbDhGRWM?oc=5",
    "fecha": "2026-11-27T14:13-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "\"Frente Renovador\"",
+    "encuesta \"Sergio Massa\""
    ],
    "visto": "2026-11-27T15:08-03:00",
    "url_original": "https://www.notiar.com.ar/index.php/politica/143813-sin-paso-se-aceleran-las-definiciones-en-el-peronismo-con-una-encuesta-que-ilusiona-por-gabriel-sued",
@@ -303,6 +334,20 @@
    "revisada": true
   },
   {
+   "id": "2a9876e3d846",
+   "titulo": "Passalacqua rompió con Rovira y va por la gobernación",
+   "medio": "Bardeo.news",
+   "medio_url": "https://bardeo.news",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmV1cm9aZGpwejNGY0QwRUVCanlHMEUwNTZhT1luLWhEMHpPajlUNVR3eEROZkdGbXBIVUNPc1F0T1VtWjhJRWRseE9xWFFmUE55cjZRSTNsUmpXM1lUNjhDLUNLOEZqWXllREMzWEpwTGRwdVVOY0hURThwY3BlNmJFazBEb1VBOGfSAZgBQVVfeXFMTmZXTkttdzlRaG5JdHEySXozYjdWd05DeGNLY3c3c01XLW9GRFIxZTN4WjRlYm1pYVQ3akhIWndNajBxbm5TVHNIY3g2ckRsUE1udHUzemRvcGI0dXRIMkhrbndxbm9rQ1lrUEp6bzdQdWZROGEwbjJDYmxrQWtGLUk0NlctWVhBYTlRSzNXMC1XRDF0Mk8weVk?oc=5",
+   "fecha": "2026-11-27T10:45-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-27T16:22-03:00",
+   "url_original": "https://bardeo.news/politica/passalacqua-rompio-con-rovira-y-va-por-la-gobernacion",
+   "revisada": true
+  },
+  {
    "id": "bdc26f67be4f",
    "titulo": "Las dos campañas de Axel Kicillof",
    "medio": "Letra P",
@@ -345,6 +390,20 @@
    ],
    "visto": "2026-11-27T12:19-03:00",
    "url_original": "https://www.letrap.com.ar/politica/sergio-massa-paso-cordoba-y-le-pidio-martin-llaryora-que-se-encolumne-contra-javier-milei-n5428561",
+   "revisada": true
+  },
+  {
+   "id": "2a026b0aab03",
+   "titulo": "Patricia Bullrich y Javier Milei: una encuesta midió el escenario de una ruptura",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSklrSnBGdE0zd3lTZkFKeXVSSVQxU0RrQjY1bDRZUEptcENyMzhIMU1EM3otMmRvY0pZNzBOaGZJZzRiVm8tVTVtWkFvTlJRWTM2WHkxTEhQWTlINTRZYWZqYW1fenZ4ZTZualZxMjBxaUdRdWRjeW1uZ1UxRThiN1A4U2NoOFU2OXFXRVZmSUYyM19fSXB30gGXAUFVX3lxTE9KSWtKcEZ0TTN3eVNmQUp5dVJJVDFTRGtCNjVsNFlQSm1wQ3IzOEgxTUQzei0yZG9jSlk3ME5oZklnNGJWby1VNW1aQW9OUlFZMzZYeTFMSFBZOUg1NFlhZmphbV96dnhlNm5qVnEyMHFpR1F1ZGN5bW5nVTFFOGI3UDhTY2g4VTY5cVdFVmZJRjIzX19JcHc?oc=5",
+   "fecha": "2026-11-27T10:22-03:00",
+   "busquedas": [
+    "encuesta \"Sergio Massa\""
+   ],
+   "visto": "2026-11-27T16:22-03:00",
+   "url_original": "https://grupolaprovincia.com/amp/603801/encuesta-bullrich-milei-ruptura-libertad-avanza-2027",
    "revisada": true
   },
   {
@@ -544,7 +603,8 @@
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQnlHZERoVzh1X2R6U2hQMUduaGVVN1hHOWVhV18xaWZUS0NBN1RYeFZ2Y2dWZk1OUHR5UE14RVZ0RWp2RGJoMzJndmE4TEVNSWpoVXRpYnI3LUNBMFdpNVdIOVc0M0tvakgwZFNESmVuVGhFbDFUQnR3Q2pNMWJqRlZHOEhZUVlXRkZSY3N3bktDYVBBTkVIRGlNeFBoOENXSl9pS2RHcEp0N1JYY1huZWE5ZHo1V0IyR2VURnRFNDhQZVdtNEplT0pRWUtseGtadDdMcE9sakc5WWg0TUMxdVZIM3AzN2ZxYjRYUktlY0Q0UDlKR3A2MXhmSXNLZw?oc=5",
    "fecha": "2026-11-27T09:10-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Sergio Massa\""
    ],
    "visto": "2026-11-27T09:18-03:00",
    "url_original": "https://www.politicargentina.com/notas/202611/77351-massa-en-cordoba-propuso-una-agenda-de-inteligencia-artificial-en-pos-de-la-produccion-el-empleo-y-el-desarrollo.html",
@@ -1319,7 +1379,8 @@
    "fecha": "2026-11-26T19:14-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "massismo"
    ],
    "visto": "2026-11-27T00:22-03:00",
    "url_original": "https://primerapagina.info/politica/de-pedir-el-voto-por-massa-a-coordinar-la-libertad-avanza--el-giro-de-roberto-costa_a6b089f155e0aceca405a8824",
@@ -1548,7 +1609,8 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSF9hVVZzWk5WRHc1SzdHMjVTMzRaMC1oUld3Uzc0QVkxRi0zWk9jRmM2NFBreFNMc21Ud2E0ZlYtQzV3ZHRfbng5Qm9keW1iem40ODdGeTcyeFZFcDBvSWI4ZzhWMTNnaTR6bkY2Q3V4X18yX1BKRl9PZFZQSlZIdFZOVUZSZXYxWXRwcjQ2N1JLZlc0N2pRYzh0dmxHMEU?oc=5",
    "fecha": "2026-11-26T18:16-03:00",
    "busquedas": [
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-26T19:17-03:00",
    "url_original": "https://www.noticiasurbanas.com.ar/estado-sociedad-civil-y-familias-la-apuesta-contra-la-ludopatia",
@@ -10523,209 +10585,6 @@
    ],
    "visto": "2026-11-20T18:11-03:00",
    "url_original": "https://www.lavoz.com.ar/politica/peronismo-quedo-representantes-senado-sigue-batalla-brugge_0_UFtMaFmteN.html",
-   "revisada": true
-  },
-  {
-   "id": "3423a4d75f90",
-   "titulo": "Juan Andreotti anunció la renovación de 5 escuelas de San Fernando",
-   "medio": "Zona Norte Hoy",
-   "medio_url": "https://www.zonanortehoy.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFA3WXE5a2VLZFdwamlhWVZjUEJlU0Z1UnJTOUN0cVJNbTZUT0ZwNjVkVHI5V0s4UVNZdnQwaHlLeThYZHQ4MzBTbWw1WjRuLWpKUjRuSlNiNllVb0loakFBdUdXOF95ZTRvNjAzbFZRLWpDV200Rl9VR05iV3RDOG44dm9rNlNheHIzZW5qYTJ5aEhyTzVfeWxubm5FNS01X0tHdFVTejY2Y0RvckE?oc=5",
-   "fecha": "2026-11-20T16:12-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://www.zonanortehoy.com/san-fernando/juan-andreotti-anuncio-la-renovacion-de-5-escuelas-de-san-fernando/",
-   "revisada": true
-  },
-  {
-   "id": "0f1d5815a8d4",
-   "titulo": "Kicillof: “No importa de qué potencia hablemos, la Argentina no va a ser el patio trasero de nadie”",
-   "medio": "Zona Norte Diario Online",
-   "medio_url": "https://www.zonanortediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR3UzWlFyS0ZSY3p6NjRXMXVkc2FtVUpUTEh0LW9FQjRkWkIyWm94RVNGUVZORmppVW1CUUV0c1pqZ1BsZERYWjh3UDJLSHd4YnlMdnRtY2hfSEtieWxicmFPWkEzSFZKR2w5R21Rc2tUcHBOT3B4WnktVGswRlplZnZidVZDbm9aSGdDX0JZUXkzc2hBZUJSa01yZmVUTHZCMkV4ME5aZG1GcWZTeDlSaXF5VTFrM09qSXVjY1NxbDJYQmYyaDBFc2VuZzZRSEJCZTFJV29RRVkxZw?oc=5",
-   "fecha": "2026-11-20T16:11-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\"",
-    "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T22:38-03:00",
-   "url_original": "https://www.zonanortediario.com.ar/20/11/2026/kicillof-no-importa-de-que-potencia-hablemos-la-argentina-no-va-a-ser-el-patio-trasero-de-nadie/",
-   "revisada": true
-  },
-  {
-   "id": "91ad8fd422db",
-   "titulo": "Tévez toma partido por Natalia de la Sota en medio de la presión de Massa sobre el PJ de Llaryora",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTZIZFdtQV8xQ2JRVlA0dXljM0NJSWR2Zy1iT0hrZFREQUpGbTVYLTIwMDFlM2txUnRTYlR0WGZiWmRWSGMwQm4xeDQ3TnBFMGtyQmVSbDUwS19XLWd3Zk85bjJ2U1B4Q1V2alhIZl9mbEpuOUFtZ3lxalZ1bXNkUHY3VUdoLUtMMi1rRWRJR2JlMTdyN2NfYktxczIxRzNaNkFnRHdCSVljcnBQT09CczZZQXY2dFJzMVdSd0piNjdnd2FFbjBGUWRMTHRZNFRhVWZqekJETnM?oc=5",
-   "fecha": "2026-11-20T16:04-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://www.perfil.com/cordoba/tevez-toma-partido-por-natalia-de-la-sota-en-medio-de-la-presion-de-massa-sobre-el-pj-de-llaryora-akWfj4C66KgO",
-   "revisada": true
-  },
-  {
-   "id": "e9b6b874053d",
-   "titulo": "Juan Andreotti anunció la renovación integral de cinco escuelas de San Fernando durante el verano",
-   "medio": "Zona Norte Diario Online",
-   "medio_url": "https://www.zonanortediario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWQzN1lDaXZTS1lQU2ZkaE5LU1EwY1JZeVZIX3J6SXR5cWdHaThqVFNqdGwyVFdXakZROGFLU1V0RnRKdW9abWhGOWhTc3J6M2hPOGQ2LWhfWHVPeEg4ZUFVbnFwaDRPZ2RvQWhWT2VRTFFtWGRHWnc3R2VjczN5Q0tiZjNmN1ZEdFlidllhMm1oYjhQU3R1bDQ3OV9ELUNDa3VqQnRnSzhoektqUG1EZEZFN3F3TXBNN2x4N1VxUmoxT2p2cTFzNXA4VHFBUWRVWTg5enVjQ0NiZG85?oc=5",
-   "fecha": "2026-11-20T16:04-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://www.zonanortediario.com.ar/20/11/2026/juan-andreotti-anuncio-la-renovacion-integral-de-cinco-escuelas-de-san-fernando-durante-el-verano/",
-   "revisada": true
-  },
-  {
-   "id": "372bf19155cb",
-   "titulo": "Atención: la tarjeta SUBE no funcionará durante 12 horas del fin de semana",
-   "medio": "MendoVoz",
-   "medio_url": "https://www.mendovoz.com",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHI0VmYxXzM1cHAyTGoxc21oNmU4SUNVTlJpSWRWdUhLSDFXV0ZSNHZSNXVreTdaaUowOERzTFlaeFlOZ2g0ZGF4elZFNXJfbkQtRUphdzdjRzBuRlRBNHlscEE3WE1pb3pYa0JnaWVKR1FCVGJrbGtGMkMwM3pfeHpkWVlCM2FDU0VMNjEwbW1QOGh4ZHZpYkZucURWWUhtMWxuaWtaRWN4MU5rNHdON2NvRDlWcnhDNTF6dUU4TzMzcXBRT2xidk5yRlAydW5LcFUtQTdNN3lvTG8?oc=5",
-   "fecha": "2026-11-20T16:00-03:00",
-   "busquedas": [
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-21T14:59-03:00",
-   "url_original": "https://www.mendovoz.com/actualidad/nacionales/2026/11/20/atencion-la-tarjeta-sube-no-funcionara-durante-12-horas-del-fin-de-semana-170866.html",
-   "revisada": true
-  },
-  {
-   "id": "f5a19752d55b",
-   "titulo": "Interna peronista: el massismo habla de la necesidad de un candidato \"soft\" y Kicillof arma en",
-   "medio": "Tiempo Argentino",
-   "medio_url": "https://www.tiempoar.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ1N3THQ2a3pnQ085SkJDT3VaX1BvV05ncmJZRXFsNTJZcGR2RWJzeUZaQXRHQVBaRnpCMURweThsa1FtdWhVMnpyVjB2UFE0eURRYVVadTZJLW1TemRZRlpObmZzY0l0RDZQX0phcktaRW9rOHdoVkdJV0JUdElWWTBxMFE2N3BfNWpnZGxwM1BiMjZHODlBQU1vcmtwWDJGWTZJVnpyMTdFX29UX1NiRkx4VmJYcGdSMHl1LXlpazIwbkxvZF9uRGhRVzlIM0dvS1RGRzM3ONIB3AFBVV95cUxOUmVBdnlHd1dTS1N6dnEzSTdUdnVfTjlhMXZIMjFCZEdhYVBnOWwwSm9vdlF0VDI2TFJRcEpwZzBxbmJEeWRLYUs2MkpCaUVhTzJfOENEYldMWUo0SVQ5TGhkczFEV204Z3JqdWFNZDdaYTFEQmVVTXZ5X0FYZEpEbEZhbk4yR1hDWll5SHFpUEttRU5UakE0bnpxel9mN2x2SkxpSXNyeXJkeE9wSFNZRlhkdEJYb0lzc3ozUmhsTjZMZXJqTFNsMlMxVERkOVNSTjBPVEFWOFNydE82?oc=5",
-   "fecha": "2026-11-20T15:51-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "massismo",
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://www.tiempoar.com.ar/ta_article/interna-peronista-el-massismo-habla-de-la-necesidad-de-un-candidato-soft-y-kicillof-arma-en-santa-fe/",
-   "revisada": true
-  },
-  {
-   "id": "629298773d3d",
-   "titulo": "Miguel Ángel Pichetto: \"Les aconsejo a Massa y Kicillof que agoten las instancias del diálogo para construir una alternativa de gobierno\"",
-   "medio": "Perfil",
-   "medio_url": "https://perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOa25WcWlBZ003a3VIeXpGWUo5dmR1LWdXaXlyWXgybUZ4S09LX0NUcldPOVNSS3p3QnJIQ2FPZ3JNN1RhOGpMUEZWTXY0YXkzdndLWm1xMzI4c2VNb0loazFYTmJrMHRGVzNJMmtHdTFyT1g1WEIzajFOLVN1eUUtTHdXWjhqVncwMGZMeWxRdzhQdUlkZXVGTmFCYVZyM2F3Q2s2OEVHZHc4Z3dWUWxVUUprWllzODVfakZoekpEY1R4UExlUEhhVFF0UThaTnBJdllOX3k1V1d3ZWRqdU9SMUp0MU9WelFNOHhPY1l3dUtlYjRnYlNweXhtcmxkbDZUbEp4Uk40MFBUdlhTd2YyWkZB?oc=5",
-   "fecha": "2026-11-20T15:46-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://perfil.com/modo-fontevecchia/miguel-angel-pichetto-les-aconsejo-a-massa-y-kicillof-que-agoten-las-instancias-del-dialogo-para-construir-una-alternativa-de-gobierno-aqPYY1S7vZGt",
-   "revisada": true
-  },
-  {
-   "id": "c744bcfaf0e8",
-   "titulo": "Jorge Asís adelantó cómo serán las elecciones en 2027: «Hay dos sectores»",
-   "medio": "El Intransigente",
-   "medio_url": "https://elintransigente.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3FsMTVtbVVjSm9HT0ZxUDR1N3R2UFlKeU1TX2dURVJNVFUxbkdHUUFwamowZmhEZE5oVkdEdEFJR1RPNXhmWW51dEg1LXprR0NDcW5qbEVWUnE2dHRtZUZ0bm1pLXdsaUpTOTczT3F5VzU3UE00SEtfUE1jX0lsVGdzdGdzU0dJeTBIazZWNm1PZjNxVHFrZ0xUTQ?oc=5",
-   "fecha": "2026-11-20T15:42-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://elintransigente.com/2026/11/20/jorge-asis-dio-preferencias-2027-alternativa-mas-viable/",
-   "revisada": true
-  },
-  {
-   "id": "705636a8f4e9",
-   "titulo": "La imagen negativa de los políticos: Máximo Kirchner y Macri, cabeza a cabeza",
-   "medio": "Revista Noticias",
-   "medio_url": "https://noticias.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0llX19fSXdzcWFYcXdFbHYza3FqczZyZmo3Z3UwbkE5bi1yMDdaRHRBejFIWmY1SFgyeGtkUWQ5QWc4cEFCRV9qS3ZjMkNSbGVweExVLW1jTjdvZklMWXpBcXhWaVpfUS1YVmxWZUdpNEMtUHBuMnh4X2t3SUFzMUc2TUwwMWl3MTFQRGRDVWtUUUhFMXdMZHV3UUp3N2dtTGxYSV8xSXVuRFdEVy13UzdzbFA3WVpiX3Vta0R3UGRiS3c2eGfSAcsBQVVfeXFMUEtkNWwtZ3NueFBRN2I0bmdqbHU3MFVOcmJXRFZyTjlrRFZ6WEhnLVlLZ1JvNWw2UzZocWNONGxQQ2ZMSXBsR3d5TU0zNF80ekhWc2dvcGNhY1NLM1d5LVVOVGlJVWxEZVJjaUtsV2lpeFQtZTVUMGZ4YWthVzFjaDhPYld1U2pkQU5XdGpqRTByeVF0cXhRaU9lTV9LS3poMlEwQ29hVGxrRlRDTjN1M0FJZV9pNU5oeVVBRm5CcFgwMVBJMVFhZ1NRR1U?oc=5",
-   "fecha": "2026-11-20T15:41-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T19:09-03:00",
-   "url_original": "https://noticias.perfil.com/noticias/politica/la-imagen-negativa-de-los-politicos-maximo-kirchner-y-macri-cabeza-a-cabeza.phtml",
-   "revisada": true
-  },
-  {
-   "id": "c852c18e0925",
-   "titulo": "Massa acelera el armado federal del Frente Renovador rumbo a 2027: rearmó el partido y bendijo a su hombre en Tierra del Fuego",
-   "medio": "Clarin.com",
-   "medio_url": "https://www.clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbE1uMDJ3RjBJbEQ1clk2ZjE1akNfbndfVllRMVlmQ0tiWWVRa0kxbEd2Wi1mQmlnY2NxM0NpTmprRDMxNVRaS1EzRnRmbFUzenlwOWNYajVwZG1hS1J1UnBqNkRscDAxMkY3Rjl1UlUxTERpczkxTk81ekYzRnh5RXdzaW1SWFBvS29VODFkTDJsSU1CS2htMFBKRUVtd1VoNy1WTGpKUXdlUXg1MF9wTHVvVF9ISHpMelU1QmFmSUJxLVQ3RzZYaVpYcmRXZ3RYUVBnZUxYbDAzZ0REQzZiaG41OA?oc=5",
-   "fecha": "2026-11-20T15:36-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://www.clarin.com/politica/massa-acelera-armado-federal-frente-renovador-rumbo-2027-rearmo-partido-bendijo-hombre-tierra-fuego_0_8uBTR8SCA2.html",
-   "revisada": true
-  },
-  {
-   "id": "77ec6fba02e5",
-   "titulo": "Mala nota para Milei: el 51,6% le pone un 1 y Kicillof lo supera en un ballotage",
-   "medio": "Infobonaerenses",
-   "medio_url": "https://infobonaerenses.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObE9naVZtLU80emswTm9hZW9MWk5ydTRpT29hWXJvdXZaTEV2TmdmNGpEY2xwZG0wLUhaUzdjalEwOE8tYjB4SHpSRmwzNkczMzJnMDEtRHY2S0w2NUZ5bmZ6QUdYcFdRVUJYZ3ZEOUYxaktWRU9hVlVpakVjSERiUTc4aTRSd0J5UXdsYnpibTFiNUV3WmpPLUFMX2xHdnBkRXFwdHNaaGhSdmFzTUltWG9CUWpKZ2ZBNnpJalBn?oc=5",
-   "fecha": "2026-11-20T15:31-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-20T20:07-03:00",
-   "url_original": "https://infobonaerenses.com.ar/nota/45018/mala-nota-para-milei-el-51-6-le-pone-un-1-y-kicillof-lo-supera-en-un-ballotage/",
-   "revisada": true
-  },
-  {
-   "id": "b5b888e4e0fe",
-   "titulo": "En marcha la obra de la Universidad Nacional del Delta en San Fernando",
-   "medio": "De norte a norte",
-   "medio_url": "https://denorteanorte.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjRpVURoNjgxcHJOMTdXZEpiR2RjLUgtdWpJNXQ5blphUWREMEpUQVVkN2pRaUpjRnFWZ0pxQTNUb2ZWc3RGSmdDcXFYVFV4dXdYUkRSYTRZMWZ5UVFsZEdHSHM4YWJoOU02UnU4LVgwV19HMzdPamR4b2pOVDNiLTN1R3hvWEVxQnJkb2FJQXpRV0VwOXZ3NWVSU0gxUQ?oc=5",
-   "fecha": "2026-11-20T15:28-03:00",
-   "busquedas": [
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-20T16:26-03:00",
-   "url_original": "https://denorteanorte.com/en-marcha-la-obra-de-la-universidad-nacional-del-delta-en-san-fernando/",
-   "revisada": true
-  },
-  {
-   "id": "599f28e4fa54",
-   "titulo": "Kicillof define sobre las PASO bonaerenses, mientras Massa exige unidad anti-Milei y Máximo habla de un frente \"patriótico\"",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQlpXZ29hNmZtVVJOaGw1SlZhMk1BVGVLeUxCLTA2dGR0QW9idU4tYi1hYVFTZXNxb1J4eFlzaFNtOG4yU05BUWx4bUNFOUctZjVCTGhzN1RfZldqYzd5VWtfZnZaWDRpWnF5QnFHQTlHUmczWFVDZGpwZ1dVdDQyWE1lNFktREFhUXRrNGVlTHFjUEZJM0pUZGUyMUZtdHhhOGVWRmpGb3RZT2dKSGY1ZmljeEg4ZUVOd1J4dmpqcXhqQ0VUYVlyQ0F2YVViQnBKdzdNSGdlZHlmZ3ItSWxwUjIzd0I5TW9PaVBCWHR3ZlZId3M5VVBlbA?oc=5",
-   "fecha": "2026-11-20T15:27-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-20T18:10-03:00",
-   "url_original": "https://www.perfil.com/politica/kicillof-define-sobre-las-paso-bonaerenses-mientras-massa-exige-unidad-anti-milei-y-maximo-habla-de-un-frente-patriotico-aM3Ol0k1FqKD",
-   "revisada": true
-  },
-  {
-   "id": "49ab884f4c7a",
-   "titulo": "Cecilia Moreau llamó a la unidad del peronismo de cara a las elecciones de 2027",
-   "medio": "https://diariolapluma.com.ar/",
-   "medio_url": "https://diariolapluma.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3FJdXo1c3NMZlA1RHZhcTFuY3VOeWRYR0czbWlXR1pGZGdDdWw1eVE1THROTmFrTWUxYUtKdV9ibUpCYkZLSmxHclQwQlFXQ1lRWUh3bDZGMXB1akNlUnZteEVIT2tlbHd0eDloY1l4TW9vRFpoYVJuTTZBdnFmaVBEVjJseDY5U3ZTUy1Bd1k4MTA2RklYRXpkMGkwUUdtbGpMSUU4MmNUa3NrbEE?oc=5",
-   "fecha": "2026-11-20T15:25-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-20T22:38-03:00",
-   "url_original": "https://diariolapluma.com.ar/cecilia-moreau-llamo-a-la-unidad-del-peronismo-de-cara-a-las-elecciones-de-2027/",
    "revisada": true
   }
  ]
