@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-27T08:14-03:00",
- "total": 79,
+ "generado": "2026-11-27T09:19-03:00",
+ "total": 74,
  "tuits": [
+  {
+   "id": "2126258644987543825",
+   "usuario": "passalacquaok",
+   "visto": "2026-11-27T09:19-03:00",
+   "url": "https://twitter.com/passalacquaok/status/2126258644987543825",
+   "citado_en": [
+    {
+     "medio": "Radio Cataratas",
+     "titulo": "Passalacqua anunció su candidatura a gobernador por el Movimiento por lo que Viene: “Es un paso al frente sin vuelta atrás” – Radio Cataratas",
+     "nota_id": "d1f7d0bef0a5"
+    }
+   ]
+  },
   {
    "id": "2125989168736035323",
    "usuario": "CarolinaMoises",
@@ -1623,84 +1636,6 @@
      "medio": "0223.com.ar",
      "titulo": "Cecilia Moreau descartó la interna: \"Con Paso o sin Paso el peronismo va a ir unido\"",
      "nota_id": "6fb3218f269c"
-    }
-   ]
-  },
-  {
-   "id": "2111541061491347645",
-   "usuario": "vtolosapaz",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/vtolosapaz/status/2111541061491347645",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "El peronismo camina hacia un frente anti-Javier Milei",
-     "nota_id": "cfb9c8c027af"
-    }
-   ]
-  },
-  {
-   "id": "2121600945628828120",
-   "usuario": "SebasGalmarini",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/SebasGalmarini/status/2121600945628828120",
-   "citado_en": [
-    {
-     "medio": "El Intransigente",
-     "titulo": "Luis Caputo publicó el dato salarial de septiembre y Sebastian Galmarini lo cuestionó",
-     "nota_id": "cdbdcc6ba9d0"
-    }
-   ]
-  },
-  {
-   "id": "2121336515288600708",
-   "usuario": "DiegoGiuliano",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/DiegoGiuliano/status/2121336515288600708",
-   "citado_en": [
-    {
-     "medio": "El Intransigente",
-     "titulo": "Diego Giuliano reclamó refugios seguros y asistencia para las familias de Alto Verde",
-     "nota_id": "2cc8d9c10908"
-    }
-   ]
-  },
-  {
-   "id": "2121307483742347628",
-   "usuario": "ceciliamoreauok",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/ceciliamoreauok/status/2121307483742347628",
-   "citado_en": [
-    {
-     "medio": "El Intransigente",
-     "titulo": "Cecilia Moreau destacó la lucha por el voto femenino y la participación política",
-     "nota_id": "f3d618985c89"
-    }
-   ]
-  },
-  {
-   "id": "2113634606276583431",
-   "usuario": "vtolosapaz",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/vtolosapaz/status/2113634606276583431",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Las mujeres del peronismo, juntas en un homenaje a Eva Perón",
-     "nota_id": "faec92f5b9d7"
-    }
-   ]
-  },
-  {
-   "id": "2121049747234451764",
-   "usuario": "jorgeferraresi",
-   "visto": "2026-11-20T09:15-03:00",
-   "url": "https://twitter.com/jorgeferraresi/status/2121049747234451764",
-   "citado_en": [
-    {
-     "medio": "La Letra Chica",
-     "titulo": "Massa y Ferraresi coincidieron en medio de las tensiones por las re-re y el armado del PJ",
-     "nota_id": "62902b77a4a9"
     }
    ]
   }
