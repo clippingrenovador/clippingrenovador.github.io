@@ -1,0 +1,1006 @@
+{
+ "id": "2026-11-27-14",
+ "generado": "2026-11-27T13:40-03:00",
+ "hora": "14",
+ "claves": [
+  {
+   "texto": "Sergio Massa advirtió que el Gobierno todavía debe conseguir en Diputados los votos para suspender las PASO, tras la media sanción del Senado.",
+   "fuentes": [
+    {
+     "medio": "BorderPeriodismo",
+     "url": "https://borderperiodismo.com/actualidad/massa-cuestiono-el-festejo-del-gobierno-por-las-paso-y-advirtio-que-todavia-debe-conseguir-los-votos-en-diputados/"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/massa-reaparecio-con-una-advertencia-se-apuran-si-celebran-paso-en-el-senado-falta-diputados/"
+    }
+   ]
+  },
+  {
+   "texto": "En Córdoba, Sergio Massa anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre inteligencia artificial, empleo y producción, según Infobae.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/27/en-cordoba-massa-anticipo-que-el-peronismo-incluira-un-capitulo-sobre-ia-empleo-y-produccion-en-su-propuesta-electoral/"
+    },
+    {
+     "medio": "Noticias Urbanas",
+     "url": "https://www.noticiasurbanas.com.ar/ia-empleo-y-produccion-los-ejes-que-massa-sumara-al-programa-peronista"
+    }
+   ]
+  },
+  {
+   "texto": "Según Infobae, el Gobierno buscará revertir en el Senado el aumento de fondos universitarios aprobado por Diputados en el Presupuesto 2027.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/"
+    },
+    {
+     "medio": "Border Periodismo",
+     "url": "https://borderperiodismo.com/actualidad/diputados-le-torcio-el-brazo-a-milei-subieron-a-11-billones-los-fondos-para-las-universidades/"
+    }
+   ]
+  },
+  {
+   "texto": "Según Flipr.news, Bevilacqua respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior.",
+   "fuentes": [
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/laprovinciaenvivo/bevilacqua-respaldo-a-massa-para-2027-y-pidio-una-formula-que-integre-conurbano-e-interior/"
+    }
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Suspensión de las PASO: Massa advirtió que al Gobierno todavía le falta Diputados",
+   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Distintos medios señalaron que, sin primarias, el peronismo acelera la definición de su candidato.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Massa cuestionó el festejo del Gobierno por las PASO y advirtió que todavía debe conseguir los votos en Diputados",
+     "url": "https://borderperiodismo.com/actualidad/massa-cuestiono-el-festejo-del-gobierno-por-las-paso-y-advirtio-que-todavia-debe-conseguir-los-votos-en-diputados/",
+     "fecha": "2026-11-27T12:15-03:00",
+     "dominio": "borderperiodismo.com"
+    },
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Massa reapareció con una advertencia: \"Se apuran si celebran PASO en el Senado, falta Diputados\"",
+     "url": "https://www.lanoticiaweb.com.ar/massa-reaparecio-con-una-advertencia-se-apuran-si-celebran-paso-en-el-senado-falta-diputados/",
+     "fecha": "2026-11-27T10:49-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "Los Primeros TV",
+     "titulo": "Sergio Massa en Córdoba: “El Gobierno se apura si celebra eliminar las PASO en el Senado, falta Diputados”",
+     "url": "https://www.losprimeros.tv/politica/sergio-massa-en-cordoba---el-gobierno-se-apura-si-celebra-eliminar-las-paso-en-el-senado--falta-diputados-_a6b097753c34cf90c9ce82fef",
+     "fecha": "2026-11-27T09:29-03:00",
+     "dominio": "losprimeros.tv"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Ecos Diarios Necochea",
+     "url": "https://elecos.com.ar/sergio-massa-cuestiono-el-avance-del-gobierno-en-la-eliminacion-de-las-paso",
+     "dominio": "elecos.com.ar"
+    },
+    {
+     "medio": "elsolnoticias.com.ar",
+     "url": "https://elsolnoticias.com.ar/sin-paso-el-peronismo-acelera-la-definicion-de-su-candidato-y-una-encuesta-alimenta-la-ilusion-de-volver-al-poder/",
+     "dominio": "elsolnoticias.com.ar"
+    },
+    {
+     "medio": "Política y Medios",
+     "url": "http://politicaymedios.com.ar/nota/24988/sin-paso-se-aceleran-las-definiciones-en-el-peronismo-con-una-encuesta-que-ilusiona-frente-a-milei/",
+     "dominio": "politicaymedios.com.ar"
+    },
+    {
+     "medio": "Sur Santiagueño",
+     "url": "https://sursantiago.com.ar/politica/2026/11/27/sin-paso-el-peronismo-acelera-sus-definiciones-una-encuesta-entusiasma-a-la-oposicion-y-el-federalismo-vuelve-a-ganar-protagonismo",
+     "dominio": "sursantiago.com.ar"
+    },
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/20189/sin-paso-el-peronismo-acelera-la-interna-y-mira-una-encuesta",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://www.perfil.com/politica/que-cambiaria-sin-las-primarias-a0OWy3F4YYJ8",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/politica/massa-el-gobierno-se-apura-si-celebra-paso-en-el-senado-falta-diputados/",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "Cadena 3 Argentina",
+     "url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
+     "dominio": "cadena3.com"
+    },
+    {
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion",
+     "dominio": "lanoticia1.com"
+    },
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/paso-aceleran-definiciones-peronismo-encuesta-ilusiona-202611270545",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "la diaria",
+     "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-argentino-aprobo-la-suspension-de-las-paso-el-ano-que-viene-algo-que-complica-al-peronismo/",
+     "dominio": "ladiaria.com.uy"
+    },
+    {
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/celebra-milei-el-senado-aprobo-su-reforma-electoral-n637562/amp",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Bardeo.news",
+     "url": "https://bardeo.news/politica/fin-de-las-paso--mayans-chicaneo-a-bullrich-y-ella-lo-mando-a-hacer-stand-up_a6b089ff65e0aceca405a9c5b",
+     "dominio": "bardeo.news"
+    }
+   ],
+   "cantidad_notas": 16,
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "massa-ia-cordoba",
+   "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae y Noticias Urbanas, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que en su paso por Córdoba le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Infobae",
+     "titulo": "En Córdoba, Massa anticipó que el peronismo incluirá un capítulo sobre IA, empleo y producción en su propuesta electoral",
+     "url": "https://www.infobae.com/politica/2026/11/27/en-cordoba-massa-anticipo-que-el-peronismo-incluira-un-capitulo-sobre-ia-empleo-y-produccion-en-su-propuesta-electoral/",
+     "fecha": "2026-11-27T07:47-03:00",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "Letra P",
+     "titulo": "Sergio Massa pasó por Córdoba y le pidió a Martín Llaryora que se encolumne contra Javier Milei",
+     "url": "https://www.letrap.com.ar/politica/sergio-massa-paso-cordoba-y-le-pidio-martin-llaryora-que-se-encolumne-contra-javier-milei-n5428561",
+     "fecha": "2026-11-27T10:25-03:00",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Massa desembarcó en Córdoba para debatir sobre inteligencia artificial y reclamó por el presupuesto universitario",
+     "url": "https://perfil.com/cordoba/massa-desembarco-en-cordoba-para-debatir-sobre-inteligencia-artificial-y-reclamo-por-el-presupuesto-universitario-aOC4f0V85Qml",
+     "fecha": "2026-11-26T22:58-03:00",
+     "dominio": "perfil.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Noticias Urbanas",
+     "url": "https://www.noticiasurbanas.com.ar/ia-empleo-y-produccion-los-ejes-que-massa-sumara-al-programa-peronista",
+     "dominio": "noticiasurbanas.com.ar"
+    },
+    {
+     "medio": "Política Argentina",
+     "url": "https://www.politicargentina.com/notas/202611/77351-massa-en-cordoba-propuso-una-agenda-de-inteligencia-artificial-en-pos-de-la-produccion-el-empleo-y-el-desarrollo.html",
+     "dominio": "politicargentina.com"
+    },
+    {
+     "medio": "Diario Lo Nuestro",
+     "url": "https://www.diariolonuestro.com.ar/single-post/massa-se-mostr%C3%B3-en-c%C3%B3rdoba-con-agenda-de-ia-puesta-al-servicio-de-la-producci%C3%B3n-el-empleo-y-el-desa",
+     "dominio": "diariolonuestro.com.ar"
+    },
+    {
+     "medio": "dataene.com.ar",
+     "url": "https://dataene.com.ar/nota/17306/massa-propuso-en-cordoba-usar-la-ia-para-la-produccion-y-el",
+     "dominio": "dataene.com.ar"
+    },
+    {
+     "medio": "Sin Filtro",
+     "url": "https://sinfiltro.ar/massa-participo-en-cordoba-de-un-foro-sobre-inteligencia-artificial-trabajo-y-desarrollo-productivo/",
+     "dominio": "sinfiltro.ar"
+    },
+    {
+     "medio": "Ambito",
+     "url": "https://www.ambito.com/ambito-nacional/sergio-massa-desembarco-cordoba-y-participo-un-foro-inteligencia-artificial-n6349783",
+     "dominio": "ambito.com"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://www.perfil.com/politica/massa-en-cordoba-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina-aoW3o4d2wz8j",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "0343 Noticias",
+     "url": "https://0343.com.ar/nacionales/massa-abordo-en-cordoba-el-debate-sobre-la-inteligencia-artificial-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina_1795739580",
+     "dominio": "0343.com.ar"
+    },
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/20157/massa-propuso-una-agenda-de-ia-para-impulsar-produccion-y-empleo",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/letrae/sergio-massa-llevo-cordoba-su-agenda-ia-y-planteo-una-disputa-el-modelo-productivo-n5428538",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "La Voz del Interior",
+     "url": "https://www.lavoz.com.ar/politica/massa-cordoba-participa-actividad-ia-organizada-famaf_0_0zye6WzqAw.html",
+     "dominio": "lavoz.com.ar"
+    },
+    {
+     "medio": "La Nueva Mañana",
+     "url": "https://lmdiario.com.ar/contenido/534646/sergio-massa-paso-por-cordoba-participo-del-cierre-del-foro-ia-y-politicas-publi",
+     "dominio": "lmdiario.com.ar"
+    },
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/sergio-massa-planteo-cordoba-agenda-inteligencia-artificial-servicio-produccion-empleo-desarrollo-20261126161932",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "MinutoUno",
+     "url": "https://www.minutouno.com/politica/sergio-massa-propuso-una-agenda-inteligencia-artificial-enfocada-el-empleo-y-la-produccion-n6349781",
+     "dominio": "minutouno.com"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/26/11/2026/sergio-massa-planteo-en-cordoba-una-agenda-de-ia-al-servicio-de-la-produccion-el-empleo-y-el-desarrollo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/cordoba-sergio-massa-inteligencia-artificial-plataforma/",
+     "dominio": "norteonline.com.ar"
+    },
+    {
+     "medio": "Data Diario",
+     "url": "https://www.datadiario.com/politica/en-cordoba-sergio-massa-participo-de-un-foro-sobre-inteligencia-artificial-e-incorporara-la-herramienta-en-la-plataforma-de-su-espacio-politico-2026112616310",
+     "dominio": "datadiario.com"
+    },
+    {
+     "medio": "Infocielo",
+     "url": "https://www.infocielo.com/politica-y-economia/massa-participo-de-un-foro-sobre-inteligencia-artificial-y-reclamo-una-mirada-soberana-para-el-futuro-del-trabajo",
+     "dominio": "infocielo.com"
+    },
+    {
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/sergio-massa-propuso-articular-la-ia-produccion-y-empleo-n637559",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Codigo Baires",
+     "url": "https://www.codigobaires.com.ar/2026-11-26/massa-en-cordoba-nuestra-fuerza-unida-volvera-a-poner-a-la-argentina-de-pie-252085/",
+     "dominio": "codigobaires.com.ar"
+    },
+    {
+     "medio": "El Argentino Diario",
+     "url": "https://elargentinodiario.com.ar/politica/26/11/2026/massa-planteo-en-cordoba-una-agenda-de-ia-soberana-para-el-empleo/",
+     "dominio": "elargentinodiario.com.ar"
+    },
+    {
+     "medio": "Agencia Noticias Argentinas",
+     "url": "https://noticiasargentinas.com/economia/massa-planteo-en-cordoba-una-agenda-de-inteligencia-artificial-para-la-produccion-y-el-empleo_a6b088828272556b8ed7eae11",
+     "dominio": "noticiasargentinas.com"
+    },
+    {
+     "medio": "Cronos noticias",
+     "url": "https://infocronos.com.ar/nota/59076/massa-propuso-una-agenda-de-inteligencia-artificial-para-impulsar-la-produccion-y-proteger-el-empleo/",
+     "dominio": "infocronos.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/26/11/2026/massa-propuso-incorporar-la-inteligencia-artificial-a-una-agenda-de-desarrollo-productivo-y-empleo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "Info del Estero",
+     "url": "https://infodelestero.com/2026/11/26/sergio-massa-propuso-en-cordoba-una-agenda-de-inteligencia-artificial-orientada-a-la-produccion",
+     "dominio": "infodelestero.com"
+    },
+    {
+     "medio": "Diario El Norte - San Nicolás",
+     "url": "https://diarioelnorte.com.ar/massa-impulsa-en-cordoba-una-agenda-de-ia-para-el-trabajo/",
+     "dominio": "diarioelnorte.com.ar"
+    },
+    {
+     "medio": "NewsDigitales",
+     "url": "https://www.newsdigitales.com/politica/351075-sergio-massa-pidio-una-ia-argentina-en-cordoba-que-habia-propuesto-en-2023/",
+     "dominio": "newsdigitales.com"
+    }
+   ],
+   "cantidad_notas": 30,
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "massa-unidad-2027",
+   "titulo": "Respaldos a Massa rumbo a 2027 y una encuesta que lo compara con Kicillof",
+   "resumen": "Según Flipr.news, Bevilacqua respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior. Perfil difundió una encuesta cordobesa que compara a Axel Kicillof y a Massa en un eventual balotaje frente a Javier Milei, y tituló que solo uno de ellos le ganaría con claridad.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Flipr.news",
+     "titulo": "Bevilacqua respaldó a Massa para 2027 y pidió una fórmula que integre conurbano e interior",
+     "url": "https://flipr.com.ar/buenos-aires/laprovinciaenvivo/bevilacqua-respaldo-a-massa-para-2027-y-pidio-una-formula-que-integre-conurbano-e-interior/",
+     "fecha": "2026-11-27T10:51-03:00",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Entre Kicillof y Massa, solo uno le ganaría con claridad a Milei en un balotaje: qué dice una encuesta cordobesa",
+     "url": "https://www.perfil.com/cordoba/entre-kicillof-y-massa-solo-uno-le-ganaria-con-claridad-a-milei-en-un-balotaje-que-dice-una-encuesta-cordobesa-aOgPf1m9k75G",
+     "fecha": "2026-11-27T09:28-03:00",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "Diagonales",
+     "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+     "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
+     "fecha": "2026-11-25T20:48-03:00",
+     "dominio": "diagonales.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "LV12",
+     "url": "https://www.lv12.com.ar/oficialismo/vemos-un-escenario-paridad-el-oficialismo-y-un-peronismo-unido-n207269",
+     "dominio": "lv12.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "MDZ Online",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWFyZmJEbzhzSDFXQzV1ZFp0V2xhSUJFejJ0VkNjWlRaa2l2enpLTmRLOE45X0lvRllyYTQ5UmhYdWFJdVlFZGd5Q1ZOWDZmekRMdXRqVzdWcEsxNnFkSVMxZ3pjRTVfTmI0eFNUNmNNZmZCYjBTM3VSV2lmRFlRSGVqd2xfT0dEWFNmZjN5RVhrZjFRYXFlYWZyT3RLRFlab3JoR0Y5WnJsdTFjcHUtV2MwNGF1UlpuT0dGNV81LXlkZw?oc=5",
+     "dominio": "mdzol.com"
+    },
+    {
+     "medio": "elsello.info",
+     "url": "https://elsello.info/2026/11/27/el-intendente-de-villarino-respaldo-a-massa-para-2027/",
+     "dominio": "elsello.info"
+    },
+    {
+     "medio": "MDZ Online",
+     "url": "https://www.mdzol.com/politica/2026/11/27/maximo-kirchner-en-clave-electoral-sera-un-problema-para-milei-kicillof-massa-o-cristina-1998241.html",
+     "dominio": "mdzol.com"
+    },
+    {
+     "medio": "SL24",
+     "url": "https://sl24.com.ar/la-interna-nacional-entre-axel-kicillof-y-sergio-massa-parte-el-tablero-del-peronismo-santafesino-rumbo-a-2027/",
+     "dominio": "sl24.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/politica/tepp-y-monteverde-faltaron-la-mesa-axel-2027-rosario-y-hacen-equilibrio-entre-kicillof-y-massa-n5428461",
+     "dominio": "letrap.com.ar"
+    },
+    {
+     "medio": "Diario El Independiente",
+     "url": "https://www.elindependiente.com.ar/pagina.php?id=387697",
+     "dominio": "elindependiente.com.ar"
+    },
+    {
+     "medio": "NotiAR",
+     "url": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
+     "dominio": "notiar.com.ar"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47116_massa-tens-la-interna-y-le-habl-a-kicillof-en-san-fernando.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "DataClave",
+     "url": "https://www.dataclave.com.ar/poder/un-paso-mas-alla--cual-es-la-puja-real-detras-de-las-multiples-candidaturas-peronistas-a-gobernador-de-pba_a6b06f75e6c33d7491d0ea05b",
+     "dominio": "dataclave.com.ar"
+    },
+    {
+     "medio": "Letra P",
+     "url": "https://www.letrap.com.ar/el-peronismo-y-el-discreto-encanto-la-ruptura-n5428485",
+     "dominio": "letrap.com.ar"
+    }
+   ],
+   "cantidad_notas": 15,
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "id": "presupuesto-universidades",
+   "titulo": "Presupuesto 2027: Diputados subió los fondos universitarios y el Gobierno buscará revertirlo en el Senado",
+   "resumen": "La Cámara de Diputados elevó los fondos para las universidades en el Presupuesto 2027, según Border Periodismo e iProfesional. Infobae informó que el Gobierno buscará revertir ese aumento en el Senado y que la oposición sospecha de un veto parcial.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Cecilia Moreau",
+    "Marina Dorotea"
+   ],
+   "principales": [
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno buscará revertir en el Senado el aumento de fondos para las universidades y la oposición sospecha de un veto parcial",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/",
+     "fecha": "2026-11-27T11:55-03:00",
+     "dominio": "infobae.com"
+    },
+    {
+     "medio": "iProfesional",
+     "titulo": "Presupuesto 2027: cuánto dinero recibirán las universidades tras el revés del Gobierno",
+     "url": "https://www.iprofesional.com/politica/470234-presupuesto-2027-cuanto-dinero-recibiran-las-universidades-tras-el-reves-del-gobierno",
+     "fecha": "2026-11-27T09:27-03:00",
+     "dominio": "iprofesional.com"
+    },
+    {
+     "medio": "Border Periodismo",
+     "titulo": "Diputados le torció el brazo a Milei: subieron a $11 billones los fondos para las universidades",
+     "url": "https://borderperiodismo.com/actualidad/diputados-le-torcio-el-brazo-a-milei-subieron-a-11-billones-los-fondos-para-las-universidades/",
+     "fecha": "2026-11-27T08:25-03:00",
+     "dominio": "borderperiodismo.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "periferia.com.ar",
+     "url": "https://periferia.com.ar/politica-cientifica/por-el-articulo-del-financiamiento-universitario-esta-frenada-la-aprobacion-del-presupuesto-2027/",
+     "dominio": "periferia.com.ar"
+    },
+    {
+     "medio": "0264Noticias",
+     "url": "https://www.0264noticias.com.ar/noticias/2026/11/26/118671-con-cruces-entre-el-oficialismo-y-la-oposicion-se-debate-el-presupuesto-2027",
+     "dominio": "0264noticias.com.ar"
+    },
+    {
+     "medio": "La Nación",
+     "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-busca-darle-media-sancion-al-presupuesto-2027-y-convertir-en-ley-la-reforma-nid26112026/",
+     "dominio": "lanacion.com.ar"
+    }
+   ],
+   "cantidad_notas": 6,
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "id": "san-fernando-fate-litio",
+   "titulo": "Planta de baterías de litio en el predio de Fate: sin permisos de la Provincia ni de San Fernando",
+   "resumen": "InfoBAN informa que el proyecto de baterías de litio en el predio de Fate no cuenta con los permisos de la Provincia ni del municipio de San Fernando. Según Que Pasa Web, Aluar busca instalar la planta para estabilizar el servicio de Edenor. Zona Norte Diario informó que crece el rechazo a la planta que Aluar busca instalar en el predio.",
+   "tono": "neutro",
+   "dirigentes": [],
+   "principales": [
+    {
+     "medio": "Zona Norte Diario Online",
+     "titulo": "San Fernando: Crece el rechazo a una planta de baterías de litio que Aluar busca instalar en el predio de Fate",
+     "url": "https://www.zonanortediario.com.ar/27/11/2026/san-fernando-crece-el-rechazo-a-una-planta-de-baterias-de-litio-que-aluar-busca-instalar-en-el-predio-de-fate/",
+     "fecha": "2026-11-27T08:57-03:00",
+     "dominio": "zonanortediario.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "ludopatia-infantil",
+   "titulo": "Ley de prevención de la ludopatía: Micaela Morán celebró su sanción",
+   "resumen": "Según Parlamentario, Micaela Morán celebró la ley de prevención de la ludopatía y regulación de las apuestas online, impulsada por ella, y destacó que permitirá actuar desde el Estado, la sociedad civil y las familias. Cecilia Moreau también celebró en X que el proyecto es ley. Durante el debate en la Cámara de Diputados bonaerense hubo un cruce entre Rubén Eslaiman y un legislador del PRO, según Código Baires.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Micaela Morán",
+    "Rubén Eslaiman"
+   ],
+   "principales": [
+    {
+     "medio": "Parlamentario",
+     "titulo": "Micaela Morán celebró la ley contra la ludopatía: “Se podrá actuar desde el Estado, la sociedad civil y las familias”",
+     "url": "https://www.parlamentario.com/2026/11/27/micaela-moran-celebro-la-ley-contra-la-ludopatia-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/",
+     "fecha": "2026-11-27T02:07-03:00",
+     "dominio": "parlamentario.com"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "titulo": "Micaela Morán destacó el avance de la ley de prevención de la ludopatía y regulación de las apuestas online",
+     "url": "https://www.zonanortediario.com.ar/26/11/2026/micaela-moran-destaco-el-avance-de-la-ley-de-prevencion-de-la-ludopatia-y-regulacion-de-las-apuestas-online/",
+     "fecha": "2026-11-26T15:15-03:00",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "titulo": "Micaela Morán sobre su proyecto de ley para la prevención de la ludopatía: \"Se podrá actuar desde el Estado, la sociedad civil y las familias\"",
+     "url": "https://www.infoban.com.ar/26/11/2026/micaela-moran-sobre-su-proyecto-de-ley-para-la-prevencion-de-la-ludopatia-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/",
+     "fecha": "2026-11-26T14:58-03:00",
+     "dominio": "infoban.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Codigo Baires",
+     "url": "https://www.codigobaires.com.ar/2026-11-26/eslaiman-cruzo-a-rovello-por-angelici-y-hubo-amenaza-de-pinas-252088/amp",
+     "dominio": "codigobaires.com.ar"
+    },
+    {
+     "medio": "Noticias Urbanas",
+     "url": "https://www.noticiasurbanas.com.ar/estado-sociedad-civil-y-familias-la-apuesta-contra-la-ludopatia",
+     "dominio": "noticiasurbanas.com.ar"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/nacionales/diagonales/micaela-moran-se-podra-actuar-desde-el-estado-la-sociedad-civil-y-las-familias/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/defende-a-los-bonaerenses-no-a-angelici-diputado-del-massismo-cruzo-a-uno-del-pro-en-el-debate-de-la-ley-de-ludopatia",
+     "dominio": "lanoticia1.com"
+    }
+   ],
+   "cantidad_notas": 7,
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "id": "tigre-fiscal-impositiva",
+   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online y Cronos destacaron que la gestión de Julio Zamora consiguió el aumento de tasas con el respaldo de los libertarios. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sebastián Rovira"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Tigre: el zamorismo y La Libertad Avanza aprobaron la Fiscal e Impositiva 2027 con el rechazo de Fuerza Tigre",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-el-zamorismo-y-la-libertad-avanza-aprobaron-la-fiscal-e-impositiva-2027-con-el-rechazo-de-fuerza-tigre/",
+     "fecha": "2026-11-24T22:53-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Política Online",
+     "titulo": "Los libertarios apoyaron el aumento de tasas de Zamora",
+     "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
+     "fecha": "2026-11-25T21:40-03:00",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "SM Noticias",
+     "titulo": "El Concejo de Tigre aprobó las ordenanzas preparatorias Fiscal e Impositiva para 2027: El massismo, el único espacio que se opuso",
+     "url": "https://www.smnoticias.com/noticias/291559",
+     "fecha": "2026-11-24T23:35-03:00",
+     "dominio": "smnoticias.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47242_zamora-logr-aprobar-la-fiscal-e-impositiva-con-apoyo-libertario-en-tigre.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "Que Pasa Web",
+     "url": "https://www.quepasaweb.com.ar/tigre-con-el-apoyo-de-la-libertad-avanza-el-zamorismo-avanzo-con-dos-ordenanzas-clave-para-2027-y-apunto-contra-rovira-quien-respondio-szn1/",
+     "dominio": "quepasaweb.com.ar"
+    },
+    {
+     "medio": "Zona Norte Hoy",
+     "url": "https://www.zonanortehoy.com/tigre/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortehoy.com"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/conurbano/tigre/infoban/tigre-aprobo-la-preparatoria-de-la-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Zona Norte Visión",
+     "url": "https://zonanortevision.com.ar/441650/el-massismo-de-la-mano-de-sebastian-rovira-fracaso-en-su-intento-por-boicotear-la-presentacion-de-las-ordenanzas-de-preparatoria-fiscal-e-impositiva-2027-de-tigre/",
+     "dominio": "zonanortevision.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/24/11/2026/tigre-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-un-fuerte-cruce-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/tigre-zamorismo-y-lla-aprobaron-las-preparatorias-fiscal-e-impositiva-con-el-rechazo-del-massismo/85208/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/tigre-el-concejo-deliberante-aprobo-las-ordenanzas-fiscal-e-impositiva-2027-en-medio-de-cruces-entre-el-zamorismo-y-el-massismo/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "url": "https://www.lanoticiaweb.com.ar/tigre-los-libertarios-reivindicaron-la-eliminacion-de-tasas-y-el-tope-al-aumento-del-abl/",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "Cronos noticias",
+     "url": "https://infocronos.com.ar/nota/59059/con-respaldo-de-la-libertad-avanza-zamora-consiguio-aprobar-el-aumento-de-tasas-municipales-en-tigre/",
+     "dominio": "infocronos.com.ar"
+    }
+   ],
+   "cantidad_notas": 14,
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-24T21:33-03:00"
+  },
+  {
+   "id": "giuliano-presupuesto-santa-fe",
+   "titulo": "Giuliano reclamó fondos para Santa Fe en el Presupuesto 2027",
+   "resumen": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027 y reclamó defender los recursos de la provincia, según La Capital. En Rosario3 sostuvo que «a Santa Fe se la defiende con hechos», y Sin Mordaza informa que cuestionó al gobernador Maximiliano Pullaro por darle quórum al oficialismo.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Diego Giuliano"
+   ],
+   "principales": [
+    {
+     "medio": "La Capital",
+     "titulo": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
+     "url": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html",
+     "fecha": "2026-11-26T18:33-03:00",
+     "dominio": "lacapital.com.ar"
+    },
+    {
+     "medio": "Rosario3",
+     "titulo": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
+     "url": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
+     "fecha": "2026-11-26T19:02-03:00",
+     "dominio": "rosario3.com"
+    },
+    {
+     "medio": "Sin Mordaza",
+     "titulo": "Giuliano cuestionó a Pullaro por darle quórum al oficialismo",
+     "url": "https://sinmordaza.com/noticia/526787-giuliano-cuestiono-a-pullaro-por-darle-quorum-al-oficialismo.html",
+     "fecha": "2026-11-26T14:48-03:00",
+     "dominio": "sinmordaza.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "moreau-endeudamiento-familiar",
+   "titulo": "Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+   "resumen": "La diputada nacional Cecilia Moreau criticó en la Cámara de Diputados el rechazo a incorporar en la sesión el proyecto sobre endeudamiento familiar, según El Intransigente.",
+   "tono": "neutro",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Diputados: Cecilia Moreau criticó el rechazo al proyecto de endeudamiento familiar",
+     "url": "https://elintransigente.com/2026/11/26/diputados-cecilia-moreau-critico-rechazo-proyecto-endeudamiento-familiar/",
+     "fecha": "2026-11-26T17:45-03:00",
+     "dominio": "elintransigente.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "quintela-juventud-fr",
+   "titulo": "Ricardo Quintela se reunió con la Juventud del Frente Renovador en CABA",
+   "resumen": "El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951. Felipe Romero, de Jóvenes FR CABA, lo recibió y lo calificó de honor en sus redes. Eduardo German informó que Quintela sostuvo que \"también podemos jugar\" en 2027 y que su gira suma fotos con todo el peronismo y genera malestar en el PJ.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Felipe Romero"
+   ],
+   "principales": [
+    {
+     "medio": "Fenix951",
+     "titulo": "Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en CABA",
+     "url": "https://fenix951.com.ar/noticia.php?id=361751",
+     "fecha": "2026-11-26T09:22-03:00",
+     "dominio": "fenix951.com.ar"
+    },
+    {
+     "medio": "Eduardo German",
+     "titulo": "Quintela: “también podemos jugar” en 2027",
+     "url": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
+     "fecha": "2026-11-25T14:07-03:00",
+     "dominio": "eduardogerman.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Eduardo German",
+     "url": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
+     "dominio": "eduardogerman.com"
+    }
+   ],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-26T14:10-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-26T14:10-03:00"
+  },
+  {
+   "id": "malena-galmarini-tigre",
+   "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
+   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a recuperar el municipio de Tigre, según La Noticia Web, El Conurbano y NorteOnline. El Comercio Online señala que planteó recuperar la calidad de gestión y cambiar las prioridades del distrito; este jueves Diario La Primera volvió sobre sus declaraciones.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Malena Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
+     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/",
+     "fecha": "2026-11-25T16:56-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "elcomercioonline.com.ar",
+     "titulo": "Malena Galmarini planteó recuperar la calidad de gestión y cambiar las prioridades de Tigre",
+     "url": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
+     "fecha": "2026-11-25T15:59-03:00",
+     "dominio": "elcomercioonline.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "titulo": "Tigre: Malena Galmarini cuestionó la gestión de Zamora y llamó a “recuperar el municipio”",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1",
+     "fecha": "2026-11-24T21:06-03:00",
+     "dominio": "norteonline.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/85446/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/25/11/2026/malena-galmarini-apunto-contra-la-gestion-de-zamora-hay-que-recuperar-el-municipio-para-los-vecinos/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "Diariolaprimera",
+     "url": "https://diariolaprimera.com.ar/contenido/11329/galmarini-contra-zamora-hay-que-recuperar-el-municipio",
+     "dominio": "diariolaprimera.com.ar"
+    }
+   ],
+   "cantidad_notas": 7,
+   "vigente_desde": "2026-11-26T14:10-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
+  {
+   "id": "moreau-discapacidad",
+   "titulo": "Cecilia Moreau reclamó partidas específicas para discapacidad y salud",
+   "resumen": "La diputada nacional Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas. En sus redes sostuvo que la ley de Discapacidad ya fue sancionada y que ahora hacen falta los recursos para garantizarla.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Cecilia Moreau"
+   ],
+   "principales": [
+    {
+     "medio": "Infobrisas",
+     "titulo": "Moreau exige partidas específicas para discapacidad y salud",
+     "url": "https://www.infobrisas.com/noticias/2026/11/26/116097-moreau-exige-partidas-especificas-para-discapacidad-y-salud",
+     "fecha": "2026-11-26T10:12-03:00",
+     "dominio": "infobrisas.com"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-26T14:10-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-26T14:10-03:00"
+  }
+ ],
+ "redes": [
+  {
+   "url": "https://x.com/MichelGuilleOK/status/2126327309246275900",
+   "autor": "@MichelGuilleOK",
+   "nota": "Sobre el Presupuesto y las obligaciones del Gobierno.",
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-27T13:40-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126312594923217209",
+   "autor": "@DiegoGiuliano",
+   "nota": "Recursos para Santa Fe en el Presupuesto 2027.",
+   "vigente_desde": "2026-11-27T13:40-03:00",
+   "desde_hora": "14",
+   "sumado": "2026-11-27T13:40-03:00"
+  },
+  {
+   "url": "https://x.com/felipemromeroo/status/2126218041889366525",
+   "autor": "@felipemromeroo",
+   "nota": "Sobre el freno al desfinanciamiento universitario.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126204050639376848",
+   "autor": "@ceciliamoreauok",
+   "nota": "Partidas para la Ley de Financiamiento Universitario en el Presupuesto.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2126202273453777074",
+   "autor": "@marinadorotea",
+   "nota": "Aprobada la modificación del dictamen para el presupuesto universitario.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126150013700932081",
+   "autor": "@ceciliamoreauok",
+   "nota": "La ley de prevención de la ludopatía.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2126124505399803928",
+   "autor": "@marinadorotea",
+   "nota": "Críticas al Presupuesto 2027.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/FrenteRenovador/status/2126105054730231878",
+   "autor": "@FrenteRenovador",
+   "nota": "Massa en el foro de IA de la FAMAF (UNC).",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126104990582534166",
+   "autor": "@DiegoGiuliano",
+   "nota": "Fondos para Santa Fe en el Presupuesto 2027.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126076894839996603",
+   "autor": "@DiegoGiuliano",
+   "nota": "Su intervención en el debate del Presupuesto 2027.",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-27T06:15-03:00"
+  },
+  {
+   "url": "https://x.com/RubenEslaiman/status/2126068681121636813",
+   "autor": "@RubenEslaiman",
+   "nota": "Proyectos aprobados en Diputados bonaerense.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126006878962360445",
+   "autor": "@ceciliamoreauok",
+   "nota": "Proyecto de endeudamiento familiar.",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-26T21:34-03:00"
+  }
+ ],
+ "entrevistas": [
+  {
+   "youtube": "oFEeRoHKfdI",
+   "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
+   "canal": "LT23 RADIO SAN GENARO",
+   "fecha_txt": "hace 7 min",
+   "duracion": "12:57",
+   "url": "https://www.youtube.com/watch?v=oFEeRoHKfdI",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "HbpWLzHNpN8",
+   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
+   "canal": "C5N",
+   "fecha_txt": "",
+   "duracion": "",
+   "url": "https://www.youtube.com/watch?v=HbpWLzHNpN8",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "H2lxMFOIWbA",
+   "titulo": "FELI ROMERO JOVEN DEL FRENTE RENOVADOR CAYÓ A ALGUIEN CAE",
+   "canal": "ALGUIEN CAE",
+   "fecha_txt": "hace 59 min",
+   "duracion": "58:26",
+   "url": "https://www.youtube.com/watch?v=H2lxMFOIWbA",
+   "vigente_desde": "2026-11-27T06:15-03:00",
+   "desde_hora": "06",
+   "sumado": "2026-11-26T05:33-03:00"
+  },
+  {
+   "youtube": "JxqoyF4ZGYg",
+   "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
+   "canal": "Diagonales Stream",
+   "fecha_txt": "hace 41 min",
+   "duracion": "27:51",
+   "url": "https://www.youtube.com/watch?v=JxqoyF4ZGYg",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T21:34-03:00"
+  },
+  {
+   "youtube": "OBD695QwnYw",
+   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
+   "canal": "Aire de Santa Fe",
+   "fecha_txt": "hace 38 min",
+   "duracion": "37:05",
+   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T14:16-03:00"
+  },
+  {
+   "youtube": "L9dBSGtbhqM",
+   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
+   "canal": "keopsfm",
+   "fecha_txt": "hace 49 min",
+   "duracion": "17:26",
+   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
+   "vigente_desde": "2026-11-26T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T14:16-03:00"
+  }
+ ],
+ "metricas": {
+  "notas_analizadas": 148,
+  "medios": 92,
+  "temas": 12
+ }
+}

@@ -1,51 +1,86 @@
 {
- "hora": "06",
+ "hora": "14",
  "claves": [
   {
-   "texto": "Sergio Massa participó en Córdoba de un foro sobre inteligencia artificial en la Universidad Nacional de Córdoba, donde también reclamó por el presupuesto universitario, según Perfil.",
+   "texto": "Sergio Massa advirtió que el Gobierno todavía debe conseguir en Diputados los votos para suspender las PASO, tras la media sanción del Senado.",
    "fuentes": [
-    "770d31e03e17",
-    "d8764cda4670"
+    "79abdb1ea13f",
+    "1c1cd7306b8b"
    ]
   },
   {
-   "texto": "Según periferia.com.ar, el artículo de financiamiento universitario demoró la aprobación del Presupuesto 2027 en la Cámara de Diputados.",
+   "texto": "En Córdoba, Sergio Massa anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre inteligencia artificial, empleo y producción, según Infobae.",
    "fuentes": [
-    "bc6d2146edd1"
+    "df080cfd8645",
+    "34a243120da4"
    ]
   },
   {
-   "texto": "Micaela Morán celebró la sanción de la ley de prevención de la ludopatía y regulación de las apuestas online.",
+   "texto": "Según Infobae, el Gobierno buscará revertir en el Senado el aumento de fondos universitarios aprobado por Diputados en el Presupuesto 2027.",
    "fuentes": [
-    "ab9ec5e09f26"
+    "d4e3ff66af85",
+    "96a852c72de4"
    ]
   },
   {
-   "texto": "El intendente de Villarino respaldó a Sergio Massa de cara a 2027, según elsello.info.",
+   "texto": "Según Flipr.news, Bevilacqua respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior.",
    "fuentes": [
-    "a207ef31d5a3"
+    "133816723c74"
    ]
   }
  ],
- "retirar": [
-  "https://x.com/ceciliamoreauok/status/2125772741248753906",
-  "https://x.com/ceciliamoreauok/status/2126021113033736565"
- ],
+ "retirar": [],
  "temas": [
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Suspensión de las PASO: Massa advirtió que al Gobierno todavía le falta Diputados",
+   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Distintos medios señalaron que, sin primarias, el peronismo acelera la definición de su candidato.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    "79abdb1ea13f",
+    "1c1cd7306b8b",
+    "3edc00cca2c0"
+   ],
+   "otras": [
+    "fe9032fff24d",
+    "4077098ee1a3",
+    "0a7d39d4352c",
+    "420a24c20d6d",
+    "8a4a9a754ff5",
+    "1dd2d17c29d7",
+    "49458844cc2c",
+    "9e6cdc0731ec",
+    "523fdbcb6555",
+    "3c18a39113b4",
+    "50e3a076ad18",
+    "4ddf58d44dd6",
+    "29c2b894af5e"
+   ]
+  },
   {
    "id": "massa-ia-cordoba",
    "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
-   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Perfil, reclamó ciencia y pensamiento autónomo para que la IA también sea argentina; NorteOnline y Data Diario informan que anticipó que incorporará la herramienta a la plataforma de su espacio. Letra P lo leyó como una disputa por el modelo productivo. Perfil Córdoba informó además que reclamó por el presupuesto universitario.",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae y Noticias Urbanas, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que en su paso por Córdoba le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei.",
    "tono": "positivo",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "770d31e03e17",
-    "5ae2c6c95697",
-    "7d58d8615059"
+    "df080cfd8645",
+    "b3615104d63d",
+    "770d31e03e17"
    ],
    "otras": [
+    "34a243120da4",
+    "d0fa5d98a1c5",
+    "66e0b1ac3a26",
+    "0dce3207a6a6",
+    "42abd4a6bda3",
+    "5ae2c6c95697",
+    "7d58d8615059",
     "d8764cda4670",
     "8caf85066692",
     "eca96be88289",
@@ -69,77 +104,22 @@
    ]
   },
   {
-   "id": "presupuesto-universidades",
-   "titulo": "Presupuesto 2027: el financiamiento universitario, eje del debate en Diputados",
-   "resumen": "Según periferia.com.ar, el artículo sobre financiamiento universitario frenó durante la sesión la aprobación del Presupuesto 2027 en la Cámara de Diputados. Las diputadas nacionales Cecilia Moreau y Marina Dorotea informaron en X que se aprobó por mayoría la modificación del dictamen oficial para asignar las partidas del sistema universitario.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Cecilia Moreau",
-    "Marina Dorotea"
-   ],
-   "principales": [
-    "bc6d2146edd1",
-    "0431fc363e52"
-   ],
-   "otras": [
-    "50dbdcd8c153"
-   ]
-  },
-  {
-   "id": "peronismo-sin-paso",
-   "titulo": "Media sanción a la suspensión de las PASO: Massa dice que el Gobierno se apura",
-   "resumen": "El Senado aprobó y giró a Diputados la reforma electoral que suspende las PASO del año próximo; la diaria señala que la medida complica al peronismo. Sergio Massa afirmó a Cadena 3 que ve al Gobierno «apresurando resultados» y, según La Política Online, advirtió que todavía falta el tratamiento en Diputados.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    "49458844cc2c",
-    "9e6cdc0731ec",
-    "523fdbcb6555"
-   ],
-   "otras": [
-    "3c18a39113b4",
-    "50e3a076ad18",
-    "4ddf58d44dd6",
-    "29c2b894af5e"
-   ]
-  },
-  {
-   "id": "ludopatia-infantil",
-   "titulo": "Ley de prevención de la ludopatía: Micaela Morán celebró su sanción",
-   "resumen": "Según Parlamentario, Micaela Morán celebró la ley de prevención de la ludopatía y regulación de las apuestas online, impulsada por ella, y destacó que permitirá actuar desde el Estado, la sociedad civil y las familias. Cecilia Moreau también celebró en X que el proyecto es ley. Durante el debate en la Cámara de Diputados bonaerense hubo un cruce entre Rubén Eslaiman y un legislador del PRO, según Código Baires.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Micaela Morán",
-    "Rubén Eslaiman"
-   ],
-   "principales": [
-    "ab9ec5e09f26",
-    "a25e326b8662",
-    "4381b5391dae"
-   ],
-   "otras": [
-    "bd8af13853f3",
-    "3f7df9c9eab2",
-    "d84c9632a1a0",
-    "3ce9c78f3cd0"
-   ]
-  },
-  {
    "id": "massa-unidad-2027",
-   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
-   "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027. Según elsello.info, el intendente de Villarino respaldó a Massa para 2027.",
+   "titulo": "Respaldos a Massa rumbo a 2027 y una encuesta que lo compara con Kicillof",
+   "resumen": "Según Flipr.news, Bevilacqua respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior. Perfil difundió una encuesta cordobesa que compara a Axel Kicillof y a Massa en un eventual balotaje frente a Javier Milei, y tituló que solo uno de ellos le ganaría con claridad.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
-    "d64309f75c82",
-    "0886346b6fa6",
-    "95ed5bcfdaa6"
+    "133816723c74",
+    "136fceec3120",
+    "d64309f75c82"
    ],
    "otras": [
+    "5b40fb7be376",
+    "0886346b6fa6",
+    "95ed5bcfdaa6",
     "a207ef31d5a3",
     "a811687eda74",
     "35556f40a6d6",
@@ -152,76 +132,48 @@
    ]
   },
   {
-   "id": "tigre-fiscal-impositiva",
-   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
-   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online y Cronos destacaron que la gestión de Julio Zamora consiguió el aumento de tasas con el respaldo de los libertarios. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "id": "presupuesto-universidades",
+   "titulo": "Presupuesto 2027: Diputados subió los fondos universitarios y el Gobierno buscará revertirlo en el Senado",
+   "resumen": "La Cámara de Diputados elevó los fondos para las universidades en el Presupuesto 2027, según Border Periodismo e iProfesional. Infobae informó que el Gobierno buscará revertir ese aumento en el Senado y que la oposición sospecha de un veto parcial.",
    "tono": "mixto",
    "dirigentes": [
-    "Sebastián Rovira"
+    "Cecilia Moreau",
+    "Marina Dorotea"
    ],
    "principales": [
-    "af3841298c61",
-    "ef683e736be4",
-    "5040c4b522e8"
+    "d4e3ff66af85",
+    "74d7e680d9c0",
+    "96a852c72de4"
    ],
    "otras": [
-    "b3d1dc671e45",
-    "a85ca86ce20e",
-    "716fc53d7558",
-    "99db044f2704",
-    "f91d58fcb7b7",
-    "24402ea4fc2e",
-    "7643c5fbd10c",
-    "90ad293860ce",
-    "1a8065d55f34",
-    "a05b140c4866",
-    "c3fe16a57811"
+    "bc6d2146edd1",
+    "0431fc363e52",
+    "50dbdcd8c153"
    ]
+  },
+  {
+   "id": "san-fernando-fate-litio",
+   "titulo": "Planta de baterías de litio en el predio de Fate: sin permisos de la Provincia ni de San Fernando",
+   "resumen": "InfoBAN informa que el proyecto de baterías de litio en el predio de Fate no cuenta con los permisos de la Provincia ni del municipio de San Fernando. Según Que Pasa Web, Aluar busca instalar la planta para estabilizar el servicio de Edenor. Zona Norte Diario informó que crece el rechazo a la planta que Aluar busca instalar en el predio.",
+   "tono": "neutro",
+   "dirigentes": [],
+   "principales": [
+    "1b223b366df9"
+   ],
+   "otras": []
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/ceciliamoreauok/status/2126204050639376848",
-   "autor": "@ceciliamoreauok",
-   "nota": "Partidas para la Ley de Financiamiento Universitario en el Presupuesto."
+   "url": "https://x.com/MichelGuilleOK/status/2126327309246275900",
+   "autor": "@MichelGuilleOK",
+   "nota": "Sobre el Presupuesto y las obligaciones del Gobierno."
   },
   {
-   "url": "https://x.com/marinadorotea/status/2126202273453777074",
-   "autor": "@marinadorotea",
-   "nota": "Aprobada la modificación del dictamen para el presupuesto universitario."
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2126218041889366525",
-   "autor": "@felipemromeroo",
-   "nota": "Sobre el freno al desfinanciamiento universitario."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2126150013700932081",
-   "autor": "@ceciliamoreauok",
-   "nota": "La ley de prevención de la ludopatía."
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2126124505399803928",
-   "autor": "@marinadorotea",
-   "nota": "Críticas al Presupuesto 2027."
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2126076894839996603",
+   "url": "https://x.com/DiegoGiuliano/status/2126312594923217209",
    "autor": "@DiegoGiuliano",
-   "nota": "Su intervención en el debate del Presupuesto 2027."
+   "nota": "Recursos para Santa Fe en el Presupuesto 2027."
   }
  ],
- "entrevistas": [
-  {
-   "video_id": "oFEeRoHKfdI"
-  },
-  {
-   "video_id": "HbpWLzHNpN8",
-   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
-   "canal": "C5N"
-  },
-  {
-   "video_id": "H2lxMFOIWbA"
-  }
- ]
+ "entrevistas": []
 }
