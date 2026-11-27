@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-27T03:24-03:00",
- "total": 85,
+ "generado": "2026-11-27T04:50-03:00",
+ "total": 82,
  "tuits": [
   {
    "id": "2125998596814479505",
@@ -21,6 +21,11 @@
    "visto": "2026-11-26T20:18-03:00",
    "url": "https://twitter.com/RubenEslaiman/status/2126004798709199260",
    "citado_en": [
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
+     "nota_id": "bb895d01949e"
+    },
     {
      "medio": "Codigo Baires",
      "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
@@ -1730,45 +1735,6 @@
      "medio": "Noticias Urbanas",
      "titulo": "Acto de la Militancia: Olmos aclaró la ausencia de Kicillof",
      "nota_id": "bdbfc0c4d843"
-    }
-   ]
-  },
-  {
-   "id": "2122824454728274104",
-   "usuario": "Letra_P",
-   "visto": "2026-11-20T03:26-03:00",
-   "url": "https://twitter.com/Letra_P/status/2122824454728274104",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Todos menos tú: con Sergio Massa como figura estelar, el peronismo mostró una foto de la unidad sin Kicillof",
-     "nota_id": "8cfcd7bbc5dc"
-    }
-   ]
-  },
-  {
-   "id": "2122851817834877406",
-   "usuario": "teleargentinaOK",
-   "visto": "2026-11-20T03:26-03:00",
-   "url": "https://twitter.com/teleargentinaOK/status/2122851817834877406",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Todos menos tú: con Sergio Massa como figura estelar, el peronismo mostró una foto de la unidad sin Kicillof",
-     "nota_id": "8cfcd7bbc5dc"
-    }
-   ]
-  },
-  {
-   "id": "2122820177683218632",
-   "usuario": "Letra_P",
-   "visto": "2026-11-20T03:26-03:00",
-   "url": "https://twitter.com/Letra_P/status/2122820177683218632",
-   "citado_en": [
-    {
-     "medio": "Enterate Noticias",
-     "titulo": "Guillermo Michel, en la cumbre de San Fernando: «Estoy seguro que acá surge el nuevo presidente peronista»",
-     "nota_id": "a0acfbdcaad8"
     }
    ]
   }
