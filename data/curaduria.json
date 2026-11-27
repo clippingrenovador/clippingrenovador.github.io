@@ -1,55 +1,54 @@
 {
- "hora": "22",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Sergio Massa participó en Córdoba del cierre del foro «IA y políticas públicas», organizado por la FAMAF de la Universidad Nacional de Córdoba, donde propuso una agenda de inteligencia artificial orientada a la producción y el empleo.",
+   "texto": "Sergio Massa participó en Córdoba de un foro sobre inteligencia artificial en la Universidad Nacional de Córdoba, donde también reclamó por el presupuesto universitario, según Perfil.",
    "fuentes": [
-    "4cc1f381f26d",
-    "5ae2c6c95697",
-    "322a46e25c98"
+    "770d31e03e17",
+    "d8764cda4670"
    ]
   },
   {
-   "texto": "El Senado dio media sanción a la reforma electoral que suspende las PASO. Sergio Massa sostuvo que el Gobierno se apresura, porque resta el tratamiento en Diputados.",
+   "texto": "Según periferia.com.ar, el artículo de financiamiento universitario demoró la aprobación del Presupuesto 2027 en la Cámara de Diputados.",
    "fuentes": [
-    "523fdbcb6555",
-    "49458844cc2c",
-    "9e6cdc0731ec"
+    "bc6d2146edd1"
    ]
   },
   {
-   "texto": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027.",
+   "texto": "Micaela Morán celebró la sanción de la ley de prevención de la ludopatía y regulación de las apuestas online.",
    "fuentes": [
-    "8d1967c5c22c",
-    "52a8fbcc64ac"
+    "ab9ec5e09f26"
    ]
   },
   {
-   "texto": "La diputada bonaerense Micaela Morán destacó el avance de la ley de prevención de la ludopatía y regulación de las apuestas online en la Legislatura provincial.",
+   "texto": "El intendente de Villarino respaldó a Sergio Massa de cara a 2027, según elsello.info.",
    "fuentes": [
-    "a25e326b8662",
-    "4381b5391dae"
+    "a207ef31d5a3"
    ]
   }
  ],
  "retirar": [
-  "https://x.com/DiegoGiuliano/status/2125320067990556894"
+  "https://x.com/ceciliamoreauok/status/2125772741248753906",
+  "https://x.com/ceciliamoreauok/status/2126021113033736565"
  ],
  "temas": [
   {
    "id": "massa-ia-cordoba",
    "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
-   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Perfil, reclamó ciencia y pensamiento autónomo para que la IA también sea argentina; NorteOnline y Data Diario informan que anticipó que incorporará la herramienta a la plataforma de su espacio. Letra P lo leyó como una disputa por el modelo productivo.",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Perfil, reclamó ciencia y pensamiento autónomo para que la IA también sea argentina; NorteOnline y Data Diario informan que anticipó que incorporará la herramienta a la plataforma de su espacio. Letra P lo leyó como una disputa por el modelo productivo. Perfil Córdoba informó además que reclamó por el presupuesto universitario.",
    "tono": "positivo",
    "dirigentes": [
     "Sergio Massa"
    ],
    "principales": [
+    "770d31e03e17",
     "5ae2c6c95697",
-    "7d58d8615059",
-    "eca96be88289"
+    "7d58d8615059"
    ],
    "otras": [
+    "d8764cda4670",
+    "8caf85066692",
+    "eca96be88289",
     "12c656631b2c",
     "4cc1f381f26d",
     "a88f0e4c0172",
@@ -63,11 +62,27 @@
     "6889a32e2817",
     "07bdf0e2fee9",
     "ff1acc897ac3",
-    "8caf85066692",
     "673a136157e6",
     "067c108f53e5",
     "414fdba55f91",
     "e7e41659ba7e"
+   ]
+  },
+  {
+   "id": "presupuesto-universidades",
+   "titulo": "Presupuesto 2027: el financiamiento universitario, eje del debate en Diputados",
+   "resumen": "Según periferia.com.ar, el artículo sobre financiamiento universitario frenó durante la sesión la aprobación del Presupuesto 2027 en la Cámara de Diputados. Las diputadas nacionales Cecilia Moreau y Marina Dorotea informaron en X que se aprobó por mayoría la modificación del dictamen oficial para asignar las partidas del sistema universitario.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Cecilia Moreau",
+    "Marina Dorotea"
+   ],
+   "principales": [
+    "bc6d2146edd1",
+    "0431fc363e52"
+   ],
+   "otras": [
+    "50dbdcd8c153"
    ]
   },
   {
@@ -84,113 +99,129 @@
     "523fdbcb6555"
    ],
    "otras": [
+    "3c18a39113b4",
     "50e3a076ad18",
     "4ddf58d44dd6",
     "29c2b894af5e"
    ]
   },
   {
-   "id": "giuliano-presupuesto-santa-fe",
-   "titulo": "Giuliano reclamó fondos para Santa Fe en el Presupuesto 2027",
-   "resumen": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027 y reclamó defender los recursos de la provincia, según La Capital. En Rosario3 sostuvo que «a Santa Fe se la defiende con hechos», y Sin Mordaza informa que cuestionó al gobernador Maximiliano Pullaro por darle quórum al oficialismo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Diego Giuliano"
-   ],
-   "principales": [
-    "8d1967c5c22c",
-    "52a8fbcc64ac",
-    "eda5780ca6e4"
-   ],
-   "otras": []
-  },
-  {
    "id": "ludopatia-infantil",
-   "titulo": "Avanza en la Legislatura bonaerense la ley de prevención de la ludopatía",
-   "resumen": "La diputada bonaerense Micaela Morán destacó el avance de su proyecto de prevención de la ludopatía y regulación de las apuestas online, que según dijo permitirá actuar desde el Estado, la sociedad civil y las familias. Durante el debate, el diputado Rubén Eslaiman protagonizó un cruce con el legislador del PRO Rovello, según Código Baires y La Noticia 1.",
+   "titulo": "Ley de prevención de la ludopatía: Micaela Morán celebró su sanción",
+   "resumen": "Según Parlamentario, Micaela Morán celebró la ley de prevención de la ludopatía y regulación de las apuestas online, impulsada por ella, y destacó que permitirá actuar desde el Estado, la sociedad civil y las familias. Cecilia Moreau también celebró en X que el proyecto es ley. Durante el debate en la Cámara de Diputados bonaerense hubo un cruce entre Rubén Eslaiman y un legislador del PRO, según Código Baires.",
    "tono": "positivo",
    "dirigentes": [
     "Micaela Morán",
     "Rubén Eslaiman"
    ],
    "principales": [
+    "ab9ec5e09f26",
     "a25e326b8662",
-    "4381b5391dae",
-    "bd8af13853f3"
+    "4381b5391dae"
    ],
    "otras": [
+    "bd8af13853f3",
     "3f7df9c9eab2",
     "d84c9632a1a0",
     "3ce9c78f3cd0"
    ]
   },
   {
-   "id": "moreau-endeudamiento-familiar",
-   "titulo": "Moreau criticó el rechazo al proyecto de endeudamiento familiar",
-   "resumen": "La diputada nacional Cecilia Moreau criticó en la Cámara de Diputados el rechazo a incorporar en la sesión el proyecto sobre endeudamiento familiar, según El Intransigente.",
-   "tono": "neutro",
+   "id": "massa-unidad-2027",
+   "titulo": "Massa busca la unidad rumbo a 2027 y el FR evalúa sus opciones",
+   "resumen": "Según Diagonales, desde el Frente Renovador postulan a Sergio Massa como \"el único\" capaz de ordenar el país, y Letra P recoge la afirmación de Mario Giacobbe de que es el mejor candidato a presidente del peronismo. MDZ publica que Massa busca la unidad para crecer y SL24 señala que la interna entre Axel Kicillof y Massa divide al peronismo santafesino. Según Diario El Independiente, Bordagaray anticipó que el FR podría competir con espacio propio en 2027. Según elsello.info, el intendente de Villarino respaldó a Massa para 2027.",
+   "tono": "mixto",
    "dirigentes": [
-    "Cecilia Moreau"
+    "Sergio Massa"
    ],
    "principales": [
-    "2c224417cd7b"
+    "d64309f75c82",
+    "0886346b6fa6",
+    "95ed5bcfdaa6"
    ],
-   "otras": []
+   "otras": [
+    "a207ef31d5a3",
+    "a811687eda74",
+    "35556f40a6d6",
+    "d41263f5e6e7",
+    "2150de7d46ea",
+    "5dbd9e3abf15",
+    "4ada4d1ba9b0",
+    "b9de01735efa",
+    "c416da7a4152"
+   ]
   },
   {
-   "id": "san-fernando-fate-litio",
-   "titulo": "Planta de baterías de litio en el predio de Fate: sin permisos de la Provincia ni de San Fernando",
-   "resumen": "InfoBAN informa que el proyecto de baterías de litio en el predio de Fate no cuenta con los permisos de la Provincia ni del municipio de San Fernando. Según Que Pasa Web, Aluar busca instalar la planta para estabilizar el servicio de Edenor.",
-   "tono": "neutro",
-   "dirigentes": [],
-   "principales": [
-    "e159e45d25ad",
-    "b1bd0cf8448e"
+   "id": "tigre-fiscal-impositiva",
+   "titulo": "Tigre: el Concejo aprobó la fiscal e impositiva 2027 con el rechazo del FR",
+   "resumen": "El Concejo Deliberante de Tigre aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web y SM Noticias. La Política Online y Cronos destacaron que la gestión de Julio Zamora consiguió el aumento de tasas con el respaldo de los libertarios. Que Pasa Web informa que el oficialismo apuntó contra Sebastián Rovira y que este respondió.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sebastián Rovira"
    ],
-   "otras": []
+   "principales": [
+    "af3841298c61",
+    "ef683e736be4",
+    "5040c4b522e8"
+   ],
+   "otras": [
+    "b3d1dc671e45",
+    "a85ca86ce20e",
+    "716fc53d7558",
+    "99db044f2704",
+    "f91d58fcb7b7",
+    "24402ea4fc2e",
+    "7643c5fbd10c",
+    "90ad293860ce",
+    "1a8065d55f34",
+    "a05b140c4866",
+    "c3fe16a57811"
+   ]
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/FrenteRenovador/status/2126105054730231878",
-   "autor": "@FrenteRenovador",
-   "nota": "Massa en el foro de IA de la FAMAF (UNC)."
+   "url": "https://x.com/ceciliamoreauok/status/2126204050639376848",
+   "autor": "@ceciliamoreauok",
+   "nota": "Partidas para la Ley de Financiamiento Universitario en el Presupuesto."
   },
   {
-   "url": "https://x.com/DiegoGiuliano/status/2126104990582534166",
+   "url": "https://x.com/marinadorotea/status/2126202273453777074",
+   "autor": "@marinadorotea",
+   "nota": "Aprobada la modificación del dictamen para el presupuesto universitario."
+  },
+  {
+   "url": "https://x.com/felipemromeroo/status/2126218041889366525",
+   "autor": "@felipemromeroo",
+   "nota": "Sobre el freno al desfinanciamiento universitario."
+  },
+  {
+   "url": "https://x.com/ceciliamoreauok/status/2126150013700932081",
+   "autor": "@ceciliamoreauok",
+   "nota": "La ley de prevención de la ludopatía."
+  },
+  {
+   "url": "https://x.com/marinadorotea/status/2126124505399803928",
+   "autor": "@marinadorotea",
+   "nota": "Críticas al Presupuesto 2027."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126076894839996603",
    "autor": "@DiegoGiuliano",
-   "nota": "Fondos para Santa Fe en el Presupuesto 2027."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2126006878962360445",
-   "autor": "@ceciliamoreauok",
-   "nota": "Proyecto de endeudamiento familiar."
-  },
-  {
-   "url": "https://x.com/RubenEslaiman/status/2126068681121636813",
-   "autor": "@RubenEslaiman",
-   "nota": "Proyectos aprobados en Diputados bonaerense."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2126021113033736565",
-   "autor": "@ceciliamoreauok",
-   "nota": "Votación sobre Atrofia Muscular Espinal en Diputados."
-  },
-  {
-   "url": "https://x.com/RubenEslaiman/status/2126004798709199260",
-   "autor": "@RubenEslaiman",
-   "nota": "Proyecto aprobado en la Cámara de Diputados bonaerense."
+   "nota": "Su intervención en el debate del Presupuesto 2027."
   }
  ],
  "entrevistas": [
   {
-   "video_id": "JxqoyF4ZGYg"
+   "video_id": "oFEeRoHKfdI"
   },
   {
-   "video_id": "OBD695QwnYw"
+   "video_id": "HbpWLzHNpN8",
+   "titulo": "\"Cambian las reglas para EVITAR una DERROTA\" | CECILIA MOREAU habló con GUSTAVO SYLVESTRE",
+   "canal": "C5N"
   },
   {
-   "video_id": "L9dBSGtbhqM"
+   "video_id": "H2lxMFOIWbA"
   }
  ]
 }
