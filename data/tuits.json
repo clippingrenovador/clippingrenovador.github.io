@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-27T09:19-03:00",
+ "generado": "2026-11-27T10:41-03:00",
  "total": 74,
  "tuits": [
+  {
+   "id": "2126065402681934321",
+   "usuario": "SofiaVannelli",
+   "visto": "2026-11-27T10:41-03:00",
+   "url": "https://twitter.com/SofiaVannelli/status/2126065402681934321",
+   "citado_en": [
+    {
+     "medio": "Noticias Urbanas",
+     "titulo": "IA, empleo y producción: los ejes que Massa sumará al programa peronista",
+     "nota_id": "34a243120da4"
+    }
+   ]
+  },
+  {
+   "id": "2126288789027061996",
+   "usuario": "MariaVaz_Falco",
+   "visto": "2026-11-27T10:41-03:00",
+   "url": "https://twitter.com/MariaVaz_Falco/status/2126288789027061996",
+   "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Fuerte mensaje político de Máximo Kirchner: anotó a varios en la carrera electoral",
+     "nota_id": "864ef0dc9730"
+    }
+   ]
+  },
   {
    "id": "2126258644987543825",
    "usuario": "passalacquaok",
@@ -1605,37 +1631,6 @@
      "medio": "Urgente24",
      "titulo": "Con o sin PASO: El peronismo le avisa a Milei que irá unido para sacarlo del poder en 2027",
      "nota_id": "392565a641e6"
-    }
-   ]
-  },
-  {
-   "id": "2122845649448149356",
-   "usuario": "AlexisGuerrera",
-   "visto": "2026-11-20T10:37-03:00",
-   "url": "https://twitter.com/AlexisGuerrera/status/2122845649448149356",
-   "citado_en": [
-    {
-     "medio": "Todo Provincial",
-     "titulo": "Cecilia Moreau llamó a la unidad del peronismo rumbo a 2027 y cuestionó el proyecto de Presupuesto",
-     "nota_id": "efa31e7b432b"
-    },
-    {
-     "medio": "Todo Provincial",
-     "titulo": "Las familias argentinas cada vez se endudan más y el consumo no repunta",
-     "nota_id": "9f57d53e3664"
-    }
-   ]
-  },
-  {
-   "id": "2123414392616161456",
-   "usuario": "0223comar",
-   "visto": "2026-11-20T10:37-03:00",
-   "url": "https://twitter.com/0223comar/status/2123414392616161456",
-   "citado_en": [
-    {
-     "medio": "0223.com.ar",
-     "titulo": "Cecilia Moreau descartó la interna: \"Con Paso o sin Paso el peronismo va a ir unido\"",
-     "nota_id": "6fb3218f269c"
     }
    ]
   }

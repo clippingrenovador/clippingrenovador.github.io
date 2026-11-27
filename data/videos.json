@@ -1,8 +1,28 @@
 {
- "generado": "2026-11-27T09:17-03:00",
- "total": 169,
+ "generado": "2026-11-27T10:39-03:00",
+ "total": 167,
  "errores": [],
  "videos": [
+  {
+   "id": "OqVWKwkq4kc",
+   "titulo": "Galmarini: un 2026 por la unidad contra Milei",
+   "canal": "Hacemos Prensa",
+   "publicado": "hace 57 min",
+   "duracion": "0:15",
+   "busqueda": "Sebastián Galmarini",
+   "url": "https://www.youtube.com/watch?v=OqVWKwkq4kc",
+   "visto": "2026-11-27T10:39-03:00"
+  },
+  {
+   "id": "yBVMQIviK2Q",
+   "titulo": "Sesión 26 11 2026",
+   "canal": "Marina Salzmann",
+   "publicado": "hace 1 h",
+   "duracion": "7:00",
+   "busqueda": "Marina Salzmann",
+   "url": "https://www.youtube.com/watch?v=yBVMQIviK2Q",
+   "visto": "2026-11-27T10:39-03:00"
+  },
   {
    "id": "IJQ6gDaOWcM",
    "titulo": "Diego Simeone les preguntó a Giuliano y a Álvarez cuáles eran sus deseos😂",
@@ -1652,46 +1672,6 @@
    "busqueda": "Diego Giuliano",
    "url": "https://www.youtube.com/watch?v=G7pC6FGk1Yc",
    "visto": "2026-11-20T12:16-03:00"
-  },
-  {
-   "id": "qu7uSdsMR_g",
-   "titulo": "🗣️ MALENA GALMARINI CHICANEO A LUIS CAPUTO:  \"NO TE ALTERES QUE TE SUBE LA PRESIÓN\"",
-   "canal": "A24com",
-   "publicado": "hace 1 h",
-   "duracion": "4:27",
-   "busqueda": "Malena Galmarini",
-   "url": "https://www.youtube.com/watch?v=qu7uSdsMR_g",
-   "visto": "2026-11-20T10:36-03:00"
-  },
-  {
-   "id": "PZ4kI9wtH2Y",
-   "titulo": "Diego Giuliano sobre las PASO: “Milei resuelve las candidaturas en un ascensor”",
-   "canal": "RADIO REALPOLITIK FM",
-   "publicado": "Transmitido hace 45 min",
-   "duracion": "11:51",
-   "busqueda": "Diego Giuliano",
-   "url": "https://www.youtube.com/watch?v=PZ4kI9wtH2Y",
-   "visto": "2026-11-20T10:36-03:00"
-  },
-  {
-   "id": "ix8AbQtkR4Q",
-   "titulo": "PyMes  17-11-2026",
-   "canal": "Marina Salzmann",
-   "publicado": "hace 45 min",
-   "duracion": "9:50",
-   "busqueda": "Marina Salzmann",
-   "url": "https://www.youtube.com/watch?v=ix8AbQtkR4Q",
-   "visto": "2026-11-20T10:36-03:00"
-  },
-  {
-   "id": "vduO07f3hT4",
-   "titulo": "Observatorio PYME   12-11-2026",
-   "canal": "Marina Salzmann",
-   "publicado": "hace 1 h",
-   "duracion": "15:53",
-   "busqueda": "Marina Salzmann",
-   "url": "https://www.youtube.com/watch?v=vduO07f3hT4",
-   "visto": "2026-11-20T10:36-03:00"
   }
  ]
 }
