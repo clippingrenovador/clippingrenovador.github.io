@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-27T04:50-03:00",
+ "generado": "2026-11-27T06:34-03:00",
  "total": 82,
  "tuits": [
+  {
+   "id": "2125989168736035323",
+   "usuario": "CarolinaMoises",
+   "visto": "2026-11-27T06:34-03:00",
+   "url": "https://twitter.com/CarolinaMoises/status/2125989168736035323",
+   "citado_en": [
+    {
+     "medio": "El Intransigente",
+     "titulo": "Carolina Moisés sacó del temario del Senado el proyecto de Falsas Denuncias",
+     "nota_id": "94255649fc78"
+    }
+   ]
+  },
   {
    "id": "2125998596814479505",
    "usuario": "pipoaravena",
@@ -21,6 +34,11 @@
    "visto": "2026-11-26T20:18-03:00",
    "url": "https://twitter.com/RubenEslaiman/status/2126004798709199260",
    "citado_en": [
+    {
+     "medio": "Codigo Baires",
+     "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
+     "nota_id": "bb895d01949e"
+    },
     {
      "medio": "Codigo Baires",
      "titulo": "Diputados aprobó la ley de apuestas online y Tignanelli reclamó saber quiénes manejan el negocio",
@@ -1722,19 +1740,6 @@
      "medio": "Cronos noticias",
      "titulo": "Colectoras y eliminación de las PASO: Galmarini rechazó la estrategia electoral de Milei y anticipó que no va a ganar en 2027",
      "nota_id": "31a499fab503"
-    }
-   ]
-  },
-  {
-   "id": "2122680845538312658",
-   "usuario": "infobaenvivo",
-   "visto": "2026-11-20T05:34-03:00",
-   "url": "https://twitter.com/infobaenvivo/status/2122680845538312658",
-   "citado_en": [
-    {
-     "medio": "Noticias Urbanas",
-     "titulo": "Acto de la Militancia: Olmos aclaró la ausencia de Kicillof",
-     "nota_id": "bdbfc0c4d843"
     }
    ]
   }
