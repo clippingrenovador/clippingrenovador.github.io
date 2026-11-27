@@ -1,8 +1,18 @@
 {
- "generado": "2026-11-27T10:39-03:00",
+ "generado": "2026-11-27T12:19-03:00",
  "total": 167,
  "errores": [],
  "videos": [
+  {
+   "id": "HfD6qDT0OYo",
+   "titulo": "Federico Guibaud concejal de Luján y referente local del Frente Renovador | Vox Audiovisual",
+   "canal": "VOX AUDIOVISUAL",
+   "publicado": "hace 29 min",
+   "duracion": "16:43",
+   "busqueda": "Frente Renovador",
+   "url": "https://www.youtube.com/watch?v=HfD6qDT0OYo",
+   "visto": "2026-11-27T12:19-03:00"
+  },
   {
    "id": "OqVWKwkq4kc",
    "titulo": "Galmarini: un 2026 por la unidad contra Milei",
@@ -1662,16 +1672,6 @@
    "busqueda": "Felipe Romero",
    "url": "https://www.youtube.com/watch?v=mpr6SbGUGYw",
    "visto": "2026-11-20T13:16-03:00"
-  },
-  {
-   "id": "G7pC6FGk1Yc",
-   "titulo": "Diego Giuliano en UrbanaBA",
-   "canal": "UrbanaBA Streaming",
-   "publicado": "hace 1 h",
-   "duracion": "16:48",
-   "busqueda": "Diego Giuliano",
-   "url": "https://www.youtube.com/watch?v=G7pC6FGk1Yc",
-   "visto": "2026-11-20T12:16-03:00"
   }
  ]
 }

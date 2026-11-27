@@ -1,7 +1,33 @@
 {
- "generado": "2026-11-27T10:41-03:00",
- "total": 74,
+ "generado": "2026-11-27T12:20-03:00",
+ "total": 76,
  "tuits": [
+  {
+   "id": "2126008086292836863",
+   "usuario": "El_Prensero",
+   "visto": "2026-11-27T12:20-03:00",
+   "url": "https://twitter.com/El_Prensero/status/2126008086292836863",
+   "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
+     "nota_id": "6669a1156f64"
+    }
+   ]
+  },
+  {
+   "id": "2126043678204449122",
+   "usuario": "Letra_P",
+   "visto": "2026-11-27T12:20-03:00",
+   "url": "https://twitter.com/Letra_P/status/2126043678204449122",
+   "citado_en": [
+    {
+     "medio": "Letra P",
+     "titulo": "Sergio Massa pasó por Córdoba y le pidió a Martín Llaryora que se encolumne contra Javier Milei",
+     "nota_id": "b3615104d63d"
+    }
+   ]
+  },
   {
    "id": "2126065402681934321",
    "usuario": "SofiaVannelli",
@@ -38,6 +64,11 @@
      "medio": "Radio Cataratas",
      "titulo": "Passalacqua anunció su candidatura a gobernador por el Movimiento por lo que Viene: “Es un paso al frente sin vuelta atrás” – Radio Cataratas",
      "nota_id": "d1f7d0bef0a5"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "Hugo Passalacqua contó las razones de su ruptura con Carlos Rovira y anunció que irá por la reelección en Misiones",
+     "nota_id": "0460691b4b32"
     }
    ]
   },
