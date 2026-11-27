@@ -1,7 +1,72 @@
 {
- "generado": "2026-11-27T17:19-03:00",
- "total": 76,
+ "generado": "2026-11-27T18:17-03:00",
+ "total": 80,
  "tuits": [
+  {
+   "id": "2126112969067307428",
+   "usuario": "ANDigitalOK",
+   "visto": "2026-11-27T18:17-03:00",
+   "url": "https://twitter.com/ANDigitalOK/status/2126112969067307428",
+   "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
+     "nota_id": "e88617bf7bb8"
+    }
+   ]
+  },
+  {
+   "id": "2126283718289399878",
+   "usuario": "LuisCaputoAR",
+   "visto": "2026-11-27T18:17-03:00",
+   "url": "https://twitter.com/LuisCaputoAR/status/2126283718289399878",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador",
+     "nota_id": "0b524ee99e8b"
+    }
+   ]
+  },
+  {
+   "id": "2126115134812950760",
+   "usuario": "agustinpcoto",
+   "visto": "2026-11-27T18:17-03:00",
+   "url": "https://twitter.com/agustinpcoto/status/2126115134812950760",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador",
+     "nota_id": "0b524ee99e8b"
+    }
+   ]
+  },
+  {
+   "id": "2113460459923791938",
+   "usuario": "Libertadores",
+   "visto": "2026-11-27T18:17-03:00",
+   "url": "https://twitter.com/Libertadores/status/2113460459923791938",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador",
+     "nota_id": "0b524ee99e8b"
+    }
+   ]
+  },
+  {
+   "id": "2126301709966196891",
+   "usuario": "EdelpOficial",
+   "visto": "2026-11-27T18:17-03:00",
+   "url": "https://twitter.com/EdelpOficial/status/2126301709966196891",
+   "citado_en": [
+    {
+     "medio": "Filo News",
+     "titulo": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador",
+     "nota_id": "0b524ee99e8b"
+    }
+   ]
+  },
   {
    "id": "2126076027646710208",
    "usuario": "221radio",
@@ -21,6 +86,11 @@
    "visto": "2026-11-27T12:20-03:00",
    "url": "https://twitter.com/El_Prensero/status/2126008086292836863",
    "citado_en": [
+    {
+     "medio": "NOVA Bonaerense",
+     "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
+     "nota_id": "6669a1156f64"
+    },
     {
      "medio": "NOVA Bonaerense",
      "titulo": "VIDEO | El lobby empresario ablandó la ley de regulación de ludopatía y apuntan a Angelici",
@@ -1634,54 +1704,6 @@
      "medio": "La Política Online",
      "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
      "nota_id": "7b0fa285eda0"
-    }
-   ]
-  },
-  {
-   "id": "2123870406964576316",
-   "usuario": "Kicillofok",
-   "visto": "2026-11-20T18:11-03:00",
-   "url": "https://twitter.com/Kicillofok/status/2123870406964576316",
-   "citado_en": [
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
-    },
-    {
-     "medio": "Telégrafo",
-     "titulo": "Kicillof: “Le decimos a cualquier potencia, Argentina no es el patio trasero de nadie”",
-     "nota_id": "ed074699b723"
     }
    ]
   }
