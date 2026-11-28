@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-27T20:15-03:00",
- "total": 85,
+ "generado": "2026-11-27T21:09-03:00",
+ "total": 83,
  "tuits": [
   {
    "id": "2126367882942800187",
@@ -8,6 +8,11 @@
    "visto": "2026-11-27T20:15-03:00",
    "url": "https://twitter.com/Kicillofok/status/2126367882942800187",
    "citado_en": [
+    {
+     "medio": "Política Argentina",
+     "titulo": "El Gobierno bonaerense activó un plan de prevención ante El Niño",
+     "nota_id": "e5b77631a02b"
+    },
     {
      "medio": "Política Argentina",
      "titulo": "El Gobierno bonaerense activó un plan de prevención ante El Niño",
@@ -73,6 +78,11 @@
    "visto": "2026-11-27T18:17-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2126112969067307428",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
+     "nota_id": "e88617bf7bb8"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
@@ -1763,32 +1773,6 @@
      "medio": "Letra P",
      "titulo": "Diciembre de super acción en la Legislatura bonaerense",
      "nota_id": "356b0fc88d16"
-    }
-   ]
-  },
-  {
-   "id": "2123744862478500171",
-   "usuario": "GermanGomezMza",
-   "visto": "2026-11-20T21:05-03:00",
-   "url": "https://twitter.com/GermanGomezMza/status/2123744862478500171",
-   "citado_en": [
-    {
-     "medio": "InfoYa",
-     "titulo": "Cuestionan endeudamiento que pide la Provincia: \"No han administrado bien\"",
-     "nota_id": "2c4c51ec8af2"
-    }
-   ]
-  },
-  {
-   "id": "2123565245880750118",
-   "usuario": "AlexisGuerrera",
-   "visto": "2026-11-20T21:05-03:00",
-   "url": "https://twitter.com/AlexisGuerrera/status/2123565245880750118",
-   "citado_en": [
-    {
-     "medio": "La Política Online",
-     "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
-     "nota_id": "7b0fa285eda0"
     }
    ]
   }
