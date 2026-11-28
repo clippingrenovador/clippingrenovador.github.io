@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-28T01:24-03:00",
- "total": 728,
- "nuevas_ultima_corrida": 39,
+ "generado": "2026-11-28T02:25-03:00",
+ "total": 727,
+ "nuevas_ultima_corrida": 31,
  "errores": [],
  "notas": [
+  {
+   "id": "eff7dec79101",
+   "titulo": "Cuánto beneficia a Milei la suspensión de las PASO",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3ZpX0lEMnM1S1MzbDU0WkFVcXhOcGsycVFLN3N4LUZmaWxTVC1RYm1XZUxNYzhuU0t6YVM2VDh6Vy1INHdQRVhNcnYwUTFuTjZubGhtN19oRzY4MjNQaTRNdFRIWU43anBWdG1vZEw2WFR5M2kyZVZpWFZfOHBaazRxaThaT0hLT3NZUFhma3RDRUJFM2lhZlY2ci1FaVRs?oc=5",
+   "fecha": "2026-11-28T01:53-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-28T02:23-03:00",
+   "url_original": "https://www.lanacion.com.ar/opinion/cuanto-beneficia-a-milei-la-suspension-de-las-paso-nid28112026/",
+   "revisada": true
+  },
   {
    "id": "f75255a7ed91",
    "titulo": "Desde Chacabuco Golía hizo un guiño hacia el año electoral",
@@ -56,7 +70,8 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaEY2bGUxWjduLXl6ck5DbVkwQjhpMFIyU0dWNTlGdE9PbWstekxsVjJ3VjhyNXZ1SktrQkFPdEJWVFdPdi14dGRuZGc2SU1KRndXUDdsaXlOeG81UENoSGMxLWw0ZFAtTTBtYzdLUTNZcWQwUkUzZHJJS0ttWWNnS1J4UW1DVnZTYno5dmNCLUZmLUh1bndYM21qcUdVNmh0TER5TXE0cnotTjVQa2pVc21WRldsU0M5UTZpcWQtb21vMmY0RnVYM1FZdEJEelpRY3RlM1NXV0xrSG8?oc=5",
    "fecha": "2026-11-27T22:44-03:00",
    "busquedas": [
-    "massismo"
+    "massismo",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
    ],
    "visto": "2026-11-28T01:21-03:00",
    "url_original": "https://www.lanacion.com.ar/politica/la-oposicion-analizo-la-posible-construccion-de-una-agenda-comun-para-derrotar-a-milei-en-las-nid27112026/",
@@ -10504,38 +10519,6 @@
    ],
    "visto": "2026-11-21T11:16-03:00",
    "url_original": "http://www.portalunoargentina.com.ar/contenidosver.asp?id=35404&sid=6",
-   "revisada": true
-  },
-  {
-   "id": "8cb88f734a31",
-   "titulo": "El peronismo sin PASO: postura de las tribus y el día después del acto de San Fernando",
-   "medio": "Mundo Gremial",
-   "medio_url": "https://mundogremial.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblE4VVZRMlRRVGpaTzVMV3ZtbzFKZHVKSVhGOEQwSkI1b2x3cmNBcDdtdWl6NW0tNWtPdkdxQXlZNEpNLW1BalB3YnZrSFdfQWhDaTFfSWRvcW9nZDZEaVd1aUFYTWhyVmNxb01tSVl2ZTVrSnNzZUJya3FIamp5Rmo3OTJzRjNmcTZrZWVBUHNfUWhlaGtTWG1rdXFrdmdVN0U2Y1B5TU1CZmhuQTF5WQ?oc=5",
-   "fecha": "2026-11-21T02:04-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-21T02:16-03:00",
-   "url_original": "https://mundogremial.com/el-peronismo-sin-paso-postura-de-las-tribus-y-el-dia-despues-del-acto-de-san-fernando/",
-   "revisada": true
-  },
-  {
-   "id": "d7a0823e28ce",
-   "titulo": "La oposición cree que Kicillof va a mantener las PASO en la Provincia",
-   "medio": "Diario El Día de La Plata",
-   "medio_url": "https://www.eldia.com",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYTFFWEM3MUlNZm05TWNRSEFDSlBieDgySGtJeThjU2NhbzF5UnhEVm91WFVPOElsVlRwbXd0X1J1dGxMSG5EZ3JPVFVvMFpUR3B0OHBCblYtT0gxSDd3aS1FTDJoMHA1TURDMEdqS2dUeVJMNmwtLXFsT1FPS2wydWZBYzVZSHBjV2plVGV6ajRodVRxbUVUenh4MTlvbFZYMWtiWHMyX0tjaDdTTDhZRXNaSmhaWlh1ZWROdFJCVGRrM3JDcXBNNnBxVkJ4bmxBbnZTdjBWc1dodw?oc=5",
-   "fecha": "2026-11-21T01:52-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "massismo",
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-21T02:16-03:00",
-   "url_original": "https://www.eldia.com/politica-y-economia/la-oposicion-cree-que-kicillof-va-a-mantener-las-paso-en-la-provincia-politica-y-economia_1795236768",
    "revisada": true
   }
  ]
