@@ -1,165 +1,62 @@
 {
- "id": "2026-11-27-14",
- "generado": "2026-11-27T13:40-03:00",
- "hora": "14",
+ "id": "2026-11-27-22",
+ "generado": "2026-11-27T21:34-03:00",
+ "hora": "22",
  "claves": [
   {
-   "texto": "Sergio Massa advirtió que el Gobierno todavía debe conseguir en Diputados los votos para suspender las PASO, tras la media sanción del Senado.",
+   "texto": "Durante su visita a Córdoba, Sergio Massa se refirió al Presupuesto 2027 y a la suspensión de las PASO, según Identidad Correntina.",
    "fuentes": [
     {
-     "medio": "BorderPeriodismo",
-     "url": "https://borderperiodismo.com/actualidad/massa-cuestiono-el-festejo-del-gobierno-por-las-paso-y-advirtio-que-todavia-debe-conseguir-los-votos-en-diputados/"
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47331_massa-aterriz-en-crdoba-y-apunt-al-presupuesto-y-las-paso.htm"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47319_massa-desembarc-en-crdoba-en-medio-de-la-tensin-por-el-presupuesto-y-las-paso.htm"
+    }
+   ]
+  },
+  {
+   "texto": "Según Tiempo de San Juan, Sergio Massa buscó acercar al gobernador Martín Llaryora a un frente contra Javier Milei.",
+   "fuentes": [
+    {
+     "medio": "Tiempo de San Juan",
+     "url": "https://www.tiempodesanjuan.com/el-pais/massa-paso-por-cordoba-y-busco-acercar-a-llaryora-a-un-frente-contra-milei_1795806498"
+    }
+   ]
+  },
+  {
+   "texto": "Malena Galmarini afirmó que evalúa volver a ser candidata a intendenta de Tigre.",
+   "fuentes": [
+    {
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-candidata-intendenta/?amp=1"
     },
     {
      "medio": "La Noticia Web",
-     "url": "https://www.lanoticiaweb.com.ar/massa-reaparecio-con-una-advertencia-se-apuran-si-celebran-paso-en-el-senado-falta-diputados/"
+     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-y-una-posible-candidatura-en-tigre-estoy-pensando-seriamente-en-volver-a-hacerlo/"
     }
    ]
   },
   {
-   "texto": "En Córdoba, Sergio Massa anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre inteligencia artificial, empleo y producción, según Infobae.",
+   "texto": "El intendente de Tigre, Julio Zamora, expresó su respaldo a Axel Kicillof como alternativa política.",
    "fuentes": [
     {
-     "medio": "Infobae",
-     "url": "https://www.infobae.com/politica/2026/11/27/en-cordoba-massa-anticipo-que-el-peronismo-incluira-un-capitulo-sobre-ia-empleo-y-produccion-en-su-propuesta-electoral/"
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/julio-zamora-axel-kicillof-es-la-mejor-alternativa-n637623"
     },
     {
-     "medio": "Noticias Urbanas",
-     "url": "https://www.noticiasurbanas.com.ar/ia-empleo-y-produccion-los-ejes-que-massa-sumara-al-programa-peronista"
-    }
-   ]
-  },
-  {
-   "texto": "Según Infobae, el Gobierno buscará revertir en el Senado el aumento de fondos universitarios aprobado por Diputados en el Presupuesto 2027.",
-   "fuentes": [
-    {
-     "medio": "Infobae",
-     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/"
-    },
-    {
-     "medio": "Border Periodismo",
-     "url": "https://borderperiodismo.com/actualidad/diputados-le-torcio-el-brazo-a-milei-subieron-a-11-billones-los-fondos-para-las-universidades/"
-    }
-   ]
-  },
-  {
-   "texto": "Según Flipr.news, Bevilacqua respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior.",
-   "fuentes": [
-    {
-     "medio": "Flipr.news",
-     "url": "https://flipr.com.ar/buenos-aires/laprovinciaenvivo/bevilacqua-respaldo-a-massa-para-2027-y-pidio-una-formula-que-integre-conurbano-e-interior/"
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/27/11/2026/julio-zamora-coincidimos-con-axel-kicillof-en-la-necesidad-de-construir-una-alternativa-politica-amplia-y-verdaderamente-federal/"
     }
    ]
   }
  ],
  "temas": [
   {
-   "id": "peronismo-sin-paso",
-   "titulo": "Suspensión de las PASO: Massa advirtió que al Gobierno todavía le falta Diputados",
-   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Distintos medios señalaron que, sin primarias, el peronismo acelera la definición de su candidato.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa"
-   ],
-   "principales": [
-    {
-     "medio": "BorderPeriodismo",
-     "titulo": "Massa cuestionó el festejo del Gobierno por las PASO y advirtió que todavía debe conseguir los votos en Diputados",
-     "url": "https://borderperiodismo.com/actualidad/massa-cuestiono-el-festejo-del-gobierno-por-las-paso-y-advirtio-que-todavia-debe-conseguir-los-votos-en-diputados/",
-     "fecha": "2026-11-27T12:15-03:00",
-     "dominio": "borderperiodismo.com"
-    },
-    {
-     "medio": "La Noticia Web",
-     "titulo": "Massa reapareció con una advertencia: \"Se apuran si celebran PASO en el Senado, falta Diputados\"",
-     "url": "https://www.lanoticiaweb.com.ar/massa-reaparecio-con-una-advertencia-se-apuran-si-celebran-paso-en-el-senado-falta-diputados/",
-     "fecha": "2026-11-27T10:49-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "Los Primeros TV",
-     "titulo": "Sergio Massa en Córdoba: “El Gobierno se apura si celebra eliminar las PASO en el Senado, falta Diputados”",
-     "url": "https://www.losprimeros.tv/politica/sergio-massa-en-cordoba---el-gobierno-se-apura-si-celebra-eliminar-las-paso-en-el-senado--falta-diputados-_a6b097753c34cf90c9ce82fef",
-     "fecha": "2026-11-27T09:29-03:00",
-     "dominio": "losprimeros.tv"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Ecos Diarios Necochea",
-     "url": "https://elecos.com.ar/sergio-massa-cuestiono-el-avance-del-gobierno-en-la-eliminacion-de-las-paso",
-     "dominio": "elecos.com.ar"
-    },
-    {
-     "medio": "elsolnoticias.com.ar",
-     "url": "https://elsolnoticias.com.ar/sin-paso-el-peronismo-acelera-la-definicion-de-su-candidato-y-una-encuesta-alimenta-la-ilusion-de-volver-al-poder/",
-     "dominio": "elsolnoticias.com.ar"
-    },
-    {
-     "medio": "Política y Medios",
-     "url": "http://politicaymedios.com.ar/nota/24988/sin-paso-se-aceleran-las-definiciones-en-el-peronismo-con-una-encuesta-que-ilusiona-frente-a-milei/",
-     "dominio": "politicaymedios.com.ar"
-    },
-    {
-     "medio": "Sur Santiagueño",
-     "url": "https://sursantiago.com.ar/politica/2026/11/27/sin-paso-el-peronismo-acelera-sus-definiciones-una-encuesta-entusiasma-a-la-oposicion-y-el-federalismo-vuelve-a-ganar-protagonismo",
-     "dominio": "sursantiago.com.ar"
-    },
-    {
-     "medio": "Impacto Castex",
-     "url": "https://impactocastex.com.ar/politica/20189/sin-paso-el-peronismo-acelera-la-interna-y-mira-una-encuesta",
-     "dominio": "impactocastex.com.ar"
-    },
-    {
-     "medio": "Perfil",
-     "url": "https://www.perfil.com/politica/que-cambiaria-sin-las-primarias-a0OWy3F4YYJ8",
-     "dominio": "perfil.com"
-    },
-    {
-     "medio": "La Política Online",
-     "url": "https://www.lapoliticaonline.com/politica/massa-el-gobierno-se-apura-si-celebra-paso-en-el-senado-falta-diputados/",
-     "dominio": "lapoliticaonline.com"
-    },
-    {
-     "medio": "Cadena 3 Argentina",
-     "url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
-     "dominio": "cadena3.com"
-    },
-    {
-     "medio": "La Noticia 1",
-     "url": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion",
-     "dominio": "lanoticia1.com"
-    },
-    {
-     "medio": "El Destape",
-     "url": "https://www.eldestapeweb.com/politica/paso-aceleran-definiciones-peronismo-encuesta-ilusiona-202611270545",
-     "dominio": "eldestapeweb.com"
-    },
-    {
-     "medio": "la diaria",
-     "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-argentino-aprobo-la-suspension-de-las-paso-el-ano-que-viene-algo-que-complica-al-peronismo/",
-     "dominio": "ladiaria.com.uy"
-    },
-    {
-     "medio": "Urgente24",
-     "url": "https://urgente24.com/actualidad/celebra-milei-el-senado-aprobo-su-reforma-electoral-n637562/amp",
-     "dominio": "urgente24.com"
-    },
-    {
-     "medio": "Bardeo.news",
-     "url": "https://bardeo.news/politica/fin-de-las-paso--mayans-chicaneo-a-bullrich-y-ella-lo-mando-a-hacer-stand-up_a6b089ff65e0aceca405a9c5b",
-     "dominio": "bardeo.news"
-    }
-   ],
-   "cantidad_notas": 16,
-   "vigente_desde": "2026-11-27T13:40-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-22T06:10-03:00"
-  },
-  {
    "id": "massa-ia-cordoba",
    "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
-   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae y Noticias Urbanas, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que en su paso por Córdoba le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei.",
+   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae y Noticias Urbanas, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que en su paso por Córdoba le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei. Identidad Correntina destacó que en su visita también apuntó al Presupuesto y a las PASO, y Tiempo de San Juan informó que buscó acercar a Llaryora a un frente contra Milei.",
    "tono": "positivo",
    "dirigentes": [
     "Sergio Massa"
@@ -188,6 +85,31 @@
     }
    ],
    "otras": [
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47331_massa-aterriz-en-crdoba-y-apunt-al-presupuesto-y-las-paso.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "Flipr.news",
+     "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/massa-viajo-a-cordoba-con-una-agenda-de-inteligencia-artificial-para-impulsar-el-empleo/",
+     "dominio": "flipr.com.ar"
+    },
+    {
+     "medio": "Tiempo de San Juan",
+     "url": "https://www.tiempodesanjuan.com/el-pais/massa-paso-por-cordoba-y-busco-acercar-a-llaryora-a-un-frente-contra-milei_1795806498",
+     "dominio": "tiempodesanjuan.com"
+    },
+    {
+     "medio": "Identidad Correntina",
+     "url": "https://www.identidadcorrentina.com.ar/noticia/47319_massa-desembarc-en-crdoba-en-medio-de-la-tensin-por-el-presupuesto-y-las-paso.htm",
+     "dominio": "identidadcorrentina.com.ar"
+    },
+    {
+     "medio": "Nuevo Diario Web",
+     "url": "https://nuevodiarioweb.com.ar/el-pais/sergio-massa-comparo-al-peronismo-con-un-avion-y-defendio-la-movilidad-social-en-respuesta-a-un-nino.htm",
+     "dominio": "nuevodiarioweb.com.ar"
+    },
     {
      "medio": "Noticias Urbanas",
      "url": "https://www.noticiasurbanas.com.ar/ia-empleo-y-produccion-los-ejes-que-massa-sumara-al-programa-peronista",
@@ -324,10 +246,337 @@
      "dominio": "newsdigitales.com"
     }
    ],
-   "cantidad_notas": 30,
-   "vigente_desde": "2026-11-27T13:40-03:00",
-   "desde_hora": "14",
+   "cantidad_notas": 35,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
    "sumado": "2026-11-26T21:34-03:00"
+  },
+  {
+   "id": "peronismo-sin-paso",
+   "titulo": "Suspensión de las PASO: Massa advirtió que al Gobierno todavía le falta Diputados",
+   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Distintos medios señalaron que, sin primarias, el peronismo acelera la definición de su candidato. Según Diario Río Negro, el peronismo busca sostener las primarias en la provincia de Buenos Aires.",
+   "tono": "mixto",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "BorderPeriodismo",
+     "titulo": "Massa cuestionó el festejo del Gobierno por las PASO y advirtió que todavía debe conseguir los votos en Diputados",
+     "url": "https://borderperiodismo.com/actualidad/massa-cuestiono-el-festejo-del-gobierno-por-las-paso-y-advirtio-que-todavia-debe-conseguir-los-votos-en-diputados/",
+     "fecha": "2026-11-27T12:15-03:00",
+     "dominio": "borderperiodismo.com"
+    },
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Massa reapareció con una advertencia: \"Se apuran si celebran PASO en el Senado, falta Diputados\"",
+     "url": "https://www.lanoticiaweb.com.ar/massa-reaparecio-con-una-advertencia-se-apuran-si-celebran-paso-en-el-senado-falta-diputados/",
+     "fecha": "2026-11-27T10:49-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "Los Primeros TV",
+     "titulo": "Sergio Massa en Córdoba: “El Gobierno se apura si celebra eliminar las PASO en el Senado, falta Diputados”",
+     "url": "https://www.losprimeros.tv/politica/sergio-massa-en-cordoba---el-gobierno-se-apura-si-celebra-eliminar-las-paso-en-el-senado--falta-diputados-_a6b097753c34cf90c9ce82fef",
+     "fecha": "2026-11-27T09:29-03:00",
+     "dominio": "losprimeros.tv"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Río Negro",
+     "url": "https://www.rionegro.com.ar/politica/el-peronismo-busca-sostener-las-paso-en-buenos-aires-ante-el-avance-de-javier-milei-4816937/",
+     "dominio": "rionegro.com.ar"
+    },
+    {
+     "medio": "NotiAR",
+     "url": "https://www.notiar.com.ar/index.php/politica/143813-sin-paso-se-aceleran-las-definiciones-en-el-peronismo-con-una-encuesta-que-ilusiona-por-gabriel-sued",
+     "dominio": "notiar.com.ar"
+    },
+    {
+     "medio": "Ecos Diarios Necochea",
+     "url": "https://elecos.com.ar/sergio-massa-cuestiono-el-avance-del-gobierno-en-la-eliminacion-de-las-paso",
+     "dominio": "elecos.com.ar"
+    },
+    {
+     "medio": "elsolnoticias.com.ar",
+     "url": "https://elsolnoticias.com.ar/sin-paso-el-peronismo-acelera-la-definicion-de-su-candidato-y-una-encuesta-alimenta-la-ilusion-de-volver-al-poder/",
+     "dominio": "elsolnoticias.com.ar"
+    },
+    {
+     "medio": "Política y Medios",
+     "url": "http://politicaymedios.com.ar/nota/24988/sin-paso-se-aceleran-las-definiciones-en-el-peronismo-con-una-encuesta-que-ilusiona-frente-a-milei/",
+     "dominio": "politicaymedios.com.ar"
+    },
+    {
+     "medio": "Sur Santiagueño",
+     "url": "https://sursantiago.com.ar/politica/2026/11/27/sin-paso-el-peronismo-acelera-sus-definiciones-una-encuesta-entusiasma-a-la-oposicion-y-el-federalismo-vuelve-a-ganar-protagonismo",
+     "dominio": "sursantiago.com.ar"
+    },
+    {
+     "medio": "Impacto Castex",
+     "url": "https://impactocastex.com.ar/politica/20189/sin-paso-el-peronismo-acelera-la-interna-y-mira-una-encuesta",
+     "dominio": "impactocastex.com.ar"
+    },
+    {
+     "medio": "Perfil",
+     "url": "https://www.perfil.com/politica/que-cambiaria-sin-las-primarias-a0OWy3F4YYJ8",
+     "dominio": "perfil.com"
+    },
+    {
+     "medio": "La Política Online",
+     "url": "https://www.lapoliticaonline.com/politica/massa-el-gobierno-se-apura-si-celebra-paso-en-el-senado-falta-diputados/",
+     "dominio": "lapoliticaonline.com"
+    },
+    {
+     "medio": "Cadena 3 Argentina",
+     "url": "https://www.cadena3.com/noticia/viva-la-radio/sergio-massa-a-cadena-3-al-gobierno-lo-veo-apresurando-resultados_616983",
+     "dominio": "cadena3.com"
+    },
+    {
+     "medio": "La Noticia 1",
+     "url": "https://www.lanoticia1.com/noticia/reforma-electoral-con-suspension-de-las-paso-el-senado-le-dio-media-sancion",
+     "dominio": "lanoticia1.com"
+    },
+    {
+     "medio": "El Destape",
+     "url": "https://www.eldestapeweb.com/politica/paso-aceleran-definiciones-peronismo-encuesta-ilusiona-202611270545",
+     "dominio": "eldestapeweb.com"
+    },
+    {
+     "medio": "la diaria",
+     "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-senado-argentino-aprobo-la-suspension-de-las-paso-el-ano-que-viene-algo-que-complica-al-peronismo/",
+     "dominio": "ladiaria.com.uy"
+    },
+    {
+     "medio": "Urgente24",
+     "url": "https://urgente24.com/actualidad/celebra-milei-el-senado-aprobo-su-reforma-electoral-n637562/amp",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Bardeo.news",
+     "url": "https://bardeo.news/politica/fin-de-las-paso--mayans-chicaneo-a-bullrich-y-ella-lo-mando-a-hacer-stand-up_a6b089ff65e0aceca405a9c5b",
+     "dominio": "bardeo.news"
+    }
+   ],
+   "cantidad_notas": 18,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-22T06:10-03:00"
+  },
+  {
+   "id": "garcia-larraburu-massa",
+   "titulo": "García Larraburu se reunió con Massa y lo invitó a Bariloche",
+   "resumen": "La senadora Silvina García Larraburu mantuvo una reunión con Sergio Massa y lo invitó a visitar Bariloche, según Bache3000.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Sergio Massa"
+   ],
+   "principales": [
+    {
+     "medio": "Bache3000",
+     "titulo": "García Larraburu se reunió con Massa y lo invitó a visitar Bariloche",
+     "url": "https://baribache3000.com.ar/nota/7099/garcia-larraburu-se-reunio-con-massa-y-lo-invito-a-visitar-bariloche/",
+     "fecha": "2026-11-27T20:42-03:00",
+     "dominio": "baribache3000.com.ar"
+    }
+   ],
+   "otras": [],
+   "cantidad_notas": 1,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "id": "malena-galmarini-tigre",
+   "titulo": "Malena Galmarini evalúa volver a ser candidata en Tigre",
+   "resumen": "Malena Galmarini dijo que está pensando «seriamente» en volver a ser candidata a intendenta de Tigre, según NorteOnline y La Noticia Web. En días anteriores había cuestionado la gestión del intendente Julio Zamora y llamado a recuperar el municipio.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Malena Galmarini"
+   ],
+   "principales": [
+    {
+     "medio": "NorteOnline",
+     "titulo": "Tigre: Malena Galmarini dijo que está pensando “seriamente” en volver a ser candidata a intendenta",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-candidata-intendenta/?amp=1",
+     "fecha": "2026-11-27T10:46-03:00",
+     "dominio": "norteonline.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Malena Galmarini y una posible candidatura en Tigre: “Estoy pensando seriamente en volver a hacerlo”",
+     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-y-una-posible-candidatura-en-tigre-estoy-pensando-seriamente-en-volver-a-hacerlo/",
+     "fecha": "2026-11-27T14:48-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    },
+    {
+     "medio": "La Noticia Web",
+     "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
+     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/",
+     "fecha": "2026-11-25T16:56-03:00",
+     "dominio": "lanoticiaweb.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "elcomercioonline.com.ar",
+     "url": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
+     "dominio": "elcomercioonline.com.ar"
+    },
+    {
+     "medio": "NorteOnline",
+     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1",
+     "dominio": "norteonline.com.ar"
+    },
+    {
+     "medio": "elconurbano.com.ar",
+     "url": "https://elconurbano.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/85446/",
+     "dominio": "elconurbano.com.ar"
+    },
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/25/11/2026/malena-galmarini-apunto-contra-la-gestion-de-zamora-hay-que-recuperar-el-municipio-para-los-vecinos/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Zona Norte Diario Online",
+     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
+     "dominio": "zonanortediario.com.ar"
+    },
+    {
+     "medio": "Diariolaprimera",
+     "url": "https://diariolaprimera.com.ar/contenido/11329/galmarini-contra-zamora-hay-que-recuperar-el-municipio",
+     "dominio": "diariolaprimera.com.ar"
+    }
+   ],
+   "cantidad_notas": 9,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-25T05:34-03:00"
+  },
+  {
+   "id": "zamora-kicillof-tigre",
+   "titulo": "Tigre: Julio Zamora se acerca a Kicillof",
+   "resumen": "El intendente de Tigre, Julio Zamora, afirmó que Axel Kicillof «es la mejor alternativa» y que coincide con él en construir una alternativa política amplia, según Urgente24 e InfoBAN. Infocielo informó que usa la web del municipio para mostrar ese alineamiento, y DataClave señaló que el respaldo del gobernador podría complicar la unidad del PJ en el distrito.",
+   "tono": "negativo",
+   "dirigentes": [],
+   "principales": [
+    {
+     "medio": "Urgente24",
+     "titulo": "Julio Zamora: \"Axel Kicillof es la mejor alternativa\"",
+     "url": "https://urgente24.com/actualidad/julio-zamora-axel-kicillof-es-la-mejor-alternativa-n637623",
+     "fecha": "2026-11-27T13:55-03:00",
+     "dominio": "urgente24.com"
+    },
+    {
+     "medio": "Infocielo",
+     "titulo": "Julio Zamora se acerca a Kicillof y usa la web del municipio para demostrar su alineamiento político",
+     "url": "https://www.infocielo.com/politica-y-economia/julio-zamora-se-acerca-a-kicillof-y-usa-la-web-del-municipio-para-demostrar-su-alineamiento-politico",
+     "fecha": "2026-11-27T14:45-03:00",
+     "dominio": "infocielo.com"
+    },
+    {
+     "medio": "DataClave",
+     "titulo": "Propio o ajeno: Kicillof se anota a favor a intendente que podría complicar la unidad del PJ en distrito clave",
+     "url": "https://www.dataclave.com.ar/poder/propio-o-ajeno--kicillof-se-anota-a-favor-a-intendente-que-podria-complicar-la-unidad-del-pj-en-distrito-clave_a6b0992073dfd5ff77aecd13d",
+     "fecha": "2026-11-27T16:15-03:00",
+     "dominio": "dataclave.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "InfoBAN",
+     "url": "https://www.infoban.com.ar/27/11/2026/julio-zamora-coincidimos-con-axel-kicillof-en-la-necesidad-de-construir-una-alternativa-politica-amplia-y-verdaderamente-federal/",
+     "dominio": "infoban.com.ar"
+    },
+    {
+     "medio": "Diario Lo Nuestro",
+     "url": "https://www.diariolonuestro.com.ar/single-post/unidad-julio-zamora-y-axel-kicillof-dieron-los-primeros-pasos",
+     "dominio": "diariolonuestro.com.ar"
+    }
+   ],
+   "cantidad_notas": 5,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "id": "san-fernando-andreotti",
+   "titulo": "San Fernando: nueva sede de la Universidad del Delta y equipamiento ante El Niño",
+   "resumen": "Clarín informó que la Universidad del Delta tendrá una nueva sede en San Fernando. El intendente Juan Andreotti participó en La Plata de la entrega de equipamiento provincial para afrontar el fenómeno de El Niño, según San Fernando Nuestro.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Juan Andreotti"
+   ],
+   "principales": [
+    {
+     "medio": "Clarin.com",
+     "titulo": "La Universidad del Delta tendrá una nueva sede en San Fernando",
+     "url": "https://www.clarin.com/zonales/universidad-delta-nueva-sede-san-fernando_0_jkI6375ZU8.html",
+     "fecha": "2026-11-27T16:42-03:00",
+     "dominio": "clarin.com"
+    },
+    {
+     "medio": "San Fernando Nuestro",
+     "titulo": "Andreotti participó en La Plata de la entrega de equipamiento para dar respuesta al fenómeno de El Niño",
+     "url": "https://sanfernandonuestro.com.ar/andreotti-participo-en-la-plata-de-la-entrega-de-equipamiento-para-dar-respuesta-al-fenomeno-de-el-nino/",
+     "fecha": "2026-11-27T14:22-03:00",
+     "dominio": "sanfernandonuestro.com.ar"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Cronos noticias",
+     "url": "https://infocronos.com.ar/nota/59093/tras-la-cumbre-massista-en-san-fernando-kicillof-se-reunio-con-intendentes-y-entrego-equipo-para-enfrentar-a-el-nino/",
+     "dominio": "infocronos.com.ar"
+    }
+   ],
+   "cantidad_notas": 3,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "id": "chacabuco-golia",
+   "titulo": "Chacabuco: Golía presentó un tractor municipal y gestiona el regreso del Rally Federal",
+   "resumen": "El intendente de Chacabuco, Darío Golía, presentó un nuevo tractor adquirido por el municipio, según Chacabuco en Red. El mismo medio informó que se realizan gestiones para el regreso del Rally Federal a la ciudad.",
+   "tono": "positivo",
+   "dirigentes": [
+    "Darío Golía"
+   ],
+   "principales": [
+    {
+     "medio": "Chacabuco en Red",
+     "titulo": "Golía presentó un nuevo tractor adquirido por el Municipio",
+     "url": "https://chacabucoenred.com/golia-presento-un-nuevo-tractor-adquirido-por-el-municipio/",
+     "fecha": "2026-11-27T18:19-03:00",
+     "dominio": "chacabucoenred.com"
+    },
+    {
+     "medio": "Chacabuco en Red",
+     "titulo": "Gestionan el regreso del Rally Federal a Chacabuco",
+     "url": "https://chacabucoenred.com/gestionan-el-regreso-del-rally-federal-a-chacabuco/",
+     "fecha": "2026-11-27T17:49-03:00",
+     "dominio": "chacabucoenred.com"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Chacabuco en Red",
+     "url": "https://chacabucoenred.com/gestionan-el-regreso-del-rally-federal-a-chacabuco/",
+     "dominio": "chacabucoenred.com"
+    },
+    {
+     "medio": "Chacabuquero",
+     "url": "https://www.chacabuquero.com.ar/2026/11/mix-nuevo-tractor-municipal-despedida.html",
+     "dominio": "chacabuquero.com.ar"
+    }
+   ],
+   "cantidad_notas": 4,
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
   },
   {
    "id": "massa-unidad-2027",
@@ -653,186 +902,25 @@
    "vigente_desde": "2026-11-27T06:15-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-24T21:33-03:00"
-  },
-  {
-   "id": "giuliano-presupuesto-santa-fe",
-   "titulo": "Giuliano reclamó fondos para Santa Fe en el Presupuesto 2027",
-   "resumen": "El diputado nacional Diego Giuliano cuestionó la falta de fondos para Santa Fe en el Presupuesto 2027 y reclamó defender los recursos de la provincia, según La Capital. En Rosario3 sostuvo que «a Santa Fe se la defiende con hechos», y Sin Mordaza informa que cuestionó al gobernador Maximiliano Pullaro por darle quórum al oficialismo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Diego Giuliano"
-   ],
-   "principales": [
-    {
-     "medio": "La Capital",
-     "titulo": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
-     "url": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html",
-     "fecha": "2026-11-26T18:33-03:00",
-     "dominio": "lacapital.com.ar"
-    },
-    {
-     "medio": "Rosario3",
-     "titulo": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
-     "url": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
-     "fecha": "2026-11-26T19:02-03:00",
-     "dominio": "rosario3.com"
-    },
-    {
-     "medio": "Sin Mordaza",
-     "titulo": "Giuliano cuestionó a Pullaro por darle quórum al oficialismo",
-     "url": "https://sinmordaza.com/noticia/526787-giuliano-cuestiono-a-pullaro-por-darle-quorum-al-oficialismo.html",
-     "fecha": "2026-11-26T14:48-03:00",
-     "dominio": "sinmordaza.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 3,
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
-  },
-  {
-   "id": "moreau-endeudamiento-familiar",
-   "titulo": "Moreau criticó el rechazo al proyecto de endeudamiento familiar",
-   "resumen": "La diputada nacional Cecilia Moreau criticó en la Cámara de Diputados el rechazo a incorporar en la sesión el proyecto sobre endeudamiento familiar, según El Intransigente.",
-   "tono": "neutro",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    {
-     "medio": "El Intransigente",
-     "titulo": "Diputados: Cecilia Moreau criticó el rechazo al proyecto de endeudamiento familiar",
-     "url": "https://elintransigente.com/2026/11/26/diputados-cecilia-moreau-critico-rechazo-proyecto-endeudamiento-familiar/",
-     "fecha": "2026-11-26T17:45-03:00",
-     "dominio": "elintransigente.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 1,
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
-  },
-  {
-   "id": "quintela-juventud-fr",
-   "titulo": "Ricardo Quintela se reunió con la Juventud del Frente Renovador en CABA",
-   "resumen": "El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951. Felipe Romero, de Jóvenes FR CABA, lo recibió y lo calificó de honor en sus redes. Eduardo German informó que Quintela sostuvo que \"también podemos jugar\" en 2027 y que su gira suma fotos con todo el peronismo y genera malestar en el PJ.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Felipe Romero"
-   ],
-   "principales": [
-    {
-     "medio": "Fenix951",
-     "titulo": "Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en CABA",
-     "url": "https://fenix951.com.ar/noticia.php?id=361751",
-     "fecha": "2026-11-26T09:22-03:00",
-     "dominio": "fenix951.com.ar"
-    },
-    {
-     "medio": "Eduardo German",
-     "titulo": "Quintela: “también podemos jugar” en 2027",
-     "url": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
-     "fecha": "2026-11-25T14:07-03:00",
-     "dominio": "eduardogerman.com"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Eduardo German",
-     "url": "https://eduardogerman.com/2026/11/25/quintela-malestar-pj-frases-fotos-gira-federal/",
-     "dominio": "eduardogerman.com"
-    }
-   ],
-   "cantidad_notas": 3,
-   "vigente_desde": "2026-11-26T14:10-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-26T14:10-03:00"
-  },
-  {
-   "id": "malena-galmarini-tigre",
-   "titulo": "Malena Galmarini cuestionó la gestión de Zamora en Tigre",
-   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora y llamó a recuperar el municipio de Tigre, según La Noticia Web, El Conurbano y NorteOnline. El Comercio Online señala que planteó recuperar la calidad de gestión y cambiar las prioridades del distrito; este jueves Diario La Primera volvió sobre sus declaraciones.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Malena Galmarini"
-   ],
-   "principales": [
-    {
-     "medio": "La Noticia Web",
-     "titulo": "Malena Galmarini apuntó contra Zamora: “Hay que recuperar el municipio de Tigre”",
-     "url": "https://www.lanoticiaweb.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/",
-     "fecha": "2026-11-25T16:56-03:00",
-     "dominio": "lanoticiaweb.com.ar"
-    },
-    {
-     "medio": "elcomercioonline.com.ar",
-     "titulo": "Malena Galmarini planteó recuperar la calidad de gestión y cambiar las prioridades de Tigre",
-     "url": "https://www.elcomercioonline.com.ar/articulos/60109290-Malena-Galmarini-planteo-recuperar-la-calidad-de-gestion-y-cambiar-las-prioridades-de-Tigre/amp/",
-     "fecha": "2026-11-25T15:59-03:00",
-     "dominio": "elcomercioonline.com.ar"
-    },
-    {
-     "medio": "NorteOnline",
-     "titulo": "Tigre: Malena Galmarini cuestionó la gestión de Zamora y llamó a “recuperar el municipio”",
-     "url": "https://norteonline.com.ar/tigre-malena-galmarini-criticas-gestion-zamora/?amp=1",
-     "fecha": "2026-11-24T21:06-03:00",
-     "dominio": "norteonline.com.ar"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "elconurbano.com.ar",
-     "url": "https://elconurbano.com.ar/malena-galmarini-apunto-contra-zamora-hay-que-recuperar-el-municipio-de-tigre/85446/",
-     "dominio": "elconurbano.com.ar"
-    },
-    {
-     "medio": "InfoBAN",
-     "url": "https://www.infoban.com.ar/25/11/2026/malena-galmarini-apunto-contra-la-gestion-de-zamora-hay-que-recuperar-el-municipio-para-los-vecinos/",
-     "dominio": "infoban.com.ar"
-    },
-    {
-     "medio": "Zona Norte Diario Online",
-     "url": "https://www.zonanortediario.com.ar/24/11/2026/malena-galmarini-no-aguantamos-mas-que-tigre-haya-vuelto-a-tener-la-basura-en-las-esquinas/",
-     "dominio": "zonanortediario.com.ar"
-    },
-    {
-     "medio": "Diariolaprimera",
-     "url": "https://diariolaprimera.com.ar/contenido/11329/galmarini-contra-zamora-hay-que-recuperar-el-municipio",
-     "dominio": "diariolaprimera.com.ar"
-    }
-   ],
-   "cantidad_notas": 7,
-   "vigente_desde": "2026-11-26T14:10-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-25T05:34-03:00"
-  },
-  {
-   "id": "moreau-discapacidad",
-   "titulo": "Cecilia Moreau reclamó partidas específicas para discapacidad y salud",
-   "resumen": "La diputada nacional Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas. En sus redes sostuvo que la ley de Discapacidad ya fue sancionada y que ahora hacen falta los recursos para garantizarla.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Cecilia Moreau"
-   ],
-   "principales": [
-    {
-     "medio": "Infobrisas",
-     "titulo": "Moreau exige partidas específicas para discapacidad y salud",
-     "url": "https://www.infobrisas.com/noticias/2026/11/26/116097-moreau-exige-partidas-especificas-para-discapacidad-y-salud",
-     "fecha": "2026-11-26T10:12-03:00",
-     "dominio": "infobrisas.com"
-    }
-   ],
-   "otras": [],
-   "cantidad_notas": 1,
-   "vigente_desde": "2026-11-26T14:10-03:00",
-   "desde_hora": "14",
-   "sumado": "2026-11-26T14:10-03:00"
   }
  ],
  "redes": [
+  {
+   "url": "https://x.com/FrenteRenovador/status/2126429706740179064",
+   "autor": "@FrenteRenovador",
+   "nota": "Sobre la visita a Córdoba y el financiamiento de la universidad y la ciencia.",
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126420804015640869",
+   "autor": "@DiegoGiuliano",
+   "nota": "Reclamó que el Congreso trate la asistencia por las inundaciones en Santa Fe.",
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
   {
    "url": "https://x.com/MichelGuilleOK/status/2126327309246275900",
    "autor": "@MichelGuilleOK",
@@ -888,49 +976,42 @@
    "vigente_desde": "2026-11-27T06:15-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-27T06:15-03:00"
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2126105054730231878",
-   "autor": "@FrenteRenovador",
-   "nota": "Massa en el foro de IA de la FAMAF (UNC).",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2126104990582534166",
-   "autor": "@DiegoGiuliano",
-   "nota": "Fondos para Santa Fe en el Presupuesto 2027.",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/DiegoGiuliano/status/2126076894839996603",
-   "autor": "@DiegoGiuliano",
-   "nota": "Su intervención en el debate del Presupuesto 2027.",
-   "vigente_desde": "2026-11-27T06:15-03:00",
-   "desde_hora": "06",
-   "sumado": "2026-11-27T06:15-03:00"
-  },
-  {
-   "url": "https://x.com/RubenEslaiman/status/2126068681121636813",
-   "autor": "@RubenEslaiman",
-   "nota": "Proyectos aprobados en Diputados bonaerense.",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2126006878962360445",
-   "autor": "@ceciliamoreauok",
-   "nota": "Proyecto de endeudamiento familiar.",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-26T21:34-03:00"
   }
  ],
  "entrevistas": [
+  {
+   "youtube": "EEARqLceQx4",
+   "titulo": "\"VUELVEN a AJUSTAR sobre los MÁS VULNERABLES\" | Marina SALZMANN en DURO DE DOMAR desde el CONGRESO",
+   "canal": "C5N",
+   "fecha_txt": "hace 21 min",
+   "duracion": "5:51",
+   "url": "https://www.youtube.com/watch?v=EEARqLceQx4",
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "youtube": "ouHwErVCoxo",
+   "titulo": "\"Este es un Gobierno completamente inhumano” Marina Salzmann a Juan Amorín",
+   "canal": "Radio10",
+   "fecha_txt": "hace 13 min",
+   "duracion": "11:55",
+   "url": "https://www.youtube.com/watch?v=ouHwErVCoxo",
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
+  {
+   "youtube": "HfD6qDT0OYo",
+   "titulo": "Federico Guibaud concejal de Luján y referente local del Frente Renovador | Vox Audiovisual",
+   "canal": "VOX AUDIOVISUAL",
+   "fecha_txt": "hace 29 min",
+   "duracion": "16:43",
+   "url": "https://www.youtube.com/watch?v=HfD6qDT0OYo",
+   "vigente_desde": "2026-11-27T21:34-03:00",
+   "desde_hora": "22",
+   "sumado": "2026-11-27T21:34-03:00"
+  },
   {
    "youtube": "oFEeRoHKfdI",
    "titulo": "Diego Giuliano cuestionó el endeudamiento de Santa Fe y analizó la realidad provincial",
@@ -963,44 +1044,11 @@
    "vigente_desde": "2026-11-27T06:15-03:00",
    "desde_hora": "06",
    "sumado": "2026-11-26T05:33-03:00"
-  },
-  {
-   "youtube": "JxqoyF4ZGYg",
-   "titulo": "¿QUÉ PLANEA SERGIO MASSA? La contundente respuesta del Frente Renovador",
-   "canal": "Diagonales Stream",
-   "fecha_txt": "hace 41 min",
-   "duracion": "27:51",
-   "url": "https://www.youtube.com/watch?v=JxqoyF4ZGYg",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T21:34-03:00"
-  },
-  {
-   "youtube": "OBD695QwnYw",
-   "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬",
-   "canal": "Aire de Santa Fe",
-   "fecha_txt": "hace 38 min",
-   "duracion": "37:05",
-   "url": "https://www.youtube.com/watch?v=OBD695QwnYw",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T14:16-03:00"
-  },
-  {
-   "youtube": "L9dBSGtbhqM",
-   "titulo": "Cecilia Moreau: unidad del peronismo, PASO y el armado de un frente opositor",
-   "canal": "keopsfm",
-   "fecha_txt": "hace 49 min",
-   "duracion": "17:26",
-   "url": "https://www.youtube.com/watch?v=L9dBSGtbhqM",
-   "vigente_desde": "2026-11-26T21:34-03:00",
-   "desde_hora": "22",
-   "sumado": "2026-11-25T14:16-03:00"
   }
  ],
  "metricas": {
-  "notas_analizadas": 148,
-  "medios": 92,
+  "notas_analizadas": 101,
+  "medios": 73,
   "temas": 12
  }
 }
