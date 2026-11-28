@@ -1,90 +1,57 @@
 {
- "hora": "22",
+ "hora": "06",
  "claves": [
   {
-   "texto": "Durante su visita a Córdoba, Sergio Massa se refirió al Presupuesto 2027 y a la suspensión de las PASO, según Identidad Correntina.",
+   "texto": "Según La Nación, dirigentes de distintos espacios opositores analizaron la construcción de una agenda común para enfrentar a Javier Milei en las elecciones de 2027. Urgente24 mencionó a Guillermo Michel entre los participantes.",
    "fuentes": [
-    "f0baafc01f9d",
-    "c03f592cfe13"
+    "6df130903ab8",
+    "2cb3b5d12aa4"
    ]
   },
   {
-   "texto": "Según Tiempo de San Juan, Sergio Massa buscó acercar al gobernador Martín Llaryora a un frente contra Javier Milei.",
+   "texto": "Diario Voces informó que el peronismo mantendrá las PASO en la provincia de Buenos Aires, mientras a nivel nacional avanza su suspensión.",
    "fuentes": [
-    "aeaa2f74a6e2"
+    "206cd559b5c3",
+    "79abdb1ea13f"
    ]
   },
   {
-   "texto": "Malena Galmarini afirmó que evalúa volver a ser candidata a intendenta de Tigre.",
+   "texto": "Sergio Massa anticipó en Córdoba que la propuesta electoral del peronismo incluirá un capítulo sobre inteligencia artificial, empleo y producción, según Infobae.",
    "fuentes": [
-    "36b249a73a0a",
-    "4eed8dada59f"
+    "df080cfd8645"
    ]
   },
   {
-   "texto": "El intendente de Tigre, Julio Zamora, expresó su respaldo a Axel Kicillof como alternativa política.",
+   "texto": "El intendente de Tres Arroyos, Pablo Garate, y el gobernador Axel Kicillof entregaron 120 viviendas a vecinos del distrito.",
    "fuentes": [
-    "3841c9e1e28c",
-    "3f943eaa1da0"
+    "4f5ff1512eb1",
+    "3b20f253c971"
    ]
   }
  ],
- "retirar": [
-  "https://x.com/DiegoGiuliano/status/2126076894839996603"
- ],
+ "retirar": [],
  "temas": [
   {
-   "id": "massa-ia-cordoba",
-   "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
-   "resumen": "Sergio Massa participó del cierre del foro «IA y políticas públicas» en la FAMAF de la Universidad Nacional de Córdoba y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae y Noticias Urbanas, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que en su paso por Córdoba le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei. Identidad Correntina destacó que en su visita también apuntó al Presupuesto y a las PASO, y Tiempo de San Juan informó que buscó acercar a Llaryora a un frente contra Milei.",
+   "id": "oposicion-agenda-comun",
+   "titulo": "Dirigentes opositores analizaron una agenda común frente a Milei rumbo a 2027",
+   "resumen": "Según La Nación, dirigentes de la oposición analizaron la posible construcción de una agenda común para derrotar a Javier Milei en las elecciones de 2027. Urgente24 mencionó entre los participantes a Martín Lousteau, Guillermo Michel, Gabriel Katopodis y Emilio Monzó, y Prensa Libre describió el encuentro como un debate entre la oposición peronista y radical.",
    "tono": "positivo",
    "dirigentes": [
-    "Sergio Massa"
+    "Guillermo Michel"
    ],
    "principales": [
-    "df080cfd8645",
-    "b3615104d63d",
-    "770d31e03e17"
+    "6df130903ab8",
+    "2cb3b5d12aa4"
    ],
    "otras": [
-    "f0baafc01f9d",
-    "098b6c4d4d91",
-    "aeaa2f74a6e2",
-    "c03f592cfe13",
-    "fc302548993f",
-    "34a243120da4",
-    "d0fa5d98a1c5",
-    "66e0b1ac3a26",
-    "0dce3207a6a6",
-    "42abd4a6bda3",
-    "5ae2c6c95697",
-    "7d58d8615059",
-    "d8764cda4670",
-    "8caf85066692",
-    "eca96be88289",
-    "12c656631b2c",
-    "4cc1f381f26d",
-    "a88f0e4c0172",
-    "322a46e25c98",
-    "6d27a13e13ba",
-    "f3f8dddd92be",
-    "ca6fc55df48a",
-    "7076f73aeb9d",
-    "396e7b03a0f1",
-    "f40733f90a14",
-    "6889a32e2817",
-    "07bdf0e2fee9",
-    "ff1acc897ac3",
-    "673a136157e6",
-    "067c108f53e5",
-    "414fdba55f91",
-    "e7e41659ba7e"
+    "31fe3878be2a",
+    "75d6ccf6d063"
    ]
   },
   {
    "id": "peronismo-sin-paso",
    "titulo": "Suspensión de las PASO: Massa advirtió que al Gobierno todavía le falta Diputados",
-   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Distintos medios señalaron que, sin primarias, el peronismo acelera la definición de su candidato. Según Diario Río Negro, el peronismo busca sostener las primarias en la provincia de Buenos Aires.",
+   "resumen": "Tras la media sanción en el Senado de la suspensión de las PASO, Sergio Massa cuestionó el festejo del Gobierno y advirtió que todavía debe conseguir los votos en Diputados, según BorderPeriodismo y La Noticia Web. Diario Voces informó que el peronismo mantendrá las primarias en la provincia de Buenos Aires. La Nación analizó cuánto beneficia a Milei la suspensión y Perfil planteó quién financiaría una interna del PJ.",
    "tono": "mixto",
    "dirigentes": [
     "Sergio Massa"
@@ -92,132 +59,94 @@
    "principales": [
     "79abdb1ea13f",
     "1c1cd7306b8b",
-    "3edc00cca2c0"
+    "206cd559b5c3"
    ],
    "otras": [
+    "eff7dec79101",
+    "b77d89e9b792",
+    "3edc00cca2c0",
     "af9b138f3f7c",
     "4095d2f7ada0",
     "fe9032fff24d",
     "4077098ee1a3",
     "0a7d39d4352c",
     "420a24c20d6d",
-    "8a4a9a754ff5",
-    "1dd2d17c29d7",
-    "efe08b092cdd",
-    "9e6cdc0731ec",
-    "523fdbcb6555",
-    "3c18a39113b4",
-    "50e3a076ad18",
-    "4ddf58d44dd6",
-    "29c2b894af5e"
+    "8a4a9a754ff5"
    ]
   },
   {
-   "id": "garcia-larraburu-massa",
-   "titulo": "García Larraburu se reunió con Massa y lo invitó a Bariloche",
-   "resumen": "La senadora Silvina García Larraburu mantuvo una reunión con Sergio Massa y lo invitó a visitar Bariloche, según Bache3000.",
+   "id": "garate-tres-arroyos",
+   "titulo": "Tres Arroyos: Garate y Kicillof entregaron 120 viviendas",
+   "resumen": "El intendente de Tres Arroyos, Pablo Garate, y el gobernador Axel Kicillof entregaron 120 viviendas a vecinos del distrito. Según Código Baires, Garate dejó abierta la puerta a buscar la reelección; en declaraciones radiales había señalado que las definiciones para 2027 no corresponden a este año.",
    "tono": "positivo",
    "dirigentes": [
-    "Sergio Massa"
+    "Pablo Garate"
    ],
    "principales": [
-    "a7a6edbd8d16"
-   ],
-   "otras": []
-  },
-  {
-   "id": "malena-galmarini-tigre",
-   "titulo": "Malena Galmarini evalúa volver a ser candidata en Tigre",
-   "resumen": "Malena Galmarini dijo que está pensando «seriamente» en volver a ser candidata a intendenta de Tigre, según NorteOnline y La Noticia Web. En días anteriores había cuestionado la gestión del intendente Julio Zamora y llamado a recuperar el municipio.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Malena Galmarini"
-   ],
-   "principales": [
-    "36b249a73a0a",
-    "4eed8dada59f",
-    "d812148f254b"
+    "4f5ff1512eb1",
+    "3b20f253c971",
+    "e4446236bb0c"
    ],
    "otras": [
-    "a7dedc5613f8",
-    "49d4e1b4be8d",
-    "5382493fe3f4",
-    "134ae93e196d",
-    "ab9357856325",
-    "0adc5ed82b40"
-   ]
-  },
-  {
-   "id": "zamora-kicillof-tigre",
-   "titulo": "Tigre: Julio Zamora se acerca a Kicillof",
-   "resumen": "El intendente de Tigre, Julio Zamora, afirmó que Axel Kicillof «es la mejor alternativa» y que coincide con él en construir una alternativa política amplia, según Urgente24 e InfoBAN. Infocielo informó que usa la web del municipio para mostrar ese alineamiento, y DataClave señaló que el respaldo del gobernador podría complicar la unidad del PJ en el distrito.",
-   "tono": "negativo",
-   "dirigentes": [],
-   "principales": [
-    "3841c9e1e28c",
-    "262758c5b3ed",
-    "4e1a3dfd4070"
-   ],
-   "otras": [
-    "3f943eaa1da0",
-    "300fd8f6b4bf"
-   ]
-  },
-  {
-   "id": "san-fernando-andreotti",
-   "titulo": "San Fernando: nueva sede de la Universidad del Delta y equipamiento ante El Niño",
-   "resumen": "Clarín informó que la Universidad del Delta tendrá una nueva sede en San Fernando. El intendente Juan Andreotti participó en La Plata de la entrega de equipamiento provincial para afrontar el fenómeno de El Niño, según San Fernando Nuestro.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti"
-   ],
-   "principales": [
-    "8cf5b5630af0",
-    "6f2a9888b06c"
-   ],
-   "otras": [
-    "cf2d9f2930a1"
+    "74e1ff22add9"
    ]
   },
   {
    "id": "chacabuco-golia",
-   "titulo": "Chacabuco: Golía presentó un tractor municipal y gestiona el regreso del Rally Federal",
-   "resumen": "El intendente de Chacabuco, Darío Golía, presentó un nuevo tractor adquirido por el municipio, según Chacabuco en Red. El mismo medio informó que se realizan gestiones para el regreso del Rally Federal a la ciudad.",
+   "titulo": "Chacabuco: Golía presentó un tractor municipal y habló del año electoral",
+   "resumen": "El intendente de Chacabuco, Darío Golía, presentó un nuevo tractor adquirido por el municipio y se realizan gestiones para el regreso del Rally Federal, según Chacabuco en Red. Chacabuquero informó que Golía hizo un guiño hacia el año electoral.",
    "tono": "positivo",
    "dirigentes": [
     "Darío Golía"
    ],
    "principales": [
+    "f75255a7ed91",
     "5feb9fd21960",
-    "fd261404750a"
+    "3243996bb3a4"
    ],
    "otras": [
-    "3243996bb3a4",
     "e7a036f0dc37"
    ]
+  },
+  {
+   "id": "san-fernando-fate-litio",
+   "titulo": "Planta de baterías de litio en el predio de Fate: crece el rechazo en San Fernando",
+   "resumen": "Zona Norte Diario informó que crece el rechazo a la planta de baterías de litio que Aluar busca instalar en el predio de Fate, en San Fernando. Según InfoBAN, Alejandro Crespo afirmó que Madanes Quintanilla busca expulsarlos de Fate por ese negocio.",
+   "tono": "neutro",
+   "dirigentes": [],
+   "principales": [
+    "1b223b366df9",
+    "ae7451570689"
+   ],
+   "otras": []
   }
  ],
  "redes": [
   {
-   "url": "https://x.com/FrenteRenovador/status/2126429706740179064",
-   "autor": "@FrenteRenovador",
-   "nota": "Sobre la visita a Córdoba y el financiamiento de la universidad y la ciencia."
+   "url": "https://x.com/felipemromeroo/status/2126537427154276770",
+   "autor": "@felipemromeroo",
+   "nota": "Sobre la reconstrucción federal del peronismo."
   },
   {
-   "url": "https://x.com/DiegoGiuliano/status/2126420804015640869",
+   "url": "https://x.com/marinadorotea/status/2126471026972520717",
+   "autor": "@marinadorotea",
+   "nota": "Sobre la inversión en educación, ciencia y tecnología."
+  },
+  {
+   "url": "https://x.com/DiegoGiuliano/status/2126295307612831801",
    "autor": "@DiegoGiuliano",
-   "nota": "Reclamó que el Congreso trate la asistencia por las inundaciones en Santa Fe."
+   "nota": "Sobre los fondos universitarios en el Presupuesto 2027."
   }
  ],
  "entrevistas": [
   {
-   "video_id": "EEARqLceQx4"
+   "video_id": "g6M2f6m3bEA"
   },
   {
-   "video_id": "ouHwErVCoxo"
+   "video_id": "oFEeRoHKfdI"
   },
   {
-   "video_id": "HfD6qDT0OYo"
+   "video_id": "H2lxMFOIWbA"
   }
  ]
 }
