@@ -1,7 +1,20 @@
 {
- "generado": "2026-11-28T09:07-03:00",
- "total": 84,
+ "generado": "2026-11-28T10:26-03:00",
+ "total": 82,
  "tuits": [
+  {
+   "id": "1866149644826239156",
+   "usuario": "InfoqomN",
+   "visto": "2026-11-28T10:26-03:00",
+   "url": "https://twitter.com/InfoqomN/status/1866149644826239156",
+   "citado_en": [
+    {
+     "medio": "Infoqom",
+     "titulo": "Dirigentes de distintos espacios opositores buscan construir una alternativa a Milei para 2027",
+     "nota_id": "0ec2d7e5efc3"
+    }
+   ]
+  },
   {
    "id": "2126347787755286616",
    "usuario": "Nacho_Pouiller",
@@ -1782,45 +1795,6 @@
      "medio": "Gente de Salta",
      "titulo": "Cecilia Moreau pidió unidad en el peronismo: “Con PASO o sin PASO, vamos a ir unidos a la elección”",
      "nota_id": "73c742facabb"
-    }
-   ]
-  },
-  {
-   "id": "2118362856353616228",
-   "usuario": "Matiasdeu",
-   "visto": "2026-11-21T10:23-03:00",
-   "url": "https://twitter.com/Matiasdeu/status/2118362856353616228",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
-     "nota_id": "356b0fc88d16"
-    }
-   ]
-  },
-  {
-   "id": "2123153547265233136",
-   "usuario": "UCRBuenosAires",
-   "visto": "2026-11-21T10:23-03:00",
-   "url": "https://twitter.com/UCRBuenosAires/status/2123153547265233136",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
-     "nota_id": "356b0fc88d16"
-    }
-   ]
-  },
-  {
-   "id": "2122734575176544682",
-   "usuario": "mojatignanelli",
-   "visto": "2026-11-21T10:23-03:00",
-   "url": "https://twitter.com/mojatignanelli/status/2122734575176544682",
-   "citado_en": [
-    {
-     "medio": "Letra P",
-     "titulo": "Diciembre de super acción en la Legislatura bonaerense",
-     "nota_id": "356b0fc88d16"
     }
    ]
   }
