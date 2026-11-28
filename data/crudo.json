@@ -1,9 +1,23 @@
 {
- "generado": "2026-11-28T07:14-03:00",
- "total": 733,
+ "generado": "2026-11-28T08:12-03:00",
+ "total": 730,
  "nuevas_ultima_corrida": 32,
  "errores": [],
  "notas": [
+  {
+   "id": "e082e481a7a4",
+   "titulo": "Un sondeo nacional muestra rechazo mayoritario a dirigentes oficialistas y opositores",
+   "medio": "REALPOLITIK",
+   "medio_url": "https://realpolitik.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjlPZ1lqekFaNmFDRFNRcmVSRUpBM0R3b2dnQXJLZGV0d2FQTUFVOVV3cDFWU0phSEVRMm5VckZyalQtU0U2SlVqN3dxR29UT19SZ1Q3cHdCYkEyMWN4YlF5S0FoZl84RkZ3RGVVUHZsM0VyWEJGNGpkeEhoMVljcFZja0Jkelhma1hZZzdPbGRxNnVlR0syam1YNG5TMS1RSnVBa0hycU16OVFsczFQbUROekx2Y2xzcndFM0dHNnRmdw?oc=5",
+   "fecha": "2026-11-28T08:00-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-28T08:09-03:00",
+   "url_original": "https://realpolitik.com.ar/nota/75436/un-sondeo-nacional-muestra-rechazo-mayoritario-a-dirigentes-oficialistas-y-opositores/",
+   "revisada": true
+  },
   {
    "id": "7de2246d32e4",
    "titulo": "Los límites del modelo de Milei, la decisión de Bullrich y la “interna digital” que imagina Massa para enfrentar a Kicillof",
@@ -638,6 +652,20 @@
    ],
    "visto": "2026-11-27T15:08-03:00",
    "url_original": "https://www.diariopopular.com.ar/politica/misiones-hugo-passalacqua-se-presenta-como-el-futuro-pesar-sus-23-anos-el-poder-n931379",
+   "revisada": true
+  },
+  {
+   "id": "b20f87a4ee03",
+   "titulo": "Ayelén Rasquetti impulsa una mayor transparencia en los precios de los Combustibles y busca poner límites a los aumentos sorpresivos.",
+   "medio": "Perfil",
+   "medio_url": "https://www.perfil.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRzhvUkdOaWxZbzhKRmFOY0V5Nnd0TTd0ZnFaVnYweTVGSnlqTGtSN3JrTC0wSU5DcE45WHRQWHl1UFBySE1fSHg2U0JfNVIxWnhTbGpaeHdSNG9fLXB2UG1PRENyRmZ3UWx4b3l5dFpQYjFNaFNWOGc4VFU0WUtHdHRDLVZTY1FnTWJZZFAxRE1vdWRBLVBfV2I0d1R3cFpQNWNWemZVNnJQVl9IR0pYQlp4eldvQU13WjJWMFc2RzVrNDA3NGgzMExBSHd6UU1DeTBXaFFQX2U0TTlJX0U4N1Z3bHBZdlN5MjFTNEoyRjJGQWFkaWt3UjE1M1o2VmpsTlFuWU4xd0l6dVk?oc=5",
+   "fecha": "2026-11-27T14:55-03:00",
+   "busquedas": [
+    "\"Frente Renovador\""
+   ],
+   "visto": "2026-11-28T08:10-03:00",
+   "url_original": "https://www.perfil.com/comercial/ayelen-rasquetti-impulsa-una-mayor-transparencia-en-los-precios-de-los-combustibles-y-busca-poner-limites-a-los-aumentos-sorpresivos.-admGe3V9i8LJ",
    "revisada": true
   },
   {
@@ -10532,80 +10560,6 @@
    ],
    "visto": "2026-11-21T09:02-03:00",
    "url_original": "https://cityenlinea.com.ar/a-nota/233282/experimentando-privaciones",
-   "revisada": true
-  },
-  {
-   "id": "43aa53b48a3b",
-   "titulo": "OPINIÓN: Salir del sillón",
-   "medio": "Plan B Noticias",
-   "medio_url": "https://www.planbnoticias.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFJ5Z1BRdGZGRkdqbF81My01WTcwNXR1S0RqY2xNeXFsZzB5Q0g2VGhPa19zTEJzTjNTVVExM2pLNmRKTVZsUlY2T0FieFVyU2h4Q3ROUURVV3ktcHkyZkJKVjlfV3l6VDhqaFhrdWpLa0tPVFBjQ1pwTkQ5blN3bWRsdWVLUQ?oc=5",
-   "fecha": "2026-11-21T08:11-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-21T09:02-03:00",
-   "url_original": "https://www.planbnoticias.com.ar/index.php/2026/11/21/opinion-salir-del-sillon/",
-   "revisada": true
-  },
-  {
-   "id": "762013da1cc4",
-   "titulo": "Con las PASO en riesgo, Massa engrosa apoyos para la paritaria del PJ y Kicillof confía en sus chances",
-   "medio": "Agencia Noticias Argentinas",
-   "medio_url": "https://noticiasargentinas.com",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVjZnZ2llLTdrc2d5S20yRDZLVWR2MUpnNjhGdWR2enpqZldWZzRZNGk5U3N2azRreDNmeXpSajV5dUhDQkJiX1NHd1owS1p1M0ltcjYxLURMSlVPVTlxcm9XTjJ1QVlGR0RYTUpueVdPZW9MT0xCQzFPWUhkdmhfUE1IcTFwaUROQ0ZoTkEtb3VjaG1IbmhtLUNNOHJ6TU1XVkFoWHNFQk5wUmEyYzBTc01SSjM5YWs4dWpWYlZWRFNMVVhxbTZJM2hnMG1kS2NTLTlWanVhNTlYbzZ1aVo4Y0tuVFFxR3dnUmpiaUlQUEE0ZnBEUjZyRGNISG_SAYsCQVVfeXFMTXVsMjQtNGhLVl9MUFg4SGlDX3ptSm8yRTFCZXR0UWtwaG5Lb2QtQmhoa2pqWmN2MXdhUVk4d1RadDhiY1p1QjRJTGpMeHdaeGVBcHdoVHBmaUJnRm9Fc0c0ZlNJbmpRaVJEcHhVUXBmekFrSlkwMmZMZXBkTHRBbVBQMmlsbGRSQU4wMlJ6OE1uelJYNGd6a09PMGJXYlQ1WkU3cWJ2NmRjVWRKTXpzOFZYRzkxT2xZalo5S2pCRnhVZkUzUk11MXdDUmdDSU5ZZ3YwMHdoUnI1dVlNMUVSM1NxNVZySENfVmxpWlZURWJxWHVnUk85Ui1nOWJzQVBxRjByRHJPbDhlUnpr?oc=5",
-   "fecha": "2026-11-21T08:07-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "encuesta \"Frente Renovador\"",
-    "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T09:02-03:00",
-   "url_original": "https://noticiasargentinas.com/politica/con-las-paso-en-riesgo--massa-engrosa-apoyos-para-la-paritaria-del-pj-y-kicillof-confia-en-sus-chances_a6b00b693f48d6d3ab480ba16",
-   "revisada": true
-  },
-  {
-   "id": "0c63dbc8e1ee",
-   "titulo": "El PJ bonaerense con un Congreso virtual y una evidente desconexión interna",
-   "medio": "La Tecla",
-   "medio_url": "https://www.latecla.info",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG9PZng2OE5RcFFyb3lHdEhBMlNuQVpOSldmVzhVbVJiVG1rQkNBb1J3NkxLZVotRmhQTThoUER6blo3WFdnOUEzM3hyZWxoX29DMkJUM1Nibm9raVJyOS1idzhpM1E5Q3MtM041a3lDbm1fT2VjcjNraHdFRjQ1azlmSGlkY3dlcGZOOFlZd3JLeTZHRk5qUjh3VkVORmR6eF90QUZWOGJ6cW8?oc=5",
-   "fecha": "2026-11-21T07:32-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-21T08:07-03:00",
-   "url_original": "https://www.latecla.info/171339-el-pj-bonaerense-con-un-congreso-virtual-y-una-evidente-desconexion-interna",
-   "revisada": true
-  },
-  {
-   "id": "b31e30971d00",
-   "titulo": "El PJ bonaerense con un Congreso virtual y una desconexión interna hacia 2027",
-   "medio": "La Tecla",
-   "medio_url": "https://www.latecla.info",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG9PZng2OE5RcFFyb3lHdEhBMlNuQVpOSldmVzhVbVJiVG1rQkNBb1J3NkxLZVotRmhQTThoUER6blo3WFdnOUEzM3hyZWxoX29DMkJUM1Nibm9raVJyOS1idzhpM1E5Q3MtM041a3lDbm1fT2VjcjNraHdFRjQ1azlmSGlkY3dlcGZOOFlZd3JLeTZHRk5qUjh3VkVORmR6eF90QUZWOGJ6cW8?oc=5",
-   "fecha": "2026-11-21T07:32-03:00",
-   "busquedas": [
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-21T14:05-03:00",
-   "url_original": "https://www.latecla.info/171339-el-pj-bonaerense-con-un-congreso-virtual-y-una-evidente-desconexion-interna",
-   "revisada": true
-  },
-  {
-   "id": "b31c5049b42b",
-   "titulo": "Bullrich y Kicillof empatan al frente de una encuesta de imagen",
-   "medio": "Impacto Castex",
-   "medio_url": "https://impactocastex.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzNaVjlHN3VRekdhTzNCX0ZHajNhbGhnMC1FUFlIX1AtSUZWcV9DX0h2WFpFaUZDRnptbmVhT05aNW1kd3QxLTJFdXBkaExBRDlJR21uNGYtNjZZcTNBTWtfY2VNQ081ZFBGSXdtWnFnUUVQX09NLVVOTmNiSWpEbi1UMllDcDdrUmxkMm9ZOXNLSHZXT0RQbU5TWUs0cXlzaDdwdjg0ZUE5X0E?oc=5",
-   "fecha": "2026-11-21T07:30-03:00",
-   "busquedas": [
-    "encuesta \"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T14:05-03:00",
-   "url_original": "https://impactocastex.com.ar/politica/19489/bullrich-y-kicillof-empatan-al-frente-de-una-encuesta-de-imagen",
    "revisada": true
   }
  ]
