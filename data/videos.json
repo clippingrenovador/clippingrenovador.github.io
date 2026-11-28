@@ -1,8 +1,18 @@
 {
- "generado": "2026-11-27T22:41-03:00",
- "total": 164,
+ "generado": "2026-11-28T00:14-03:00",
+ "total": 162,
  "errores": [],
  "videos": [
+  {
+   "id": "dUhNVAgduwk",
+   "titulo": "Oney Paulino - Loco Desquiciado",
+   "canal": "Jose Paulino Romero",
+   "publicado": "hace 22 h",
+   "duracion": "3:23",
+   "busqueda": "Feli Romero",
+   "url": "https://www.youtube.com/watch?v=dUhNVAgduwk",
+   "visto": "2026-11-28T00:14-03:00"
+  },
   {
    "id": "W8IHOGYs1oc",
    "titulo": "Encuentro con la juventud del Frente Renovador",
@@ -1612,36 +1622,6 @@
    "busqueda": "Felipe Romero",
    "url": "https://www.youtube.com/watch?v=YDw-hlWP_9c",
    "visto": "2026-11-21T01:14-03:00"
-  },
-  {
-   "id": "2Hp3Fc7wLUU",
-   "titulo": "PERÓN VOLVIÓ ✌️ ¡PERO COMO IA!  MASSA LO TRAJO DE VUELTA",
-   "canal": "Deja Vu",
-   "publicado": "hace 5 h",
-   "duracion": "7:47",
-   "busqueda": "Sergio Massa",
-   "url": "https://www.youtube.com/watch?v=2Hp3Fc7wLUU",
-   "visto": "2026-11-21T00:06-03:00"
-  },
-  {
-   "id": "Y7OQYik476E",
-   "titulo": "Ya lo dijimos en 2022, ¿QUÉ quiere MASSA? \"Vayan a LABURAR!\"",
-   "canal": "De Loredo",
-   "publicado": "hace 2 h",
-   "duracion": "0:58",
-   "busqueda": "Sergio Massa",
-   "url": "https://www.youtube.com/watch?v=Y7OQYik476E",
-   "visto": "2026-11-21T00:06-03:00"
-  },
-  {
-   "id": "2w3mjlXPolQ",
-   "titulo": "When Giuliano Simeone Stunned La Liga",
-   "canal": "Hello Football",
-   "publicado": "hace 1 día",
-   "duracion": "0:24",
-   "busqueda": "Diego Giuliano",
-   "url": "https://www.youtube.com/watch?v=2w3mjlXPolQ",
-   "visto": "2026-11-21T00:06-03:00"
   }
  ]
 }

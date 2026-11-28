@@ -1,8 +1,34 @@
 {
- "generado": "2026-11-27T22:43-03:00",
- "total": 729,
- "nuevas_ultima_corrida": 39,
- "errores": [],
+ "generado": "2026-11-28T00:19-03:00",
+ "total": 721,
+ "nuevas_ultima_corrida": 0,
+ "errores": [
+  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "massismo: HTTP Error 503: Service Unavailable",
+  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
+  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
+  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
+  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
+  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
+  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
+  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
+  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
+ ],
  "notas": [
   {
    "id": "206cd559b5c3",
@@ -10434,122 +10460,6 @@
    ],
    "visto": "2026-11-21T07:08-03:00",
    "url_original": "https://www.perfil.com/politica/interna-del-pj-kicillof-planea-mantener-las-paso-bonaerenses-aM3Ol0k1FqKD",
-   "revisada": true
-  },
-  {
-   "id": "4ad9c0bbf819",
-   "titulo": "El peronismo, hoy: dividido, limitado al conurbano y con el mismo discurso",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVlhclg3bkc3SnM0U21NdVdBRE5udFRMZ2w1ZzJleFpWTUx2bXhSaHJKdkVvOUtkdVdXRFhYMFlYdW84cE0wbW5reTBzZWVoUHZhTnFxejFwUnR0WUM2bkhwNksyRXNEQzgyU0VzRGdCZ1R2UEJORFZiT1BRbVQ2TUJYeFgtWk1wSndBMmRrNlduSFNJQWxKVW1VNnlDRkZLQmJFbnhQcWV1OTBVN211TFI5cGpPS0dzb0E?oc=5",
-   "fecha": "2026-11-21T00:10-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T07:08-03:00",
-   "url_original": "https://www.lanacion.com.ar/ideas/el-peronismo-hoy-dividido-limitado-al-conurbano-y-con-el-mismo-discurso-nid21112026/",
-   "revisada": true
-  },
-  {
-   "id": "d4acb9b05402",
-   "titulo": "El Frente Renovador apuesta a la unidad del peronismo",
-   "medio": "Diario Hoy En la noticia",
-   "medio_url": "https://diariohoy.net",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEFSSG1WOURRNVVFaDB3aEU4V0t5bUpRM0o5V0FsYUlLNkhuWURmWjJ5TXc3NFdYV1M4UWhVY3p3NWZWdWx3eHdNUENNNGV4UURGeW5PWWExU0NuUFpkNzMyS2dILTcyVEZOZ1FZNnJTRGd5Xy1mYzNNQnRfOG5PbUlGM2k2d3FVNXljenQ3Rk5xNjRKMGfSAZsBQVVfeXFMT3dIQVB3THUwTGxnWERfOEN2V2ZLZGNLbTUxZmZiTWI2LTJvZmVjel9GT29xWFZ2NTRQblFNRVNKanljRTdNdGFfVkM2UXNSTVFlWUxxVTdGeERkdi1BRnQ0bFFlbml5aWhLbm9sOGlGaHYxSG53aTl5dFpTbmUxMTBzY2k4VHctQ3dfZFozZUtiZ3BTMXFtV016WUE?oc=5",
-   "fecha": "2026-11-21T00:00-03:00",
-   "busquedas": [
-    "\"Frente Renovador\"",
-    "massismo",
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-21T03:14-03:00",
-   "url_original": "https://diariohoy.net/politica/el-frente-renovador-apuesta-a-la-unidad-del-peronismo-290463",
-   "revisada": true
-  },
-  {
-   "id": "b0ab9197ae08",
-   "titulo": "Internas sin PASO",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNExoUDJkTUVscTJ2ZWJKTFNiaUNMNmR3cTJLcG9NR3RyODJtd05DOEpVZGkyY001bHk2eEpZS3pzY0lubTFkemt6WVJnMUxHVjZreEIxODhQVllHbjRqQmpLYXhqNEVDZWdwVTh0MjJYNzg?oc=5",
-   "fecha": "2026-11-20T23:58-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-21T00:06-03:00",
-   "url_original": "https://www.perfil.com/columnistas/internas-sin-paso-aIeH59z5VMEE",
-   "revisada": true
-  },
-  {
-   "id": "fd58ac22c9ab",
-   "titulo": "La Asamblea Cheeky sumó el apoyo de Sebastián Galmarini en su reclamo por el predio de Martínez",
-   "medio": "elcomercioonline.com.ar",
-   "medio_url": "https://www.elcomercioonline.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWlRiTHY5a1R0ZDlFM2JFTnlDbUprdGNSTTVlZ3RmZlRLZXlETmVyMWNlOWt3VTRCSnR6dURuSWpoNjVEMkhlamFma19hNFhUUkNreUJtYjNqR0pIU2hDRGZCMUZMMkp3WGFEd1hzczdaZVRkLTJUaDRPOGZETnR2UEpfTnJab2tNdDZsZDJZaW1KMnpIcjlIMG1wa3FVeExYb05YaGhMS2tWdnRUcUNkYl85UkJBRWZhdVEyYTFXcE5weTJ3Z3NTYlg1V1BsczY0dThwY21zZXhRYWxBRFhEZWNISHlKdFlQRXZJ0gHrAUFVX3lxTFBOVElCcHdCemZZRWdyVThrb1JTd0x5MkxkSU9oVE9xVkVmVllQckt0dDdqalRMWWV2WVNEWVBWMkI4OWdLMXRxYVpacVpEcGR1a2xUSmtaR3FCYmpOLXMtOHVMWHg4ZGozcC10SUNCb3dRU0NZcGY2YXh3U3U1a0JWMTVRRlBSX1NPY1pJYllXcm40ZGotUXNNTkpvWmxzU2xka0twaXNvcXF6Y0N0djdNaTFxMVJQd1lHWGFrSXFjamxUeUlxcVd0OUN5cWFBN05vYVhTWThQUzlJSUh5WUt2VFktcm9rVmlNTnc?oc=5",
-   "fecha": "2026-11-20T23:25-03:00",
-   "busquedas": [
-    "\"Sebastián Galmarini\""
-   ],
-   "visto": "2026-11-21T02:16-03:00",
-   "url_original": "https://www.elcomercioonline.com.ar/articulos/60109268-La-Asamblea-Cheeky-sumo-el-apoyo-de-Sebastian-Galmarini-en-su-reclamo-por-el-predio-de-Martinez.html",
-   "revisada": true
-  },
-  {
-   "id": "d935989ebdc9",
-   "titulo": "“Es un gusto poder heredar la visión de Don Moisés Lebensohn”, Darío Golía por los 95 años del Diario Democracia",
-   "medio": "Diario Democracia",
-   "medio_url": "https://www.diariodemocracia.com",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmJYUnhJaWdFWFBiSTNrbTNfRjBpWjZFdWJQRVBxZHhsNDFQOXZmai1DN082Q3UtaGF6Q29yZzFKb1Fjczk3Z19KS0VvVjlWeDFRZVpXa0JBRW4wVEYwYnpGanZETGhaRktaS1Vhd2FjS3JxNk5CRjNaYnViUERobEV6Ym9PcVFlY2VLYU1MeGs5eGVBdUQ2eV9jV0lfOHhac0dYTnpQQ2ktZGM?oc=5",
-   "fecha": "2026-11-20T23:17-03:00",
-   "busquedas": [
-    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
-   ],
-   "visto": "2026-11-21T00:07-03:00",
-   "url_original": "https://www.diariodemocracia.com/ciudad/chacabuco/348330-es-un-gusto-poder-heredar-la-vision-de-don-moises/",
-   "revisada": true
-  },
-  {
-   "id": "18d38ce9ff1c",
-   "titulo": "El kirchnerismo empuja un gran frente opositor para competir contra Milei",
-   "medio": "Primera Fuente",
-   "medio_url": "https://www.primerafuente.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmN5clhhZUJVQ2cyX1VmX0kzU0Z6eVFOOWFpeUFLcUxOMlppU3J3Q1dVVEU1dGp6cDBzempWOWs0RVg5b1hEc0FfUlJkQTlPQWxSN1BFd0tmdlRBOV9SUFNBQnI0dnUwaV9ZVnU0Z25PT1NMVl9rbTNZRTlZd1UyU2paNU94NTdPOXdjd09tRU1HSzF6aWRpa0xoeGxtSFlxMWFRMWJmaWpIWDBnTnJnbWM0ZWljZWc?oc=5",
-   "fecha": "2026-11-20T23:12-03:00",
-   "busquedas": [
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-21T16:12-03:00",
-   "url_original": "https://www.primerafuente.com.ar/noticias/133655/kirchnerismo-empuja-gran-frente-opositor-para-competir-contra-milei",
-   "revisada": true
-  },
-  {
-   "id": "2ea145adf1d2",
-   "titulo": "Milei contra la conjura de los tibios",
-   "medio": "La Nación",
-   "medio_url": "https://www.lanacion.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXFzMkxJbXhfZ3JHN0tRWFJLdktVSHliemFBQlpwRExkMmp0U1M5OUtxcFlUQXJjSThyWDQ3TnFNMkwxRjkzc2NlaUNrZmlvcHQzazFKZ2hKUVgyckZnOUdMLVlPazgyaDBkUVktWWNqX1ZTdG1ROGFrdnp4OHI4WHJSM21RX000OUxmeg?oc=5",
-   "fecha": "2026-11-20T22:59-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T00:06-03:00",
-   "url_original": "https://www.lanacion.com.ar/ideas/milei-contra-la-conjura-de-los-tibios-nid20112026/",
-   "revisada": true
-  },
-  {
-   "id": "a9ee4dc0aaba",
-   "titulo": "La suspensión de las PASO hizo explotar la interna entre Kicillof y Massa por las candidaturas de 2027",
-   "medio": "www.diariovoces.com.ar",
-   "medio_url": "https://www.diariovoces.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVTQ5ck9WdlgxdDZaNm9CWmxpc3E1N0tLQVFWQlVjTG5GVnhMdDdBYjNZamg3aC1YR1hhOGxSeDZiYXdYY05Kc19JVWROUVY1V2g3S1JQNy12MWtfOS1taG9pUU9aUDJQaGZoT1F1WEhVY1JZNlN1MnZSUXhfaEpYMmN4ZTRDa1ZkQzI4ZUZjWlBUaGV3TkxIRlBCYXV4R29QYll1QjdqcEdJYVZzYTZEMXA5emc1Q1JUUGVNMjBwRUIyNnkyMkJlaTFKdFdkaHdmV0xDZ0EybHFhbTQ?oc=5",
-   "fecha": "2026-11-20T22:53-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\""
-   ],
-   "visto": "2026-11-21T00:06-03:00",
-   "url_original": "https://www.diariovoces.com.ar/politica/la-suspension-de-las-paso-hizo-explotar-la-interna-entre-kicillof-y-massa-por-las-candidaturas-de-2027/",
    "revisada": true
   }
  ]
