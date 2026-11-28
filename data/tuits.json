@@ -1,13 +1,31 @@
 {
- "generado": "2026-11-27T21:09-03:00",
- "total": 83,
+ "generado": "2026-11-27T22:42-03:00",
+ "total": 84,
  "tuits": [
+  {
+   "id": "2126347787755286616",
+   "usuario": "Nacho_Pouiller",
+   "visto": "2026-11-27T22:42-03:00",
+   "url": "https://twitter.com/Nacho_Pouiller/status/2126347787755286616",
+   "citado_en": [
+    {
+     "medio": "www.diariovoces.com.ar",
+     "titulo": "El peronismo mantendrá las PASO bonaerenses: los candidatos de Kicillof, Massa y el “tapado” de Cristina Kirchner",
+     "nota_id": "206cd559b5c3"
+    }
+   ]
+  },
   {
    "id": "2126367882942800187",
    "usuario": "Kicillofok",
    "visto": "2026-11-27T20:15-03:00",
    "url": "https://twitter.com/Kicillofok/status/2126367882942800187",
    "citado_en": [
+    {
+     "medio": "Política Argentina",
+     "titulo": "El Gobierno bonaerense activó un plan de prevención ante El Niño",
+     "nota_id": "e5b77631a02b"
+    },
     {
      "medio": "Política Argentina",
      "titulo": "El Gobierno bonaerense activó un plan de prevención ante El Niño",
@@ -78,6 +96,11 @@
    "visto": "2026-11-27T18:17-03:00",
    "url": "https://twitter.com/ANDigitalOK/status/2126112969067307428",
    "citado_en": [
+    {
+     "medio": "ANDigital",
+     "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
+     "nota_id": "e88617bf7bb8"
+    },
     {
      "medio": "ANDigital",
      "titulo": "Cascallares respaldó la regulación de las apuestas online en la provincia de Buenos Aires",
