@@ -1,299 +1,82 @@
 {
- "desde": "2026-11-15",
- "hasta": "2026-11-21",
+ "desde": "2026-11-22",
+ "hasta": "2026-11-28",
  "claves": [
-  {
-   "texto": "El 17 de noviembre, Día de la Militancia, Sergio Massa encabezó en San Fernando un encuentro con gobernadores, intendentes y dirigentes del peronismo federal. Axel Kicillof no participó.",
-   "fuentes": [
-    "c40a9bde1f19",
-    "d99f46a2fadf",
-    "fe79e3c9dda8"
-   ]
-  },
-  {
-   "texto": "En ese acto, Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles candidatos presidenciales.",
-   "fuentes": [
-    "09f15e053b92",
-    "f928b613acde"
-   ]
-  },
-  {
-   "texto": "Cristina Kirchner respaldó la postulación del diputado Guillermo Michel para representar al bloque peronista de la Cámara de Diputados en el Consejo de la Magistratura.",
-   "fuentes": [
-    "54a52a66974c",
-    "d38e33357443"
-   ]
-  },
-  {
-   "texto": "Ante la posible suspensión de las PASO nacionales, según Infobae Kicillof busca sostenerlas en la provincia de Buenos Aires. Cecilia Moreau afirmó que, con o sin primarias, el peronismo irá unido a la elección.",
-   "fuentes": [
-    "b7aaa94b5efd",
-    "f1e3ab8cc762",
-    "c0d46adcdf12"
-   ]
-  },
-  {
-   "texto": "El Frente Renovador designó a Alejandro Deanes al frente del partido en Tierra del Fuego. Malena Galmarini respondió al ministro de Economía, Luis Caputo, por sus críticas al encuentro de San Fernando.",
-   "fuentes": [
-    "df24d520af64",
-    "58a9b1a6e736"
-   ]
-  }
+  {"texto": "El Senado dio media sanción a la reforma electoral que suspende las PASO. Sergio Massa advirtió que el Gobierno «se apura si celebra», porque todavía falta la votación en la Cámara de Diputados.", "fuentes": ["523fdbcb6555", "efe08b092cdd"]},
+  {"texto": "Según Infobae, Cristina Kirchner expuso su acuerdo con Sergio Massa mientras Axel Kicillof sigue un camino paralelo. Cristina y Máximo Kirchner desmintieron una frase contra el gobernador que le había atribuido Clarín.", "fuentes": ["2a31815b6e7d", "37b20e430bc8", "d61524d97436"]},
+  {"texto": "En Córdoba, Massa participó del cierre del foro «IA y políticas públicas» y anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre inteligencia artificial, empleo y producción.", "fuentes": ["df080cfd8645", "4cc1f381f26d"]},
+  {"texto": "Según una encuesta de Analogías publicada por El Destape, Axel Kicillof y Sergio Massa le ganarían a Javier Milei en un eventual balotaje, por 6 y 2,4 puntos respectivamente.", "fuentes": ["7d3ba4124022", "858a70771fd1"]},
+  {"texto": "La Cámara de Diputados bonaerense dio media sanción al proyecto de Ayelén Rasquetti para informar los cambios en el precio de los combustibles. En el Congreso, la oposición consiguió 11 billones de pesos para las universidades en el Presupuesto 2027.", "fuentes": ["c0a3d515f035", "b20f87a4ee03", "1d5567a825b4"]}
  ],
  "temas": [
-  {
-   "id": "san-fernando-militancia",
-   "titulo": "Día de la Militancia: Massa reunió al peronismo federal en San Fernando",
-   "resumen": "El encuentro del 17 de noviembre, organizado por el intendente Juan Andreotti, reunió a gobernadores, intendentes, legisladores y dirigentes sindicales. Axel Kicillof no participó. Massa mencionó a Gerardo Zamora, Sergio Uñac y Natalia de la Sota como posibles candidatos presidenciales y llamó a la unidad del peronismo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa",
-    "Juan Andreotti",
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "811788159b5e",
-    "314a5f3ad32e",
-    "d99f46a2fadf"
-   ],
-   "otras": [
-    "8091ed61475b",
-    "09f15e053b92",
-    "e9d352029514",
-    "c40a9bde1f19",
-    "2cf9128b97ff",
-    "8cfcd7bbc5dc",
-    "3937aec98656",
-    "fe79e3c9dda8",
-    "342c175ab7c4",
-    "e5d852a18677"
-   ]
-  },
-  {
-   "id": "michel-magistratura",
-   "titulo": "Guillermo Michel, al Consejo de la Magistratura con el respaldo de Cristina Kirchner",
-   "resumen": "Cristina Kirchner respaldó la postulación del diputado entrerriano para representar al bloque peronista de Diputados en el Consejo de la Magistratura. Distintos medios lo leyeron como un gesto de acercamiento de la expresidenta hacia Massa. Según Noticias Argentinas, al 19 de noviembre Diputados seguía sin definir a su cuarto representante en el Consejo.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Guillermo Michel",
-    "Sergio Massa"
-   ],
-   "principales": [
-    "54a52a66974c",
-    "2a18b20bf2e2",
-    "d38e33357443"
-   ],
-   "otras": [
-    "a80eb4792ac5",
-    "f650b7443d4b",
-    "733b5ae68096",
-    "2194e4636177",
-    "7573f8720ad6",
-    "771cd33ae848",
-    "76cb6ca6dd60",
-    "65750c4e76f5"
-   ]
-  },
-  {
-   "id": "paso-candidaturas",
-   "titulo": "PASO: el peronismo discute cómo definir candidaturas si se suspenden las primarias",
-   "resumen": "El Gobierno impulsa la suspensión de las PASO nacionales y, según Infobae, Kicillof busca sostenerlas en la provincia de Buenos Aires para negociar con Massa y Cristina Kirchner. Clarín describe una disputa por las candidaturas; según iProfesional e Informe Digital, Massa piensa en Natalia de la Sota o Gerardo Zamora para la fórmula. Tras el acto de San Fernando, Kicillof convocó a los intendentes a un acto de gestión y La Política Online registró gestos de unidad entre Kicillof, Máximo Kirchner y Massa.",
-   "tono": "mixto",
-   "dirigentes": [
-    "Sergio Massa",
-    "Natalia de la Sota"
-   ],
-   "principales": [
-    "369a1776d772",
-    "f1e3ab8cc762",
-    "7b0fa285eda0"
-   ],
-   "otras": [
-    "b7aaa94b5efd",
-    "57abd5fa3bb0",
-    "61fdfbf5e82c",
-    "ab00192983fb",
-    "885060004cce",
-    "852e224c9964",
-    "599f28e4fa54"
-   ]
-  },
-  {
-   "id": "dirigentes-unidad",
-   "titulo": "Los dirigentes del Frente Renovador, contra el cambio de reglas y por la unidad",
-   "resumen": "Sebastián Galmarini rechazó la eliminación de las PASO y las colectoras y anticipó que Milei no ganará en 2027. Cecilia Moreau afirmó que, con o sin primarias, el peronismo irá unido. Juan Andreotti pidió construir una amplia mayoría y ceder para derrotar al oficialismo, Guillermo Michel llamó a conformar un frente y Diego Giuliano defendió las PASO y respaldó a Massa.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sebastián Galmarini",
-    "Cecilia Moreau",
-    "Juan Andreotti",
-    "Guillermo Michel",
-    "Diego Giuliano"
-   ],
-   "principales": [
-    "31a499fab503",
-    "c0d46adcdf12",
-    "0e70d19446a0"
-   ],
-   "otras": [
-    "6f38226252b6",
-    "49ab884f4c7a",
-    "b559f17df80d",
-    "0a03457d6348",
-    "251a4cc992d5",
-    "ac2453b54d02",
-    "d683d483b2ff",
-    "94aeab784e66"
-   ]
-  },
-  {
-   "id": "fr-provincias",
-   "titulo": "El Frente Renovador amplía su estructura en las provincias",
-   "resumen": "Alejandro Deanes asumió la conducción del partido en Tierra del Fuego. En Chubut, el Frente Renovador quedó habilitado para participar de las elecciones de 2027. En Río Negro, el vicegobernador Pedro Pesatti, que estuvo junto a Massa en San Fernando, prepara su candidatura provincial.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Sergio Massa",
-    "Alejandro Deanes",
-    "Pedro Pesatti"
-   ],
-   "principales": [
-    "c852c18e0925",
-    "df24d520af64",
-    "d214658a0550"
-   ],
-   "otras": [
-    "d3c8b2afb477",
-    "c03b6a5adcc9",
-    "74f77a2e6bac",
-    "008d3387273c",
-    "01f465c92687",
-    "6aea9ebd62b5"
-   ]
-  },
-  {
-   "id": "malena-caputo",
-   "titulo": "Malena Galmarini le respondió a Caputo",
-   "resumen": "El ministro de Economía, Luis Caputo, criticó el encuentro de San Fernando. Malena Galmarini le respondió y defendió la unidad del peronismo. La respuesta fue reproducida por medios nacionales y provinciales.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Malena Galmarini"
-   ],
-   "principales": [
-    "58a9b1a6e736",
-    "0de036aa42ef",
-    "1f383501fd31"
-   ],
-   "otras": [
-    "28d584629e69",
-    "b08097338781",
-    "7ccd5be83dc0",
-    "1742bcade09a",
-    "d02c92e0b112",
-    "1bf0c3d95ee5"
-   ]
-  },
-  {
-   "id": "gestion-semana",
-   "titulo": "Gestión: escuelas, viviendas y oficios",
-   "resumen": "Juan Andreotti anunció la renovación de cinco escuelas y comenzó la obra de la nueva sede de la Universidad Nacional del Delta en San Fernando. Darío Golía presentó un sistema de alerta temprana escolar y firmó los convenios para construir 30 viviendas en Chacabuco. Pablo Garate destacó avances en vivienda en Tres Arroyos y Diego Giuliano entregó 800 diplomas de una escuela de oficios en Santa Fe.",
-   "tono": "positivo",
-   "dirigentes": [
-    "Juan Andreotti",
-    "Darío Golía",
-    "Pablo Garate",
-    "Diego Giuliano"
-   ],
-   "principales": [
-    "3423a4d75f90",
-    "1ff2862bedde",
-    "8b4a6999efbf"
-   ],
-   "otras": [
-    "11c080b93de5",
-    "99b8ed2f7d85",
-    "b24ed08fe17a"
-   ]
-  },
-  {
-   "id": "criticas-semana",
-   "titulo": "Las críticas de la semana",
-   "resumen": "Tribuna de Periodistas publicó notas sobre el escándalo de las SIRAS y sobre el perfil de Guillermo Michel. Aníbal Fernández criticó el acto de San Fernando y cuestionó la ausencia de Kicillof, y el dirigente de la CGT Cristian Jerónimo tomó distancia de Massa y reclamó una interna. Según una encuesta publicada por Clarín, Milei y Kicillof superan a Patricia Bullrich y a Massa.",
-   "tono": "negativo",
-   "dirigentes": [
-    "Sergio Massa",
-    "Guillermo Michel"
-   ],
-   "principales": [
-    "d4dabe3bfb7a",
-    "04d25096a0c7",
-    "39c18d10b233"
-   ],
-   "otras": [
-    "2ae8514e8912",
-    "96dae72c6b46",
-    "455cddb9e0f0"
-   ]
-  }
+  {"id": "semanal-paso", "titulo": "Suspensión de las PASO: media sanción en el Senado y advertencia de Massa",
+   "resumen": "El Senado dio media sanción a la reforma electoral que suspende las PASO, según La Noticia 1 y la diaria. En Cadena 3, Sergio Massa afirmó que el Gobierno «se apura si celebra» porque todavía falta la Cámara de Diputados, según La Política Online. Durante la semana, Infobae informó que el PJ busca consenso sobre cómo elegir a su candidato presidencial sin primarias, Cecilia Moreau afirmó que el peronismo irá unido con o sin PASO y Diario Voces informó que el peronismo mantendrá las PASO bonaerenses.",
+   "tono": "mixto", "dirigentes": ["Sergio Massa", "Cecilia Moreau"],
+   "principales": ["efe08b092cdd", "523fdbcb6555", "a068c6006d9f"],
+   "otras": ["9e6cdc0731ec", "50e3a076ad18", "3a2a0b2f663e", "206cd559b5c3", "62b225f7d14e", "43835b940246", "eff7dec79101", "79abdb1ea13f"]},
+  {"id": "semanal-cristina-massa", "titulo": "Cristina Kirchner, Massa y Kicillof: el reordenamiento del peronismo",
+   "resumen": "Según Infobae, Cristina Kirchner expuso su acuerdo con Sergio Massa mientras Axel Kicillof avanza por un camino paralelo. Clarín le atribuyó a la expresidenta la frase «Estoy harta de que Axel camine sobre mi cadáver», que Cristina y Máximo Kirchner desmintieron, según InfoPlatense. Fernando Galmarini afirmó que Cristina Kirchner respaldará una eventual candidatura presidencial de Massa en 2027, según Medios del Aire.",
+   "tono": "mixto", "dirigentes": ["Sergio Massa"],
+   "principales": ["2a31815b6e7d", "37b20e430bc8", "d61524d97436"],
+   "otras": ["67747e0ea668", "3c332641d61c", "3511f54d981a", "c69a845116d1", "56529e8cf2d7", "eaf633fe6535"]},
+  {"id": "semanal-massa-cordoba-ia", "titulo": "Massa propuso en Córdoba una agenda de inteligencia artificial para la producción y el empleo",
+   "resumen": "Sergio Massa participó en la FAMAF de la Universidad Nacional de Córdoba del cierre del foro «IA y políticas públicas» y planteó una agenda de inteligencia artificial al servicio de la producción y el empleo. Según Infobae, anticipó que la propuesta electoral del peronismo incluirá un capítulo sobre IA, empleo y producción. Letra P informó que le pidió al gobernador Martín Llaryora que se encolumne contra Javier Milei, y Perfil, que reclamó por el presupuesto universitario.",
+   "tono": "positivo", "dirigentes": ["Sergio Massa"],
+   "principales": ["df080cfd8645", "b3615104d63d", "4cc1f381f26d"],
+   "otras": ["770d31e03e17", "7d58d8615059", "a88f0e4c0172", "5ae2c6c95697", "eca96be88289", "12c656631b2c"]},
+  {"id": "semanal-encuestas", "titulo": "Encuestas: Kicillof y Massa, por delante de Milei en un eventual balotaje",
+   "resumen": "Según una encuesta de Analogías publicada por El Destape, en un eventual balotaje Axel Kicillof le ganaría a Javier Milei por 6 puntos y Sergio Massa por 2,4. Clarín informó sobre una encuesta que midió a ambos frente a Milei, que llegó a Cristina Kirchner y sacudió la interna del PJ. Perfil difundió además una encuesta cordobesa según la cual, entre Kicillof y Massa, solo uno le ganaría con claridad a Milei.",
+   "tono": "positivo", "dirigentes": ["Sergio Massa"],
+   "principales": ["7d3ba4124022", "d8b319c8e1b4", "136fceec3120"],
+   "otras": ["858a70771fd1", "7d4585eb2fe8", "e8ee1649e448", "3c18a39113b4"]},
+  {"id": "semanal-interna-kicillof", "titulo": "Interna con Kicillof: gobernadores, reelección de intendentes y críticas de Grabois",
+   "resumen": "La Nación informó que la interna del peronismo también se disputa en las provincias, donde Axel Kicillof y Sergio Massa buscan sumar gobernadores de cara a 2027. Según Primera Página, el gobernador quiere habilitar la reelección indefinida de intendentes y Massa se opone. Mientras Kicillof encabezaba un acto con intendentes en La Plata, Alexis Guerrera buscó tender puentes, según La Noticia 1; en tanto, Juan Grabois calificó como «una falta de respeto a la memoria histórica» la imagen de Perón generada con inteligencia artificial que se usó en el acto de Massa, según La Noticia Web.",
+   "tono": "mixto", "dirigentes": ["Sergio Massa", "Alexis Guerrera"],
+   "principales": ["c94454a76024", "839d08e09051", "91f1f87bb1d4"],
+   "otras": ["0937299e3f07", "e3b6d79d8e28", "c77ba61bcdaa", "3282e1905aad", "cd87041c2b62"]},
+  {"id": "semanal-respaldos-massa", "titulo": "Respaldos a Massa rumbo a 2027",
+   "resumen": "El intendente de Villarino, Carlos Bevilacqua, respaldó a Sergio Massa para 2027 y pidió una fórmula que integre conurbano e interior, según Flipr.news y elsello.info, y Mario Giacobbe lo definió como «el mejor candidato a presidente que tiene el peronismo», según Letra P. Silvina García Larraburu se reunió con Massa y lo invitó a Bariloche, según Bache3000, y en Misiones Cacho Bárbaro anticipó que lo acompañará en 2027, según MisionesOnline. El gobernador de La Rioja, Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en la Ciudad de Buenos Aires, según Fenix951.",
+   "tono": "positivo", "dirigentes": ["Sergio Massa"],
+   "principales": ["133816723c74", "0886346b6fa6", "a7a6edbd8d16"],
+   "otras": ["a207ef31d5a3", "59e7003d429c", "e558699ac41e", "470e60bea70a", "2f5f215587ee", "d64309f75c82"]},
+  {"id": "semanal-presupuesto", "titulo": "Presupuesto 2027: fondos para universidades y planteos de los diputados del FR",
+   "resumen": "En el debate del Presupuesto 2027 en la Cámara de Diputados, la oposición impuso cambios y consiguió 11 billones de pesos para las universidades nacionales, según Radio LV11 y Border Periodismo; Infobae informó que el Gobierno buscará revertir ese aumento en el Senado. Guillermo Michel explicó su voto en contra del proyecto, según 0343.com.ar, y Diego Giuliano cuestionó la falta de fondos para Santa Fe, según La Capital. Cecilia Moreau exigió partidas específicas para discapacidad y salud, según Infobrisas, y criticó el rechazo al proyecto de endeudamiento familiar, según El Intransigente.",
+   "tono": "mixto", "dirigentes": ["Guillermo Michel", "Diego Giuliano", "Cecilia Moreau"],
+   "principales": ["1d5567a825b4", "d4e3ff66af85", "8d1967c5c22c"],
+   "otras": ["9437ed5e6679", "3bebba8d5d8d", "2c224417cd7b", "96a852c72de4", "52a8fbcc64ac"]},
+  {"id": "semanal-combustibles", "titulo": "Combustibles: media sanción al proyecto de Rasquetti sobre aviso de aumentos",
+   "resumen": "La Cámara de Diputados bonaerense dio media sanción al proyecto de Ayelén Rasquetti para informar los cambios en el precio de los combustibles, según Flipr.news y Provincia Noticias. La Nación había informado que la iniciativa, que obliga a anunciar con antelación las subas en los surtidores, enfrenta a Sergio Massa con las petroleras. Rasquetti defendió el proyecto y afirmó que las petroleras «le roban al consumidor», según La Noticia 1.",
+   "tono": "positivo", "dirigentes": ["Ayelén Rasquetti", "Sergio Massa"],
+   "principales": ["c0a3d515f035", "f33a329a1cd8", "3c633c8f08a4"],
+   "otras": ["5cad66ac8660", "1db9e02ec4bf", "b20f87a4ee03", "fceb7a7fd705"]},
+  {"id": "semanal-ludopatia", "titulo": "Ludopatía: Micaela Morán celebró la ley de prevención",
+   "resumen": "La exdiputada Micaela Morán celebró la ley de prevención de la ludopatía y regulación de las apuestas online, surgida de su proyecto, según Parlamentario, La Noticia 1 e InfoBAN. En el debate sobre apuestas online en la Cámara de Diputados bonaerense, Rubén Eslaiman mantuvo un enfrentamiento con el diputado del PRO Rovello, según Código Baires, La Noticia 1 y Flipr.news. El Frente Renovador bonaerense impulsa además la creación de una línea gratuita de asistencia para casos de ludopatía infantil, según Cronos Noticias y Flipr.news.",
+   "tono": "positivo", "dirigentes": ["Micaela Morán", "Rubén Eslaiman"],
+   "principales": ["ab9ec5e09f26", "f2ad3f04a162", "bd8af13853f3"],
+   "otras": ["4381b5391dae", "a25e326b8662", "ba5f3426e5e5", "3ce9c78f3cd0", "9377dc2c0952", "416e7dcd404e"]},
+  {"id": "semanal-tigre", "titulo": "Tigre: Malena Galmarini evalúa volver a ser candidata",
+   "resumen": "Malena Galmarini cuestionó la gestión del intendente Julio Zamora, llamó a «recuperar el municipio» y dijo que está pensando «seriamente» en volver a ser candidata a intendenta de Tigre, según InfoBAN y NorteOnline. El Concejo Deliberante aprobó las ordenanzas preparatorias fiscal e impositiva 2027 con los votos del oficialismo y La Libertad Avanza y el rechazo del bloque del Frente Renovador, según La Noticia Web. Zamora, por su parte, afirmó que Axel Kicillof «es la mejor alternativa», según Urgente24.",
+   "tono": "mixto", "dirigentes": ["Malena Galmarini"],
+   "principales": ["36b249a73a0a", "7643c5fbd10c", "3841c9e1e28c"],
+   "otras": ["134ae93e196d", "4eed8dada59f", "5040c4b522e8", "ef683e736be4", "262758c5b3ed", "4e1a3dfd4070"]}
  ],
  "redes": [
-  {
-   "url": "https://x.com/SergioMassa/status/2123517703826612429",
-   "autor": "@SergioMassa",
-   "nota": "Sergio Massa destacó el discurso de Juan Andreotti en el Día del Militante."
-  },
-  {
-   "tuit_id": "2123392418686828999",
-   "nota": "La respuesta de Malena Galmarini a Caputo."
-  },
-  {
-   "url": "https://x.com/FrenteRenovador/status/2123099256861151520",
-   "autor": "@FrenteRenovador",
-   "nota": "El encuentro de San Fernando por el Día de la Militancia."
-  },
-  {
-   "url": "https://x.com/ceciliamoreauok/status/2123599310327799987",
-   "autor": "@ceciliamoreauok",
-   "nota": "Con o sin PASO, el peronismo irá unido."
-  },
-  {
-   "url": "https://x.com/SebasGalmarini/status/2123365746730229760",
-   "autor": "@SebasGalmarini",
-   "nota": "Sebastián Galmarini, contra la suspensión de las PASO."
-  },
-  {
-   "url": "https://x.com/MichelGuilleOK/status/2123913310810579161",
-   "autor": "@MichelGuilleOK",
-   "nota": "Amparo por las rutas nacionales de Entre Ríos."
-  },
-  {
-   "url": "https://x.com/marinadorotea/status/2123944776139428350",
-   "autor": "@marinadorotea",
-   "nota": "Marina Salzmann, sobre el transporte en el oeste."
-  },
-  {
-   "url": "https://x.com/felipemromeroo/status/2123593380718330190",
-   "autor": "@felipemromeroo",
-   "nota": "Felipe Romero, sobre la formación de militantes."
-  }
+  {"url": "https://x.com/FrenteRenovador/status/2126429706740179064", "autor": "@FrenteRenovador", "nota": "Sobre la visita de Sergio Massa a Córdoba y el financiamiento de la universidad, la ciencia y la tecnología."},
+  {"url": "https://x.com/FrenteRenovador/status/2125681706858365306", "autor": "@FrenteRenovador", "nota": "Sobre la recesión técnica informada por el INDEC."},
+  {"url": "https://x.com/MichelGuilleOK/status/2125331169990398329", "autor": "@MichelGuilleOK", "nota": "Guillermo Michel, sobre la recesión."},
+  {"url": "https://x.com/ceciliamoreauok/status/2125772741248753906", "autor": "@ceciliamoreauok", "nota": "Cecilia Moreau reclamó partidas para la ley de Discapacidad en el Presupuesto 2027."},
+  {"url": "https://x.com/marinadorotea/status/2126202273453777074", "autor": "@marinadorotea", "nota": "La diputada Marina Dorotea Salzmann, sobre los fondos para las universidades en el Presupuesto 2027."},
+  {"url": "https://x.com/DiegoGiuliano/status/2126104990582534166", "autor": "@DiegoGiuliano", "nota": "Diego Giuliano, sobre los recursos de Santa Fe en el Presupuesto 2027."},
+  {"url": "https://x.com/RubenEslaiman/status/2126004798709199260", "autor": "@RubenEslaiman", "nota": "Rubén Eslaiman, sobre la aprobación del proyecto sobre ludopatía en Diputados bonaerense."},
+  {"url": "https://x.com/felipemromeroo/status/2125753285717930443", "autor": "@felipemromeroo", "nota": "Felipe Romero recibió al gobernador Ricardo Quintela en el ciclo de formación política de la juventud del FR."}
  ],
  "entrevistas": [
-  {
-   "video_id": "HbpWLzHNpN8"
-  },
-  {
-   "video_id": "e57KCvZktrE"
-  },
-  {
-   "video_id": "OBD695QwnYw"
-  },
-  {
-   "video_id": "LccxmZvOYlM"
-  },
-  {
-   "video_id": "n4F54sw9GJU"
-  },
-  {
-   "video_id": "emLIIIp8hDU"
-  }
+  {"video_id": "g6M2f6m3bEA"},
+  {"video_id": "OBD695QwnYw", "titulo": "\"Estamos en emergencia política\", dijo el diputado nacional Diego Giuliano 💬", "canal": "Aire de Santa Fe"},
+  {"video_id": "PZ4kI9wtH2Y", "titulo": "Diego Giuliano sobre las PASO: “Milei resuelve las candidaturas en un ascensor”", "canal": "RADIO REALPOLITIK FM"},
+  {"video_id": "ouHwErVCoxo"},
+  {"video_id": "JxqoyF4ZGYg"},
+  {"video_id": "H2lxMFOIWbA"},
+  {"video_id": "HfD6qDT0OYo"}
  ]
 }

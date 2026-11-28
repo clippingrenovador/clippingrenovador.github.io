@@ -1,6 +1,11 @@
 {
  "ediciones": [
   {
+   "id": "2026-11-28",
+   "temas": 10,
+   "titulo": "Semana del 22 de noviembre al 28 de noviembre"
+  },
+  {
    "id": "2026-11-21",
    "temas": 8,
    "titulo": "Semana del 15 de noviembre al 21 de noviembre"
