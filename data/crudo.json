@@ -1,35 +1,67 @@
 {
- "generado": "2026-11-28T00:19-03:00",
- "total": 721,
- "nuevas_ultima_corrida": 0,
- "errores": [
-  "\"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "\"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "massismo: HTTP Error 503: Service Unavailable",
-  "\"Malena Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Sebastián Galmarini\": HTTP Error 503: Service Unavailable",
-  "\"Cecilia Moreau\": HTTP Error 503: Service Unavailable",
-  "\"Feli Romero\": HTTP Error 503: Service Unavailable",
-  "\"Jóvenes FR\": HTTP Error 503: Service Unavailable",
-  "\"Juventud del Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Sergio Massa\": HTTP Error 503: Service Unavailable",
-  "encuesta \"Frente Renovador\": HTTP Error 503: Service Unavailable",
-  "\"Diego Giuliano\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Katia Blanc\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Juan Malpeli\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Roberto Vázquez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Javier Gastón\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Ramiro Gutiérrez\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Micaela Morán\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Germán Di Cesare\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable",
-  "\"Felipe Romero\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense): HTTP Error 503: Service Unavailable"
- ],
+ "generado": "2026-11-28T01:24-03:00",
+ "total": 728,
+ "nuevas_ultima_corrida": 39,
+ "errores": [],
  "notas": [
+  {
+   "id": "f75255a7ed91",
+   "titulo": "Desde Chacabuco Golía hizo un guiño hacia el año electoral",
+   "medio": "Chacabuquero",
+   "medio_url": "https://www.chacabuquero.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeW1fXy03dWdCcHhZOWkybDhEcWs2NEZQanJJNmN1bVllX0xpMlJ0SjZ2aEF0VS03dDg5V1gtZzJfUm5TQm41SXFkNklHZ1QxVGVMalVnRmh6N0hWc0JFOUotem5vaXlxTlVKSGZmemU5M0Y0MkpRaEt6QVZuLXNZR1JULWdTSDA?oc=5",
+   "fecha": "2026-11-28T00:22-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Darío Golía\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://www.chacabuquero.com.ar/2026/11/desde-chacabuco-golia-hizo-un-guino.html",
+   "revisada": true
+  },
+  {
+   "id": "75d6ccf6d063",
+   "titulo": "Oposición peronista y radical debatió agenda común para derrotar a Milei en 2027",
+   "medio": "Prensa Libre Online",
+   "medio_url": "https://prensalibreonline.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMURkSzJTQkI1QjhTQWJ5NURUdkx1dXBjZWtSN05WX055aTFXNDhLdEN0Z0k5c0JHVGJWdlFQeUFsRElianlWYXp1di16Y1BMZkxmdHBtMUNnVl9aaW1hYnNkM2lCcmNLQjRzZFYwaGIxeVI2RnV1eHRBYkxFOXJ5WkV5YWNNdFlSa0tHQmJMaUY1NXRNaG90T3NoWFBKM0o3RGZaYkx0Q3l5NUxiZy1YNjBUNFE?oc=5",
+   "fecha": "2026-11-28T00:20-03:00",
+   "busquedas": [
+    "massismo",
+    "\"Guillermo Michel\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://prensalibreonline.com.ar/politica/oposicion-peronista-y-radical-debatio-agenda-comun-para-derrotar-a-milei",
+   "revisada": true
+  },
+  {
+   "id": "31fe3878be2a",
+   "titulo": "Oposición se une para crear una agenda común contra Milei en las elecciones de 2027",
+   "medio": "Compacto Diario",
+   "medio_url": "https://compactodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0R6NTM5V3BHNTZPY2V1dTV3Z19yWGt1dHl3d0J3SktEek9QZ0xIZE5pc0tQMnl5V3ZNUFJEcVctWEdkbUM2ZDdZX011V1NGTDIwTENQNDJDaEU2SERjYXhPT3lRdHU5ZlNFUXRzRURUM2FpVS1EME9UMWVjdW4xTXBpNHZFNk9KU1BxVlJTNV9vM3EwdmVuSnRhelZQSS01VEJHOHhJNUhhYUdIbVF4c3dTUTdMTGlSZVRvTtIBvAFBVV95cUxNM0R6NTM5V3BHNTZPY2V1dTV3Z19yWGt1dHl3d0J3SktEek9QZ0xIZE5pc0tQMnl5V3ZNUFJEcVctWEdkbUM2ZDdZX011V1NGTDIwTENQNDJDaEU2SERjYXhPT3lRdHU5ZlNFUXRzRURUM2FpVS1EME9UMWVjdW4xTXBpNHZFNk9KU1BxVlJTNV9vM3EwdmVuSnRhelZQSS01VEJHOHhJNUhhYUdIbVF4c3dTUTdMTGlSZVRvTg?oc=5",
+   "fecha": "2026-11-27T23:18-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://compactodiario.com.ar/oposicion-se-une-para-crear-una-agenda-comun-contra-milei-en-las-elecciones-de-2027/?amp=1",
+   "revisada": true
+  },
+  {
+   "id": "6df130903ab8",
+   "titulo": "La oposición analizó la posible construcción de una agenda común para derrotar a Milei en las elecciones",
+   "medio": "La Nación",
+   "medio_url": "https://www.lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaEY2bGUxWjduLXl6ck5DbVkwQjhpMFIyU0dWNTlGdE9PbWstekxsVjJ3VjhyNXZ1SktrQkFPdEJWVFdPdi14dGRuZGc2SU1KRndXUDdsaXlOeG81UENoSGMxLWw0ZFAtTTBtYzdLUTNZcWQwUkUzZHJJS0ttWWNnS1J4UW1DVnZTYno5dmNCLUZmLUh1bndYM21qcUdVNmh0TER5TXE0cnotTjVQa2pVc21WRldsU0M5UTZpcWQtb21vMmY0RnVYM1FZdEJEelpRY3RlM1NXV0xrSG8?oc=5",
+   "fecha": "2026-11-27T22:44-03:00",
+   "busquedas": [
+    "massismo"
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://www.lanacion.com.ar/politica/la-oposicion-analizo-la-posible-construccion-de-una-agenda-comun-para-derrotar-a-milei-en-las-nid27112026/",
+   "revisada": true
+  },
   {
    "id": "206cd559b5c3",
    "titulo": "El peronismo mantendrá las PASO bonaerenses: los candidatos de Kicillof, Massa y el “tapado” de Cristina Kirchner",
@@ -38,7 +70,9 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ1U3RjE0UldkZDVFc2poOVFIRXRlVG5CNXRFTmh5c2xtMUdjLWZpNVdwdE42Y0g5NDl0ZlFkazlQVUk5V3Vob0Jid3g4SDR5VkhOWG1BREFqYWp0V0ZqdGRtbHNoeVhiRlhDRFRXUEhBTFF1cnBheTkwbGstUEd0bzlHNUJienZreEY3aGFVTUdXTV9QcmlyczNlWGJYYW9sMVFCNXRWZEg3b1E0RlhPS1FXSFczMjZ3bE9ySHJweUtQSFBXZHB0WW1SVVczc2JzUEM2WXhCQWdUd3dLOFpscnJaZXE?oc=5",
    "fecha": "2026-11-27T22:38-03:00",
    "busquedas": [
-    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+    "\"Juan Andreotti\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)",
+    "\"Sergio Massa\"",
+    "\"Sebastián Galmarini\""
    ],
    "visto": "2026-11-27T22:42-03:00",
    "url_original": "https://www.diariovoces.com.ar/politica/el-peronismo-mantendra-las-paso-bonaerenses-los-candidatos-de-kicillof-massa-y-el-tapado-de-cristina-kirchner/",
@@ -160,6 +194,21 @@
    "revisada": true
   },
   {
+   "id": "76bb175a59b5",
+   "titulo": "El gobernador bonaerense Kicillof sin respuesta a su base y una encerrona de cara al 2027",
+   "medio": "Agencia NOVA",
+   "medio_url": "https://www.agencianova.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9naUFoZURBZ1Vxa0hESmRJUWlmY0ctTlI2TTFGd0wta2d5VjRHeGsyUnNnaHpYcUE4cUI1dGtvYzZBZklDdHliZENwNVBIaVllVkhkaXE2b1pWLUFWeWEtbWt5QzdGdFFkc2ZRYTZ6VXFkOGJUVXhTdllLM0pUSmM?oc=5",
+   "fecha": "2026-11-27T18:49-03:00",
+   "busquedas": [
+    "\"Frente Renovador\"",
+    "\"Rubén Eslaiman\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://www.agencianova.com/nota.asp?n=2026_11_28&id=175867&id_tiponota=30",
+   "revisada": true
+  },
+  {
    "id": "902e49c3e358",
    "titulo": "Nueva encuesta electoral: piso alto para Milei, peronismo al alza y la clave Bullrich-PRO",
    "medio": "iProfesional",
@@ -200,6 +249,34 @@
    ],
    "visto": "2026-11-27T19:16-03:00",
    "url_original": "https://eduardogerman.com/2026/11/27/panorama-politico-quintela-2027-aspiracion-presidencial-gira-federal/",
+   "revisada": true
+  },
+  {
+   "id": "4f5ff1512eb1",
+   "titulo": "Garate recibió a Kicillof, entregó 120 viviendas y dejó abierta la puerta a la reelección",
+   "medio": "Codigo Baires",
+   "medio_url": "https://www.codigobaires.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWE5akN1SHFBeUZ1LWxFcVU4ZzNsZ3FSZWtxTnAyMzRfbmZ3S3g3UE5INkltaGw0Z1lnbk1XaUdEMC1CSG9LMzB5a0VlRHZ1ZS1PdktNbC1TSWRIZUo0eGNCRUdydEgyQk9DeWtTSko3b09feF9ZS1hXVWRBYkhsR21XRnB2LTlabWtOd1hxR01mbndnVmZELW1XX1RzbFc4V2NHRmpoeFR4QnMtNnFVVDZIN2VHUjdYTkpMYWdLcnVSNmZRdTB5M3hZbEFwZzYwaHNsSW1B0gHaAUFVX3lxTFBYdnFJclA3NHZLWndIOXBCX0ZyYU1Ga3JncGRsMndQX1ZJZkZJMFd5ZlotNkxFaEVYSHlObUhnTjFXclExVFRUa2V4M1VFdnd4U0FlMjlaRkdVaHFMSjdJTDlpNjlyQ2QwSTFkVWJ3eWk3NDdyUjdRTzRBUERkRTFkMFhhN3NRYmphM043WWMtc1huMmxSSS1rSlpJczNxTDEwUkY3NzZNUTRlcmZDTTk4dHpCcGdGd3piT3E1QUoyMWY4NEVJNFlZYWgwN1dobDBEaGh3bTNIeFpn?oc=5",
+   "fecha": "2026-11-27T18:13-03:00",
+   "busquedas": [
+    "\"Pablo Garate\" (Massa OR \"Frente Renovador\" OR peronismo OR diputado OR diputada OR intendente OR concejal OR legislador OR bonaerense)"
+   ],
+   "visto": "2026-11-28T01:22-03:00",
+   "url_original": "https://www.codigobaires.com.ar/2026-11-27/garate-recibio-a-kicillof-entrego-120-viviendas-y-dejo-abierta-la-puerta-a-la-reeleccion-252114/",
+   "revisada": true
+  },
+  {
+   "id": "937e61934de8",
+   "titulo": "Extraordinarias: las reformas que Milei quiere aprobar antes de fin de año",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1g5Y2xoTGNlWUdwbUFRcThscEhYZWlyNXNzeWhTOEdSYXNfdE1hdzhEN2FTUjhfN3RleWlQT1BCZWh6M0lIZkFVMjQxTzlKdmxtQVY5bE5kcU1tU245NmFsYXVjZjlPU21OenVWcW12dlF1eDZmQTBUOFB3RlAxUlFQSEVGcmhONS1ZeVB0OVZjTXZkczZQLUg0RUdJaFh2NmhubzhpcTJXc0Et0gGkAUFVX3lxTE54dnJiWnU3dlVnYWxkd01FbnlEd3ZKVUlLUkNFZE0yWGczQWJRNE9kaDAyMlR1Rk91U21OcF93QkVKQjRpWEcydnFCSGdZVm1EMnJzTlk0aDdhV19RUGY5bmQzR2d4SmZzVUIwM1Z3cnFjR2I1VUd6ZDRVYzd0NTRqVkQtM0tITWcyZFRhV2x3YkVpWC1fTkZaZ3VCRWlyV2lKWW9i?oc=5",
+   "fecha": "2026-11-27T18:01-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603826/milei-sesiones-extraordinarias-diciembre-paso-presupuesto-2027",
    "revisada": true
   },
   {
@@ -267,7 +344,8 @@
    "fecha": "2026-11-27T17:08-03:00",
    "busquedas": [
     "\"Sergio Massa\"",
-    "\"Frente Renovador\""
+    "\"Frente Renovador\"",
+    "massismo"
    ],
    "visto": "2026-11-27T22:41-03:00",
    "url_original": "https://grupolaprovincia.com/contenido/603824/camino-al-2027-kicillof-suma-un-aliado-con-cuentas-pendientes-con-massa",
@@ -359,6 +437,20 @@
    ],
    "visto": "2026-11-27T16:22-03:00",
    "url_original": "https://www.tiempodesanjuan.com/el-pais/massa-paso-por-cordoba-y-busco-acercar-a-llaryora-a-un-frente-contra-milei_1795806498",
+   "revisada": true
+  },
+  {
+   "id": "ae7451570689",
+   "titulo": "Alejandro Crespo: \"Madanes Quintanilla nos quiere expulsar de FATE por su negocio de baterías de litio\"",
+   "medio": "InfoBAN",
+   "medio_url": "https://www.infoban.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMF9nSmgxbW9tNTEzSkxEeXQ5YXVHdkxwX0p0VVZWT3J0d3V4YkExZ19pbXZyXzV3T19TcV9ZdGoyaFlrV1c1aFVSaHZ1TVQ5RmdkdndUUXpkaV9SUkVOTmI4YTRfdS1mT1prcVdhaWxYaTl4V2Q2VDhjeElwTjJnR2lCcTZIaEYzdFJqanhPN2ZmSGZqWlFmUGxET1JlYnVpSkVnTDFFX1VTNFA2MmdmeVlucDNzeWpiOEFBbWZuOFBFd0NRM0d6Rkczb0NyU3d0TmZJVW1n?oc=5",
+   "fecha": "2026-11-27T15:39-03:00",
+   "busquedas": [
+    "\"Malena Galmarini\""
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://www.infoban.com.ar/27/11/2026/alejandro-crespo-madanes-quintanilla-nos-quiere-expulsar-de-fate-por-su-negocio-de-baterias-de-litio/",
    "revisada": true
   },
   {
@@ -460,6 +552,20 @@
    ],
    "visto": "2026-11-27T15:09-03:00",
    "url_original": "https://sanfernandonuestro.com.ar/andreotti-participo-en-la-plata-de-la-entrega-de-equipamiento-para-dar-respuesta-al-fenomeno-de-el-nino/",
+   "revisada": true
+  },
+  {
+   "id": "6152d37592b0",
+   "titulo": "Nardini se reunió con Quintela para intercambiar experiencias sobre los desafíos de gestión",
+   "medio": "Grupo La Provincia",
+   "medio_url": "https://grupolaprovincia.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1JyeGdtZ2lLak81N1UyZFJ4QXVJNll0cVc3WW1BNUYyY3pLM1p0RExxRWlXVXFpM0RIUzBHOWFMSk1ndy1LalI1NUFDS0Z0N3RyLUlTTHo3V1hvS0p6YW1OWGZXZUlDY0VXY0VOcV9oamhuV19uRHByajN6Q05CanF1OUMwRjkxdVRObGdPelhCaEFHb1NJQUZuU0wzeFdkRllTOXB1bEVNZ3RSNkhQTUVheWxNdXBubUxpOVVxelNlMlhZ0gG8AUFVX3lxTE5VNy0tQWJVT0RNeGlaRG5iY193aW92S2o2MFkwdk1WVV8tLWd6SkVoUzFOeEI2eGhSNDBtOEJmaTk0enhHckNCVjd4UW9Za2l5MjJYSDJTNVF6NWJacGk1bVVnclR2Nkthalo0MmNDZmNJU2Q5QTdxNFZOWDRGZHhLZGZYWmdPRGp1RHNINTBfTXZIUFRRYnpJa1BidVRYelBvbFZMblgwUlhneEtkT19uR2c5VFhRN2N2aTRa?oc=5",
+   "fecha": "2026-11-27T14:17-03:00",
+   "busquedas": [
+    "\"Sergio Massa\""
+   ],
+   "visto": "2026-11-28T01:21-03:00",
+   "url_original": "https://grupolaprovincia.com/contenido/603809/nardini-se-reunio-con-quintela-para-intercambiar-experiencias-sobre-los-desafios",
    "revisada": true
   },
   {
@@ -684,7 +790,8 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDNSTzR0OXJjdmhlN01IYXBCbkVKZG83dWE4c3IwR2QxeTJiNGNYYktiNDNuVVI2T2E4ZzYxV19FSWFNeE1EcDhJZWFSU1BxV3k4MV9URktySkxZOC1LTHBPOFNNMHdnNUhYZWRhWDhQeU9wcjZZVzJHWTF6ZTdOUEhxQU1rX0pQSEJvR25NTDF4MDFKT1IyWElmNXJjNzZFcjdoeXRfZ2ZPZw?oc=5",
    "fecha": "2026-11-27T10:56-03:00",
    "busquedas": [
-    "\"Sergio Massa\""
+    "\"Sergio Massa\"",
+    "encuesta \"Sergio Massa\""
    ],
    "visto": "2026-11-27T12:19-03:00",
    "url_original": "https://www.lv12.com.ar/oficialismo/vemos-un-escenario-paridad-el-oficialismo-y-un-peronismo-unido-n207269",
@@ -10429,37 +10536,6 @@
    ],
    "visto": "2026-11-21T02:16-03:00",
    "url_original": "https://www.eldia.com/politica-y-economia/la-oposicion-cree-que-kicillof-va-a-mantener-las-paso-en-la-provincia-politica-y-economia_1795236768",
-   "revisada": true
-  },
-  {
-   "id": "705959ccc16f",
-   "titulo": "El peronismo en crisis: un retorno incierto y la lucha por la supervivencia",
-   "medio": "Compacto Diario",
-   "medio_url": "https://compactodiario.com.ar",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWdBVlJrbTVTTDhYZXhnMU9NN3ZkWkxrRklWckRxdFY4M29ib0huYzhVUlhrZTdhVVFzU0FsdGNhbWd3SDE0S1VvVldSVkdYaEZ5TFpZbWhOQi1jLXFuYVFjU2M1SjBreUE3OFVMMTNvMXNkSllnZGkwQXk4NlIzb3ZQYnBDZWhjbktxYkNoVlN2aWx6c29VYnp2UXl6QzJnNHlxTG52RHDSAagBQVVfeXFMUHFnQVZSa201U0w4WGV4ZzFPTTd2ZFpMa0ZJVnJEcXRWODNvYm9IbmM4VVJYa2U3YVVRc1NBbHRjYW1nd0gxNEtVb1ZXUlZHWGhGeUxaWW1oTkItYy1xbmFRY1NjNUowa3lBNzhVTDEzbzFzZEpZZ2RpMEF5ODZSM292UGJwQ2VoY25LcWJDaFZTdmlsenNvVWJ6dlF5ekMyZzR5cUxudkRw?oc=5",
-   "fecha": "2026-11-21T01:18-03:00",
-   "busquedas": [
-    "\"Sergio Massa\""
-   ],
-   "visto": "2026-11-21T03:14-03:00",
-   "url_original": "https://compactodiario.com.ar/el-peronismo-en-crisis-un-retorno-incierto-y-la-lucha-por-la-supervivencia/",
-   "revisada": true
-  },
-  {
-   "id": "8efdbf702e31",
-   "titulo": "Interna del PJ: Kicillof planea mantener las PASO bonaerenses",
-   "medio": "Perfil",
-   "medio_url": "https://www.perfil.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNVY1dmpUSDJzQzFiZDhvUS16REQwYVZDZWc5OXNQMk91MVMweHBweVdIT0ZHS2kxbVVydEhqWlNKNDkwck5oYjY3U0ZNWHE4ZnZnVzFCakVyLUtRUElEczR4X1lEdnFrZ0g5a1d6LUdXYVoyRF8waWZEdk5xYXF0MXJXTTcyTFpvYVBlc0pTaVIwUnAtekx3YWRFdWF0NkN0YmN3NGtDYi0?oc=5",
-   "fecha": "2026-11-21T00:56-03:00",
-   "busquedas": [
-    "\"Sergio Massa\"",
-    "\"Frente Renovador\"",
-    "massismo",
-    "\"Cecilia Moreau\""
-   ],
-   "visto": "2026-11-21T07:08-03:00",
-   "url_original": "https://www.perfil.com/politica/interna-del-pj-kicillof-planea-mantener-las-paso-bonaerenses-aM3Ol0k1FqKD",
    "revisada": true
   }
  ]
